@@ -1,0 +1,33 @@
+Lawmaker: Military vulnerable to cyber-terrorism
+Telegraph Herald (Dubuque, IA)
+March 8, 1999, Monday
+
+
+Copyright 1999, Telegraph-Herald
+Section: National/World; Pg. a 8
+Length: 501 words
+Byline: Associated Press
+Body
+
+
+Attack?: In comparison, the Y2K bug is 'laughable'
+WASHINGTON (AP) - The Year 2000 computer problem is a "piece of cake" compared with the challenge of safeguarding the Pentagon's computer network against an attack by high-tech terrorists or a rogue nation, says the head of a House Armed Services panel.
+Rep. Curt Weldon, R-Pa., chairman of the subcommittee on research and development, said a recent episode in which computer hackers were able to break into the network through the Internet in a new fashion only underscores the problem.
+The Defense Department says it was able to stop the latest episode of computer hacking. It said the intruders did not penetrate the "closed" part of the network and thus were not able to access any classified material.
+But Weldon said Friday, "I would be shocked and surprised" if the Pentagon had been successful in thwarting the recent efforts to break into the network.
+Deputy Defense Secretary John Hamre gave a closed-door briefing to House members last week regarding efforts to hack into the Pentagon's computer system.
+Congressional and administration officials, speaking on condition of anonymity, said Hamre told the lawmakers that a new, potentially more damaging method of penetrating the Pentagon's computer system had been detected.
+A military computer server near San Antonio was probed for several days in January by hackers who entered the system through an overseas site on the Internet, the sources said. The intrusions were detected by the Naval Surface Warfare Center in Dahlgren, Va.
+The new method for intruding "is larger and much harder to understand" than previous assaults by hackers, Weldon said.
+"I know they have made progress" in coming up with better surveillance systems and programs, Weldon said. "The frustration I have is I don't think the military is prepared to deal with this in the way that we have to in the next century."
+Weldon called for a full-scale effort to find innovative ways to safeguard the computer network.
+Otherwise, he suggested that the first war "of the 21st century is going to be an attack we don't even know about until it's under way."
+He said the amount of attention given to the Year 2000 computer problem is "laughable." Compared with the problem of safeguarding the Pentagon's computers, "the Y2K problem is a piece of cake. It's identified, and you know how to deal with it," Weldon said.
+Across the Capitol, former government officials and defense experts said an attack on critical information infrastructures was the most immediate national security threat facing the United States.
+Robert Ellsworth, a former deputy defense secretary, told the Senate Armed Services Committee's new panel on emerging threats and capabilities that the systems at risk include those involving medical services, electric power generation, telecommunications, banking and finance and oil and gas production.
+"This is the most important, most compelling danger and one to which we should apply our resources immediately," Ellsworth said.
+
+Load-Date: March 9, 1999
+
+
+End of Document

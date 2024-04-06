@@ -1,0 +1,33 @@
+Cyber-terrorism called real threat
+Deseret News (Salt Lake City)
+February 24, 2000, Thursday
+
+
+Copyright 2000 The Deseret News Publishing Co.
+Section: BUSINESS;
+Length: 553 words
+Byline: By Lee DavidsonDeseret News Washington correspondent
+Body
+
+
+WASHINGTON -- Threats today from computer hackers may be as dire as those that came in the past from tanks and missiles, Sen. Bob Bennett, R-Utah, said Wednesday.
+And agreeing with him were scientists and even the Central Intelligence Agency during a Joint Economic Committee hearing that he chaired on "cyber-terrorism."
+"Attacks on American defense and industrial facilities in cyberspace are as real and dangerous as any conventional threat to economic prosperity and national security," Bennett said.
+A recent example, he said, were recent attacks by hackers that managed to shut down Internet sites by such companies as Yahoo, CNN.com, eBay, E-Trade, Buy.com, Amazon.com and ZDNET.com.
+"Estimates are that each of these attacks can cost tens of millions of dollars in lost potential sales," Bennett said. But he said such attacks are just "the tip of the iceberg" of what cyber-attacks could do to America.
+For example, John A. Serabian, Jr., who submitted testimony on behalf of the CIA, said many enemy and terrorist nations are incorporating cyber-attacks as a new part of their military doctrine.
+He said reports indicate they are looking at ways to knock out or disrupt power, transportation and banking via computer attack to "level the playing field during an armed crisis against the United States" -- a country with overwhelming advantage with other arms.
+Serabian said many terrorists and extremists already use the Internet to communicate, raise funds and recruit. And he noted that separatists in Mexico and India have hacked into government computers there to post anti-government propaganda and pictures.
+Serabian added that finding and stopping such threats is a challenge for intelligence groups because it is easy to hide on the Internet.
+"Unlike the threats of the Cold War, cyber threats can come from almost anywhere. They can originate from any location, affect systems anywhere in the world, disguise origins and travel routes, and do it all instantaneously," he said.
+Stephen E. Cross, director of the Software Engineering Institute at Carnegie Mellon University, noted that a recent survey by the FBI and the Computer Security Institute of large companies found that 62 percent reported computer security breaches last year.
+Of those, 38 percent reported two to five incidents, and 10 percent reported 10 or more incidents. The survey said 57 percent reported that their Internet connect was the point of attack. And 26 percent reported theft of proprietary information.
+Cross listed several specific examples, including:
+"An attacker obtained 100,000 credit card numbers from the records of a dozen retailers selling their products through Web sites," he said. "The attacker was caught when he tried to sell the card numbers to an apparent organized-crime ring that turned out to be the FBI."
+"An intruder stole 300,000 credit card number from an on-line music retailer," he said. When the retailer refused a demand for $100,000 for those numbers, "the intruder released thousands of the credit card numbers onto the Internet in what turned out to be a public relations disaster for the company."
+Bennett said such reports and examples show much work remains to protect America against cyber threats. "A sound appreciation for the range of credible threats will support the work yet to be done," he said.
+
+Load-Date: February 24, 2000
+
+
+End of Document

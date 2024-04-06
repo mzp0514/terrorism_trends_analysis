@@ -1,0 +1,69 @@
+PANEL WEIGHS PLAN TO INCLUDE MORE PEOPLE N F.B.I.'S FILE
+The New York Times
+January 1, 1984, Sunday, Late City Final Edition
+
+
+Copyright 1984 The New York Times Company
+Section: Section 1; Part 1; Page 1, Column 1; National Desk
+Length: 2017 words
+Byline: By DAVID BURNHAM, Special to the New York Times
+Dateline: WASHINGTON, Dec. 31
+Body
+
+
+An advisory group for the Federal Bureau of Investigation is considering recommending a major expansion of a national computerized file to distribute information about people who are considered suspicious but are not wanted for crimes.
+ The computer system is now used for the most part to advise police officers if an individual has been named in an arrest warrant in another state. Under the new proposal it would be expanded to include information on whether an individual was thought to be involved in organized crime, terrorism or narcotics, or was a ''known associate'' of a drug trafficker.
+Virtually every United States law-enforcement agency has access to the bureau's computer system.
+A top F.B.I. official, who said the bureau was aware of civil rights questions involved in establishing such a system, said a final decision on the matter would not be made for some time.
+FBI considers major expansion of national computerized file on people who are not wanted for specific offenses but who are suspected of involvement with organized crime, terrorism or narcotics; file now advises police depts on wanted criminals; official Lee Colwell says Dir William Webster weighs civil rights implications; Repr Don Edwards, ACLU counsel Jerry Berman critical (M)
+Some law-enforcement officials say the proposed enlargement of the bureau's system would improve their ability to fight crime, help protect police officers against dangerous criminals and enable Federal law-enforcment officials to keep track of wrongdoers.
+ 
+Official Defends Program
+''I don't see this as a change - I see it as consistent with the original purpose of the system, to help law enforcement fight crime,'' said Dwight E. Bee, a member of the Federal bureau's advisory group who is the administrator of the Illinois Law Enforcement Agency Data System.
+But others, including Representative Don Edwards, chairman of the House Judiciary Committee's Subcommitee on Civil and Constitional Rights, view the proposal as a threat to basic freedoms. Mr. Edwards, who is a California Democrat, says he hopes to hold hearings on the matter in February.
+''If this plan goes ahead, it would create a revolutionary surveillance system that will permit the easy distribution of investigative information that has almost always been carefully protected in the past,'' Mr. Edwards said.
+Jerry J. Berman, national legislative counsel for the American Civil Liberties Union, said, ''Unless Congress intervenes, the United States will have a vast police tracking and surveillance system.''
+Mr. Berman noted that from 1971 to 1974 the F.B.I. established a procedure under which its computer secretly was used to track people, some of whom were engaged in lawful dissent against the Vietnam War and in behalf of civil rights. This program, the Stop Index, was halted as soon as its existence became known to Congress.
+ 
+Terrorists Widely Active
+The possible enlargement of the capacity of the bureau's National Crime Information Center was first discussed by the Center's Policy Board at a meeting in Denver in early October. The plan becomes known now at a time when a series of unusually violent terrorist attacks in the Middle East and Britain and the need to protect against terrorism at next summer's Olympic Games in Los Angeles have made law- enforcement officials in the United States apprehensive.
+According to the agenda of the meeting, the new ''investigative applications'' discussed by the board represented ''a logical progression of the N.C.I.C. System in terms of service to the criminal justice community as well as the safety of any officer conducting law-enforcement inquiries.''
+But Lee Colwell, Executive Assistant Director of the F.B.I., said in an interview that he was very much aware of the sensitive nature of the proposal to enhance the computer system. He emphasized that the bureau's Director, William H. Webster, would take no action on the matter without careful and systematic review.
+ 
+Assurances on Rights Expressed
+''It would be inappropriate and incorrect to believe that we in the F.B.I., the Director of the F.B.I., will take any unilateral action about any change in the N.C.I.C,'' Mr. Colwell said. ''The Director is on record with Congress and the Attorney General that they would be advised in advance of any changes in the N.C.I.C and its procedures, including its files.''
+The bureau's No. 2 official said, ''There is not going to be anything that I think jeopardizes human rights or constitutional rights without a complete airing, and I know that the Director feels as strongly about that as anyone.''
+He added that the need for the system, its potential for abuse, the threat it might pose for the constitutional rights of citizens and the integrity of its managers all had to be taken into consideration before a new application for the F.B.I. computer could be approved. But he said, too, that changes in technology sometimes forced changes in policy.
+Constitutional experts contend, for example, that in cases in which a police officer or judge relies upon inaccurate or incomplete information to make an arrest or set bail, the subject's right to due process, guaranteed by the Fifth Amendment, may be violated.
+ 
+Composition of Review Board
+The center's policy board currently has 28 members, including 21 state, county and local-law enforcement officials, three prosecutors, two judges, one prison administrator and one probation officer. According to the agenda of the Board's Denver meeting, the enlargement of the F.B.I.'s computer system was proposed on Oct. 6 by its planning and evaluation subcommittee.
+The subcommittee said some of the 15 new investigative applications it was recommending ''would benefit Federal law-enforcement agencies only, while others would benefit state and local law-enforcement agencies.''
+Among the most controversial of the proposed applications was one to use the F.B.I. computer to keep track of the ''known associates'' of those whose names had been filed because they had been named in warrants for arrest.
+A ''known associate'' could be a friend, relative or business partner; this category was defined in another section of the agenda as anyone ''known to be, believed to be, likely to be or may be associated with a wanted person.''
+''The criteria,'' that section went on, ''should not be limited to those who are traveling with the wanted person but should include those who are likely to be in contact with such a person.''
+ 
+On Privacy and Freedom
+Fred H. Wynbrandt, chairman of the policy board, who is the assistant director of California's Criminal Identification and Information Branch, said in a telephone interview that the plan to list associates of wanted people was ''the one item that offended me the most.'' He added, ''This one got rejected out of hand and I think our decision in this matter shows the board has a deep concern for privacy and freedom.''
+Still under consideration by the board, however, are several other files that would focus on individuals not suspected of committing a crime, according to Mr. Bee, the Illinois official. Despite the decision against creating a file on the associates of all wanted people, for example, the board did not reject a proposal for a new file on those who law-enforcement officials believed were associated with those who had been convicted of ''possession for sale, sale or trafficking in narcotics.''
+Also still under consideration are the creation of computerized files on individuals thought to be engaged in organized crime, foreign counterintelligence and terrorism.
+Mr. Wynbrandt, the policy board chairman, said the proposals that were not immediately rejected by the board now would be examined by F.B.I. specialists, four regional groups' advisory panels and several other technical panels. Once this review is completed, the proposals will again be reviewed by the policy committee before being forwarded to Mr. Webster. The entire process is expected to take several months.
+ 
+Expansion by Statute Urged The legal authority of the Federal bureau to institute the new files is a matter of dispute. Representative Edwards said he believed that ''further expansion must be by statute.'' The Justice Department and members of the policy committee, however, contend that the bureau's current authority is sufficient.
+The agenda did not spell out what police agencies would have the authority to decide who was a known terrorist, a figure in organized crime or narcotics trafficking, nor did it define who would fall into these three categories. Finally, the agenda did not indicate whether such computerized intelligence would be made available to patrol officers on the street or would be restricted to top police officials.
+Mr. Berman, the A.C.L.U. lawyer, explaining one of his major reasons for concern. He said: ''Unlike public record information such as an arrest warrant or arrest report, deciding who is an organized crime figure or terrorist depends upon subjective criteria and judgments. Is a terrorist someone who was convicted by a jury of an act of political violence 20 years ago? Or is it someone who the police believe is tied to an current bombing incident by concrete evidence? Or is a terrorist someone who meets with a suspected bomber? Or is a terrorist someone who has talked about a possible bombing?''
+Over the last decade, investigations by Congress, city councils and other such bodies have determined that the intelligence files of the F.B.I. and the police departments of such major cities as New York, Chicago and Los Angeles contained a great deal of unsubstanitated, misleading and inaccurate information, some of it amounting to no more than gossip about ten of thousands of indivduals who were politically active in a variety of causes.
+ 
+Secret Service Had a Hand
+The recommendation to enlarge the current system to include more than 10 new categories of individual suspects in the F.B.I. computer system was made only six months after the bureau agreed with a recommendation by the Secret Service to include the names of individuals whom the service decides might represent a danger to the President or other people it guards.
+Mr. Colwell said in a prepared address to the October meeting of the computer advisory board that in the first six months of operation, the records of an average of 88 potentially dangerous individuals were in the system at any one time. Between April 27 and Oct. 1, he said, 39 of these individuals had been identified when they were stopped by police officers on 88 different occasions.
+''I am pleased with the way the file is operating,'' Mr. Colwell said, ''but it will undoubtedly be a topic for discussion for months and maybe years to come.''
+He said the Secret Service ''continues to emphasize the importance of our helping them fulfill their protective function responsibilities in checking these individuals' movements and localities.'' The bureau's No. 2 official immediately added, however, that ''the adoption and approval of this file have raised a number of privacy issues, such as 'Nineteen Eighty-Four' and 'Big Brother,' and I think these are legitimate issues.''
+ 
+47,000 Listed in 1970's
+While the current F.B.I.-Secret Service list of ''dangerous persons'' is small, only a decade ago the service created a list of people and groups it was worried about; it contained 47,000 names, including Coretta Scott King, the rights activist and widow of the Rev. Dr. Martin Luther KIng Jr.; Dr. Benjamin Spock, the rights activist and expert on child care, and Roy Wilkins of the National Association for the Advancement of Colored People. It listed organizations such as the Quaker Action Group and the N.A.A.C.P.
+In a letter to the Justice Department before the Secret Service file was set up, the A.C.L.U. said the department was acting beyond the scope of Federal law and any individual subjected to arrest, denial of bail or denial of employment because of information in the file might have grounds to bring a lawsuit against the Government.
+The Justice Department, however, has argued in a legal memorandum that the exension of the F.B.I. file is lawful.
+
+
+End of Document

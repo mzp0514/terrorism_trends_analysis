@@ -1,0 +1,29 @@
+New Generation Of Weapons Detectors Short-Stops Terrorism
+Christian Science Monitor (Boston, MA)
+May 7, 1996, Tuesday
+
+
+Copyright 1996 The Christian Science Publishing Society
+Section: FEATURES; TECH TRENDS; Pg. 13
+Length: 616 words
+Byline: Laurent Belsie, Staff writer of The Christian Science Monitor
+Body
+
+
+The biggest physical threat to the world today isn't the big stuff - a nuclear strike or world war - as much as the hard-to-detect activities of terrorists and rogue nations. To guard against them, the world needs new technologies to track them. So America's national labs, which did so much to help track the Soviet Union's massive weapons production, are now miniaturizing their detection systems to deal with a changed world.
+Iraq is one example of what America's post-cold-war scientists are up against. After losing its war against the West in the early 1990s, Iraq was forced to open its nuclear facilities to international inspection teams. The teams wanted to find out if the nation's nuclear program involved nuclear weapons. But when they found suspicious materials, they often had to be shipped out of the country and tested - a process that took several weeks.
+In response, scientists at the Los Alamos National Laboratory in New Mexico built a 100-pound detection unit that fits in a suitcase. Using a highly reactive chemical on a small amount of uranium, it allows a sample to be fed into a small detection device called a mass spectrometer. The mass spectrometer can pick out the highly enriched variety of uranium that would be used in bombmaking. Instead of weeks of waiting, an inspection team equipped with the unit could have its results in half an hour.
+Gamma rays are another telltale sign of nuclear activity. Scientists at Los Alamos are working on a portable detector, called a cadmium-zinc-telluride detector, that works at room temperatures. It's not as good as other detectors, but those require special liquid-nitrogen cooling that makes them harder to handle in the field. The real breakthrough, though, has come in shrinking the size of the analyzer connected to the detector.
+Formerly the size of a desktop computer, it now can be worn on a belt, says Victor Gavron, who heads the lab's Safeguards Science and Technology Group. Just as important, the analyzer uses an easy-to-understand computer interface. That way, each machine doesn't require a skilled technician. A technically minded customs officer can use the system in an airport.
+Nuclear terrorism is not the only threat. In preparation for the war with Iraq, the US asked for a portable system for detecting signs of biological warfare. The lab built a unit in two weeks, but the war was over before the system could be used.
+The system weighed 300 pounds and was the size of a filing cabinet. Los Alamos, along with a private company, is working to get the system down to a size that can be carried under one's arm. The US Army has ordered 150 units and is due to receive three prototypes in July.
+Remember last year's terrorist gas attack in Tokyo's subway? The Los Alamos lab is working on a laser system that could detect the presence of airborne chemical agents and identify them at a distance. The system might not have been able to warn bystanders near where the gas was released in Tokyo's subway, but it could have alerted people more distant from the source.
+The technology is mature and "we expect it to be deployed," says Terry Hawkins, Los Alamos's deputy director of nonproliferation and international security. But he is mum on who will deploy it or where.
+The simple pipe-bombs of the Unabomber represent a tougher challenge. Scientists at Los Alamos built a prototype that could detect small amounts of nitrogen in luggage. Unfortunately, it couldn't distinguish between the nitrogen in high explosives and the nitrogen in nylon.
+So the search continues for tools that can effectively counter the small but still dangerous threats of the post-cold-war world.
+*Send comments to lbelsie@ix.netcom.com  
+
+Load-Date: May 7, 1996
+
+
+End of Document

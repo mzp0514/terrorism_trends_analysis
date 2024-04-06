@@ -1,0 +1,30 @@
+West German computer fights European terrorism
+Christian Science Monitor (Boston, MA)
+January 29, 1982, Friday, Midwestern Edition
+
+
+COPYRIGHT 1982 THE CHRISTIAN SCIENCE PUBLISHING SOCIETY
+Section: Pg. 1
+Length: 701 words
+Byline: By Elizabeth Pond, Staff correspondent of The Christian Science Monitor
+Dateline: Bonn
+Body
+
+
+These days if a French police officer stops a suspected terrorist's car, he can get a radio report on the car from the main West German police computer before he hands back the driver's license.
+It doesn't always work that way, of course.
+But as the arrest of some of West Germany's most wanted women terrorists in a Paris apartment in 1980 or the rearrest of West Berlin terrorist jailbreaker Till Meyer in Bulgaria in 1978 show, there is a kind of cross-frontier police cooperation today in Europe that simply didn't exist a decade ago.
+The effectiveness of this new international cooperation is due primarily to real-time retrieval of information by computers. And this retrieval is due primarily to the giant West German Federal Criminal Office (BKA) computer complex - and the zeal of the BKA's president from 1971 to 1981, Horst Herold.
+Initially, Dr. Herold hoped to prod the fabled Interpol of many a thriller novel into the modern technological age in combating crime and terrorism. But tight budgets and national rivalries got in the way.
+Interpol remains in the horse-and-buggy age of card files, while West Germany has built Europe's most impressive computer collection of clues - over 10 million of them - retrievable virtually instantly. Willy-nilly, West Germany has become the center of pan-European coordination of the fight against terrorism.
+Machines cannot by themselves, of course, overcome the mutual suspicion and hoarding of crime information by individual nations and security agencies, or the fear of Big Brother misuse of any nationally centralized data system. Law enforcement officials would be the first to lament how limited international cooperation still is in countering terrorism.
+Nonetheless, the 1970s surge of terrorist violence -- and especially the practice of one national group hijacking a plane, say, with funding by a second national group and with weapons from a third -- have broken down some of the previous barriers to police cooperation. And within this broadened area of cooperation computer linkage played a crucial role.
+Computers began coming into their own in law-enforcement in the late 1960s. And in West Germany they found their apostle in the new BKA president of the 1970s. While many police officers were content simply to put their old card files onto discs, Dr. Harold pioneered entirely new approaches that were now made possible by the speed of mass data processing.
+One of his most brilliant -- and controversial -- innovations in this area was the listing of all West German apartments that had utility bills paid in cash and thus might be suspect as safehouses. In a number of instances, a cross-check of those renters who did not wish to leave bank accounts or other traces behind them against, say, stolen vehicles, greatly narrowed the circle of suspects and led to arrests.
+Internationally, Dr. Herold's brainchild of the giant PIOS (an acronym standing for persons, institutions, objects and things) computer system has led to several spectacular successes. In 1977 when the Lufthansa jet hijacked in Majorca was still on its way to Somalia (where West German commandos eventually stormed the plane and freed the passengers) the PIOS correctly deduced who the hijackers were from Palma hotel lists.
+Then, less than a year ago, three of the most wanted West German terrorists were arrested within the space of six weeks. One in London, one in Hamburg, and one in Sydney.
+The PIOS system, using digital formulas, records such things as the classification of typewriters, bullets, projectiles, drugs, tools, locks, and locking devices. It keeps track of personal indices of suspects (including ear contours and prints of all 10 fingers and, in the future it is hoped, handwriting and voice characteristics). It has exhaustive detail on drugs, explosives, and weapons used in terrorist or other criminal actions. It cross-checks what might seem to be unrelated narcotics, weapons traffic, and terrorist cases to search out any linkage.
+International exchange of such information centers on stolen items (weapons, personal documents, cars, money, bonds) and material evidence (forged documents, parts of weapons) as well as movements of terrorist suspects.
+
+
+End of Document

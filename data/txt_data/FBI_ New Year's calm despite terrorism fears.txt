@@ -1,0 +1,32 @@
+FBI: New Year's calm despite terrorism fears
+
+Telegraph Herald (Dubuque, IA)
+January 7, 2000, Friday
+
+
+Copyright 2000, Telegraph-Herald
+Section: National/World; Pg. b 7
+Length: 587 words
+Byline: Associated Press
+Body
+
+
+Weeklong study: Official says the number of investigations remains the same as usual
+WASHINGTON (AP) - Despite fears of terrorism over the New Year's weekend, the number of investigations the FBI opened into computer crimes and physical threats or violence was not unusual for any seven-day period, a senior FBI official said Thursday.
+The FBI opened six investigations of computer crimes and 12 investigations into physical threats or violence nationwide from Dec. 29 through Jan. 5, said Mike Vatis, head of the FBI's National Infrastructure Protection Center.
+"The level was not beyond the norm you would usually see in that number of days," Vatis said. "On neither side - cybercrime or physical threats - did we think the weekend activity was particularly unusual."
+Vatis said some new computer viruses were found but there were no significant millennium-related attacks during the seven days his office operated a command post inside the FBI's Strategic Information and Operations Center in Washington. He also said there was no increase in attacks from overseas.
+All the investigations remain open, but any threats from people involved have been neutralized, Vatis said.
+He said three of the six computer crime investigations were opened in response to reports from private companies that had downloaded special detection software Vatis' office posted Dec. 30 on its Internet Web page. Using the FBI's software, three private companies found hacker tools hidden on their computer systems.
+The software has been downloaded by more than 2,600 companies and individuals.
+Vatis said the computer investigations involved hacker attacks using what are known as "distributed denial of service" tools. In such cases, hackers hide tools, known as daemons, inside large computer systems, like those at universities. The hackers later issue commands from their own computer to order each of hundreds of daemons to attack a target computer system through various portals. These multiple attacks can cause the target system to crash or become so overloaded it cannot function.
+FBI field offices, each of which also maintained a command post over the New Year's weekend, opened a dozen investigations of physical destruction or threats of it.
+Vatis would not discuss details of any of the investigations but his office is responsible for protecting computer systems, like the banking system, and physical infrastructure, like power and telephone lines, transportation routes and water systems, from either electronic or physical attacks.
+In Bend, Ore., an 80-foot powerline tower carrying high-voltage electricity from the Pacific Northwest to the Southwest was toppled Dec 30. But David Szady, head of the FBI's Portland office, said no explosive was used. "The cause has been determined and has been reported as an act of malicious mischief," Szady said.
+A conservative group criticized the FBI for warning state and local police officials to be on the lookout for violent white supremacists, apocalyptic cults, radical lone wolf members of private citizen militias and other groups that promote violent millennial agendas.
+This effort, named Project Megiddo, "did nothing to prevent terrorism," said Lisa Dean, of the Free Congress Foundation. Because many of the cults mentioned by the FBI "believe, according to Scripture, that this world will someday end and Jesus Christ will come again, the FBI used the Y2K situation to confuse the Religious Right, who also share those beliefs, with those religious cults whom they consider dangerous."
+
+Load-Date: February 7, 2000
+
+
+End of Document

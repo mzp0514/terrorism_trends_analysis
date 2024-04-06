@@ -1,0 +1,34 @@
+TARGET AMERICA: COMPUTER WARFARE;
+Q & A;
+Anti-terrorism chief says danger is great
+The Atlanta Journal and Constitution
+August 2, 1998, Sunday,
+ALL EDITIONS
+
+
+Copyright 1998 The Atlanta Constitution
+Section: PERSPECTIVE; Pg. 03E
+Length: 698 words
+Byline: Bob Deans
+Series: Metro Final
+Body
+
+
+In May, President Clinton named career diplomat and National Security Council official Richard Clarke as the first national coordinator for security, infrastructure protection and counterterrorism. Clarke spoke recently with Cox Newspapers White House correspondent Bob Deans about the new generation of terrorist threats. Q: Would you say that terrorism poses a greater risk today than five years ago? A: If terrorist groups acquire weapons of mass destruction --- chemical, biological and nuclear --- then it would pose an inordinately greater risk than it has before. If terrorist groups or countries acquire the ability to damage our telephone exchanges, our power grid, our banking system by computer warfare attacks, then it would pose a much greater threat than it's ever posed before.
+Now, we don't know specifically that terrorist groups have weapons of mass destruction; we don't know specifically that they have prepared computer warfare attacks. But, given the fact that most of the nations that sponsor terrorism also have chemical weapons or biological weapons, we have to be concerned that one day a terrorist group will get that kind of support or that they will buy a chemical weapon or a biological weapon or steal one.
+We know there are countries that have offensive computer warfare capabilities, so we know that threat is real. Q: Which ones? A: I can't tell you which ones, and moreover we probably don't know all of them, but we know of some specific ones. Q: Are there some surprises in there, or are they the technologically advanced countries you would suspect? A: They're technologically advanced, but it's also the case that offensive computer warfare doesn't take a lot of people, and it doesn't take enormous computers. What it takes is an understanding of computer networking and certain popular software. So, a small number of smart people with equipment that you can buy in Kmart could engage in offensive computer warfare. Q: Does the technological sophistication of the United States make it more vulnerable? A: Yes. We are more reliant on computer-controlled networks and systems than any other country in the world. Your electrical power is coming to you over a network that is computer-controlled. Your telephones are all computer-controlled. Most American banking moves on computer-controlled networks, whether it is the ATM machine or large-scale interbank transactions. The stock market, airline reservation systems, virtually everything we do all day long depends upon computer-controlled networks.
+It is also true that the U.S. military relies upon civilian-owned and civilian-operated computer-controlled networks. Most military bases get their telephones and their electric power from privately owned and operated infrastructure providers. So it's not just our economy which is at risk to offensive computer attack, it's also our defense capability. Q: How aware is private industry of the need for security, and how vigilant is private industry being? A: I think industries are aware of the threat of vandalism, of extortion by disgruntled employees. I think they're probably aware of the threat of industrial espionage. They don't tend to think about computer attack for the purpose of large-scale destruction or large-scale disablement.
+And frankly, most American industries probably are very vulnerable today to that kind of attack from a sophisticated attacker. I'm not talking about teenagers who are hacking to show off. I'm talking about a systematic, coordinated, multipronged attack from an intelligence service, foreign military or foreign terrorist group. Q: Your job, then, would be to make them aware of the threat? A: Our job is to make them aware of the threat, help them assess their vulnerabilities, get them to coalesce as a sector, organize themselves to deal with us about the issue and then to work with them to find ways of creating a monitoring network so we know when attacks are occurring, to create a system for confining the attacks so that they can't trip entire networks down, and, in the event that they do, design a reconstitution system so that when a network does drop we can get minimal essential service back up.
+
+Graphic
+
+ 
+Photo :
+ The nation's first counterterrorism coordinator, Richard Clarke, says
+ America's dependence on computers makes it vulnerable to attack.
+ Anti-terrorism chief says danger is great / RICK McKAY / Washington Bureau
+
+Load-Date: August 3, 1998
+
+
+End of Document

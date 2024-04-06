@@ -1,0 +1,52 @@
+Cyber space safety   Local man fights against computer terrorism
+The Capital (Annapolis, MD.)
+October 27, 1997, Monday
+
+
+Copyright 1997 Capital-Gazette Communications, Inc.
+Section: Broadneck; Pg. C1
+Length: 674 words
+Byline: By SUSAN HERENDEEN Staff Writer
+Body
+
+
+A computer hacker could shut down the 911 service in a major city by sending it millions of e-mail messages.
+A disgruntled employee could clean out millions of bank accounts with a computer program hidden in a financial accounting system.
+A terrorist could hijack an air traffic control system by electronically stealing an employee's password, simply because the trusted employee took a coffee break without exiting the computer pro gram.
+What would the government do?
+That's a question that has puzzled Arnold resident Brenton Greene for years. And he's an expert in computer terrorism.
+"The more advanced a nation (we become), the more vulnerable we are," he said.
+Mr. Greene, who lives in Jamestown on the Magothy, recently finished a 14-month term as a member of the President's Commission on Critical Infrastructure Protection.
+Mr. Greene said the commission's task was to come up with a national strategy to pre
+vent an "electronic Pearl Harbor."
+A report by the commission, which was established by the Justice Department in the wake of the Oklahoma City bombing, was sent to the White House last week. It's not expected to be made public until next month.
+Mr. Greene said the report, which he declined to discuss in detail, is a kind of "yellow pages" that officials from various agencies would refer to in cyberemergencies.
+The Washington Post, which obtained a copy of the report, gave a more detailed description of the commission's recommendations.
+The report says the government should establish a directorate within the White House National Security Council to coordinate different agencies' actions to counter cybercrime.
+Also, the report calls for an increase in government spending on research and development of techniques to identify and stop cyber-intruders.
+Government agencies now spend about $ 250 million a year to combat cyberthreats. The com mission recommends spending $ 1 billion a year by 2004, The Post said.
+Mr. Greene said "firewalls" currently built into computer programs don't outsmart soph
+isticated hackers. And officials often can't tell that a system has been violated until extensive damage has been done.
+To complicate matters, many officials and the public don't understand how serious the threat of computer terrorism is, Mr. Greene said. He said cybersecurity should be taught in computer programming and business classes.
+In 1996, for example, a teenage hacker in Stockholm, Sweden, shut down Miami's 911 system by using a redial function to flood the emergency line with e-mail messages.
+It took authorities months, and hundreds of thousands of dollars, to determine the source of the problem. And when the teen-age hacker was discovered, he was treated as a prankster, rather than a criminal.
+A judge fined the teen $ 350.
+"Here's a judge who dealt with it as mere prank," Mr. Greene said. "People could have died."
+The threat of cyber-terrorism is also underestimated, he said. For example, a requirement in the 1990 Clean Air Act could give terrorists a recipe for disaster.
+The federal law requires petrochemical companies to publish their accident history and also evaluate the emergency response capabilities of their community.
+Mr. Greene said this information, if posted on the Internet, could easily be used by a terrorist who could determine the type and the amount of chemicals stored at 66,000 petrochemical facilities across the country.
+A terrorist who wanted to bomb a facility would know _ after just a simple computer search _ just how many people would die from an ensuing toxic cloud, Mr. Greene said.
+As a result, the government must be careful when it releases information to the public, he said.
+A 1971 graduate of the Naval Academy, Mr. Greene served as a submarine captain before retiring to take a civilian position as the director for infrastructure policy at the Department of Defense.
+In the coming weeks, he'll be setting up a regional office for the Cleveland Advanced Manufacturing Program, a nonprofit group established by Congress. Mr. Greene will be the vice president of electronic commerce.
+
+Graphic
+
+ 
+By J. Henson _ The Capital
+Brenton Greene, a retired Navy captain who lives in Arnold, recently served as a member of the President's Commission on Critical Infrastructure Protection, developing plans to keep computer hackers from breaking into sensitive computer networks.
+
+Load-Date: October 30, 1997
+
+
+End of Document

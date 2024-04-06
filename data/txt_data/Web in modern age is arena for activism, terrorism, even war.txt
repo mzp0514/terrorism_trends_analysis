@@ -1,0 +1,36 @@
+Web in modern age is arena for activism, terrorism, even war
+Deseret News (Salt Lake City)
+February 10, 2000, Thursday
+
+
+Copyright 2000 The Deseret News Publishing Co.
+Section: BUSINESS;
+Length: 977 words
+Byline: By Jon G. Auerbach and William M. Bulkeley The Wall Street Journal
+Body
+
+
+Winston Churchill called the rise of electronic warfare in World War II the "Wizard War."
+Half a century later, the Wizard War has moved to the Internet.
+As governments and companies string together ever-larger computer networks, the Internet has emerged as the favorite venue of attack for cyberterrorists, political activists and hackers -- and even governments themselves.
+"Hacktivists," as computer hackers with political and social agendas are dubbed, have vandalized federal-government Web sites, including ones run by the Federal Bureau of Investigation and the United States Army. Cybervandals have repeatedly broken into political and social Internet sites in recent years, altering information and spreading dogma.
+Last summer, Taiwanese and mainland Chinese partisans attacked each others' computer networks as military tensions rose. Activists thought to be connected to the Serbian side in the Balkan conflict have bombarded NATO Web sites with e-mails and scrawled antiwar messages on government Internet sites around the world.
+There isn't any evidence linking this week's attacks on Web sites run by Yahoo! Inc., eBay Inc. and others to hacktivism or cyberterrorism. But industry experts say such illegal activities are sure to rise in coming years. In this way, the computer outages represent a glimpse of the future.
+Stanton McCandlish, of the San Francisco privacy and civil liberties group Electronic Frontier Foundation, predicts computer networks will increasingly be the main battleground for armies and terrorists. Computers are the roads and bridges of the information age, he says, the most important targets for people or organizations bent on disabling communications. "It's a basic military tenet," he says. "Try to shut down your enemy's infrastructure."
+In 1998, the Department of Justice and the FBI formed a new unit, called the National Infrastructure Protection Center, to strengthen the nation's defenses from cyberterrorism and other electronic threats. Last year, an outside consultant's report prepared for a government-sponsored conference on computer-security breaches said, "attacks on critical infrastructures could disrupt directly -- or indirectly through cascading effects -- the performance of national functions, or indicate malicious intent on the part of foreign states or terrorists."
+"Could you mount a structured attack through cyberspace and have an impact? Is it possible to develop true strategic capabilities as opposed to duck bites?" says Roger Molander, a senior researcher at Rand Corp. who has studied cyberterrorism and cyberwarfare. "Nobody knows for sure."
+For the United States, one of the most wired countries in the world, Internet advances have proved to be a double-edged sword. The global computer network has fueled an economic boom and made it easier for companies and individuals to communicate and do business. But the network economy also makes the U.S. especially vulnerable to cyberthreats.
+This week's cyberattacks are sure to increase pressure on President Clinton to increase the government's police powers over the Internet. The White House announced last month that it was requesting $2 billion from Congress to pay for a system for protecting telecommunications and other critical infrastructure. But critics, including many in Congress, say the plan would do little to protect the private sector from cyberintrusions.
+The issue of hackers came up in several hearings on Capitol Hill Wednesday, as congressmen quizzed Treasury Secretary Lawrence Summers and Defense Secretary William Cohen on the topic. Industry officials, meanwhile, say pressure is growing for the president to appoint a national cybersecurity czar to guide federal Internet-security policy.
+"This whole area is now ripe for policy making," said Steven Aftergood, a specialist with the Federation of American Scientists in Washington. "If Amazon.com is not open for a few hours, they lose a good chunk of money. People argue that an increasingly large part of the economy is now vulnerable to outside interference, and that something must be done."
+This week's Web shutdowns were caused by what are called "denial of service" attacks, which overwhelm a computer's ability to handle incoming message. Such attacks were believed to be responsible for the temporary shutdown of NATO computers during the Kosovo conflict.
+Two Chinese Army colonels recently published a military book in China called "Unrestricted War," in which they argued that China needs to develop new and unconventional ways to fight a powerful country such as the U.S., including using computer terrorism.
+Last year, several international Web sites belonging to the Chinese spiritual group Falun Dafa came under electronic attack with e-mail bombs and other digital weapons meant to overload an e-mail inbox and code that blocked access to the sites. The Chinese government, which was in the midst of a crackdown on Falun Dafa, was widely seen as a likely culprit.
+British detectives investigating a break-in at a Falun Dafa site based in Britain tracked electronic identifying tags on the site back to something called XinAn Information Service Center in Beijing. Later, the telephone number belonging to that agency was said to belong to the Chinese Ministry of Public Security. At the time, ministry officials denied the service was theirs.
+In August, several Taiwan sites, including government pages, were planted with messages opposing Taiwan's independence and its government. Later, hackers from Taiwan broke into a several Chinese sites and posted pro-Taiwan messages and the island's national anthem.
+Rand Corp.'s Mr. Molander says for the United States, cyberattacks are "a maturing national-security concern at an early stage of evolution." Hard to maintain, they are at this point "more likely to cause delay or inconvenience than disaster," he says.
+
+Load-Date: February 10, 2000
+
+
+End of Document

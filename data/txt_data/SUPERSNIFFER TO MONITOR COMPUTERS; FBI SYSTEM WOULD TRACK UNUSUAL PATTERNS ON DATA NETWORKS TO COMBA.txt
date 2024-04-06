@@ -1,0 +1,41 @@
+SUPERSNIFFER TO MONITOR COMPUTERS;
+FBI SYSTEM WOULD TRACK UNUSUAL PATTERNS ON DATA NETWORKS TO COMBAT CRIME;
+TERRORISM
+Pittsburgh Post-Gazette (Pennsylvania)
+July 28, 1999, Wednesday,
+SOONER EDITION
+
+
+Copyright 1999 P.G. Publishing Co.
+Section: NATIONAL,
+Length: 790 words
+Byline: JOHN MARKOFF, THE NEW YORK TIMES
+Dateline: NEW YORK
+Body
+
+
+The Clinton administration has developed a plan for an extensive computer monitoring system, overseen by the FBI, to protect the nation's crucial data networks from intruders.
+The plan, an outgrowth of the administration's anti-terrorism program, has already raised concerns from civil liberties groups.
+A draft of the plan, prepared by officials at the National Security Council last month and provided to The New York Times by a civil liberties group, calls for a sophisticated software system to monitor activities on nonmilitary government networks and a separate system to track networks used in the banking, telecommunications and transportation industries.
+The effort, whose details are still being debated within the administration, is intended to alert law enforcement officials to attacks that might cripple governmental operations or the nation's economy.
+But because of the increasing power of the nation's computers and their emerging role as a backbone of the nation's commerce, politics and culture, critics of the proposed system say it could become a building block for a surveillance infrastructure with great potential for misuse.
+They argue that such a network of monitoring programs could itself be open to security breaches, giving intruders or unauthorized users a vast window into government and corporate computer systems.
+The Defense Department began deploying such a system three years ago. But Government officials said that the changing nature of military threats in the information age had altered the nature of national security concerns and created a new sense of urgency to protect the nation's information infrastructure.
+"Our concern about organized cyber attack has escalated dramatically," Jeffrey Hunker, the National Security Council's director of information protection, who is overseeing the plan, said yesterday. "We do know of a number of hostile foreign governments that are developing sophisticated and well organized offensive cyber-attack capabilities and we have good reason to believe that terrorists may be developing similar capabilities."
+As part of the plan, networks of thousands of software monitoring programs would constantly track computer activities, looking for indications of computer network intrusions and other illegal acts.
+The plan calls for the creation of a Federal Intrusion Detection Network, or Fidnet, and specifies that the data it collects will be gathered in a centralized data center at the National Infrastructure Protection Center, an interagency task force housed at the FBI.
+Such a system, to be put fully in place by 2003, is meant to permit security experts to track "patterns of patterns" of information and respond in a coordinated manner against intruders and terrorists.
+The plan focuses on monitoring data flowing over government and national computer networks. That means the systems would potentially have access to computer-to- computer communications like e-mail and other documents, computer programs and remote log-ins.
+An increasing percentage of network traffic, like banking and financial information, is routinely encrypted and would not be visible to the monitor software. Government officials argue that they are not interested in eavesdropping, but rather looking for patterns of behavior that suggest illegal activity.
+But the plan strikes at the heart of a growing controversy over how to protect the nation's computer systems while also protecting civil liberties particularly since it would put a new and powerful tool into the hands of the FBI.
+Increasingly, data flowing over the Internet is becoming a vital tool for law enforcement, and civil liberties experts said law enforcement agencies would be under great temptation to expand the use of the information in pursuit of suspected criminals.
+The draft plan states: "As access to relevant networks is premised on ' consent' of the user to allow session monitoring, the collection of certain data identified as anomalous activity or a suspicious event would not be considered a privacy issue."
+One potential problem in carrying out the government's plan is that intrusion-detection software technology is still immature, industry executives said.
+Current systems tend to generate false alarms and thus require many skilled operators.
+For several years computer security specialists have used software variously known as packet filters or "sniffers" as monitoring devices to track computer intruders. Like telephone wiretaps, such tools can be used to reconstruct the activities of a computer user as if a videotape were made of his computer display.
+At the same time, however, the software tools are routinely misused by illicit computer network users to steal information such as passwords or other data.
+
+Load-Date: July 28, 1999
+
+
+End of Document

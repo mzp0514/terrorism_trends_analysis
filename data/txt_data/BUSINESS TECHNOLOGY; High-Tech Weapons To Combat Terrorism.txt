@@ -1,0 +1,67 @@
+BUSINESS TECHNOLOGY;
+High-Tech Weapons To Combat Terrorism
+The New York Times
+May 29, 1991, Wednesday, Late Edition - Final
+
+
+Copyright 1991 The New York Times Company
+Distribution: Financial Desk
+Section: Section D;; Section D; Page 9; Column 1; Financial Desk; Column 1;
+Length: 1175 words
+Byline: By EDMUND L. ANDREWS
+
+By EDMUND L. ANDREWS
+Body
+
+
+Amid continuing fears of attacks at airports and government buildings, several companies are vying to promote new, compact devices for spotting explosives without causing long delays or false alarms. Some of these machines are so small and light that the police can take them anywhere terrorists might be lurking.
+Until recently, the leading candidate to succeed the X-ray scanner was thermal neutron analysis. But the system's unwieldiness, million-dollar expense and tendency to give false alarms has given hope to a slew of new contenders.
+These include more sophisticated X-ray systems that zero in on plastic explosives, and several light, portable devices, resembling vacuum cleaners, that can sniff traces of explosives on luggage, clothing and people.
+ 
+$200 Million Market
+ At stake is a $200 million market dominated by X-ray scanners designed for the much simpler task of spotting handguns. The availability of cheaper, more portable devices that can also detect narcotics and bombs may significantly expand the market, said Michael Carstens, an analyst at Tucker Anthony Inc.
+Under a law passed last year, major American airports will have to buy new bomb-detection devices by July 1993. The Federal Aviation Administration is testing rival systems.
+The industry leader, E.G.&G. Astrophysics of Long Beach, Calif., makes X-ray systems priced at $45,000 to $50,000. The company, a unit of E.G.&G. Inc. of Wellesley, Mass., commands at least two-thirds of the market, said Frank McGuire, publisher of Security Intelligence Review, an industry newsletter.
+ 
+Scanners With 2 X-rays
+ Security experts have long complained that the X-ray scanners used at most airports are no longer sufficient, because plastic explosives -- made from soft, putty-like materials -- are easy to disguise. The bomb that blew up Pan Am Flight 103 over Scotland in 1988 passed through an E.G.& G. X-ray scanner without being detected.
+To distinguish suspicious objects better, E.G.&G. and several competitors are producing scanners that use two X-rays. The second beam makes it possible to distinguish between the organic, or carbon-based, materials used in plastic explosives and inorganic materials like metals.
+But experts contend that these systems have two limitations. First, it remains difficult to distinguish between similar materials. Second, plastic explosives can be concealed within metal objects, including batteries or razors, that block X-rays.
+To address that problem, American Science and Engineering Inc. of Cambridge, Mass., has developed X-ray systems that attempt to highlight bombs and drugs through a phenomenon called backscatter. Because they are both organic and unusually dense, plastic explosives and narcotics tend to bounce X-rays back in all directions. The American Science systems collect and measure this backscatter, displaying the objects that produce it as bright, white images.
+The system can peek into metal containers, executives said, because it can detect backscatter if only a few X-rays penetrate through to the drugs or explosives. The system, already used by the White House, Customs Service and some embassies, costs from $80,000 to $100,000.
+In search of greater precision, Vivid Technologies Inc. of Waltham, Mass., is completing work on an X-ray system that the company says can distinguish almost every substance within a piece of luggage.
+The system shines two X-ray beams of different energy levels through a suitcase to an array of 960 detectors. It uses the data from both beams to compute the characteristics of every material in the suitcase, then compares the results with information in a computer data base on suspect substances. If the machine makes a match, it sounds an alarm and a security attendant can examine the luggage more closely. The company hopes to begin selling the systems in July for about $250,000.
+Electronic sniffing systems attempt to analyze a suitcase's contents by picking up stray particles of explosives or drugs on surfaces -- whether on luggage, a car trunk or a person. These systems can be carried in police cars.
+Thermedics Inc. of Woburn, Mass., began shipping portable bomb-sniffing units in early 1990. Barringer Instruments of South Plainfield, N.J., entered the market this year, with slightly different technology.
+Both systems use what looks like an ordinary vacuum cleaner that scoops up microscopic residues from objects or people. The particles are then analyzed by how quickly they cross a chemical or magnetic field.
+In the Thermedics system, the air sample is heated and sent through a gas-filled tube. The molecules of any given substance will travel through the tube at a unique speed, with lighter molecules traveling faster.
+When the particles reach an ozone-filled chamber, they produce measurable flickers of light. The timing of the flickers identifies the substance, and the intensity of the light corresponds to the amount present. The company sold 20 systems last year at about $120,000 each.
+Barringer's system, for $65,000, exposes the collected particles to a radioactive isotope that gives them electrical charges. The particles are collected at the entrance to an electromagnetic field, where they jump to electrodes at the other end and produce electrical signals. Each substance travels across the magnetic field at its own distinct speed.
+"It's like a stopwatch," commented Kenneth Wood, president of Barringer. The device can be quickly programmed to look for almost any substance, including cocaine, heroin and nitroglycerine.
+Although both companies can vividly demonstrate the sensitivity and speed of their systems, rivals say it remains unclear whether terrorists can conceal explosives without contaminating their luggage -- particularly if they bought their own systems to check their packages in advance.
+The companies contend that their systems are so sensitive that it is virtually impossible to pack a bomb without leaving traces. "We've had tests conducted by government experts who had exactly that issue in mind," said John Wood, president of Thermedics.
+ 
+Neutrons Penetrate Luggage
+ But supporters of thermal neutron analysis, pioneered by the Science Applications International Corporation of San Diego, contend that their technology is still the best available. In thermal neutron systems, neutrons produced by a radioactive isotope penetrate a piece of luggage. If explosives are present, the neutrons will interact with the nitrogen in them and produce detectable gamma rays.
+The White House and the Office of Technology Assessment say the thermal neutron systems produce too many false alarms. But the devices retain the support of many F.A.A. officials who want a technology that can penetrate luggage.
+Dr. Tsahi Gozani, chief scientist of Science Applications, says his machines do not depend on picking up traces of bomb materials on surfaces. "Our system does not at all depend on how the bomb was prepared or how it was concealed," he said.
+The makers of the sniffing systems respond that their systems offer foolproof performance at less expense.
+
+Graphic
+
+ 
+Diagrams: "Identifying Drugs and Bombs"
+ A new device for detcting bombs and illegal drugs through analysis of particles picked up from luggage and other objects.
+ 
+1. Vacuum cleaner collects microscopic particles from luggage, clothing and even hands.
+ 
+2. Particles are trapped in a filter in the vacuum cleaner nozzle, and the filter is inserted into an electronic measuring device (cross section).
+ 
+3. The particles are dried and broken down into electrically charged molecules. They then pass through a grid and their speeds are measured as they jump toward an electrode. Any particle whose speed suggests the presence of drugs or explosives sets off the monitor.
+ 
+(Source: Barringer Instruments)
+
+Load-Date: May 29, 1991
+
+
+End of Document
