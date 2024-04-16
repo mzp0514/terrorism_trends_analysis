@@ -1,0 +1,34 @@
+Professor attempts terrorism predictions; Trying to determine what targets might be hit next is not exact science
+Telegraph Herald (Dubuque, IA)
+February 6, 2006 Monday
+
+
+Copyright 2006 Woodward Communications, Inc. All Rights Reserved
+Section: ILLINOIS; Pg. d3
+Length: 602 words
+Byline: ASSOCIATED PRESS
+Body
+
+
+A University of Wisconsin-Madison professor is working on a computer model that she says can identify the targets that terrorists are most likely to hit, which would help authorities figure out how to best allocate their limited security resources.
+Vicki Bier, a professor of industrial engineering and engineering physics, uses a combination of game theory and risk analysis to predict where terrorists might strike next. Her efforts are part of a collaborative three-year, $12 million project funded by the U.S. Department of Homeland Security.
+"The potential number of terrorist threats is enormous," she said. "But we can't defend everything. We must pick and choose where our resources are needed most."
+Bier is working with researchers at the University of Southern California and New York University to get into the minds of terrorists. The team's challenge is to figure out not only where an attack is likely to succeed, but also which landmarks are prominent enough to capture terrorists' interest, she said.
+The militant Islamic groups that the government tracks seem to focus on targets that are recognized around the world as uniquely American because the ensuing media coverage would help them recruit more terrorists, Bier said.
+Some communities worry about local attacks, such as a bioterror attack on the local water supply. Bier said a low-profile attack like that is less likely because it wouldn't create as significant a reaction.
+Bier suggests government resources are sometimes poorly spent because officials overinvest resources to head off small-scale threats, such as the 2001 anthrax attacks in Washington, D.C. that infected 22 and killed five.
+"The level of public fear and concern sometimes is disproportionate to the threat," she said.
+Instead, the government should focus resources on more dangerous threats, such as the threat of a dirty bomb smuggled onto a ship where the bomb could sicken or kill thousands if it exploded in a port town, Bier said.
+The research team is part of the Center for Risk and Economic Analysis of Terrorism Events, or CREATE.
+Traditional risk analyses look at the potential costs and fatalities associated with natural disasters. Bier said her team had to include elements of game theory because terrorist attacks are perpetrated by "intelligent adversaries" who can adjust their attack based on how the target is defended.
+"An earthquake won't get smarter or stronger or change locations just because we protected our buildings," she said. "The question is, how do our strategies change when (our attackers') goals and values are not the same as ours?"
+The team's research already has yielded tangible results. Simulations indicate that anti-missile protection that military aircraft use shouldn't be added to commercial airlines. Because military planes fly at higher altitudes and take off and land at secure bases, the anti-missile technology is effective for them.
+But because commercial planes fly lower as they land, and because they use less secure airports, the limited benefit of the technology wouldn't justify the cost to protect every plane.
+Federal officials have called the team's findings "very useful," said Isaac Maya, CREATE's director of research. He's optimistic the grant will be renewed when it runs out in March 2007.
+Bier said the team's results shouldn't be interpreted as absolute guarantees of safety.
+"I don't think we will ever be perfectly safe or secure," she said. "It's an illusion to think we could protect ourselves against everything. I would just like to make sure that any money we commit gets spent as effectively as possible."
+
+Load-Date: February 7, 2006
+
+
+End of Document

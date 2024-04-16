@@ -1,0 +1,34 @@
+Insurer covers online terrorism;
+St. Paul Cos. says inquiries are up
+Star Tribune (Minneapolis, MN)
+November 17, 2001, Saturday, Metro Edition
+
+
+Copyright 2001 Star Tribune
+Section: BUSINESS; Pg. 1D
+Length: 528 words
+Byline: Dee DePass; Staff Writer
+Body
+
+
+RSEC:             While the St. Paul Companies recently decided to stop insuring physical damage from acts of terrorism, it stepped up to the plate Friday with a sweeping array of new insurance products aimed at combatting cyberterrorism.
+     The products, unveiled before 44 agents at the St. Paul headquarters Friday, are designed to insure businesses against hackers, viruses, information theft, ransom demands, privacy violations, plus resulting business interruption and lawsuits.
+     The rare primary coverages will not be sold alone, but will be added to commercial property and liability policies for additional fees that start at $5,000. Deductibles probably will range from $5,000 to $10,000, officials said.
+   Kae Lovaas, the St. Paul's president of Global Technology, said the company used to gear its technology insurance just to technology firms. But the magnetic force of the Internet has pulled nearly every business imaginable online to advertise or sell their products and services.
+     "It's not just tech companies that face risks. It was years ago, but not today," Lovaas said.
+     Lovass noted that even pharmacies that sell products, give advice and offer chat rooms over the Internet face new liability exposures they didn't have six years ago.
+     In addition, "cyberterrorism and privacy concerns certainly have been heightened since Sept. 11," said Jon Farber, assistant vice president of Global Technology Underwriting.
+     "Just like with physical terrorism there are certain obvious targets," Lovaas said. "Our financial institutions, government and other" high profile entities are often physical targets. "With cyberterrorism that won't be any different."
+    Agents confirmed that fears about cyberterrorism are on the rise and that they are educating clients about possible risks.
+     SueEllen Chastan, vice president of Willis of Minnesota, said her agents plan to talk to clients about the new coverage options as their policies are renewed. But clients often call the agency first.
+     "The customers are bringing this up to us," Chastan said. "A lot of clients are still assessing their risk. They are fearful about [discovering] that there is a [serious] risk and then finding out that it's uninsurable."
+    Besides the St. Paul, a few excess and specialty insurers provide similar coverages, but usually with massive deductibles or huge premiums that start at $25,000, several agents said.
+     Jeanine Loomis, an account representative with CFG Insurance in Minnetonka, said her clients worry about legal defense costs if they are sued because someone invaded their Web site or gained access to private customer records.
+     Copyright and trademark infringement lawsuits cost a minimum of $250,000 to defend, said St. Paul's e-commerce underwriting director, Aaron Latto.
+     He recommended that those insured change passwords often, conduct security audits, install more firewalls and patches in their systems, screen links thoroughly and watch out for domain name abuses, hidden text and unauthorized "cookies," which vendors might use to track customers' Web travels without permission.
+_ Dee DePass is at ddepass@startribune.com.  
+
+Load-Date: November 18, 2001
+
+
+End of Document

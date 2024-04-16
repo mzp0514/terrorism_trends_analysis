@@ -1,0 +1,48 @@
+NSA spying under fire: 'You've got a problem'
+The Bismarck Tribune
+July 18, 2013 Thursday
+
+
+Copyright 2013 The Bismarck Tribune, a division of Lee Enterprises All Rights Reserved
+Section: WIRE; Pg. A1
+Length: 1024 words
+Byline: PETE YOST Associated Press
+Body
+
+
+WASHINGTON - In a heated confrontation over domestic spying, members of Congress said Wednesday they never intended to allow the National Security Agency to build a database of every phone call in America. And they threatened to curtail the government's surveillance authority.
+Top Obama administration officials countered that the once-secret program was legal and necessary to keep America safe. And they left open the possibility that they could build similar databases of people's credit card transactions, hotel records and Internet searches.
+The clash on Capitol Hill undercut President Barack Obama's assurances that Congress had fully understood the dramatic expansion of government power it authorized repeatedly over the past decade.
+The House Judiciary Committee hearing also represented perhaps the most public, substantive congressional debate on surveillance powers since the 9/11 terrorist attacks. Previous debates have been largely theoretical and legalistic, with officials in the Bush and Obama administrations keeping the details hidden behind the cloak of classified information.
+That changed last month when former government contractor Edward Snowden leaked documents to the Guardian newspaper revealing that the NSA collects every American's phone records, knowing that the overwhelming majority of people have no ties to terrorism.
+Civil rights groups have warned for years that the government would use the USA Patriot Act to conduct such wholesale data collection. The government denied it.
+The Obama administration said it needs a library of everyone's phone records so that when it finds a suspected terrorist, it can search its archives for the suspect's calling habits. The administration said the database was authorized under a provision in the Patriot Act that Congress hurriedly passed after 9/11 and reauthorized in 2005 and 2010.
+The sponsor of that bill, Rep. James Sensenbrenner, R-Wis., said Wednesday that Congress meant only to allow seizures directly relevant to national security investigations. No one expected the government to obtain every phone record and store them in a huge database to search later.
+As Deputy Attorney General James Cole explained why that was necessary, Sensenbrenner cut him off and reminded him that his surveillance authority expires in 2015.
+"And unless you realize you've got a problem," Sensenbrenner said, "that is not going to be renewed."
+He was followed by Rep. Jerry Nadler, D-N.Y., who picked up where his colleague left off. The problem, he said, is that the administration considers "everything in the world" relevant to fighting terrorism.
+Later, Rep. Blake Farenthold, R-Texas, asked whether the NSA could build similar databases of everyone's Internet searches, hotel records and credit card transactions.
+Robert S. Litt, general counsel in the Office of Director of National Intelligence, didn't directly answer, saying it would depend on whether the government believed those records - like phone records - to be relevant to terrorism investigations.
+After the phone surveillance became public, Obama assured Americans that Congress was well aware of what was going on.
+"When it comes to telephone calls, every member of Congress has been briefed on this program," he said.
+Whether lawmakers willingly kept themselves in the dark or were misled, it was apparent Wednesday that one of the key oversight bodies in Congress remained unclear about the scope of surveillance, more than a decade after it was authorized.
+Gathering info
+The Judiciary Committee's senior Democrat, Rep. John Conyers of Michigan, noted that the panel had "primary jurisdiction" over the surveillance laws that were the foundation for the NSA programs. Yet one lawmaker, Rep. Ted Poe, R-Texas, said some members of Congress wouldn't have known about the NSA surveillance without the sensational leaks: "Snowden, I don't like him at all, but we would never have known what happened if he hadn't told us."
+The NSA said it only looks at numbers as part of narrow terrorism investigations, but that doesn't tell the whole story.
+For the first time, NSA deputy director John C. Inglis disclosed Wednesday that the agency sometimes conducts what's known as three-hop analysis. That means the government can look at the phone data of a suspect terrorist, plus the data of all of his contacts, then all of those people's contacts, and finally, all of those people's contacts.
+If the average person calls 40 unique people, three-hop analysis could allow the government to mine the records of 2.5 million Americans when investigating one suspected terrorist.
+Rep. Randy Forbes, R-Va., said such a huge database was ripe for government abuse. When Inglis said there was no evidence of that, Forbes interrupted:
+"I said I wasn't going to yell at you and I'm going to try not to. That's exactly what the American people are worried about," he said. "That's what's infuriating the American people. They're understanding that if you collect that amount of data, people can get access to it in ways that can harm them."
+The government said it stores everybody's phone records for five years. Cole explained that because the phone companies don't keep records that long, the NSA had to build its own database.
+Rep. Steve King, R-Iowa, asked why the government didn't simply ask the phone companies to keep their data longer. That way, the government could ask for specific information, rather than collecting information on millions of innocent people.
+Inglis said it would be challenging, but the government was looking into it.
+Near the end of the hearing, Litt struck a compromising tone. He said national security officials had tried to balance privacy and security.
+"If the people in Congress decide that we've struck that balance in the wrong place, that's a discussion we need to have," he said.
+Obama, too, has said he welcomes the debate over surveillance. But his administration never wanted the debate to be quite so specific.
+That was obvious when Rep. Bob Goodlatte, R-Va., asked Litt whether he really believed the government could keep such a vast surveillance program a secret forever.
+"Well," Litt replied, "we tried."
+
+Load-Date: July 18, 2013
+
+
+End of Document

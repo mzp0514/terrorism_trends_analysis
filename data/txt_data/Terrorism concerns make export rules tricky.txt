@@ -1,0 +1,52 @@
+Terrorism concerns make export rules tricky
+Star Tribune (Minneapolis, MN)
+May 20, 2012 Sunday
+METRO EDITION
+
+
+Copyright 2012 Star Tribune All Rights Reserved
+Section: BUSINESS; Pg. 1D
+Length: 1068 words
+Byline: JIM SPENCER; STAFF WRITER, STAR TRIBUNE (Mpls.-St. Paul)
+Highlight: A Minnesota shipment that ended up in Iraq IEDs raises questions about whether restrictions are adequate.
+Body
+
+
+WASHINGTON - The international shipment of thousands of wireless networking components in October 2007 seemed suspicious, so the U.S. Commerce Department started asking questions.
+The Minnesota manufacturer didn't have many answers. The buyers wouldn't reveal the parts' destination. Then they said Singapore. A month later, the Philippines.
+The end user and intended use of the parts were also mysterious. First, the buyers claimed a nondisclosure agreement. Pressed, they named an electronics firm and a Singapore telecom project.
+Despite the warning signs, the government lacked proof of criminal intent. So it released the shipment.
+Six weeks later the parts were in Iran being put into improvised explosive devices (IEDs) meant to kill U.S. military men and women in Iraq.
+This sequence of events, described in a federal indictment, exposes potentially deadly holes in the U.S. export control system, experts say. It took four years, until October 2011, for the government to arrest four people. U.S. authorities have yet to get the accused terrorist suppliers transferred to this country to face trial.
+But, experts add, reforms currently under consideration likely can't fill those holes without also throwing sand in the gears of international trade.
+"What we're talking about here are low-level things that aren't controlled and shouldn't be," said Ben Flowe of Washington's Berliner, Corcoran Rowe law firm. "The difficulty is trying to do what's effective and what doesn't burden the 99 percent of law-abiding activities."
+Few, if any, restrictions apply to items such as the electrical circuitry that powers garage door openers, cellphones and networking devices.
+But these parts can also detonate terrorist bombs that kill and maim, and their export for destructive purposes has become a growing problem.
+"This is the nexus of war and commerce," said Kevin Delli-Colli, a former deputy assistant secretary of commerce for export enforcement. "Until this conflict, we didn't have to deal with it on this scale."
+Export control expert Brandt Pasco of the Washington law firm Kaye Scholer says there are practical limits to what government can do.
+"Improvised explosive devices are just that -- improvised," Pasco said. "They are made out of what's available. You can't control everything without paralyzing society."
+Disruptions in the international supply chain can cost money and jobs. Minnesota exported a record $20.3 billion worth of agricultural, mining and manufactured products in 2011, the state's Department of Employment and Economic Development reported recently.
+Meanwhile, shipping certain products abroad comes with a built-in risk.
+Now a senior manager at Deloitte Financial Advisory Services, Delli-Colli cautions businesses to maintain export compliance plans, even though no law requires that.
+Businesses whose exports end up in the wrong hands can be charged criminally or fined civilly. Ignoring warning signs or purposely avoiding information "has the same legal status as knowing someone is doing something wrong," Delli-Colli said.
+No one can say how many of the parts in the suspicious Minnesota shipment were placed in IEDs in Iraq or how many, if any, U.S. troops they killed or maimed. But the products were found in 16 unexploded IEDs. The company that made and sold them has not been charged with any crime, nor has it been fined, a U.S. Justice Department spokesman said.
+Instead, federal prosecutors are trying to bring buyers arrested in Singapore in October to this country to stand trial.
+The buyers "lied to the Minnesota company repeatedly about the final end-use, end-destination and end-user of the goods," Justice Department spokesman Dean Boyd said in a statement. He declined to discuss whether the buyers' behavior should have triggered reports to the government or stopped the sale.
+Government officials have never named the Minnesota company. CBS has reported that it was Digi International of Minnetonka.
+In a statement to the Star Tribune, the company said, "Digi was not a target in the government investigation and did not receive any sanction or disciplinary action." It did not confirm or deny whether it sold the modules.
+Commerce Department officials declined to explain how and when businesses should report any of 13 "red flag indicators" listed on the agency's website. These include customers "reluctant to offer information about the end use of the item." The list also warns against buyers who are "evasive and especially unclear" about final destinations.
+Still, for all of the government's guidance, no law or regulation requires exporters to report suspicious activity.
+"It's a compliance-based system not unlike the income tax," said Pasco, a founding member of the National Security Council Task Force on Export Control Reform. "The company decides when they need to file."
+Pasco said "robust human intelligence" is the solution to what happened in the Minnesota case, not restrictive export controls.
+A new Government Accountability Office report on export controls suggests consolidation and simplification of the export control process with responsibility moved from other agencies to the Commerce Department. The government also maintains lists of thousands of foreign "entities" considered to be "acting contrary to the national security or foreign policy interests of the United States." The country has expanded export licensing requirements for items sold to those on the list.
+Even with reform, export lawyer Flowe said, new rules generally will not legally force businesses to screen or license nonmilitary exports. Mostly, he said, it is a "mushy don't do evil" directive.
+Many businesses check buyers against government lists of prohibited items and purchasers, as well as forbidden international destinations. But no legally prescribed standard of scrutiny for dual-use items exists and none is forthcoming.
+In January, the Commerce Department's Bureau of Industry and Security civilly fined air freight handler FedEx $370,000 for six off-limits shipments between 2004 and 2006. FedEx said the shipments were inadvertent.
+Lawyers say criminal prosecutions for export control violations depend on proving that a business knew it was selling or shipping to forbidden buyers or locations. Most of the time, that is not the case, Pasco pointed out.
+"I have yet to work with a company that would willingly hurt the U.S.," he said.
+Jim Spencer - 202-408-2752
+
+Load-Date: May 21, 2012
+
+
+End of Document

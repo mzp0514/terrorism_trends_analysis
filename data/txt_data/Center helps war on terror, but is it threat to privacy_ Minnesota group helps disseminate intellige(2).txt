@@ -1,0 +1,71 @@
+Center helps war on terror, but is it threat to privacy?; Minnesota group helps disseminate intelligence, but some fear its reach.
+Star Tribune (Minneapolis, MN)
+November 5, 2007 Monday
+Metro Edition
+
+
+Copyright 2007 Star Tribune All Rights Reserved
+Section: NEWS; Pg. 1A
+Length: 1240 words
+Byline: Dan Browning, Mark Brunswick, Staff Writers
+Body
+
+
+Minutes after the I-35W bridge collapsed into the Mississippi River, the Department of Homeland Security's National Operations Center called Mike Bosacker wanting to know what was going on, and whether terrorism might have been involved.
+Bosacker got the call because he and nine analysts work at the Minnesota Joint Analysis Center (MNJAC) in Minneapolis.
+Known generically as an information "fusion center," MNJAC is one of more than 40 such centers that grew out of the Sept. 11, 2001, terrorist attacks to ensure that future threats wouldn't fall through the cracks that traditionally have separated law enforcement and intelligence agencies.
+Next year, MNJAC is expected to seek funding from state taxpayers for the first time.
+But the idea of fusion centers worries some legislators and data privacy experts, who have raised concerns of privacy violations and unwarranted domestic spying. Bosacker said that soon after the 35W bridge collapsed this summer, the U.S. Army Corps of Engineers sent MNJAC video that helped investigators quickly quell terrorism concerns, according to special agent Paul McCabe, spokesman for the Federal Bureau of Investigation's Minneapolis office.
+Coordinating that kind of rapid information-sharing is just how the fusion centers are supposed to work, Bosacker said.
+"The criticism before 9/11 was that nobody was sharing information," McCabe said. "The feds weren't sharing with the locals. The CIA wasn't sharing with the FBI. The FBI wasn't sharing with anyone. And [fusion centers] is one way of getting the information out there, disseminating information."
+But some fear that fusion centers such as MNJAC could end up sharing the wrong kind of information for the wrong reasons. According to a recent Congressional Research Service report, "The concern is to what extent, if at all, First Amendment protected activities may be jeopardized by fusion center activities."
+With the Republican National Convention coming to Minnesota next year, some legislators say they don't know enough about MNJAC and want to ensure that it won't be used to spy on protest groups without just cause.
+Rep. Mary Liz Holberg, R-Lakeville, said she has concerns about the information MNJAC may be storing. In 2003, a computer hacker found a law enforcement file on her in a massive state database that MNJAC might be expected to tap into. Holberg warned state officials of the hacker's encroachment, prompting the state to temporarily shut it down.
+"I need to make sure that there is an audit trail to find who has access to the database and what they do with it," Holberg said. "There's been abuses in the past and we don't need them again."
+Bosacker said he understands such concerns but considers them overwrought.
+"We're not trying to keep books on people who are not engaged in crime," he said. "But we also have an obligation to protect people from criminal behavior, and that's what this is about."
+Police-state fears
+The 9/11 Commission found that the hijacker terrorists might have been stopped if intelligence and law enforcement agencies hadn't hoarded information about them in separate silos.
+In 2004, Congress passed the Intelligence Reform and Terrorism Prevention Act, requiring an information-sharing network among federal, state, local and tribal agencies and certain segments of the private sector.
+Hennepin County Sheriff Rich Stanek, who was commissioner of the Minnesota Department of Public Safety and the state's homeland security director at the time, helped launch MNJAC in early 2005 with a federal grant and space at the FBI's headquarters building in Minneapolis.
+MNJAC acts as an analytical center and a multidirectional relay for crime and homeland security information. An example of its work came after the 2005 London subway bombings, when MNJAC sent alerts to law enforcement, military and agencies that monitor critical infrastructure about what to watch for in similar attacks. MNJAC also sends data to federal authorities and fusion centers in other states to alert them to crime trends, such as the recent rash of Minnesota thieves targeting copper tubing.
+But after some initial successes, Stanek said, "the whole project kind of wavered, mostly because Minnesota's privacy laws hampered information-sharing with outside agencies.
+Technically, Bosacker said, the center didn't keep any data at the time; the files all resided on the FBI's website, which MNJAC managed. But in June, the state Bureau of Criminal Apprehension (BCA) brought the fusion center under its umbrella so the analysts could work on criminal investigations.
+"Our records are part of BCA records, so any of the same restrictions or rules that apply to BCA law enforcement records apply to us now, too," Bosacker said.
+Don Gemberling, former director of the state's Information Policy Analysis Division, said a primary worry is the potential for abuse and errors, including putting the names of people in the information systems who may not belong there, and having a lack of transparency.
+"People can't find out that they are in the database, they can't do anything if something happens to them because they think they are in the database," Gemberling said. "To me, its antithetical to the way we think about how a democracy ought to be run. That's police-state crap."
+Prevention is goal
+Fusion centers are part of a transformation that seems common sense to some and dangerous to others. In a July report, the Congressional Research Service wrote that fusion centers "represent a fundamental change in the philosophy toward homeland defense and law enforcement," which it calls "a more proactive approach."
+That concerns Minneapolis attorney Paul Engh, who represents terrorism suspect Mohamad Kamal Elzahabi and has protested the surreptitious recording of their conversations.
+The problem with terrorism investigations is that they're beyond public review, Engh said. "You have no idea what they're doing. There aren't any numbers. There aren't any prosecutions. There are no reports anyone can see. So it's a world of unaccountability - that's the problem with it."
+Philip Mudd, a former deputy director of the CIA's counterterrorism center who now is second in command of the FBI's national security branch, said the number of terrorism prosecutions doesn't matter.
+Mudd said the agency is evolving away from the law enforcement/prosecution model toward a prevention model.
+"I could care less whether we ever do a terrorism prosecution," Mudd said. "I don't care. I am worried about whether we know who these folks are."
+Some of the reporting for this story was done in Washington in May as part of a workshop sponsored by the McCormick Tribune Foundation at the Johns Hopkins University School of Advanced International Studies.
+dbrowning@startribune.com - 612-673-4493 mbrunswick@startribune.com - 651-222-1636
+CURRENT AND PLANNED FUSION CENTERS
+Fusion centers, an outgrowth of the 9/11 terrorist attacks, have sprung up around the country to facilitate the sharing of intelligence about counter-terrorism and criminal activities.
+Minneapolis, MN: Minnesota Joint Analysis Center (MNJAC)
+Bismark, N.D.: North Dakota Homeland Security Fusion Center
+Madison, WI: Wisconsin Statewide Intelligence Center
+(See microfilm for complete map/chart)
+Source: Congressional Research Service, September 2007
+On Politically Connected: Weigh in
+- and learn more - about security and protests at political conventions.
+Go to www.startribune.com/blogs/mcmemo.
+
+Notes
+
+See microfilm for complete chart.
+
+Graphic
+
+ 
+CHART
+MAP
+PHOTO
+
+Load-Date: November 12, 2007
+
+
+End of Document

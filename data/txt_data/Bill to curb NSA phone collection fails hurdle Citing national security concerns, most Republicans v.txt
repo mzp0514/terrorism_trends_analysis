@@ -1,0 +1,33 @@
+Bill to curb NSA phone collection fails hurdle; Citing national security concerns, most Republicans vote to block it
+The Tampa Tribune (Florida)
+November 19, 2014 Wednesday
+
+
+Copyright 2014 Times Publishing Company All Rights Reserved
+Section: NATION & WORLD; NationWorld; Pg. 20
+Length: 531 words
+Byline: KEN DILANIAN
+
+The Associated Press
+Dateline: WASHINGTON 
+Highlight: Some Republicans oppose Senate bill to curb NSA's collection of domestic phone records
+Body
+
+
+- The fate of President Barack Obama's proposal to end bulk collection of American phone records by the National Security Agency was in doubt Tuesday as key Republican senators blocked it. Tuesday's vote was largely along party lines, with most Democrats backing the bill and most Republicans voting to kill it. 
+The White House-backed legislation, known as the USA Freedom Act, failed a cloture vote in the Senate, meaning that 60 votes would be required to allow final consideration. Forty-one senators voted against it. 
+The bill would end the NSA's collection of domestic calling records, instead requiring the agency to obtain a court order each time it wants to analyze the records in terrorism cases, and obtain the records from the telephone companies. In many cases the companies store the records for 18 months.
+The revelation that the spying agency had been collecting and storing domestic phone records since shortly after the terrorist attacks of Sept. 11, 2001, was among the most significant by Edward Snowden, a former agency network administrator who turned over secret NSA documents to journalists. The NSA says it queries the records about 300 times a year, using known terrorist phone numbers, to determine whether any plots are active inside the United States.
+Senate Minority Leader Mitch McConnell, R-Ky., said he would oppose the USA Freedom Act because it would hinder the ability of intelligence community analysts to query a database to determine links between potential terrorists. He urged colleagues to oppose the measure.
+McConnell pointed out that the bill includes no requirement that the telephone companies continue to hold the data.
+Another Republican, Sen. Rand Paul of Kentucky, has said he will vote no for a different reason: He doesn't believe the bill goes far enough in preventing the NSA from examining domestic records.
+Obama first proposed ending the NSA bulk collection of phone records in January, and the Republican-controlled House passed a bill to accomplish that in May. If the Senate bill passes, congressional lawmakers would need to fashion a compromise measure for another vote by both chambers.
+The NSA collects domestic landline calling metadata showing numbers called and times of calls, but not names or the content of conversations. Obama's proposal has not affected that practice.
+If no bill passes Congress, the provision of the post-9/11 USA Patriot Act that authorizes the bulk collection will expire at the end of 2015.
+Current and former intelligence officials disagree about whether the phone record searching is a crucial counter terrorism tool. The U.S. has only been able to point to a single case that came to light exclusively through a search of domestic phone records: an Anaheim, California, cab driver who was sentenced earlier this year to six years in prison for sending money to Somalia's al-Qaida affiliate.
+As it stands, officials have said, the program is not gathering most cell phone billing records, which account for an increasing share of domestic phone calls. Under both the House and the Senate bills, the NSA would be able to query those records, provided the agency can work through the technical hurdles.
+
+Load-Date: November 19, 2014
+
+
+End of Document

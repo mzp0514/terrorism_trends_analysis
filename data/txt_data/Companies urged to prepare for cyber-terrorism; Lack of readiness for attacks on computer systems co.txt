@@ -1,0 +1,39 @@
+Companies urged to prepare for cyber-terrorism; Lack of readiness for attacks on computer systems could result in liabilities
+Business Insurance
+July 8, 2002, Monday
+
+
+Copyright 2002 Crain Communications Inc.
+Section: Pg. 4
+Length: 678 words
+Byline: GAVIN SOUTER
+Body
+
+
+NEW YORK-Directors and officers of public companies could face increased liabilities if heightened fears of cyber-terrorism attacks prove justified, a panel of experts warns.
+After a cyber-terrorism attack, directors and officers will likely be scrutinized to ascertain whether they had done enough to prevent such an attack.
+The terrorist attacks of Sept. 11 increased fears about all types of terrorism, said Alice S. Fisher, deputy assistant attorney general at the U.S. Department of Justice in Washington. And the al Qaeda terrorist organization made it clear, even before the attacks, that it would target U.S. citizens and buildings, she added.
+''The U.S. infrastructure is a prime target,'' said Ms. Fisher at a seminar on corporate governance sponsored by Marsh Inc. in New York late last month.
+Given the growing dependence of many elements of the nation's infrastructure on computers, terrorists may view cyber-terrorism as an effective way to carry out attacks, Ms. Fisher said. ''Although there has been no cyber-terrorism attack yet that we've prosecuted, we are very sensitive to this possibility,'' she said.
+The most likely targets for a cyber-terrorism attack, according to Ms. Fisher, are organizations involved in telecommunications, banking and other financial services, electrical power, oil and gas pipelines, transportation networks and other distribution systems, emergency services, government operations and food supply.
+Those companies also face heightened expectations regarding corporate governance, said James E. Tyrrell, a managing partner of law firm Latham & Watkins in Newark, N.J.
+Previously, company directors would not be held liable for losses if they showed a ''a reasonable duty of care,'' he said.
+''But post-Enron, judges and juries won't allow you to be that passive. They require now that you have an affirmative duty of oversight,'' Mr. Tyrrell said.
+That duty of oversight includes a requirement that board members obtain sufficient information to make governance decisions and that they have adequate due diligence systems in place, he said.
+For example, boards cannot just hire outside experts to advise them on matters such as security against cyber-terrorism, Mr. Tyrrell said. ''You have to make sure that this person has the necessary expertise to address the problem,'' he said.
+Company boards should ensure protocols are in place to protect their companies against cyber-terrorism attacks, said Christopher Keegan, vp and regional practice leader of e-Business Solutions at Marsh in New York.
+First, boards should ensure that they focus on the area of their business that could suffer the most from cyber-attacks, he said. In some cases, that area might be e-mail or online trading or another Internet-related function, he said.
+Directors should also actively promote ''safe behavior'' by having competent personnel in place and informing them of their expectations for the management of computer systems, Mr. Keegan said.
+They should also ensure that technical solutions, such as firewalls, are in place, he said.
+Directors should also reward employees for complying with security protocols and ensure that deterrents are in place for breaches of security, Mr. Keegan said.
+Directors should also ensure that an aggressive intrusion detection system is in place and that the organization has a recovery plan in the event of a cyber-attack, he said.
+Having done what they can to reduce the risk of a cyber-attack, directors and officers should also review what insurance coverage arrangements they have in place, Mr. Keegan said.
+In many cases, terrorism coverage has been excluded from insurance policies since the Sept. 11 attacks he said.
+However, specialist cyber insurance policies do not exclude coverage for terrorism losses, Mr. Keegan said.
+''They have continued to take that tack because the defenses are similar to defenses against hackers,'' he said.
+The policies typically can cover theft of information, copyright infringement, security liability, software errors and omissions liability and loss of data, Mr. Keegan said.
+
+Load-Date: July 12, 2002
+
+
+End of Document

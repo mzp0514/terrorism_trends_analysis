@@ -1,0 +1,34 @@
+Where terrorism alleged, harsh sentencing guidelines are valid
+The Daily Record of Rochester (Rochester, NY)
+February 12, 2003 Wednesday
+
+
+Copyright 2003 Dolan Media Newswires     All Rights Reserved
+Section: NEWS; Legal activity (lawsuits etc.)
+Length: 801 words
+Byline: Jill Miller
+Body
+
+
+Does the terrorism guideline, § 3A1.4 of the U.S. Sentencing Guidelines double count by increasing both the offense level and the criminal history category for a felony involving an act of terrorism?
+This was the central issue on appeal before the U.S. Court of Appeals for the Second Circuit in USA v. Mokhtar Haouari. The defendant appealed a judgment of the U.S. District Court for the Southern District of New York, following a jury trial, convicting him of conspiracy to provide material support to a terrorist act and four counts of fraud. Specifically, the defendant asserts that the U.S. Sentencing Guidelines double count a criminal act by increasing both the offense level and the criminal history category for felonies involving an act of terrorism.
+After a review of the U.S. Sentencing Guidelines and the facts of the case, the Second Circuit affirmed the district court's judgment and held, "this double counting is permissible because Congress has the power to prescribe a sentencing formula that accounts for the same factor more than once."
+The Facts
+According to the evidence presented at trial, the defendant, Mokhtar Haouari conspired with Ahmed Ressam and Abdelghani Meskini to bomb Los Angeles International Airport during the millennium celebration in December 1999.
+At Ressam's request, Haouari recruited Meskini to help Ressam after Ressam arrived from Seattle, from Canada. Specifically, Meskini was to provide Ressam with money and a fake driver's license.
+Haouari arranged the passports and visas for Ressam and Meskini to use when they escaped the U.S. to Algeria, Pakistan and Afghanistan. The plot was uncovered when Ressam was arrested at the Canadian border on December 14, 1999. His car was filled with explosives.
+Ressam was convicted in the District Court for the Central District of California and agreed to testify against Haouari. Meskini pleaded guilty to the indictment in this case on March 7, 2001 and also testified against Haouari.
+On July 13, 2001 Haouari was convicted, by a jury, of conspiracy to provide material support to a terrorist act, 18 U.S.C. § 371 and four counts of fraud, 18 U.S.C. §§ 371, 1028(2) and (7) and 1029(a)(2). He was sentenced to 288 months in prison.
+On appeal, Haouari asserts that § 3A1.4 of the U.S. Sentencing Guidelines violates his right to due process by double counting the same criminal act, once for the offense level and once for the criminal history category.
+Court Ruling
+In order to render a decision the Second Circuit reviewed §3A1.4 of the Sentencing Guidelines. Specifically the Guideline states: "(a) If the offense is a felony that involved, or was intended to promote, a federal crime of terrorism, increase by 12 levels; but if the resulting offense level is less than 32, increase to level 32. (b) In each such case, the defendant's criminal history category from Chapter Four (Criminal History and Criminal Livelihood) shall be Category VI."
+The court then turned to the case at hand and noted that the district court added 12 points to Haouari's offense level, bringing the total to 33. His criminal history category was increased from I to VI. This resulted in a sentencing range of 235 to 293 months.
+"Congress and the Sentencing Commission has a rational basis for concluding that an act of terrorism represents a particularly grave threat because of the dangerousness of the crime and the difficulty of deterring and rehabilitating the criminal, and thus that terrorists and their supporters should be incapacitated for a longer period of time," wrote Chief Judge John M. Walker, Jr. in the decision for the court. "Thus, the terrorism guideline legitimately considers a single act of terrorism for both the offense level and the criminal history category."
+Haouari asserts "because § 3A1.4(b) automatically increases the criminal history to Category VI for a single act of terrorism, a first time offender with no prior criminal behavior would unfairly receive a sentence roughly equivalent to that of a life long terrorist." He also points out that he does not have any prior convictions in the U.S.
+"In any event, Haouari plainly does not present such an exceptional case, because he has an extensive history of crime," Judge Walker found. "At trial Haouari conceded that he was a long-time criminal, 'a semi-retired con man, … a two bit thief,' and the court record indicates an extensive history of fraud. Many of these fraudulent schemes were similar to the ones that Haouari employed to support Ressam's terrorist plot to blow up Los Angeles International Airport. Coming from Haouari, his complaint that § 3A1.4(b) is unfair to defendants without a criminal history rings particularly hollow."
+The Second Circuit found Haouari's remaining arguments to be without merit and affirmed the judgment of the district court.
+
+Load-Date: February 12, 2003
+
+
+End of Document

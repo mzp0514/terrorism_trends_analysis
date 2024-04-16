@@ -1,0 +1,45 @@
+CLARKE CHIMES IN ON STUXNET CASE
+Pittsburgh Post-Gazette
+March 29, 2012 Thursday
+PITTSBURGH PRESS EDITION
+
+
+Copyright 2012 P.G. Publishing Co.
+Section: HEALTH, SCIENCE, MEDICINE & TECHNOLOGY; TECHMAN; Pg. A-2
+Length: 479 words
+Byline: Ced Kurtz
+Body
+
+
+You may have heard the name Richard Clarke.
+Mr. Clarke was chief counter-terrorism adviser on the National Security Council under President Clinton. He became the Special Advisor to the President on cybersecurity, before leaving the Bush administration in 2003.
+He testified before the 9/11 Commission and was sharply critical of the Bush White Houses's attitude toward counter-terrorism before the 9/11 attacks, and of the decision to go to war with Iraq. His testimony included the much-quoted remark to 9/11 victims' families, "Your government failed you."
+Mr. Clarke has written a number of books, including two thriller novels about cyberterrorism.
+Always controversial, Mr. Clarke has again chimed in.
+He told Smithsonian magazine that the U.S. was behind the Stuxnet malware that attacked an Iranian nuclear facility in 2010 and damaged centrifuges being used to concentrate fissionable materials.
+"I think it's pretty clear that the United States government did the Stuxnet attack," he said.
+Stuxnet was "weaponized" malware and was very specifically designed to attack only the motors of the centrifuges in the Iranian facility.
+This is one reason Mr. Clarke gives for believing it to be of U.S. origin.
+He said that in his experience, in planning any covert action, government lawyers insist that there be no collateral damage. Stuxnet was written with such a specific target for this reason.
+But Stuxnet got out and now anyone can find copies of it on the Internet.
+Mr. Clarke said lawyers looking at the operation would have required a TTL or Time to Live mechanism built into Stuxnet, so after it did its work, it would destroy itself.
+But there was a mistake and the destruction command failed.
+Why did it fail?
+"TTL operates off of a date on your computer. Well, if you are in China or Iran or someplace where you're running bootleg software that you haven't paid for, your date on your computer might be 1998 or something because otherwise the bootleg 30-day trial TTL software would expire," Mr. Clarke said.
+He concedes that is but one theory. Stuxnet had been spotted before the Iran attack and the theory was that it was being tested.
+In fact, most thinking was that Israel was the author of Stuxnet. Mr. Clarke said Israel might have had a role, but a small one.
+Is Mr. Clarke's reasoning accurate?
+Or is he just trying to draw attention to his recent book, "Cyber War," which argues that the United States has developed the capability to conduct an offensive cyberwar but has virtually no defense against the cyberattacks that he says are targeting us now, and will be in the future.
+It's not possible to say with certainty and we may never know who authored Stuxnet.
+But one thing that's clear is that the law of unintended consequences is very strong on the Internet.
+Any cyberweapon that a nation state puts out on the Net is very likely to fall into the hands of others.
+
+Graphic
+
+ 
+PHOTO: Paul Sakuma/Associated: Press Richard Clarke, the White House's senior cybersecurity adviser, outlines the administration's cyberspace security recommendations at Stanford University in 2002. Mr. Clarke is an outspoken figure in cybersecurity and says that the Stuxnet computer malware was a U.S. covert operation. \
+
+Load-Date: March 31, 2012
+
+
+End of Document

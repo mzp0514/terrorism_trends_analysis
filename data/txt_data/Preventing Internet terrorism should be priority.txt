@@ -1,0 +1,25 @@
+Preventing Internet terrorism should be priority
+University Wire
+January 30, 2003, Thursday
+
+
+Copyright 2003 Minnesota Daily via U-Wire
+Section: EDITORIAL
+Length: 384 words
+Byline: Staff Editorial, Minnesota Daily
+Dateline: Minneapolis
+Body
+
+
+Conventional terrorism and bioterrorism might not be the only worries for the United States because of the recent emergence of computer terrorism. Press coverage of Internet viruses and worms has been scant. However, computer terrorism should not be taken less seriously than other, more traditional forms.
+U. Minnesota
+Over the weekend, a rogue program developed and launched in Hong Kong hit the Internet; this attack cost the Internet industry billions of dollars and disrupted 911 services as well as banking operations. The developer of the program, SQL Slammer, could face life in prison if ever caught, but prevention, detection and apprehension is a very slow process compared to instant technology.
+Hackers continue to develop new ways to thwart systems almost as soon as patches are released. Internet viruses and worms cost very little to produce, but economic effects can be extremely large. Agencies could be drained of funds. Information vital to national security, privacy and policy could be compromised. The dependence on technology by nearly all sectors of U.S. commerce is troublesome. Hackers are difficult to track down and can house operations anywhere in the world. Additionally, detrimental programs cannot be detected until they actually do damage. Attacks take mere minutes to spread from the coasts of Asia to the United States.
+So far, the United States has only suffered localized Internet attacks. A large-scale assault by Internet hackers has yet to be realized mainly because computer hackers are largely individualized parties. Yet, as hackers pool their resources and targets become grandly specialized, the institutions of the United States come closer to peril.
+Attacks from global hackers are more viable and thus more plausible than launched missiles. The potential financial impact from a relentless and apocalyptic computer program far outweighs the dangers posed by dormant ballistic missiles. An investment in shoring up the computer defenses of the U.S. government and connected agencies would be more beneficial to the safety and welfare of the American people. The United States' vulnerability to vicious computer attacks has yet to be seriously tested, and government acts of pre-emption in this instance are justified.
+(C) 2002 Minnesota Daily via U-WIRE
+
+Load-Date: January 30, 2003
+
+
+End of Document

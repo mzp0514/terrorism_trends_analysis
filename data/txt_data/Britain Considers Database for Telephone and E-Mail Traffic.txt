@@ -1,0 +1,31 @@
+Britain Considers Database for Telephone and E-Mail Traffic
+The New York Times
+October 16, 2008 Thursday
+Late Edition - Final
+
+
+Copyright 2008 The New York Times Company
+Section: Section A; Column 0; Foreign Desk; Pg. 11
+Length: 327 words
+Byline: By THE ASSOCIATED PRESS
+Dateline: LONDON 
+Body
+
+
+The British government is considering setting up a database of all phone and e-mail traffic in the country as part of a high-tech strategy to fight terrorism and crime, its senior law enforcement official said Wednesday.
+  The official, Home Secretary Jacqui Smith, said Britain's police and security services needed new ways to collect and store records of phone calls, e-mail messages and Internet traffic.
+  Technological changes have created an online world that is complex and fragmented, Ms. Smith said, and important information like telephone billing data is not always retained. New strategies are needed to find ''some way or other to collect that data and store it,'' she said.
+  Opposition politicians and civil liberties groups immediately  condemned the idea, and the country's independent reviewer of terrorism laws, Lord Carlile, said the government should not be allowed to set up a vast ''data warehouse.''
+  The Home Office said one option under consideration was the creation of a database that would store all phone numbers dialed, Web sites visited and e-mail addresses contacted by everyone in Britain.
+  Officials emphasized that such a database would not store the content of phone calls or e-mail messages.
+  But Chris Huhne, the domestic affairs spokesman for the opposition Liberal Democrats, accused the government of hatching ''Orwellian plans for a vast database of our private communications.''
+  A civil liberties group, Liberty, said there were ''huge dangers'' in collecting so much data about every person in the country. ''The bigger the data haul, the greater the temptation to treat innocent habits as suspicious behavior,'' said the group's policy director, Gareth Crossman.
+  Lord Carlile said any new law must include strict limitations and protections against abuse. 
+  The government said that the database was just one of several ideas being considered and that no bills would be drafted until after public consultation next year.
+
+http://www.nytimes.com
+
+Load-Date: October 16, 2008
+
+
+End of Document

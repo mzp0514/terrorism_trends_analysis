@@ -1,0 +1,59 @@
+Economic Scene; A market in terrorism indicators was a good idea; it just got bad publicity. - Correction Appended
+ The New York Times
+July 31, 2003 Thursday
+ Late Edition - Final
+
+
+ Correction Appended
+
+Copyright 2003 The New York Times Company
+Section: Section C; Column 1; Business/Financial Desk; Pg. 2
+Length: 1078 words
+Byline:   By Hal R. Varian;   Hal R. Varian is a professor of business, economics and information management at the University of California at Berkeley.
+Body
+
+
+THE Pentagon-sponsored futures market in terrorism indicators was announced and squashed in all of two days. Too bad. It was a good idea, killed by terrible public relations.
+     Consider the problem that intelligence agencies face. They have to consider the likelihood of various destabilizing events -- like assassinations or terrorist attacks. That's a major part of their job; there's no way around it. 
+ In assessing such likelihoods they draw on expert opinion, but they also make considerable use of market data -- oil price futures, currency exchange rates and the like -- to see how market traders assess risks of political instability.
+Markets do an awfully good job of forecasting many events and trends. The futures price for oil is about the best predictor available for this critical commodity, and it is widely used for forecasting by both political and economic analysts.
+The question is whether speculative markets would work well for other policy-relevant events.
+There is lots of evidence that they do. The Iowa Electronic Markets, www.biz.uiowa.edu/iem/, has been predicting election results for 12 years using a system very much like the one that the Defense Advanced Research Projects Agency at the Pentagon proposed.
+One of the markets the Iowa exchange offered was in vote shares: what fraction of the vote went to the Democratic or Republican candidate. It is particularly easy to assess the outcome of such a market and to compare it with alternative forecasts, like public opinion polls.
+As it turns out, these political stock markets provided somewhat better forecasts than polls right before the election -- and they provide much better (and less volatile) forecasts several months before the elections. Thus, markets do best exactly where the public opinion polls and expert opinion polls are weakest.
+This is not an isolated example. Similar markets have been organized to predict shifts in Federal Reserve monetary policy, the outcome of political conventions and sales of consumer products. The results are that markets typically perform at least as well, and generally better, than feasible alternatives, and they are much cheaper to organize.
+An online betting site based in Ireland, tradesports.com, is currently offering markets in "Kobe Bryant to be found guilty," "Next Supreme Court justice to leave bench," and "Gray Davis to be California governor on Dec. 31, 2003." Those concerned about the outcome of these events might be well advised to take a look at the odds, which reflect bettors' sentiments.
+There is good reason to believe that a market set up to forecast the sort of political instability that leads to terrorism might work well, too. At least, there is enough reason to warrant an experiment, given the high payoff to having better forecasts of these events.
+This is why the Pentagon thought it was important to finance research in this area.
+The objections raised by politicians and opinion writers were generally based on misunderstandings of what was actually proposed.
+Take the claim that terrorists could speculate in their own future activities and reap a windfall. First, the maximum gain from a trade was restricted to less than $100. This would not be of much help to terrorists' fund-raising activities.
+Second, the market would have been monitored for evidence of insider trading. If someone managed to circumvent the trading limits and made a significant amount of money speculating on a terrorist attack, you could be sure the C.I.A. would be right behind the I.R.S. in investigating.
+If the federal authorities were alert enough to find enough evidence to indict Martha Stewart, why would one think that Osama bin Laden would be able to avoid detection?
+There were also objections that the auctions were immoral.
+Senator Byron L. Dorgan, a Democrat of North Dakota, asked what would happen if another country set up a betting parlor where people wagered on the assassination of an American political figure.
+I'm sure he is right that there would be public outrage. But let's turn the question around: If such a market were put in place, should the Secret Service monitor it? If there were an assassination attempt, should the authorities look for suspicious prior trading activity? And the most important question of all: If the market indicated that the probability of an assassination attempt went up, should the target take extra care? If you were a potential target, wouldn't you want the best possible forecasts of possible attempts on your life? I would.
+I would also prefer that such forecasts not be quite so public. A private market in the probability of specific assassination attempts -- say within an expert community like the C.I.A. -- could make sense, assuming, of course, that it provided useful information.
+Would Mr. Dorgan object to such an internal market as a way of aggregating expert opinion? I hope not.
+In any event, assassination futures were not among the planned securities, contrary to most press reports. The market design allowed traders to propose securities in various events, and the Policy Analysis Market Web site speculated that some traders might propose to add securities in assassinations. That off-the-cuff speculative remark had fatal consequences, alas.
+The securities that were an essential part of the auction design were indexes of political, economic and military activity. The most useful such market would probably have been a market for futures in a "political instability index," a weighted average of various political indicators, like the number of mass demonstrations, unemployment levels, arrests -- and, yes, assassination attempts. (Type "political instability index" into Google for some examples.)
+If the markets had been pitched in this way, I doubt that there would have been many objections raised.
+But instead politicians, reporters and editorial writers mistakenly jumped onto "assassination and terrorist attack futures" as a fundamental part of the market design.
+Given the public outcry, it seems clear that there will not be a public market in assassination futures anytime soon. But there is no reason not to have a futures market in political, social and economic indicators, which is what the Pentagon's project was actually about.
+We desperately need better ways to forecast political instability, and the Policy Analysis Market had significant promise. It's sad to see poor public relations torpedo a potentially important tool for intelligence analysis.
+
+http://www.nytimes.com
+Correction
+
+
+The Economic Scene column in Business Day yesterday about an abandoned Pentagon plan to create a financial futures market to gauge threats from terrorist attacks misstated an indicator that it would have measured. In addition to political and economic indicators, the market would have measured military ones, not social ones.
+Correction-Date: August 1, 2003
+
+Graphic
+
+ 
+Photo: A futures market might bebased on a "political instability index," with one possible component being demonstrations like that in Geneva in June against the Group of 8. (Photo by Associated Press)      
+
+Load-Date: July 31, 2003
+
+
+End of Document

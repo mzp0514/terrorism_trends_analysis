@@ -1,0 +1,54 @@
+Terrorcrats amok Our view • Potential for abuse means NSA programs must be reined in.
+St. Louis Post-Dispatch (Missouri)
+June 10, 2013 Monday
+THIRD EDITION
+
+
+Copyright 2013 St. Louis Post-Dispatch, Inc. All Rights Reserved
+Section: EDITORIAL; Pg. A9
+Length: 1189 words
+Byline: By the Editorial Board
+Body
+
+
+Fifteen months ago, a man named James Bamford wrote an article for Wired magazine that disclosed that a massive data collection center was under construction in Bluffdale, Utah, 25 miles from Salt Lake City.
+"Under construction by contractors with top-secret clearances, the blandly named Utah Data Center is being built for the National Security Agency," wrote Mr. Bamford, who has written three books about the NSA.
+"A project of immense secrecy, it is the final piece in a complex puzzle assembled over the past decade. Its purpose: to intercept, decipher, analyze, and store vast swaths of the world's communications as they zap down from satellites and zip through the underground and undersea cables of international, foreign, and domestic networks. The heavily fortified $2 billion center should be up and running in September 2013. Flowing through its servers and routers and stored in near-bottomless databases will be all forms of communication, including the complete contents of private emails, cell phone calls, and Google searches, as well as all sorts of personal data trails - parking receipts, travel itineraries, bookstore purchases, and other digital ‘pocket litter.'"
+A few days after the article appeared, NSA Director Keith Alexander appeared before a House Armed Services subcommittee and 14 times denied that the NSA was monitoring the electronic communications of U.S. citizens.
+In light of that, and in light of last week's revelations about the government's PRISM and BLARNEY intelligence-gathering operations, some questions.
+• Does Mr. Alexander have a perjury problem?
+• Is everyone comfortable with the FBI and NSA having full and complete access not just to Verizon's business phone "metadata" (call records), but the Internet activity on Microsoft, Google, Apple, Facebook and other top providers and sites?
+• Does Section 215 of the Patriot Act, which allows the government to obtain secret warrants from the Foreign Intelligence Surveillance Act court, need to be reconsidered? Its author, Rep. James Sensenbrenner, R-Wisc., said last week that the act was never intended for mass data-mining operations, but rather for selective targeting of foreign terrorism activities.
+• How much explaining does President Barack Obama have to do? He promised the "most transparent" administration in history, but instead has embraced secrecy and an expansive view of executive powers.
+• How much explaining do Microsoft Google, Apple, Facebook and other Internet companies have to do? They all have claimed to jealously guard customer privacy, but all are obliged to accept directives from top intelligence agency officials to open their servers.
+• More fundamentally, do most Americans really care about privacy? We have, to a degree most of us do not fathom, divulged huge amounts of private information to commercial operations. Hardly any of us need to worry about the algorithms searching for terrorism-related keywords in what is the equivalent of 500 quintillion pages of text that will be stored in Utah.
+Now that The Guardian and The Washington Post have fleshed out Mr. Bamford's earlier reporting, Americans must decide if they want the Congress to rein in the administration and the intelligence agencies.
+This will be very difficult to do. Mr. Sensenbrenner is aghast at what happened to his Patriot Act, but key members of Congress have long known what's going on, and approved of it.
+As members of the Senate Intelligence Committee, they're not allowed to discuss secret briefings, but Sens. Ron Wyden, D-Oregon, and Tom Udall, D-Colo., have for years been hinting that things had gone too far. But Sen. Lindsey Graham, R-S.C., was perhaps more typical, saying that if people aren't communicating with terrorists, they have nothing to worry about.
+"I could say right now that we could step right up and change the law, but it's not likely to happen," Sen Dick Durbin, D-Ill., said last week.
+Fear of terrorism is the trump card. Since the Sept. 11, 2001, terrorist attacks, America has spent at least $100 billion building a mostly secret, largely unaccountable anti-terrorist infrastructure.
+Like any bureaucracy, its chief goal is to perpetuate itself. If challenged on its spending or operations, the terrorcrats can say, "Well, Mr. President (or senator or congressman), Sure, we could cut back. But I wouldn't want to be held responsible for what might happen."
+In today's partisan political climate, being called soft on terrorism carries huge risks. So we have imposed massive death-by-drone. We have kept Guantanamo open. We have built data centers to monitor all the fish in the sea in our search for rogue sharks.
+This works - as long as it's not abused. In our view, whether or not it has been approved by a court, mass data collection constitutes abuse. This thing needs to get stuffed back into its box.
+Civil libertarians on the left and gun-toting conservatives ought to find common ground here. Consider the furor that erupted in the Missouri Legislature this spring when Republicans learned that the Department of Revenue had been scanning drivers license application data. Ostensibly, the GOP feared that somehow this could help the feds track down gun owners.
+Maybe they're not using it now, and probably they never will. But if you don't think the NSA and the FBI already have all the capability they need to locate concealed-carry permit holders, or holders of hunting licenses, or people who have clicked on Websites for gun sales, the NRA or other pro-gun groups or message boards, then you haven't been paying attention.
+For his article in Wired in March 2012, Mr. Bamford interviewed William Binney, a crypto-mathematician who helped develop NSA's data gathering capabilities before leaving the agency in 2001. Mr. Binney held his thumb and forefinger close together, Mr. Bamford reported, and said, "We are, like, that far from a turnkey totalitarian state."
+---
+A weird warning
+Editor's note: While researching the accompanying editorial, we clicked on the Web link for the National Security Agency's new Utah Data Center. A warning box popped up on the screen. We don't know where it came from. For reasons that will become obvious as you read it, we doubt it came from the NSA. But eerily, someone had gained access to traffic into the NSA Website.
+IMPORTANT NOTICE
+It has recently been reported that the United States government monitors all Internet activity to seek info about possible NATIONAL SECURITY risks.
+Yet here you are looking for information about the most secret NSA data center in history. You do get the irony here, don't you? The very fact that you are looking for this information will likely be stored at some point inside the Utah Data Center!
+Now you can hit OK to confirm your intention to seek information on this TOP SECRET NSA data center. Or you can turn off your computer and maybe just go outside for some fresh air. But don't bring your phone with you because, well....
+Just take a nice walk somewhere where there are no surveillance cameras around. Maybe go look for a nice big open field. And if you see a small drone flying overhead, be sure to wave.
+Proceed citizen.
+
+Graphic
+
+ 
+ A rendering of NSA/Utah, where data is measured in zettabytes.     
+
+Load-Date: June 10, 2013
+
+
+End of Document

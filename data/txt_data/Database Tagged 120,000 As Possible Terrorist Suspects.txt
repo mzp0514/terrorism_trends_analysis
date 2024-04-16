@@ -1,0 +1,32 @@
+Database Tagged 120,000 As Possible Terrorist Suspects
+The New York Times
+May 21, 2004 Friday
+Late Edition - Final
+
+
+Copyright 2004 The New York Times Company
+Section: Section A; Column 5; National Desk; Pg. 16
+Length: 478 words
+Byline: The Associated Press
+Body
+
+
+Before helping to start the criminal information project known as Matrix, a database contractor gave United States and Florida authorities the names of 120,000 people who showed a statistical likelihood of being terrorists, resulting in some investigations and arrests.
+ The ''high terrorism factor'' scoring system also became a critical selling point for the involvement of the database company, Seisint Inc., in the project.
+ Public records obtained by The Associated Press from several states show that Justice Department officials cited the scoring technology in appointing Seisint the sole contractor on the $12 million federal project.
+ Seisint and the law enforcement officials who oversee Matrix insist that the terrorism scoring system was ultimately kept out of the project, largely because of privacy concerns.
+ But new details about Seisint's development of the ''terrorism quotient,'' including the revelation that the authorities apparently acted on the list of 120,000, are raising questions about Matrix's potential power.
+ ''Assuming they have in fact abandoned the terrorist quotient, there's nothing that stops them from bringing it back,'' said Barry Steinhardt, director of the technology and liberty program at the American Civil Liberties Union, which learned about the list of 120,000 through its own records request in Utah.
+ Matrix, short for Multistate Anti-Terrorism Information Exchange, combines state records and data culled by Seisint to give investigators fast access to information on crime and terrorism suspects. It was begun in 2002.
+ Because the system includes information on innocent people as well as known criminals, Matrix has drawn objections from liberal and conservative privacy groups. Utah and at least eight other states have pulled out, leaving Connecticut, Florida, Michigan, Ohio and Pennsylvania still in the program.
+ Officials involved with Matrix have said that the statistical method was removed from the final product. ''I'll put my 26 years of law enforcement experience on the line,'' said Mark Zadra, chief investigator for the Florida Department of Law Enforcement. ''It is not in there.''
+ Mr. Zadra said that Matrix, which has four billion records, merely speeds access to material that the police have always been able to get from disparate sources and that it did not automatically identify suspects.
+ Bill Shrewsbury, a Seisint executive and former federal drug agent, said the terrorism scoring algorithm that produced the names was ''put on the shelf'' after it was demonstrated after Sept. 11, 2001.
+ The scoring incorporated such factors as age, sex, ethnicity, credit history, ''investigational data,'' information about pilot and driver licenses, and connections to ''dirty'' addresses known to have been used by other suspects.                                                                              
+
+http://www.nytimes.com
+
+Load-Date: May 21, 2004
+
+
+End of Document

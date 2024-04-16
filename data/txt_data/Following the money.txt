@@ -1,0 +1,36 @@
+Following the money
+St. Louis Post-Dispatch (Missouri)
+June 26, 2006 Monday
+THIRD EDITION
+
+
+Copyright 2006 St. Louis Post-Dispatch, Inc.
+Section: EDITORIAL; Pg. B8
+Length: 491 words
+Body
+
+
+To the list of the Bush administration's constitutionally dubious efforts to track terrorism suspects now add tapping international banking records without judicial subpoena.
+Just as with earlier disclosures that the Bush administration is secretly mining U.S. phone records and conducting warrantless electronic surveillance of U.S. citizens, the new revelations raise alarms, though slightly more muted this time. Sifting through international banking records appears to be better grounded in the law than mining phone records and listening to phone calls, and potentially a far more valuable tool in the fight against terrorist organizations.
+Still, what is troubling about the disclosures, made Thursday evening on the Websites of three newspapers, also is what is troubling about the earlier programs: Proper judicial procedures are being ignored or circumvented. Looking for terrorists and their associates is vital to our national security and the global war on terror. But it's equally vital -- and not all that onerous -- to obtain a judicial warrant first.
+The banking records in question are collected by an international banking consortium based in Belgium known as "Swift." Each month, the Treasury Department, which was charged by President George W. Bush with choking off terrorist finances, gets a request for records from the CIA. Treasury then submits to Swift what is known as an "administrative subpoena" for that month's database of international financial transactions.
+Outgoing Treasury Secretary John Snow told The New York Times that the requests are not "fishing expeditions," but rather a "sharp harpoon." Computers at the CIA sort thousands of Swift records each month, looking for banking transactions of suspected terrorists. Intelligence sources told The Times that the program has played a key role in several terrorism investigations.
+But even within the intelligence community there is concern about the constitutionality of the CIA using data acquired under the Treasury Department's subpoena powers. Under the 1978 Financial Privacy Act, law enforcement agencies generally need a judicial warrant before gaining access to Americans' banks records. But lawyers at the Treasury Department decided that Swift's records were exempt because it is not a bank, merely a record-keeping agency.
+That reasoning is far too narrow and legalistic, as is the questionable practice of using the Treasury Department to shop for data for the CIA.
+Most Americans never wire money to and from foreign banks. Those who do could find their financial transactions caught up in the CIA's search for patterns involving suspected terrorists organizations. They have a legal right to expect those transactions to be private if there is no probable cause to believe they're party to terrorism.
+If Secretary Snow and his department are, in fact, fishing with harpoons and not a net, it is only proper that they ask a judge to sign off on the whales.
+
+Notes
+
+ OUR VIEW  |  WAR ON TERROR OPINION 
+
+Graphic
+
+ 
+PHOTO
+ PHOTO - Outgoing Treasury Secretary John Snow. Getty Images 
+
+Load-Date: June 26, 2006
+
+
+End of Document

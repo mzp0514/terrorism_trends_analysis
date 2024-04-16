@@ -1,0 +1,113 @@
+The erosion of freedom;
+Spying tools are now routinely used against ordinary, law-abiding Americans who have no connection to terrorism.
+Star Tribune (Minneapolis, MN)
+November 22, 2005 Tuesday Metro Edition
+
+
+Copyright 2005 Star Tribune
+Section: NEWS; Pg. 13A
+Length: 901 words
+Byline: Bruce Schneier
+Body
+
+
+Christmas 2003, Las Vegas. Intelligence hinted at a terrorist
+attack on New Year's Eve. In the absence of any real evidence, the
+FBI tried to compile a real-time database of everyone who was
+visiting the city. It collected customer data from airlines,
+hotels, casinos, rental car companies, even storage locker rental
+companies. All this information went into a massive database -
+probably close to a million people overall - that the FBI's
+computers analyzed, looking for links to known terrorists. Of
+course, no terrorist attack occurred and no plot was discovered:
+The intelligence was wrong.
+A typical American citizen spending the holidays in Vegas might
+be surprised to learn that the FBI collected his personal data, but
+this kind of thing is increasingly common. Since 9/11, the FBI has
+been collecting all sorts of personal information on ordinary
+Americans, and it shows no signs of letting up.
+The FBI has two basic tools for gathering information on large
+groups of Americans. Both were created in the 1970s to gather
+information solely on foreign terrorists and spies. Both were
+greatly expanded by the USA Patriot Act and other laws, and are now
+routinely used against ordinary, law-abiding Americans who have no
+connection to terrorism. Together, they represent an enormous
+increase in police power in the United States.
+The first are FISA warrants (sometimes called Section 215
+warrants, after the section of the Patriot Act that expanded their
+scope). These are issued in secret, by a secret court. The second
+are national security letters, less well known but much more
+powerful, and which FBI field supervisors can issue all by
+themselves. The exact numbers are secret, but a recent Washington
+Post article estimated that 30,000 letters each year demand
+telephone records, banking data, customer data, library records,
+and so on.
+In both cases, the recipients of these orders are prohibited by
+law from disclosing the fact that they received them. And two years
+ago, Attorney General John Ashcroft rescinded a 1995 guideline that
+this information be destroyed if it is not relevant to whatever
+investigation it was collected for. Now, it can be saved
+indefinitely, and disseminated freely.
+September 2005, Rotterdam. The police had already identified some
+of the 250 suspects in a soccer riot from the previous April, but
+most were unidentified but captured on video. In an effort to help,
+they sent text messages to 17,000 phones known to be in the
+vicinity of the riots, asking that anyone with information contact
+the police. The result was more evidence, and more arrests.
+The differences between the Rotterdam and Las Vegas incidents are
+instructive. The Rotterdam police needed specific data for a
+specific purpose. Its members worked with federal justice officials
+to ensure that they complied with the country's strict privacy
+laws. They obtained the phone numbers without any names attached,
+and deleted them immediately after sending the single text message.
+And their actions were public, widely reported in the press.
+On the other hand, the FBI has no judicial oversight. With only a
+vague hinting that a Las Vegas attack might occur, the bureau
+vacuumed up an enormous amount of information. First its members
+tried asking for the data; then they turned to national security
+letters and, in some cases, subpoenas. There was no requirement to
+delete the data, and there is every reason to believe that the FBI
+still has it all. And the bureau worked in secret; the only reason
+we know this happened is that the operation leaked.
+These differences illustrate four principles that should guide
+our use of personal information by the police. The first is
+oversight: In order to obtain personal information, the police
+should be required to show probable cause, and convince a judge to
+issue a warrant for the specific information needed. Second,
+minimization: The police should only get the specific information
+they need, and not any more. Nor should they be allowed to collect
+large blocks of information in order to go on "fishing
+expeditions," looking for suspicious behavior. The third is
+transparency: The public should know, if not immediately then
+eventually, what information the police are getting and how it is
+being used. And fourth, destruction. Any data the police obtains
+should be destroyed immediately after its court-authorized purpose
+is achieved. The police should not be able to hold on to it, just
+in case it might become useful at some future date.
+This isn't about our ability to combat terrorism; it's about
+police power. Traditional law already gives police enormous power
+to peer into the personal lives of people, to use new
+crime-fighting technologies, and to correlate that information. But
+unfettered police power quickly resembles a police state, and
+checks on that power make us all safer.
+As more of our lives become digital, we leave an ever-widening
+audit trail in our wake. This information has enormous social value
+- not just for national security and law enforcement, but for
+purposes as mundane as using cell-phone data to track road
+congestion, and as important as using medical data to track the
+spread of diseases. Our challenge is to make this information
+available when and where it needs to be, but also to protect the
+principles of privacy and liberty our country is built on.
+Bruce Schneier is the CTO of Counterpane Internet Security and
+the author of "Beyond Fear: Thinking Sensibly About Security in an
+Uncertain World."
+
+Graphic
+
+ 
+ILLUSTRATION
+
+Load-Date: November 30, 2005
+
+
+End of Document

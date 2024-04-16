@@ -1,0 +1,44 @@
+NSA program may be illegal; Judge says agency's collection of records likely breaks constitutional ban on unreasonable searches
+Charleston Daily Mail (West Virginia)
+December 17, 2013, Tuesday
+
+
+Copyright 2013 Charleston Newspapers
+Section: NEWS; Pg. P3A
+Length: 1141 words
+Byline: FREDERIC J. FROMMER, THE ASSOCIATED PRESS
+Body
+
+
+WASHINGTON - In the first ruling of its kind, a federal judge declared Monday that the National Security Agency's bulk collection of Americans' telephone records is likely to violate the Constitution's ban on unreasonable search. The program probably isn't effective in fighting terrorism either, the judge said in a lengthy opinion filled with blistering criticism.
+U.S. District Court Judge Richard Leon granted a preliminary injunction against the government's collecting of the phone records of two men who had challenged it and said any such records for the men should be destroyed. But he put enforcement of that decision on hold pending a near-certain government appeal, which may well end up at the Supreme Court.
+The injunction applies only to the two individual plaintiffs, but the ruling is likely to open the door to much broader challenges to the "metadata" collection and storage.
+The plaintiffs are Larry Klayman, a conservative lawyer, and Charles Strange, who is the father of a cryptologist technician who was killed in Afghanistan when his helicopter was shot down in 2011. The son worked for the NSA and support personnel for Navy SEAL Team VI.
+Leon, an appointee of President George W. Bush, ruled that the two men "have a substantial likelihood of showing" that their privacy interests outweigh the government's interest in collecting the data "and therefore the NSA's bulk collection program is indeed an unreasonable search under the Constitution's Fourth Amendment."
+"I have little doubt that the author of our Constitution, James Madison, who cautioned us to beware 'the abridgment of freedom of the people by gradual and silent encroachments by those in power,' would be aghast," he declared.
+Andrew C. Ames, a spokesman for the Justice Department's National Security Division, said in a statement, "We've seen the opinion and are studying it. We believe the program is constitutional as previous judges have found. We have no further comment at this time."
+The collection program was disclosed by former NSA systems analyst Edward Snowden, provoking a heated debate over civil liberties.
+In a statement provided to reporter Glenn Greenwald and obtained by The Associated Press, Snowden said, "I acted on my belief that the NSA's mass surveillance programs would not withstand a constitutional challenge and that the American public deserved a chance to see these issues determined by open courts. Today, a secret program authorized by a secret court was, when exposed to the light of day, found to violate Americans' rights. It is the first of many."
+The Obama administration has defended the program as a crucial tool against terrorism.
+But in his 68-page, heavily footnoted opinion, Leon concluded that the government didn't cite a single instance in which the program "actually stopped an imminent terrorist attack."
+"I have serious doubts about the efficacy of the metadata collection program as a means of conducting time-sensitive investigations in cases involving imminent threats of terrorism," he added.
+He said was staying his ruling pending appeal "in light of the significant national security interests at stake in this case and the novelty of the constitutional issues."
+The government has argued that under a 1979 Supreme Court ruling, Smith v. Maryland, no one has an expectation of privacy in the telephone data that phone companies keep as business records. In that ruling, the high court rejected the claim that police need a warrant to obtain such records.
+But Leon said that was a "far cry" from the issue in this case. The question, he said, is, "When do present-day circumstances - the evolutions in the government's surveillance capabilities, citizens' phone habits, and the relationship between the NSA and telecom companies - become so thoroughly unlike those considered by the Supreme Court 34 years ago that a precedent like Smith simply does not a apply? The answer, unfortunately for the government, is now."
+He wrote that the court in 1979 couldn't have imagined how people interact with their phones nowadays, citing the explosion of cellphones. In addition, he said, the Smith case involved a search of just a few days, while "there is the very real prospect that the (NSA) program will go on for as long as America is combatting terrorism, which realistically could be forever!"
+Leon added: "The almost-Orwellian technology that enables the government to store and analyze the phone metadata of every telephone user in the United States is unlike anything that could have been conceived of in 1979."
+The judge also mocked the government's contention that it would be burdensome to comply with any court order that requires the NSA to remove the plaintiffs from its database.
+"Of course, the public has no interest in saving the government from the burdens of complying with the Constitution!" he wrote. As for the government's complaint that other successful requests "could ultimately have a degrading effect on the utility of the program," he said, "I will leave it to other judges to decide how to handle any future litigation in their courts."
+Stephen Vladeck, a national security law expert at the American University law school, said Leon is the first judge to say he has serious constitutional concerns about the program.
+"This is the opening salvo in a very long story, but it's important symbolically in dispelling the invincibility of the metadata program," he added.
+Vladeck said 15 judges on the Foreign Intelligence Surveillance Court have examined Section 215 of the Patriot Act, the provision of law under which the data collection takes place, without finding constitutional problems. "There's a disconnect between the 15 judges on the FISA court who seem to think it's a no-brainer that Section 215 is constitutional, and Judge Leon, who seems to think otherwise."
+Vladeck said there is a long road of court tests ahead for both sides in this dispute and that a higher court could ultimately avoid ruling on the big constitutional issue identified by Leon. "There are five or six different issues in these cases," Vladeck said.
+Robert F. Turner, a professor at the University of Virginia's Center for National Security Law, said searching the databases involved in the National Security Agency case is similar to searching motor vehicle records or FBI fingerprint files.
+The judge's decision is highly likely to be reversed on appeal, Turner said.
+He said the collection of telephone metadata - the issue in Monday's ruling - has already been addressed and resolved by the Supreme Court. Turner said law enforcement officials routinely obtain telephone bills that include the numbers dialed without the use of a warrant.
+"The odds that an American will have their phone metadata examined by law enforcement officials are about 1,000-times greater than by the National Security Agency," Turner said.
+
+Load-Date: December 17, 2013
+
+
+End of Document

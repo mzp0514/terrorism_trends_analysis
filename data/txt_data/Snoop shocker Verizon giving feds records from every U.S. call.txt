@@ -1,0 +1,40 @@
+Snoop shocker Verizon giving feds records from every U.S. call
+Daily News (New York)
+June 6, 2013 Thursday
+SPORTS FINAL REPLATE EDITION
+
+
+Copyright 2013 Daily News, L.P.
+
+
+Section: NEWS; Pg. 14
+Length: 419 words
+Byline: BY STEPHEN REX BROWN NEW YORK DAILY NEWS
+Body
+
+
+THE NATIONAL Security Agency is gathering records of all Verizon customers - which number in the tens of millions - in the U.S., a bombshell report revealed Wednesday.
+The top-secret court order obtained by The Guardian newspaper requires the carrier to hand over the information regarding phone calls - which does not include actual conversations - on an "ongoing, daily basis" to the FBI.
+The order, signed by Judge Roger Vinson, went into effect April 25 and extends until July 19.
+The data pertain to "communications between the United States and abroad; or wholly within the United States, including local telephone calls," the order reads.
+The information handed over includes the phone numbers of both callers, location data, and the time and duration of the call, according to the four-page order.
+The order does not address in any way whether the callers are suspected of wrongdoing. There also is no indication of whether the order is a renewal of an ongoing practice, or if other phone carriers follow the same procedure.
+The leaked document provoked widespread outrage, including from at least one prominent citizen, on social media.
+"In (a) digital era, privacy must be a priority. Is it just me, or is secret blanket surveillance obscenely outrageous?" tweeted former Vice President Al Gore.
+The Guardian noted that the information is classified as "metadata" rather than communications, meaning the FBI does not need a warrant to obtain the records, which are then collected by the NSA.
+The order cites the "business records" provision of the Patriot Act.
+That provision allows the government to seize a broad range of records with the approval of the secretive Foreign Intelligence Surveillance Court - including banking, library and phone records - without having to declare whether the information is related to terrorism.
+A spokesman for Verizon, which reportedly has more than 70 million customers, would not comment on the ongoing data dump.
+The White House declined to comment and referred questions to the NSA, which had no immediate comment.This is not the first time the immense scale of the government's surveillance capabilities has come into view.
+In 2006, USA Today reported the NSA was compiling "the largest database ever assembled" of call information provided by carriers like AT&T, Verizon and BellSouth.
+The information, the paper reported, was used in algorithms that processed the vast amount of information and singled out patterns of caller behavior that indicated possible links to terrorism.
+
+Graphic
+
+ 
+Verizon was ordered to give the feds records on every phone call.
+
+Load-Date: June 6, 2013
+
+
+End of Document

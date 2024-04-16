@@ -1,0 +1,27 @@
+The Role of Geographers in a Time of Terrorism
+The Chronicle of Higher Education
+June 13, 2003, Friday
+
+
+Copyright 2003 The Chronicle of Higher Education
+Section: RESEARCH; Pg. 14
+Length: 454 words
+Byline: PETER MONAGHAN
+Body
+
+
+After September 11, 2001, the National Science Foundation called for more research on how to prevent terrorist attacks. Academic, private, and government geographers have responded with The Geographical Dimensions of Terrorism (Routledge), in which they discuss the contributions of such technologies as satellite imaging. One of the book's three editors, Susan L. Cutter, director of the Hazards Research Lab in the department of geography at the University of South Carolina at Columbia, answered questions about the book.
+Q.How can geographers help combat terrorism?
+A.In lots of areas. The most obvious one is that geography provides a lens for viewing the world, and that enables us to understand terrorism -- understand the relationship between people, places, and the activities that go on there. Why the Middle East and not elsewhere? What is the relationship between the financial support for terrorism and where acts occur? Geospatial data and technologies provide us with tools to understand the where.
+Geographers have a long history of responding to environmental hazards and threats. Granted, September 11 was a completely different disaster from a hurricane or a nuclear-power-plant failure, but the same kinds of understanding and skill sets required in emergency response can be tweaked to focus on terrorism.
+Q.But are new geographical tools needed?
+A.Geographers are already strongly represented, in terms of tools, techniques, and applications, at the U.S. Geological Survey, Homeland Security, the Department of Transportation, the National Image Mapping Agency. So it's not a question of developing new tools or new applications, but of getting more of the human resource base up to speed. We need a more focused agenda. Specifically, we need, say, regional specialists in the Middle East who are Arabic speakers.
+Q.How well are the government and private sectors responding?
+A.Exceedingly well. They're developing partnerships with the Association of American Geographers, for example. Some of our state agencies, as a direct outgrowth of the book, are now engaged in joint research activities with geographers -- in the area of bioterrorism, for example.
+Q.As we implement geospatial technologies to fight terrorism, what can be done to protect against a Big Brother-style erosion of democratic ideals?
+A.You just need to be sensible, knowing what could be misconstrued or taken the wrong way. There are ways to generalize the data that you have in a geospatial setting, to mask it, in a sense, in much the same way that they mask census data. We clearly need more work on these tools and techniques, to protect privacy. Knowledge is power, but it's when you try to hide the knowledge that you run into trouble.
+
+Load-Date: July 16, 2003
+
+
+End of Document

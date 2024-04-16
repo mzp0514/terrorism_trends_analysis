@@ -1,0 +1,47 @@
+Research remains limited at terrorism analysis center
+St. Louis Post-Dispatch (Missouri)
+October 17, 2004 Sunday Three Star Edition
+
+
+Copyright 2004 St. Louis Post-Dispatch, Inc.
+Section: NEWS; Pg. A04
+Length: 749 words
+Byline: KATHERINE PFLEGER SCHRADER The Associated Press
+Dateline: WASHINGTON
+Body
+
+
+If information is power, few in the U.S. government have more than John Brennan.
+He sits at the nerve center of the country's 18-month-old terrorism analysis center, called the Terrorist Threat Integration Center, which can peer into 26 government computer networks to assess data on international terror threats.
+But what Brennan still cannot do is a clear sign of how far the federal government has to go.
+And Congress is getting impatient.
+Under his desk at the center's headquarters, Brennan can press buttons to toggle between computer networks that were once off-limits to people who didn't work for those agencies -- networks for the CIA, the FBI, the Defense Department, the National Security Agency and more.
+"No one in the U.S. government has access to the networks I have access to," Brennan said in an interview in his office.
+But Brennan still can't run one single search simultaneously through all federal counterterrorism computer networks to pull together all the information about a certain terrorist group or operative. He can't do it for someone as major as Osama bin Laden, and he can't do it for someone as lowly as a suspected extremist in Karachi.
+That, he says, would be truly revolutionary.
+"If you are able to touch that data all at one time, you can create new knowledge by pulling in things that have a relationship that you didn't know existed otherwise," said Brennan, a 23-year CIA veteran and Middle East expert.
+In what's become a refrain since the Sept. 11 attacks, Brennan added, "You really have to try to connect the dots."
+Inquiries into the Sept. 11 attacks made clear the importance of sharing information. In one now-infamous July 2001 memo, an FBI officer in Arizona warned that bin Laden might be trying to coordinate efforts to send Islamic extremists to U.S. flight schools. Known as the "Phoenix memo," it got lost inside the FBI and wasn't acted upon.
+In his 2003 State of the Union address, President George W. Bush announced the formation of TTIC, (pronounced Tee-Tick), to bring together employees from the FBI, CIA, the Defense Department and elsewhere to "merge and analyze all threat information in a single location." Today, the center has several hundred employees.
+But some in Congress wonder why the agency hasn't yet linked all the computer systems.
+"Can you for a moment understand my frustration?" Sen. Dick Durbin, D-Ill., recently asked Brennan at a congressional hearing. "It's three years after 9/11. This is not a new idea or concept -- that we would create this (computer) architecture. And here we are, three years later, almost three years later, saying, 'Boy, we're going to have to do this soon, aren't we?' What has stopped us?"
+Brennan said the center is trying to bring disparate computer systems together.
+"The bumper-sticker comments about we're not sharing information don't take into account the complexity of the issue," he said.
+Brennan and his chief information officer, William Spalding, say each government agency has developed its own networks over more than two decades. Even internally, Brennan notes, the CIA today can't do a single search against all the computer networks it has.
+To merge or even link various networks invites problems as basic as making sure a name is a name, and a place is a place, among different databases.
+But the problems are also as complicated as figuring out how to ensure that users can only view information within their security clearance. That alone has hampered the CIA and National Security Agency for years.
+Today, Brennan says, steps have been taken to ensure that terrorist information is disseminated. For example, Brennan's most senior deputies also have wide access to the government's many counterterrorism computer networks. Analysts at the anti-terrorism center are also allowed to access some systems, depending on their assignments and their security clearances.
+"If the Phoenix memo took place today, we would see it as soon as FBI headquarters sees it," Brennan said.
+By later this fall, Brennan and Spalding said, officials at the terrorism integration center also will have a new capability: They'll be able to conduct searches against six separate databases on two different networks belonging to the CIA and Defense Department, with more databases to come.
+That, Brennan says, is a big deal.
+But Spalding cautioned: "As far as really getting to the point where (Brennan) doesn't need to toggle under the desk, that is going to be a government-wide breakthrough to make that happen."
+
+Graphic
+
+ 
+photo; THE ASSOCIATED PRESS Photo - A worker lays out some of the 80 miles of video and Internet cables for the Terrorist Threat Integration Center last month at a undisclosed location in the northern Virginia suburbs of Washington.
+
+Load-Date: October 18, 2004
+
+
+End of Document

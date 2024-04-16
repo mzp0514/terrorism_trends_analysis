@@ -1,0 +1,35 @@
+How to Keep Terrorism Grounded
+The New York Times
+November 2, 2010 Tuesday
+Late Edition - Final
+
+
+Copyright 2010 The New York Times Company
+Section: Section A; Column 0; Editorial Desk; Pg. 31; OP-ED CONTRIBUTOR
+Length: 762 words
+Byline: By STEPHEN R. HEIFETZ
+Stephen R. Heifetz, a lawyer, was the deputy assistant secretary for policy development at the Department of Homeland Security from 2007 to March 2010.
+Body
+
+
+Washington
+LAST week our country averted a disaster. Good work by American and foreign intelligence officials pinpointed explosives hidden in packages shipped in Yemen and bound on airplanes for the United States. But we cannot rely on getting such timely, accurate intelligence -- it often is simply unavailable -- and the episode highlighted a number of problems with our system for screening inbound air cargo.
+The Department of Homeland Security has established very good ''risk rating'' systems to prevent dangerous goods from entering the country. The problem is that these systems are used only for cargo on ships, not for that arriving by air.
+For oceangoing cargo, importers and shippers are required to provide substantial data on every container: the country of origin, the location where the container was packed, the seller, the buyer, where on the ship the container is stored and so forth.
+The Department of Homeland Security, through its Customs and Border Protection agency, uses this data to generate a risk rating, and any package with a high rating gets substantial additional scrutiny. Sometimes this includes a physical search by foreign security personnel under the guidance of American officials, and in all cases it occurs before the ship even leaves the foreign port. Any package from trouble-ridden Yemen would be seen as a risk and likely would be a target for additional scrutiny.
+So why is there no similar system in place for air cargo? There are two parts to the answer: one has to do with Congress and the other with the Department of Homeland Security.
+In 2007, Congress passed a law requiring, within three years, physical screening -- X-rays, dogs and the like -- for all cargo on passenger planes. But the law did nothing to increase security on all-cargo flights like those operated by U.P.S. And while it didn't explicitly ban the use of risk rating, Congress clearly didn't want any shortcuts -- it wanted every package checked physically. In effect, lawmakers made the perfect the enemy of the good.
+Homeland Security officials had a tough challenge in meeting the Congressional mandate, but in large part they succeeded: by August of this year, 100 percent of cargo on passenger flights within and from the United States was being physically screened. However, only about 65 percent of cargo on passenger planes arriving in the United States from abroad is now subjected to some physical screening, and the percentage is far lower on all-cargo flights.
+Some officials insist that we will have 100-percent physical screening for inbound air cargo within a few years. But that is wildly optimistic -- we lack authority to force foreign countries to conduct the physical screening mandated by Congress, and many of these countries lack the resources to do it.
+And even if we could compel adherence to our screening requirements, that would still not address cargo-only flights, which were untouched by the 2007 law. Given that nearly three-quarters of air cargo is moved by all-cargo flights, a physical screening system for them may not be feasible even inside the United States.
+The only practical way to increase the security of inbound air cargo is to rely on a risk rating system rather than a physical screening system. It simply makes sense to decide which packages and flights are most likely to be dangerous, and focus on them. Besides, the information collection and analysis would not even require building new infrastructure or imposing our rules on foreign soil. Homeland security officials already collect electronically most of the data needed for risk analysis of air cargo.
+Critically, however, the officials who get this data are from Customs and Border Protection, while the people Congress assigned to handle air cargo screening are from the Transportation Security Administration. The T.S.A. has understandably focused on the physical screening requirements in the 2007 law, because that's what our lawmakers wanted and that's what its employees are trained to do with air passengers and luggage.
+Let's hope that last week's close call will convince T.S.A. officials and Congress that universal physical screening is a long way off, and that in the meantime we need a risk-assessment system for air cargo modeled on the one Customs uses for ship-borne containers.
+It would take courage for the Homeland Security Department to tell Congress, ''We've got to do things a bit differently than you may have had in mind -- we're going to use this well-tested risk-rating model.'' But it would significantly enhance national security.
+
+http://www.nytimes.com
+
+Load-Date: November 2, 2010
+
+
+End of Document

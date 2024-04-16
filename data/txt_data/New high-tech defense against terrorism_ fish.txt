@@ -1,0 +1,35 @@
+New high-tech defense against terrorism: fish
+Christian Science Monitor
+October 18, 2006, Wednesday
+
+
+Copyright 2006 The Christian Science Publishing Society All Rights Reserved
+Section: USA; Pg. 2
+Length: 843 words
+Byline: Alexandra Marks Staff writer of The Christian Science Monitor
+Dateline: NEW YORK 
+Highlight: Bluegills are so sensitive to water problems that scientists want to mimic their ability with technology - eventually.
+Body
+
+
+Somewhere in New York State (we can't say where), a computer is monitoring every move of eight bluegill fish in a tank. The moment a few start to cough (yes, fish cough) the computer sends an alert and takes water samples.
+Called the Intelligent Aquatic BioMonitoring System (IABS), the contraption is the latest high-tech defense against potential terrorism attacks on the nation's water supply - and it comes in handy, too, for detecting other types of contamination, say a diesel spill from a truck accident.
+Scientists are reaching out to nature and back into history to use everything from birds to bees to fish to water fleas with equipment that can alert authorities if something is amiss in the air or water.
+Unlike man-made sensors that detect only specific contaminants, these fish and other such nature-made sensors respond to a broad range of problems. While they are unable to indicate that, say, there's ammonia in the water like a machine can, they can show that something is very wrong - and in most cases much faster than anything man-made.
+"What we're doing is really redefining biotechnology," says Professor Jerry Bromenshenk, a biologist at University of Montana in Missoula who's pioneering the use of bees as air quality monitors. "[Biotech] came to the foreground in the last decade in terms of bioengineering and genetic manipulation, but we're turning back to the basic functioning of the living systems and are applying them in totally novel and unique ways."
+The bluegill fish and their companion computers are so sensitive that three major cities - New York, Washington, and San Francisco - used them in a pilot program. The cities found them so successful they're making them a permanent part of their water-monitoring defenses. The Army, which developed the fish sensor with a private company, also uses the sensor at some undisclosed locations. (These fish are highly classified.)
+"The equipment we have now is on loan from the Army," says Ian Michaels, a spokesman for the New York City Department of Environmental Protection, which pumps out about 1.2 billion gallons of water a day to more than 9 million people, about half the state. "We now intend to purchase our own equipment and expand the program beyond where it may be now." For security reasons Michaels would not disclose how many machines the city has or how many it plans to buy.
+The groundbreaking technology is based on an old idea. Heard of the canary in the coal mine?
+Did you know about the bluegills in the pool? As far back as the early 19th century, pioneering scientists used the little, sturdy yet highly sensitive fish to detect problems in the drinking water. That fascinated an Army biologist named Tommy Shedd. For the past 30 years he and other biologists experimented with using living things from fish to clams to algae to monitor changes in the environment. Dr. Shedd came up with the idea of hooking up the scaly bluegills to a very powerful and very fast computer. After the 2001 terrorist attacks, his commanding officer made finishing the project a top priority. Dr. Shedd installed his first prototype IABS in October 2001.
+"It was pretty forward thinking of our command structure. It was a pretty positive thing," says Dr. Shedd, a biologist and inventor with the US Army Center for Environmental Health Research (USACEHR) in Fort Detrick, Md. 
+His commanding officer takes a different security tack from that of New York, which didn't even want to disclose it had the monitors. Fort Detrick's commander trumpeted the fish's success, although, under orders, Dr. Shedd wouldn't disclose exactly where the Army has them installed.
+"Our command structure views it as a deterrent, you let them [the terrorists] know that you have this," he says. He and others aren't worried about terrorists reverse-engineering the technology or finding a way to foil it for a simple reason. "The beauty of it is that you have to understand what the bluegill can and cannot pick up, and the key feature there is that even I don't know that."
+Because fish are inherently complex beings, the IABS uses eight bluegills to ensure accuracy. "If one fish is having a bad day, we want to make sure that we're not issuing any kind of false alarm," says Bill Lawler, cofounder of Intelligent Automation Corporation in Poway, Calif., which developed the computer for the IABS with the Army.
+The success of IABS also has set the stage for the next generation of highly sensitive monitoring equipment. Now that they've got it right with the fish, biologists want to understand their cellular and molecular structure. That means someday it may not be necessary to have a tank of fish to alert authorities of something toxic dumped in the drinking water. A Petri dish with a few cells might work just as well.
+"With genomics and proteomics revolutions we can start looking to see if there are any cellular systems out there that can give you the same information that these whole organisms do," Dr. Shedd says. "That's the next generation."
+(c) Copyright 2006. The Christian Science Monitor
+
+Load-Date: October 17, 2006
+
+
+End of Document

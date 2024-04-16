@@ -1,0 +1,41 @@
+Feds can't avoid terrorism coverage
+The Hill
+July 6, 2005 Wednesday
+
+
+Copyright 2005 Capitol Hill Publishing Corp.
+Section: Pg. 16
+Length: 1143 words
+Byline: Oxford Analytica
+Body
+
+
+U.S. Treasury Secretary John Snow on June 30 recommended against renewing the 2002 Terrorism Risk Insurance Act (TRIA) on its current terms.
+TRIA expires Dec. 31, and a Treasury Department report has concluded that the market is developing mechanisms to offer necessary terrorism coverage. If TRIA lapses, the United States will rely on market mechanisms to encourage private reinsurers to assume terrorism-insurance risk.
+In November 2002, Congress passed TRIA. Before the Sept. 11, 2001, terrorist attacks, terrorism was generally not mentioned in insurance policies and the risk of terrorist attacks therefore was included under standard coverage terms.
+In the wake of the attacks, insurers explicitly excluded such coverage from their general property and casualty policies, and separate coverage was initially not widely available. Lack of such coverage was often cited as one factor depressing overall economic performance.
+The Bush administration made passage of TRIA a key legislative priority, and a bill was passed in November 2002. This legislation was designed to be temporary.
+TRIA defined a framework under which the federal government would function as the reinsurer of last resort if private companies failed to enter the market.
+The bill obligated the federal government to cover 90 percent of claims from foreign terrorist attacks that exceeded a threshold amount of $10 billion in its first year (2003), $12.5 billion in 2004, and $15 billion in 2005. The government would not pay any portion of aggregate insured losses that exceed $100 billion annually in each year the legislation applied. Nor would private insurers be responsible for any losses above that amount.
+The bill required private insurers to cover most of the magnitude of claims under the threshold level. Thus far, no payments have been made or triggered under the terms of the legislation. The Treasury report concludes that TRIA has generally been effective in achieving its objectives.
+Insurers wrote terrorism risk coverage on 67 percent of commercial property and casualty insurance policies, representing a 7 percent increase from 2002. In 2002, 73 percent of insurers wrote such coverage.  That increased to 91 percent in 2003, and this percentage has remained stable since.
+Policyholders have increasingly opted to purchase terrorism risk insurance, starting with 27 percent of them in 2002 and increasing to 39.5 percent in 2004 and 54 percent in 2004. This suggests the wider availability of such coverage at an affordable price.
+Snow concluded that the economy is more robust today than when TRIA was enacted, with growth up from 2.3 percent in fourth quarter 2002 to 3.9 percent in fourth quarter 2004, and that the continuation of TRIA in its present form is likely to "crowd" innovation and capacity-building by the private sector. He outlined the terms under which the administration would support extending TRIA:
+[euro] An event size of $500 million would be necessary to trigger coverage and federal government participation, compared to TRIA's current $5 million threshold.
+[euro] Dollar deductibles and copayments would need to increase, and certain lines of insurance such as commercial auto and general liability would need to be excluded.
+[euro] Some further restrictions would need to be in place to prevent private litigants from suing in the event of a terrorist attack, unless these litigants could meet the standard of proving the defendant negligent.
+A recent Rand study noted that terrorist attacks will increasingly focus on economic disruption. In light of this, Rand concluded that both administration policy and the existing TRIA framework contain serious weaknesses.
+Although they have risen significantly since TRIA was enacted, take-up rates for purchasing available terrorist coverage remain too low, at 54 percent according to Treasury figures. Significant uninsured losses are likely in the event of a successful terrorist attack. The government will probably have to step in and finance some of these, and the terms and procedures would probably be less well-designed than if they had been addressed in advance.
+Chemical, biological, radiological and nuclear attacks remain largely excluded from TRIA coverage. The exception is workers' compensation schemes, which generally provide low levels of recovery and may very well be swamped if any significant terrorist event were to occur. Insurers need to offer such coverage only if offered as part of a policyholder's overall commercial property and casualty insurance, and for each of 2002, 2003 and 2004, the Treasury report found that less than 3 percent of policyholders opted for such coverage in lines other than workers' compensation.
+Attacks by domestic groups are excluded from the TRIA framework.
+Rand recommends that Congress design a policy that increases the take-up rates of terrorism insurance and lowers its price. In effect, this public policy would force private entities to foot the bill for insurance against a future terrorist attack upfront rather than socializing the costs of such an attack via federal government action after the fact.
+If the Bush administration succeeds, U.S. policy will be out of line with the prevailing global approach. Most governments explicitly create state-sponsored or private reinsurance pools up front to cover terrorist attack.
+Some members of Congress, including the chairman of the House Financial Services Committee, Rep. Michael Oxley (R-Ohio), have considered policies such as issuing terrorism-related catastrophe bonds or establishing an insurance industry pool funded by tax-free loss reserves. These are unlikely to get off the ground before TRIA expires, particularly as Snow's letter suggests the administration is wedded to a more market-based approach.
+The Bush administration intends to scale back significantly the scope of the federal government's exposure as a reinsurer of last resort in future terrorist attacks. TRIA will likely be reauthorized in significantly attenuated form, and private insurers will be required to make some premium payments to the federal government. The credibility of a governmental claim to remain removed from liability in the event of catastrophe is poor. The record of ad-hoc government bailouts after natural catastrophes indicates that public pressure for governmental assistance is overwhelming.
+Absent strong administration support, TRIA is unlikely to be extended in its current form. Any reduction in the federal government's role will probably leave significant gaps in coverage. In the event of an attack, this could expose taxpayers to significant liabilities ex-post even if the government has tried to remove itself from liability ex-ante.
+Oxford Analytica is an international consulting firm providing strategic analysis on world events for business and government leaders. See www.oxan.com 
+
+Load-Date: July 6, 2005
+
+
+End of Document

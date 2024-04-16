@@ -1,0 +1,35 @@
+Data mining is legal, necessary
+The Tampa Tribune (Florida)
+June 11, 2013 Tuesday
+
+
+Copyright 2013 Times Publishing Company All Rights Reserved
+Section: NATION & WORLD; Views; Pg. 10
+Length: 559 words
+Body
+
+
+The 29-year-old security contractor who claims to have leaked the details about the government's widespread surveillance program no doubt expects to be celebrated as a champion of civil liberties.
+But Edward Snowden's duplicity likely puts at risk American lives and provides aid to the terrorists who are plotting against us.
+His betrayal of his government and his employer merit disgust, not gratitude.
+As former U.S. Attorney General Michael B. Mukasey wrote in The Wall Street Journal: Every time we tell terrorists how we can detect them, we encourage them to find ways to avoid detection.
+Snowden's revelations about the National Security Agency's widespread data-mining did not expose any illegal activity. The program monitors the time and duration of phone calls. It does not reveal the calls' content.  
+The process, which began seven years ago, is legal under the Patriot Act and is scrutinized by the special court  created by Congress in the 2008 Foreign Intelligence Surveillance Act.
+Another National Security Agency program monitors foreign-to-foreign calls, which also is legal under FISA.
+Without question, such a extensive surveillance program merits concern, but there is no evidence it has been abused.
+There is, however, evidence data mining has helped the United State stop terrorism.
+The New York Times on Saturday detailed how the computers' detection of an email sent to Pakistan enabled investigators to eventually detect a man's plot to plant backpack bombs in the New York subway.  
+Tampa lives may have been saved by the surveillance program. The New York Times reports when Congress prepared to extend the law covering the data mining last December, cases were cited that included plots to bomb the New York Federal Reserve Bank, the United States Capitol, locations in Tampa, Fla., and New York City and troops returning from combat overseas.
+The Tampa case apparently involved a 25-year-old man who was arrested by the FBI in a sting operation. Officials said he tried to buy explosives, at least 10 grenades, Uzis and an AK-47. 
+As the Tribune's Elaine Silvestrini reported in January 2012, Sami Osmakac of Pinellas Park, was charged with attempted use of a weapon of mass destruction.
+Officials said he was targeting a popular South Tampa pub.
+Having the government determine where phone calls are coming or going - not what is being said - is hardly a gross invasion of privacy as Snowden claims. Indeed, the very scale of the surveillance makes it less of a threat to individuals. As the Wall Street Journal pointed out in an editorial Monday, the data collected is so massive that only algorithms can understand them. The search is for trends, patterns, associations, networks. They are not in that sense invasions of individual privacy at all.
+This is an encouraging case where President Barack Obama has reconsidered his views. Prior to his election, Obama was disdainful of President George W. Bush's anti-terrorism efforts.
+But once in office, and entrusted with the nation's security, the president came to see the importance of such operations to detect terrorists and protect Americans.
+He also came to understand that scrutinizing data is no threat to the public's privacy or civil liberties. 
+He correctly summed up the matter the other day:  Nobody is listening to your telephone calls. That is not what this program's about.
+
+Load-Date: September 25, 2013
+
+
+End of Document

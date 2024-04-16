@@ -1,0 +1,32 @@
+Dartmouth lab makes anti-WMD training program
+University Wire
+May 24, 2007 Thursday
+
+
+Copyright 2007 The Dartmouth via U-Wire
+Length: 537 words
+Byline: By Carolyn Kylstra, The Dartmouth; SOURCE: Dartmouth
+Dateline: HANOVER, N.H. 
+Body
+
+
+Dartmouth's Interactive Media Laboratory has created a computer program to teach fire, police, and emergency medical services trainees how to respond to domestic terrorist attacks. The program is called "Ops-Plus for WMD Hazmat," and is the first course for IML's Virtual Terrorism Response Academy, an anti-terrorism training academy for first responders funded by the Department of Homeland Security through Dartmouth's Institute for Security Technology Studies.
+Ops-Plus offers more than 16 hours of training on how to respond to chemical, biological, radiological, nuclear and explosive emergencies. The program features interactive lessons taught by the country's leading experts on weapons of mass destruction and hazardous material response, shows videos of people detailing their experiences responding to terrorism and provides simulations of real-life situations to test the trainees on what they have learned.
+According to Dr. Joseph Henderson, director of IML, about 10 of the 16 hours are devoted to lessons taught in the program's "WMD Hazmat Learning Lab."
+"The lessons deal with various aspects of WMDs from the viewpoint of treating them as hazardous materials with a very bad attitude," Henderson said.
+Three or four of the remaining hours are for operational situations conducted in the program's "Simulation Area," and the following time is devoted to interviews and other such features.
+Henderson outlined a general training experience: "We teach the basics of hazardous materials-radiation, for example. We teach pretty much all the basic science of radiation, and then we put the trainees in theoretical and operational situations where they can use virtual instruments in simulated experiences so they can apply the knowledge they've gained about the basics in situations that are relevant."
+Henderson developed the concept for Ops-Plus three years ago.
+"I had conversations with people who were then with the Department of Justice and Department of Homeland Security, and saw that there was a great need for training of this type," Henderson said. "We developed it in-house with a national advisory board of experts."
+Over the last three years, Henderson and his team at IML have interviewed experts, videotaped conversations with men and women who responded to 9/11 attacks and ultimately created their project, which they now sell to teams of first responders across the country.
+According to Henderson, any first responder can benefit from Ops-Plus training.
+"This is for both rural and urban settings. Any first responders who might have to deal with the initial response to an attack involving a weapon like these," Henderson said. "This is a nationally important program."
+VTRA's Web site, iml.dartmouth.edu/vtra, allows visitors to participate in a mock version of the program. It also provides positive testimonials from users of the program, such as fire chiefs and hazmat response team coordinators.
+According to Henderson, the Web site only provides a sneak peek at the program; first responders will have to purchase the program for the full experience.
+"The Web site is not the program," Henderson said. "This is just demonstrations of little pieces of the program."
+(C) 2007 The Dartmouth via U-WIRE
+
+Load-Date: May 24, 2007
+
+
+End of Document

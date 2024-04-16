@@ -1,0 +1,33 @@
+Over Government Objections, Rules on No-Fly List Are Made Public
+The New York Times
+July 24, 2014 Thursday
+The New York Times on the Web
+
+
+Copyright 2014 The New York Times Company
+Section: Section ; Column 0; National Desk; Pg. 
+Length: 744 words
+Byline: By CHARLIE SAVAGE
+Body
+
+
+WASHINGTON -- The set of internal rules used by the federal government in compiling terrorism screening watch lists was made public on Wednesday despite Attorney General Eric H. Holder Jr.'s assertion that its disclosure would damage national security.
+The procedures for adding names of people deemed to be known or suspected terrorists to various screening lists, known as the ''Watchlisting Guidance'' and dated March 2013, were obtained by The Intercept, an online magazine best known for publishing top-secret documents leaked by Edward J. Snowden, a former National Security Agency contractor. An accompanying article suggested that the document had been provided by an intelligence community source other than Mr. Snowden.
+Inclusion on one of the lists can keep people off planes, block noncitizens from entering the United States and subject people to greater scrutiny at airports, border crossings and traffic stops. The basic standards for including someone on the lists had been known from a set of rules the F.B.I. disclosed in 2011 in response to a Freedom of Information Act lawsuit, among other sources. But the rules were later updated, and the Watchlisting Guidance contains additional details.
+The guidelines explain that the sort of ''derogatory information'' that could indicate that someone is a terrorist includes ''reasonable suspicion'' based on credible reporting about behavior like attending a terrorist training camp or a school associated with extremism, or having repeated contacts with known extremists.
+It says that First Amendment activities -- like religious belief or criticizing American policies -- cannot, by themselves, justify placing someone on a watch list. But a footnote adds that the First Amendment does not cover foreigners abroad. Another section discusses incitement, solicitation or endorsement of terrorist attacks as reasons for nominating someone to a list.
+The rules also say that spouses and nonadult children of known or suspected noncitizen terrorists should be included on a list for the purpose of rejecting visa applications, but adult children and widows should not be nominated unless there is reasonable suspicion that they have engaged in terrorist behavior themselves.
+Terrorism watch list rules have been the subject of several controversies. The Nigerian man who attempted to bomb a Detroit-bound plane on Dec. 25, 2009, was not on the no-fly list, even though he was included in a larger database of people about whom there had been reports of possible ties to terrorism. The Obama administration changed the rules to make it easier to put people on watch lists after that incident.
+Civil libertarians have also challenged the watch lists because the standards for being added to them are murky and people are generally not notified that they have been included or told why. Last month, a Federal District Court judge in Oregon ruled that the procedures for reviewing whether it was appropriate to have put someone's name on the no-fly list were inadequate and violated Americans' Fifth Amendment right to due process.
+But in May, Mr. Holder told a court that the Watchlisting Guidance should remain confidential as part of a lawsuit filed by Gulet Mohamed, a naturalized American citizen who was placed on the no-fly list when he was in Kuwait, temporarily preventing him from returning home. The Obama administration has invoked the states secrets privilege in an effort to win dismissal of the lawsuit.
+''If the guidance were released, it would provide a clear road map to undermine the government's screening efforts, a key counterterrorism measure, and thus its disclosure reasonably could be expected to cause significant harm to national security,'' Mr. Holder said in an affidavit.
+The lead agency for determining terrorism watch-listing is the Terrorist Screening Center, which is part of the F.B.I. An F.B.I. spokesman did not respond to a request for comment.
+Some of the data used by the Terrorist Screening Center comes from a larger database maintained by the National Counterterrorism Center, an interagency clearinghouse for intelligence about potential terrorist threats.
+A spokesman for the National Counterterrorism Center declined to confirm the authenticity of the document, but said: ''The watch-listing system is an important part of our layered defense to protect the United States against future terrorist attacks. Watch-listing continues to mature to meet an evolving, diffuse threat.''
+
+http://www.nytimes.com/2014/07/24/us/over-government-objections-rules-on-no-fly-list-are-made-public.html
+
+Load-Date: July 24, 2014
+
+
+End of Document

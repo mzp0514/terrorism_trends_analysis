@@ -1,0 +1,26 @@
+PUT LIMITS ON FEDERAL SNOOPING
+Tampa Bay Times
+August 5, 2013 Monday
+4 State / Suncoast Edition
+
+
+Copyright  2013 Times Publishing Company All Rights Reserved
+
+
+Section: NATIONAL; Pg. 6A; TIMES EDITORIALS
+Length: 550 words
+Body
+
+
+After pressure from Democrats and Republicans in Congress, the Obama administration has been more forthcoming about its controversial program that sweeps up telephone records on millions of Americans. But its disclosures so far are not particularly illuminating or reassuring. As it stands, the National Security Agency's bulk data collection program is a dangerous weakening of the nation's principles that require individual suspicion before the government may snoop on Americans.
+The overriding concern is that the NSA is stretching government power to collect information well beyond what Congress intended or the spirit of the Constitution allows. At a Senate Judiciary Committee hearing last week, John Inglis, deputy NSA director, failed to make a convincing case that the bulk data program is effective in thwarting terror plots or that it is operating within legal bounds. The Obama administration released a few redacted documents before the hearing in an effort to show that the program is legal and targeted, but they didn't explain the underlying legal rationale for such a wholesale invasion of privacy.
+Section 215 of the Patriot Act allows for the collection of private business records relevant to a terrorism investigation. The Obama administration, with the assent of the FISA court, has read this authority as essentially limitless. This is appropriately sparking bipartisan pushback. The Republican-controlled House came within seven votes of defunding the program, with Democratic support.
+The Obama administration claims that to keep the spying program agile and useful it needs to collect massive databases of domestic phone call information, or metadata, which identifies numbers called, when and for how long. Privacy is safeguarded, says the administration, since only small slices of that data are examined when following terrorism leads.
+Sen. Ron Wyden, D-Ore., a knowledgeable critic of the bulk collection program, says the administration is exaggerating the program's security benefits and knows of no intelligence that could not have been gathered using less intrusive and more exacting means. Senate Judiciary Committee chairman Patrick Leahy, D-Vt., echoed those sentiments last week. Phone metadata provides insights into people's medical condition, when they call a doctor's office, political and social affiliations and other activities that could easily be abused by government.
+Members of both parties are calling for reform of the program and the secret FISA court. In the last year, the court approved every one of the 1,856 applications presented to it by the government, though the government modified 40 of them. The court hears only the government's side and operates without public accountability. Surveillance of phone records should be limited to the targets of terror investigations, and the FISA court should be restructured to act as a real check on federal power. Its opinions should be public when it makes broad pronouncements interpreting the law, and a special public advocate should be appointed to argue in favor of civil liberties and the public interest before the court.
+National security decisions require secrecy, but Americans shouldn't be blindsided by the breadth of government data collection or misled by senior administration officials.
+
+Load-Date: August 5, 2013
+
+
+End of Document

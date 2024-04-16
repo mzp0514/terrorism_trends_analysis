@@ -1,0 +1,25 @@
+Report says FBI upgrades 'not on path to success'
+Telegraph Herald (Dubuque, IA)
+May 11, 2004 Tuesday
+
+
+Copyright 2004 Woodward Communications, Inc.
+Section: National/World; Pg. a7
+Length: 305 words
+Byline: ASSOCIATED PRESS
+Dateline: WASHINGTON
+Body
+
+
+The FBI's nearly $$ @600 million effort to modernize its antiquated computer systems to help prevent terrorist attacks is "not on a path to success," according to an outside review completed weeks after the bureau director gave Congress assurances about the program. 
+The report by technology experts for the National Research Council found that the FBI's "Trilogy" project doesn't adequately reflect the agency's new priority on terrorism prevention since the Sept. 11 attacks.
+It urged the bureau to build new systems from scratch to help in this role.
+The report was being circulated this week to senior FBI officials and some members of Congress in advance of its public release next week. The Associated Press obtained a copy.
+The study by the council, a nonprofit research board operating under the National Academies of Science, concluded that even ongoing improvements to the bureau's computerized system for tracking criminal cases won't help. It cited "significant differences … between systems supporting investigation and those supporting intelligence."
+It suggested that the system for tracking criminal cases could later be plugged into a new anti-terrorism system. The case-tracking system, known as the Virtual Case File, "is not now and unlikely to be an adequate tool for counterterrorism analysis because (it) was designed with criminal investigation requirements in mind," the report's authors wrote.
+The FBI responded in a statement Monday that Director Robert Mueller "understands that these capabilities are essential to our success in the war on terrorism and he has made them a top priority." It cited several examples in which agents using some parts of the new system in terrorism investigations performed millions of information searches in days rather than the months it would have taken using old FBI tools.
+
+Load-Date: May 11, 2004
+
+
+End of Document

@@ -1,0 +1,34 @@
+Court weighs gag orders on national security letters
+Charleston Daily Mail (West Virginia)
+October 9, 2014, Thursday
+
+
+Copyright 2014 Charleston Newspapers
+Section: NEWS; Pg. P6C
+Length: 690 words
+Byline: PAUL ELIAS THE ASSOCIATED PRESS
+Body
+
+
+SAN FRANCISCO - A government lawyer argued Wednesday that national security efforts would be "hamstrung" if the FBI was barred from sending secretive demands for customer data - national security letters - to telecommunication companies, banks and other businesses.
+The 9th U.S. Circuit Court of Appeals is considering whether gag orders that bar recipients from discussing the letters are free speech violations rendering the demands unconstitutional.
+The FBI issues thousands of national security letters annually while investigating terrorism and espionage cases. Unlike warrants, the demands for information are made without judicial oversight. A lower court judge ruled the letters unconstitutional because of the gag orders but allowed the FBI to continue sending the letters, also known as NSLs, pending an appeal.
+On Wednesday, federal prosecutor Douglas Letter urged the San Francisco-based appeals court to overturn the trial judge's decision. Letter says the NSLs are a crucial tool for combatting terrorism and that the gag order is necessary to protect investigations. Letter said that national security would be "greatly hamstrung without NSLs.
+At issue is a 2011 lawsuit filed by an unnamed telecommunications company that received a letter and objected to the gag order. Last year, U.S. District Judge Susan Illston declared the gag order unconstitutional and the FBI appealed.
+The case pits civil libertarians who say that the letters trample individual rights against government officials who maintain that secrecy is a necessary tool to protect the country against terrorism and other threats.
+The three judge panel didn't indicate which way it would rule. Judge N. Randy Smith said he was troubled that the gag order didn't have an expiration date, leaving recipients forever barred from talking about the letters.
+"We ought to have something...about the government's responsibility to end the order, Smith said. Smith and fellow panelist Judge Sandra S. Ikuta were appointed by President George W. Bush. The third judge on the panel, Judge Mary H. Murguia, was appointed by President Obama.
+Letter responded that it would be too cumbersome for the FBI to track expiration dates on all the NSLs issues. It has issued more than 100,000 since 2004.
+Amid growing tension over disclosures of widespread government surveillance, an increasing number of large companies have begun to fight back since the unnamed company filed its lawsuit in 2011. The company won't publicly identify itself in the case because it fears criminal charges for disobeying the gag rule.
+The case has also attracted widespread attention from privacy advocates who complain individual rights are being violated.
+"If the government wants your help in a terrorism investigation, you do have to go along, University of California, Los Angeles law professor Eugene Volokh said. "But you can complain to the media. You can complain on your blog. You can complain to your congressman. But with these national security letters, you are barred from doing even that. That's an undue and substantial burden on speech.
+Volokh represents the Internet Archive research library service and others who have received the letters. They have filed court papers urging the 9th Circuit to declare the letters unconstitutional.
+On Monday, Twitter filed a lawsuit challenging U.S. Department of Justice prohibitions on publishing the exact number of national security letters the company receives last year. Earlier this year, five tech companies reached agreement with federal officials for a "transparency report to publish a range of national security letters received, but Twitter wants to disclose more details.
+Earlier this year, the FBI withdrew a national security letter it sent Microsoft after the company filed a lawsuit. Google is also challenging receipt of several letters in court.
+Several Internet companies including Google, Yahoo, Microsoft and Facebook filed court papers supporting the unnamed telecommunications challenge to the national security letters.
+Since 2004, the FBI has issued more than 100,000 letters, according to figures from the Department of Justice.
+
+Load-Date: October 9, 2014
+
+
+End of Document

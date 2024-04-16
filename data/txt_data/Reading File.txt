@@ -1,0 +1,33 @@
+Reading File
+The New York Times
+November 22, 2009 Sunday
+Late Edition - Final
+
+
+Copyright 2009 The New York Times Company
+Section: Section WK; Column 0; Week in Review Desk; Pg. 3
+Length: 617 words
+Body
+
+
+A Paparazzi Recession
+  Even the paparazzi economy is hurting, writes Nicole LaPorte in The Daily Beast:
+  It's hard to believe that it was a little more than a year ago that People magazine made headlines by forking over $14 million--in partnership with the fabloid Hello!--for the first, exclusive photos ofBrad Pitt and Angelina's newborn twins, Vivienne and Knox. The sale was more than three times what People paid for the couple's firstborn, Shiloh. ...
+  The Daily Beast recently quantified just how far the paparazzi market has fallen. Taking a basket of photos sold by the paparazzi agency x17 Inc. during the golden years, 2005 to 2007, we created an index that compared the prices those snapshots fetched then with estimates of what they would garner now. All told, a typical celebrity shot sells for 31 percent less than it did in 2007. The dropoff has been more dramatic at the high end of the market. Six-figure photographs are down more than 50 percent.
+  The Case for Keeping Al Qaeda Alive
+  Keeping Al Qaeda weak but alive for now is to the world's advantage, Gustavo de las Casas argues in Foreign Policy, for if it dies, terrorism would be more fragmented, untrackable and lethal:
+  The group is beset by high employee turnover, constantly in need of making up for members lost either to Western counter operations or successful suicide missions. Al Qaeda's mid level managers are crucial to filling this personnel gap. These central members link with more contacts than either the secluded leadership or the fresh recruits, while bridging the two groups. At the same time, their higher exposure makes them easier to hunt down.
+  Herein lies the danger. Unfortunately, if this middle layer of management goes extinct, so will any hopes of stemming terrorist attacks.
+  It is tempting to draw up an organizational chart of Al Qaeda and think that if the important nodes can be identified and destroyed, the rest of the network will follow. But if Al Qaeda is shut down and its middle management decimated, eager fanatics around the globe would no longer gravitate toward a centralized base. Their alternative? To form their own no-name networks and band up with any other Al Qaeda survivors. Killing off Al Qaeda would do little to reduce Islamist terrorism. It would only make the world of terrorism more chaotic.
+  Three Kinds of Fool
+  Writing for the journal In Character, Michael Dirda, Washington Post book columnist, waxes cultural on the three types of fool -- real, professional or unsuspecting:
+  Real Fools are the innocents, the simpletons, the idiot savants and ''naturals'' who react to situations and people with an Aspergian lack of restraint or decorum. They speak their unmediated minds, and great truths sometimes emerge, as ''out of the mouths of babes.'' ... Forrest Gump is our great modern exemplar of this kind of fool. Heaven looks out for such as these.
+  Professional Fools include court jesters, clowns, toadies, con artists, and a whole range of yes-men. By pretending to be stupid or servile, the Professional Fool coolly aims to reinforce his client's conviction of his own obvious superiority. ... In the film   ''The Usual Suspects,''Kevin Spacey is a more complex example: Hunched and crippled (as were many professional court jesters), he's slightly pitied by the tough and obviously much smarter people all around him. But Verbal Kint is far more than the ''talkative child'' that his name suggests.
+  As for Unsuspecting Fools, they are essentially everyone else in the world, starting with you and me. Everybody plays the fool sometimes; there's no exception to the rule. ... Pride goeth before a fall. In tragic vein, Oedipus and Lear are Unsuspecting Fools.
+
+http://www.nytimes.com
+
+Load-Date: November 23, 2009
+
+
+End of Document

@@ -1,0 +1,55 @@
+Use of captive for terror risks puts Verizon in the vanguard
+Business Insurance
+April 7, 2003, Monday
+
+
+Copyright 2003 Crain Communications Inc.
+Section: Pg. 33
+Length: 1130 words
+Byline: DAVE LENCKUS
+Body
+
+
+Led by its risk management department, Verizon Communications Inc. was among the first captive insurance company owners to investigate how it could use its facility to obtain affordable terrorism coverage.
+The use of the captive to hold down Verizon's terrorism insurance costs is just one of several unusual elements of the company's manuscripted property insurance program. Other features include special deductible buydowns in the event of catastrophic events.
+Verizon uses its GTE Re captive, which is domiciled in Vermont, as a fronting insurer on a large portion of the highest layers of the company's $1 billion property insurance program. With GTE Re fronting much of the coverage excess of $400 million, the captive charges Verizon a much lower rate for terrorism coverage than other insurers would, explained Al Tobin, a managing director in New York for Aon Corp., Verizon's property insurance broker.
+GTE Re then fully reinsures all of the risk it assumes, with the exception of the terrorism insurance coverage.
+GTE Re's participation in the property program saved Verizon ''several million dollars,'' Mr. Tobin said.
+Verizon risk management and Aon determined that, based on GTE Re's capacity and the terrorism rates that all of the participating insurers sought, the captive would provide Verizon the greatest savings by fronting for the insurers on the highest excess layers, Mr. Tobin explained. While rates typically decrease for high excess insurance, the terrorism coverage rate as a percentage of the total rate increased on the high excess layers, he noted.
+Under the government-sponsored terrorism reinsurance program established by the Terrorism Risk Insurance Act of 2002, insurers are subject to a deductible of 7% of written premiums and a 10% coinsurance requirement.
+But the coverage applies only to losses arising from certified acts of terrorism and when those losses exceed $5 million on an aggregate basis from a single event. TRIA caps the amount of covered losses at $100 billion in any calendar year. The government can recover a portion of its losses through premium surcharges.
+While TRIA requires insurers to offer terrorism coverage to policyholders, the act does not regulate rates.
+The rates that many insurers have sought for the coverage have discouraged most insurance buyers from purchasing the coverage.
+According to a recent survey by the Council of Insurance Agents & Brokers of its members, 48% of the 212 survey respondents reported that less than 20% of large companies purchase terrorism insurance. More than 60% of the respondents reported that less than 20% of mid-sized and small companies purchase the coverage.
+The survey also found that the average cost of terrorism coverage, as a percentage of property premiums, is greatest for the largest policyholders.
+Mr. Tobin said that Verizon, represented by Sheila Small, assistant treasurer-risk management and insurance, was possibly the first captive owner to investigate how to put its facility to use to obtain the terrorism coverage most cost efficiently.
+Similarly, Chris Varin, a senior vp with the captive's manager, Marsh Management Services Inc. of Burlington, Vt., recalled that Verizon was among the first captive owners to investigate how it could use its facility effectively to obtain terrorism coverage.
+''Verizon, as is often the case, was in front of the curve'' in monitoring TRIA as it wended through Congress and in evaluating its applicability to the company's risk financing program, Mr. Varin said.
+''It goes to Sheila's approach'' to all phases of risk management, Mr. Varin said.
+Overall, Verizon's global master property policy is ''very unique,'' said Charles A. Yaunches, director-property risk management.
+Verizon's global master property insurance policy is manuscripted, with coverage tailored specifically for the telecommunications industry.
+The manuscripted policy provides broader coverage than does a standard property policy, Mr. Tobin said. Aon designed the policy in 1997.
+The tight property market essentially bars insurance buyers from purchasing limits that would cover the total value of their properties. To arrive at Verizon's $1 billion policy limit, risk management evaluated the company's largest potential loss from a single event, such as a hurricane hitting the Eastern Seaboard, Mr. Yaunches explained.
+More than two dozen U.S. and European insurers underwrite the program. Several insurers participate in each layer of the multilayered coverage. Insurers on any given layer underwrite as little as 2% to as much as 40% of that layer.
+But, especially in the lower layers, some insurers' participation spans several layers, while others' don't.
+Some insurers that participate in the lower layers of coverage also write a portion of the highest excess layers.
+GTE Re retains a small percentage of risk on a couple excess layers, as well as fronts for several insurers on high layers.
+Deductibles under the program not only take into account the financial muscle of the Verizon subsidiary that sustains a loss but also automatically decrease when losses are sustained during catastrophic events, Mr. Yaunches explained.
+Generally, subsidiaries with asset values exceeding $5 million are subject to $10 million deductibles. Most smaller units are subject to $1 million deductibles. Small, foreign-based units are subject to $100,000 deductibles, for which the units are covered through GTE Re.
+But, the deductibles for most of Verizon's largest units drop to $1 million if those units sustain losses during a catastrophic event such as a hurricane or earthquake.
+The catastrophe deductible works differently for Verizon's large telephone company subsidiaries in the Dominican Republic and Puerto Rico. If a hurricane reaches Category 3 or 4 status at a prescribed point between those islands, then their deductibles drop to the greater of $2 million or 5% of the loss.
+Mr. Yaunches noted that Verizon is investigating arranging similar deductibles for its units in the Pacific region.
+One portion of Verizon's property risk is not commercially insured. Verizon's other Vermont-domiciled captive, Exchange Indemnity Co., underwrites the telecommunication company's coverage for its transmission and distribution lines.  The captive writes $25 million of limits, subject to a $25 million deductible.
+Verizon has insured the risk in the past. Even last year, 15 insurers participated on the $25 million excess program, in which Exchange Indemnity retained only 3% to 5% of losses, Mr. Yaunches noted.
+But Ms. Small and Mr. Tobin said few underwriters currently are interested in underwriting the risk at a rate that is reasonable even by hard market standards.
+The cost of commercial coverage in the current market is ''unbearable to Verizon,'' Mr. Tobin observed.
+
+Graphic
+
+ 
+Al Tobin, Aon Corp.
+
+Load-Date: April 9, 2003
+
+
+End of Document

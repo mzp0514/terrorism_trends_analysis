@@ -1,0 +1,38 @@
+Obama outlines changes in NSA spying program
+Charleston Gazette (West Virginia)
+January 18, 2014, Saturday
+
+
+Copyright 2014 Charleston Newspapers
+Section: NEWS; Pg. P2A
+Length: 1015 words
+Byline: Anita Kumar, McClatchy Washington Bureau
+Body
+
+
+WASHINGTON - President Obama announced Friday that he will rein in a contentious federal program that collects millions of Americans' phone records by requiring court approval each time the data is examined and eventually halting the government's storage of the information.
+In a long-anticipated speech, Obama outlined a slew of changes to the government's vast surveillance programs, including halting spying on dozens of foreign leaders; appointing a team of advocates to sometimes appear before the nation's secret surveillance court, which now hears arguments only from the government; and releasing more classified documents.
+"For ultimately, what's at stake in this debate goes far beyond a few months of headlines, or passing tensions in our foreign policy," Obama said in a lengthy speech at the Justice Department. "When you cut through the noise, what's really at stake is how we remain true to who we are in a world that is remaking itself at dizzying speed."
+Obama stressed that he is trying to strike a balance between protecting Americans from terrorism while addressing the privacy and civil liberties concerns.
+The speech, which comes after a months-long review of the spying program, does not end the issue. Obama said he will continue to make changes; seek guidance from his administration on how to implement some policies; and solicit the advice of a divided Congress, where support for NSA changes does not fall strictly along party lines.
+The response from Capitol Hill was mixed.
+"President Obama's announced solution to the NSA spying controversy is the same unconstitutional program with a new configuration," said Sen. Rand Paul, R-Ky. "The American people should not expect the fox to guard the henhouse."
+"Make no mistake, this is a major milestone in our longstanding efforts to reform the National Security Agency's bulk collection program," said Sens. Ron Wyden, D-Ore., Mark Udall, D-Colo., and Martin Heinrich, D-N.M., all members of the Senate Intelligence Committee and critics of the program.
+The extent of the government's surveillance programs became public after the release of secret documents by former national security contractor Edward Snowden. They showed that the NSA has been collecting the telephone and email records of tens of millions of Americans and foreigners; eavesdropping on allies such as Germany and Brazil; and spying on a host of global institutions, including the World Bank.
+Obama said that Snowden, living in Russia under a temporary grant of asylum, revealed "methods to our adversaries that could impact our operations in ways that we may not fully understand for years to come."
+"Given the fact of an open investigation, I'm not going to dwell on Mr. Snowden's actions or motivations," Obama said. "Our nation's defense depends in part on the fidelity of those entrusted with our nation's secrets. If any individual who objects to government policy can take it in their own hands to publicly disclose classified information, then we will not be able to keep our people safe, or conduct foreign policy."
+Obama announced several changes in his speech, but much of the emphasis was focused on the bulk collection program, which amasses the phone numbers dialed, but not the content of the calls. It was authorized by Section 215 of the Patriot Act and started after the Sept. 11, 2011, terrorist attacks. It didn't require court approval until 2006.
+"Collecting billions of benign telephone records will not make us safer," said Jimmy Gurule, a former assistant U.S. attorney general who now teaches law at the University of Notre Dame. "Instead, the focus should be on the intelligence agencies doing a better job of sharing counter-terrorism intelligence information. The time has come to rein in the surveillance state."
+Obama described his changes as "concrete and substantial reforms," especially with respect to the bulk collection program, which he said will essentially end.
+He will limit gathering phone records from those further removed from the original suspects and reduce the number of years the data may be retained. The president also asked Attorney General Eric Holder and intelligence officials to craft a plan that bars the NSA from continuing to store the information before the program is due to be reauthorized by a secret court March 28.
+But civil liberty advocates said they were disappointed that the government could still collect phone numbers.
+"Although we're heartened by many of the positive steps that the president outlined today, many key questions and reforms were left unaddressed, and many controversies punted to Congress or to other government officials," said Sascha Meinrath, director of the Open Technology Institute and vice president at the New America Foundation, a nonpartisan public policy think tank, which provided suggestions to the White House. "To restore the trust in the United States as a responsible steward of the Internet, the president should be acting now."
+Intelligence officials insist that the bulk phone records program prevents terrorist attacks, while opponents argue that the administration has never provided specific examples of attacks that were prevented because of it.
+An analysis of 225 terrorism cases since 2001 indicates that the data collection had a minimal impact on preventing terrorism except for a case that involved a San Diego cabdriver convicted of sending money to a terrorist group in Somalia, according to a report this week by the New America Foundation.
+An advisory panel created by Obama said in its report that the program hadn't been essential to preventing attacks. The panel recommended nearly 50 changes to the NSA programs, including the contentious bulk collection of phone records.
+Some civil liberty and privacy groups say Obama should follow his advisory group's recommendations, which calls for ending the program altogether. But group members say their 300-page report has been misinterpreted and that they recommended only that the government no longer hold the data and that it be required to obtain an individual court order for each search.
+
+Load-Date: January 20, 2014
+
+
+End of Document

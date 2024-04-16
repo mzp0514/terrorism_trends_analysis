@@ -1,0 +1,47 @@
+Terrorism tools lose privacy safeguards
+Charleston Gazette (West Virginia)
+March 15, 2004, Monday
+
+
+Copyright 2004 Charleston Newspapers
+Section: News; Pg. P2C
+Length: 1004 words
+Byline: Michael J. Sniffen The Associated Press
+Body
+
+
+WASHINGTON - When Congress curtailed Pentagon research it feared would ensnare innocent Americans in the terrorism fight, it also allowed the Bush administration to eliminate two projects to protect citizens' privacy from futuristic tools.
+As a result, the government is quietly pressing ahead with research into high-powered computer data-mining technology without the two most advanced privacy protections developed for those terror-fighting tools.
+"It's very inconsistent what they've done," said Teresa Lunt of the Palo Alto Research Center and head of one of the two government-funded privacy projects eliminated last fall.
+Even members of Congress such as Sen. Ron Wyden, D-Ore., who led the fight to restrict the Pentagon terrorism research over its privacy implications, remain uncertain about the nature of the research or the safeguards.
+The privacy projects were small parts of the Pentagon's Terrorism Information Awareness research.
+The project was the brainchild of retired Adm. John Poindexter, who was driven from the Reagan administration in 1986 over the Iran-Contra scandal. Some 15 years later, he was summoned back by the Bush administration to develop data-mining tools for the fight against terrorism.
+Poindexter's new software tools, far more powerful than existing commercial products, would have allowed government agents to quickly scan the private commercial transactions and personal health records of millions of Americans and foreigners for telltale signs of terrorist activity.
+Partly to appease critics, Poindexter also was developing two tools that would have concealed names on records during the scans. Only if agents discovered concrete evidence of terrorist activities would they have been permitted to learn the identities of the people whose records aroused suspicion.
+One privacy project worked with Poindexter's Genisys program, which scanned government and commercial records for terrorist planning. The other was part of his Bio-ALIRT program, which scanned health records for evidence of biological attacks.
+Late last year, Congress closed Poindexter's office in the Defense Advanced Research Projects Agency (DARPA) in response to the uproar over its impact on privacy.
+But Congress allowed some Poindexter projects, including some data-mining research, to be transferred to intelligence agencies. Congress also left intact similar data-mining research begun in the fall of 2002 by the Advanced Research and Development Activity (ARDA), a little-known office that works on behalf of U.S. intelligence.
+The research sponsored by ARDA, called Novel Intelligence from Massive Data, is so similar to some work done for Poindexter that Lunt offered to adapt her privacy protection software. ARDA and other agencies were not interested because Congress had killed the original projects.
+"When I went to talk to them, ARDA made clear they don't want to get into any area Congress doesn't want to fund," Lunt said.
+It's not clear what, if any, privacy research is being done by ARDA or by the surviving remnants of Poindexter's program.
+Last fall's Intelligence Authorization Act approved continued research on the type of powerful data-mining Poindexter envisioned but said "policies and procedures necessary to safeguard individual liberties and privacy should occur concurrently with the development of these analytic tools, not as an afterthought."
+LaTanya Sweeney of Carnegie Mellon University was the principal researcher developing one set of privacy protections. She said DARPA paid to develop privacy software but didn't pay for a public field test. "The tool just sits there unused," Sweeney said. "People think they have to sacrifice privacy to get safety. And it doesn't have to be that way."
+ARDA said it obeys all privacy laws and has not given its researchers any government or private data. But it declined to say whether it is sponsoring any research on privacy protection.
+s
+"We feel Congress is not getting enough information about who is undertaking this research and where it's headed and how they intend to protect the civil liberties of Americans," said Chris Fitzgerald, Wyden's spokesman.
+Lunt, who used to be a DARPA program manager, was developing privacy protection software for Poindexter's Genisys program.
+Her software shielded identities in the records the government reviewed, restricted each intelligence analyst to only the data he or she was authorized to see, and created a permanent record to track cheaters.
+In reviewing the rise and fall of Poindexter's project, the Pentagon's inspector general concluded the failure to address privacy problems from the outset of future data-mining research risks developing "systems that may not be either deployable or used to their fullest potential without costly revision."
+Professor LaTanya Sweeney of Carnegie Mellon University was the principal researcher developing privacy protections for the Bio-ALIRT project. An early version of Bio-ALIRT was used to help protect President Bush's 2001 inauguration and the 2002 Olympics before Sweeney developed her privacy software.
+She also presented her work last fall to officials of various agencies she was told "might want to continue the work. But they came through with zero dollars."
+The biosurveillance system monitors symptoms of patients at emergency rooms and doctors' offices and less-obvious sources such as increases in grocery store orange juice sales and in school absenteeism in hopes of detecting a biological attack. Names are concealed until evidence suggests victims need to be treated.
+Professor LaTanya Sweeney of Carnegie Mellon University was the principal researcher developing one set of privacy protections. She said DARPA paid to develop privacy software but didn't pay for a public field test. "The tool just sits there unused," she said. "People think they have to sacrifice privacy to get safety. And it doesn't have to be that way."
+On the Net:
+DARPA: www.darpa.mil 
+ARDA: www.ic-arda.org 
+Professor Sweeney: http://privacy.cs.cmu.edu/people/sweeney/index.html 
+
+Load-Date: March 16, 2004
+
+
+End of Document

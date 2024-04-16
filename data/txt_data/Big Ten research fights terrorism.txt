@@ -1,0 +1,31 @@
+Big Ten research fights terrorism
+University Wire
+April 14, 2003, Monday
+
+
+Copyright 2003 Badger Herald via U-Wire
+Length: 538 words
+Byline: By Matthew Dolbey, Badger Herald
+Dateline: Madison, Wis.
+Body
+
+
+Purdue University and Pennsylvania State University have been working to aid the war on terror. Both have developed new programs recently that could be key to the fight to keep the United States safe.
+Purdue University has been developing a new system software and database among pet hospitals to help public health authorities have an early warning to any unfolding biological attacks. This is a key development, because pets are known to recognize disease outbreaks before humans can. Much like canaries in coal mines were used to detect deadly gases, these pets will give the heads up to humans.
+U. Wisconsin
+"We are developing analytical techniques that, when used in a timely way, could signal a terrorist attack," said Larry Glickman, head researcher and professor of epidemiology at Purdue University.
+This is made possible with system software recently distributed to about 300 veterinary hospitals that tracks possible biological outbreaks, like the plague or anthrax. Data is downloaded to a central database every night, and with what Glickman calls the "right computer programming and the right statistical analysis," this data could allow the developers to notify health officials of a possible biological attack before human health surveillance could.
+Penn State has been working on an underwater surveillance system that would report, in real time, the temperature of the water and the amount of insecticides and other chemicals in the water. This could become the easiest, cheapest and least expensive way to monitor bodies of water.
+Up to now, the most common method used to gather data from bodies of water was to take samples and then send the samples back to a laboratory. This is an expensive and time-consuming way to test lakes and rivers.
+Because water distorts radio signals, which is the most common method used to transfer information through air, head developer Craig Grimes and his team at Penn State and SenTech Corporation had to develop a new way to transfer information.
+Grimes' team developed an aqueous sensor network, which includes a node that floats on the water's surface, transferring the aqueous system data from the water to the air, where a central computer then receives it.
+Under the water's surface are the layers of nodes and sensors that monitor the water and transfer it to the floating node. Because the sensors that are farthest from the floating node cannot directly transmit the information to the floating node, the underwater nodes transfer information to each other, until the nodes in range of the floating node can pass on the information.
+"Node-to-node communication enables wide-area coverage using modest node power levels, making practical long-term monitoring," reported Grimes in a paper in the journal Sensors.
+The city of Madison, Wis., currently has a monitoring system in place for the three recreational lakes in Madison. The real-time monitoring system monitors rainfall, air and water temperatures and nutrients, among other things.
+If a system likened to the one Penn State is developing would be implemented in Madison, taking samples to check for battery acid and other pathogens might become outdated.
+(C) 2002 Badger Herald via U-WIRE
+
+Load-Date: April 14, 2003
+
+
+End of Document

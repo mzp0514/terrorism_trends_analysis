@@ -1,0 +1,40 @@
+U.S. Eases Rule On Use of Data On Americans
+The New York Times
+March 23, 2012 Friday
+Late Edition - Final
+
+
+Copyright 2012 The New York Times Company
+Section: Section A; Column 0; National Desk; Pg. 1
+Length: 1087 words
+Byline: By CHARLIE SAVAGE
+Body
+
+
+WASHINGTON -- The Obama administration is moving to relax restrictions on how counterterrorism analysts may retrieve, store and search information about Americans gathered by government agencies for purposes other than national security threats.
+Attorney General Eric H. Holder Jr. on Thursday signed new guidelines for the National Counterterrorism Center, which was created in 2004 to foster intelligence sharing and serve as a terrorism threat clearinghouse.
+The guidelines will lengthen to five years -- from 180 days -- the amount of time the center can retain private information about Americans when there is no suspicion that they are tied to terrorism, intelligence officials said. The guidelines are also expected to result in the center making more copies of entire databases and ''data mining them'' using complex algorithms to search for patterns that could indicate a threat.
+Intelligence officials on Thursday said the new rules have been under development for about 18 months, and grew out of reviews launched after the failure to connect the dots about Umar Farouk Abdulmutallab, the ''underwear bomber,'' before his Dec. 25, 2009, attempt to bomb a Detroit-bound airliner.
+After the failed attack, government agencies discovered they had intercepted communications by Al Qaeda in the Arabian Peninsula and received a report from a United States Consulate in Nigeria that could have identified the attacker, if the information had been compiled ahead of time.
+The changes are intended to allow analysts to more quickly identify terrorism suspects. But they also set off civil-liberties concerns among privacy advocates who invoked the ''Total Information Awareness'' program. That program, proposed early in the George W. Bush administration and partially shut down by Congress after an outcry, proposed fusing vast archives of electronic records -- like travel records, credit card transactions, phone calls and more -- and searching for patterns of a hidden terrorist cell.
+But national security officials stressed that analysts could already get the same information under the old rules, just in a more cumbersome way. They cited safeguards to protect against abuse, including audits of searches. The same rules apply to access by other federal agencies involved in counterterrorism.
+''There is a genuine operational need to try to get us into a position where we can make the maximum use of the information the government already has to protect people,'' said Robert S. Litt, the general counsel in the office of the Director of National Intelligence, which oversees the National Counterterrorism Center. ''We have to manage to do that in a way that provides protection to people's civil liberties and privacy. And I really think this has been a good-faith and reasonably successful effort to do that.''
+The center has developed a priority list of databases it wants to copy entirely, but he and other officials declined to say which ones they were. (The Department of Homeland Security says it has already shared several entire databases, including records related to refugees, foreign students and international travelers.)
+''We're all in the dark, and for all we know it could be a rerun of Total Information Awareness, which would have allowed the government to make a computerized database of everything on everybody,'' said Kate Martin, the director of the Center for National Security Studies, who criticized the administration for not making the draft guidelines public for scrutiny ahead of time.
+The guidelines were also signed by the director of national intelligence, James R. Clapper Jr., and the director of the center, Matthew G. Olsen.
+The previous guidelines for sharing information with the counterterrorism center were issued by Attorney General Michael Mukasey in 2008.
+They set up three tracks by which the center could retrieve information gathered by another agency: by doing a limited search itself for certain data, by asking another agency to perform such a search, or -- in cases whether neither was sufficient -- by replicating the database and analyzing the information itself.
+The new guidelines keep that structure in place, but put greater emphasis on the third track, while also relaxing restrictions on how long data on Americans who have no known tie to terrorism may be stored. The old guidelines said data on innocent Americans must be deleted promptly, which the agency interpreted to mean if no tie to terrorism was detected within 180 days.
+The new guidelines are intended to allow the center to hold on to information about Americans for up to five years, although the agencies that collected the information -- and can negotiate about how it will be used -- may place a shorter life span on it.
+Moreover, the first two tracks for searching the databases that remain under the control of the original agencies prohibit ''pattern analysis.'' But that restriction does not apply to databases the center has copied.
+Marc Rotenberg, executive director of the Electronic Privacy Information Center, voiced concerns about how the guidelines would interact with proposals to give the government greater access to telecommunications information in order to protect critical infrastructure from hackers.
+The new rules are silent about the use of commercial data -- like credit card and travel records -- that may have been acquired by other agencies. In 2009, Wired Magazine obtained a list of databases acquired by the Federal Bureau of Investigation, one of the agencies that shares information with the center. It included nearly 200 million records transferred from private data brokers like ChoicePoint, 55,000 entries on customers of Wyndham hotels, and numerous other travel and commercial records.
+Intelligence officials offered a hypothetical scenario to explain one way the change could be helpful: A person from Yemen applies for a visa and lists an American as a point of contact. There is no sign that either person is a terrorist. Two years later, another person from Yemen applies for a visa and lists the same American, and this second person is a suspected terrorist.
+Under the existing system, they said, to discover that the first visa applicant now had a known tie to a suspected terrorist, an analyst would have to ask the State Department to check its database to see if the American's name had come up on anyone else's visa application -- a step that could be overlooked or cause a delay. Under the new rules, a computer could instantly alert analysts of the connection.
+
+http://www.nytimes.com
+
+Load-Date: March 23, 2012
+
+
+End of Document

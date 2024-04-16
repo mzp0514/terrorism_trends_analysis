@@ -1,0 +1,33 @@
+The E in Terrorism
+Christian Science Monitor (Boston, MA)
+September 20, 2001, Thursday
+
+
+Copyright 2001 The Christian Science Publishing Society
+Section: EDITORIALS; Pg. 8
+Length: 353 words
+Body
+
+
+The connection between terrorism and the Internet is just beginning to be understood. There's some evidence that the perpetrators of the Sept.  11 attacks on New York and Washington had been using e-mail, presumably to stay in touch with each other and further develop their plot. And Osama bin Laden's network has spread its message through CDs and other digital means.
+Does that justify significant new government powers to monitor and seize such communication?
+ 
+Last week, the Senate passed a measure that would allow the FBI to track more easily who is sending and receiving e-mail messages, using the agency's highly controversial "Carnivore" eavesdropping software.
+ 
+That measure passed with the "yeas" even of lawmakers usually leery of giving federal agents privacy-breaching authority. Some House conservatives with deep concerns about expanded powers of surveillance have indicated they won't go along with this and similar steps so quietly.
+ 
+That's reassuring. Urgent as they may seem, moves that could undercut constitutional protections against government snooping demand thoughtful deliberation.
+ 
+That said, this is an extraordinary moment. The need to put privacy concerns in the balance with practical steps against terrorism is clear. Polls indicate Americans are ready to give up some privacy rights in order to enhance security.
+ 
+The Justice Department is pushing hard for added powers. It wants, for instance, the ability to order wiretaps or e-mail taps in emergency situations without any court oversight. At the least, questions should be raised: Are these powers to be open-ended, with no time limit? How can the courts be assured of staying in the picture, to prevent abuses?
+ 
+The remarkably open world of online communication has been pulled into the fight against terrorism. That world, after all, is itself a tempting target for those who want to disrupt modern society, as this week's new "Nimda" virus attack attests.
+ 
+The government has to take measures both to monitor the Net and defend it. But those steps should be subject to review and restraint.
+(c) Copyright 2001. The Christian Science Monitor
+
+Load-Date: September 19, 2001
+
+
+End of Document

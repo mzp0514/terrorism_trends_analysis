@@ -1,0 +1,30 @@
+GOVERNMENT CYBER BACKSTOP COULD EMERGE FROM CATASTROPHIC CYBER ATTACK
+Business Insurance 
+Print Version
+March 2, 2015
+
+
+Copyright 2015 Crain Communications All Rights Reserved
+
+
+Section: Pg. 26; Vol. 49
+Length: 445 words
+Byline: Judy Greenwald and Sarah Veysey
+Body
+
+
+Would Congress consider a safety net for a cataclysmic cyber attack? A federal backstop for cyber risks akin to that for terrorism eventually may be feasible, experts say.
+Although Congress has yet to approve significant cyber legislation, such a national cyber safety net could come in the form of government support in the event of a catastrophic cyber attack, experts say. Meanwhile, some experts think there may be cyber coverage under the existing Terrorism Risk Insurance Program Reauthorization Act.
+Speaking during an analysts' conference call Feb. 10 - the week after Anthem Inc. announced a massive data breach - Catlin Group Ltd. CEO Stephen Catlin said if governments think there is a need to create pools to cover risks that are finite, such as TRIA, "then why on earth would governments not think about a pool for cyber?"
+Such a facility "might have some benefits for the areas where there are gaps that the insurance community isn't fully embracing, in particular property damage and bodily injury arising from a cyber event," said Robert Parisi, managing director and national cyber risk practice leader at Marsh L.L.C. "But I think it would have to be fairly narrowly focused so as not to do more damage than harm."
+The two areas that underwriters "just won't touch" are warlike acts and infrastructure attacks, said Peter Foster, New York-based senior vice president of network security and privacy, media, tech professional and intellectual property at Willis North America Inc. "It's about aggregation of losses, and the only way we're going to address those losses is through a TRIA-type approach."
+While some think the federal terrorism backstop already might apply to a massive cyber attack, specific language addressing cyber issues never was settled upon before Congress passed fresh TRIA legislation in January, said Kevin Kalinich, Chicago-based practice leader of cyber risk insurance at Aon Risk Solutions.
+Even though it is not explicit in the TRIA law, indications are that it would provide coverage in the event of a catastrophic cyber attack, Mr. Kalinich said.
+"I think if the United States suffered the digital equivalent of a 9/11, then we will be rethinking this country's vulnerability and how to manage it from scratch,'' Robert Hartwig, president of the New York-based Insurance Information Institute said.
+"At that point, everything would be on the table, and the federal government may wish to enlist the private insurance sector in a more robust way, and may seek to incentivize it to protect business against future such attacks.''
+President Barack Obama signed the law Jan. 12 extending the federal terrorism backstop until Dec. 31, 2020.
+
+Load-Date: March 5, 2015
+
+
+End of Document

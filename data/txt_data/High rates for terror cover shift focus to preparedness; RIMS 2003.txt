@@ -1,0 +1,62 @@
+High rates for terror cover shift focus to preparedness; RIMS 2003
+Business Insurance
+April 21, 2003, Monday
+
+
+Copyright 2003 Crain Communications Inc.
+Section: Pg. 10
+Length: 1566 words
+Byline: DAVE LENCKUS and ROBERTO CENICEROS
+Body
+
+
+CHICAGO-Risk managers came to their annual national conference with several complaints about government-backed terrorism insurance, but some still picked up insights on terrorism risk and risk financing.
+A chief complaint revolved around pricing for the coverage, which many risk managers said their organizations do not need because they do not view themselves as either likely targets or victims of collateral damage.
+Improving facility security and making employees feel safer is a better approach to protecting corporate assets than is purchasing expensive insurance, some risk managers said.
+Still, some risk managers learned a little about insurers' pricing philosophies as well as possible alternative coverage and some new terrorism-related risk management products during the Risk & Insurance Management Society Inc.'s 41st Annual Conference and Exhibition in Chicago earlier this month.
+Under the government-sponsored terrorism reinsurance program established by the Terrorism Risk Insurance Act of 2002, insurers in the United States must offer terrorism coverage through several lines: property, general liability, auto liability, construction, surety, financial and professional liability, aviation, marine and workers compensation.
+With the exception of workers comp coverage, policyholders are not required to purchase the insurance.
+Besides pricing, several coverage provisions trouble risk managers. TRIA insurance covers losses only at U.S. sites and only if the U.S. Treasury Department declares that foreign terrorists caused the losses. Even so, the coverage would not be triggered unless aggregate losses from a single act of terrorism exceed $5 million, and total covered losses would be capped at $100 billion.
+Insurers this year are subject to a deductible equal to 7% of the written premiums they generate from the insurance lines for which they must offer terrorism coverage. Insurers also are subject to a 10% coinsurance requirement.
+Pricing a deterrent
+TRIA rates have discouraged most insurance buyers from purchasing the coverage, according to various studies.
+At a mini-session at the Marsh USA Inc. exhibit hall booth, Marsh executive Jill Dalton said 32% of organizations have purchased TRIA coverage, though she noted that figures fluctuate significantly by industry.
+For example, among Marsh's clients, 52% of financial institutions, 43% of health care organizations and 39% of government entities have purchased the coverage, while more than 75% of manufacturers and real estate concerns have rejected it, said Ms. Dalton, a managing director and the broker's national property practice leader.
+The risks that most often rejected the coverage typically could have purchased it for less than the higher-risk organizations that did purchase it, according to Ms. Dalton's statistics.
+Based on an analysis of 1,800 TRIA coverage quotes insurers made to 400 Marsh clients, the broker found that pricing varied widely. For property risks-insurers' greatest exposure-the additional premium for the coverage ranged from nothing to more than 1,000%, with the average a 24.5% increase, according to Ms. Dalton.
+Excluding the most expensive quotes, the average additional premium was 9.4%, Ms. Dalton noted. The most expensive quotes, which accounted for 22% of all quotes, sought at least 28% of additional premium, and one-third of the highest-priced quotes sought at least 100% of additional premium, according to Ms. Dalton.
+Little return on investment
+Former Risk Managers of the Year Daniel H. Kugler and Jeffrey W. Pettegrew said they rejected TRIA coverage because they saw little return for the investment.
+Mr. Kugler, director of corporate risk management for Pleasant Prairie, Wis.-based Snap-on Inc., noted that the company's key facilities are not located in areas considered at a high risk of terrorism.
+In addition, at those facilities, the manufacturer and distributor of professional auto tools and equipment does not have a high concentration of employees, said Mr. Kugler, the 2002 Risk Manager of the Year.
+Mr. Pettegrew, the 1989 Risk Manager of the Year, did not buy TRIA coverage for temporary staff-ing provider Westaff Inc. of Walnut Creek, Calif., for the same reasons.
+Moreover, Mr. Pettegrew, vp-risk management and insurance for Westaff, said he has philosophical problems with the coverage.
+''To me, it's the Chicken Little situation,'' he said. Referring to the chances of suffering a loss in a terrorist attack, he said: ''The odds are so far off I think it's a waste of corporate money. It's better to put that into safety and security.''
+Mr. Kugler agreed. Snap-on had been tightening security significantly at its facilities before the Sept. 11, 2001, terrorist attacks to minimize workplace violence risks.
+Some employees initially questioned the need for those measures, but ''now, you get buy-in'' from employees, who view the measures as a means of preventing both workplace violence and terrorism, he said.
+A new benefit at Westaff that Mr. Pettegrew expects will be more valuable than terrorism insurance is an employee assistance program. ''Terrorism insurance can't help them'' the way an EAP program can in dealing with anxieties triggered by world events as well as personal problems, he said.
+Sheryl A. Pixler, another award-winning risk manager, said her company's risk profile did not warrant the coverage and its additional cost.
+Ms. Pixler, risk manager for information storage provider Storage Technology Corp. of Louisville, Colo., and a 1999 Risk Management Honor Roll member, also was concerned that TRIA coverage is not ''clear cut.''
+Coverage triggers are much clearer under stand-alone terrorism insurance, Ms. Pixler said she learned from her peers at the conference.
+Ms. Pixler also is confident that StorageTek's ''solid business continuity plans'' would mitigate business interruption losses if the company or one of its suppliers suffers losses in a terrorist attack.
+That kind of analysis continues at the company. StorageTek is evaluating whether to relocate one of its European facilities because its current seaport location may expose the company to a greater terrorism risk than it is comfortable taking, Ms. Pixler noted.
+Among the risk managers who purchased TRIA coverage for their organizations, some were able to beat the average additional cost significantly.
+For example, Roseville, Calif.-based Adventist Health Systems purchased TRIA insurance to cover its hospital properties because Factory Mutual Insurance Co. asked for only 2% of additional premium.
+''That seemed like a good trade-off of risk for us. Definitely affordable,'' said Julie Thomas, director-risk and insurance services.
+Ms. Thomas also is investigating stand-alone terrorism coverage, which typically covers both domestic and foreign acts of terrorism and has clearer coverage triggers. But if, as Ms. Thomas heard in one of several RIMS sessions on terrorism, stand-alone coverage will cost far more than what Adventist paid for TRIA coverage, then Adventist will not purchase it, she said.
+Similarly, Robert H. Osha of Chantilly, Va.-based Rolls Royce North America Inc. purchased TRIA property coverage for 5% of additional premium.
+''It would have been a silly decision not to buy it at 5%,'' said Mr. Osha, director of risk management-the Americas for Rolls Royce.
+Mr. Osha said he will re-examine his decision to purchase TRIA coverage when his property coverage renews. His decision again will be price-driven, he said, noting that he had planned to reject the TRIA coverage when early research indicated that Rolls Royce would face a 50% additional premium.
+Other factors
+For some risk managers, forces other than price compel them to purchase TRIA coverage. For example, many financial institutions are demanding that borrowers purchase the coverage, insurance market executives note.
+Aware of this trend, Zilber Ltd., a Milwaukee-based real estate developer and property owner, has purchased TRIA coverage under several policies, including property and builders risk.
+Its lenders have not demanded that Zilber purchase the coverage, but some have inquired about it, noted Fran Halas, corporate director of insurance. Ms. Halas purchased it because she did not want to find herself under a tight deadline if Zilber's lenders later demanded the insurance.
+In addition, even if Milwaukee is not a prime target for terrorists, Zilber has a large concentration of properties in the city. Plus, the company is developing a time-share project near Cape Canaveral, Fla., which could be an attractive target for terrorists, Ms. Halas said. The Kennedy Space Center and a U.S. Air Force base are located nearby.
+Ms. Pixler noted that a related, complicating factor for risk managers who see no need to purchase TRIA coverage could arise if landlords or property leaseholders begin requiring their tenants to obtain terrorism insurance as part of the all-risks coverage the tenants already must purchase.
+Mr. Kugler said he already has faced that issue with the landlord of a building Snap-on leases in Detroit, and he refused to purchase the terrorism insurance. Instead, Snap-on agreed to cover the cost of the coverage in its lease payment, but any loss would not hurt Snap-on's loss experience, Mr. Kugler explained.
+Mr. Pettegrew said that risk managers who succumb to such demands from landlords or leaseholders risk opening the door to additional insurance mandates.
+
+Load-Date: April 25, 2003
+
+
+End of Document

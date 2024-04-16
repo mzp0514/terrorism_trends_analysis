@@ -1,0 +1,35 @@
+Sending a message on surveillance
+The Pantagraph (Bloomington, Illinois)
+August 03, 2013 Saturday
+
+
+Copyright 2013 The Pantagraph
+Section: OPINION; Pg. a6
+Length: 728 words
+Byline: LOS ANGELES TIMES
+Body
+
+
+Recently the House of Representatives narrowly defeated an amendment designed to prevent the National Security Agency from collecting telephone metadata information about the sources, destinations and duration of calls unless they were relevant to the investigation of a particular person suspected of espionage or terrorism. Co-sponsored by Reps. Justin Amash, a libertarian Republican from Michigan, and John Conyers Jr., a liberal Democrat from the same state, the amendment failed by only a few votes, and only because the Obama administration and the leadership of both parties pressed hard for a no vote. 
+But the narrowness of the margin and the bipartisan support suggest that Congress will revisit, and soon the question of whether the NSA should be allowed to assemble what officials have referred to as a "haystack" of metadata in order to search for the "needle" of a connection to terrorism.  
+The result of that reconsideration, we believe, should be legislation that would permit the government to collect such phone records only in connection with a specific investigation and with the approval of a court. 
+That’s what most Americans thought was happening under a provision of the Patriot Act that allows the government, with a court order, to obtain business records and other "tangible things" relevant to "an authorized investigation" of espionage or terrorism. But then former NSA contractor Edward J. Snowden provided journalists with an order from the secret Foreign Intelligence Surveillance Court giving the government access on an "ongoing daily basis" to millions of telephone records. It now seems that the court, in another secret opinion, authorized the bulk collection of virtually all domestic telephone data on the theory that the overall war on terror is a single "investigation." 
+Some members of Congress have called for the public release of that and other opinions by the court. That is certainly desirable, but it wouldn’t alter the fact that because of the court’s permissive interpretation, telephone metadata is now being warehoused by the government. That is the problem the Amash amendment sought to address. 
+Defenders of bulk collection emphasize that the data are "queried," or searched, only when investigators conclude that there is a "reasonable, articulable" reason to think that they will discover a phone number linked to terrorism. Before they can take it to the next level and read the contents of a conversation, a court order must be obtained.  
+In short, the policy’s defenders say, the intrusions on Americans’ privacy are minimal, and are outweighed by the value of the program in disrupting terrorist plots. 
+But calling patterns can provide a window on a host of intimate activities, and there is a potential for abuse any time such information is made accessible to government employees. (It wouldn’t be the first time that a government agency used personal information to harass dissidents or political opponents.) As for the usefulness of such data in preventing terrorism, it appears that the collection of domestic phone records has been much less important in detecting and disrupting plots than the monitoring of the communications of foreign targets outside the United States under a program known as PRISM, whose existence was also revealed by Snowden. 
+The "business records" provision of the Patriot Act expires in 2015 but can be amended any time before then. The best solution would be legislation limiting the acquisition of phone records to situations in which investigators were pursuing a specific lead, although Congress has other options that might accomplish the same thing. 
+The bulk collection of phone records under the Patriot Act is only one example of intrusion on personal privacy in the cause of combating terrorism.  
+Congress also needs to scrutinize the government’s acquisition of information through so-called national security letters (which don’t require judicial review), and it must ensure that information about Americans "incidentally" collected by the PRISM program is being promptly deleted as required by law. 
+Even before Snowden’s disclosures, it was evident that Congress needed to take a new and exacting look at the massive surveillance system created in the aftermath of 9/11.  
+The vote in the House suggests that members of both parties are beginning to get the message. 
+
+Graphic
+
+ 
+This is a Quark CopyDesk document!
+
+Load-Date: August 10, 2013
+
+
+End of Document

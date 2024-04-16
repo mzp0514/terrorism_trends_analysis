@@ -1,0 +1,39 @@
+Judge orders new hearing for student in alleged cyber attack
+The Citizens' Voice (Wilkes-Barre, Pennsylvania)
+February 11, 2014 Tuesday
+
+
+Copyright 2014 The Citizens' Voice
+Distributed by McClatchy-Tribune Business News
+Section: STATE AND REGIONAL NEWS
+Length: 749 words
+Byline: Jacob Seibel, The Citizens' Voice, Wilkes-Barre, Pa.
+Body
+
+
+Feb. 11--A Luzerne County judge denied a preliminary injunction to block a Dallas High School sophomore's suspension for allegedly launching a cyber attack that nearly crashed the school district's Web server and ordered the district to hold a new informal hearing to determine the student's punishment.
+The attorneys of the student's parents, Gary and George Michak, argued that administrators violated the student's right to due process by flip-flopping on their allegations and failing to follow the school's disciplinary process.
+Judge Michael T. Vough said he was there to decide whether the injunction stands, not for a due process matter.
+"There's a reason why courts don't handle school issues," Vough said.
+Gary Michak filed a preliminary injunction on Jan. 30 to block the suspension, which Luzerne County Judge David W. Lupas granted, allowing the boy to return to school as facts about the case were evaluated at the hearing before Vough.
+Dallas administrators suspended the teenager for 10 days, and threatened expulsion, after the school's computer server was infected Jan. 23 with files that continually duplicated and finally reached 1.5 million records by the time it was stopped.
+The boy did not attend the hearing, but it was revealed last week for the first time that he admitted to school officials, the school's director of technology and his own father that he uploaded the files to the server on a dare from a friend he knows through Internet Relay Chat, which the district's attorneys had referred to as a "piracy chat" Internet forum.
+Principal Jeffrey Shaffer suspended the student on Jan. 24 for three days, and the informal hearing on Jan. 27 was held to determine if the suspension should be extended.
+Shaffer, who said he is a layman when it comes to technology, used the terms "virus," "cyber hacking" and "cyber terrorism" during conversations with and in written notices to the teenager's parents explaining to them why their son was being suspended.
+However, the school's director of technology, Bill Gartrell, testified Thursday he wouldn't consider "copying files over and over" to be the same as "cyber hacking" or "cyber terrorism."
+The district's attorneys, Robert Gawlas and Donald Brobst, presented a set of alleged violations during the hearing which had nothing to do with allegations of "cyber terrorism" or "cyber hacking," claiming instead that the teenager violated the school's "technology use policy."
+School policy dictates that informal hearings are held when a student is suspended in order to explain to the student and the student's parents the reasons for the suspension and to provide an opportunity to refute the claims.
+The parents, the Michaks argued, weren't equipped to defend their son against a set of accusations they weren't told about. Other than what Shaffer told them and what was written in Gartrell's email explaining the student copied files, they never received any evidence that backed up the district's claims of "cyber hacking," "cyber terrorism" or uploading a "virus."
+School policy also dictates that accused students have the right to attend the informal hearing to give their side of the story, but the Michaks argued this right was taken away when Shaffer wrote a letter to the student's parents saying that the boy wasn't allowed on school property for "any reason."
+Although the policy might be clear, the parents based their understanding of the informal hearing process on what Shaffer had written to them.
+Vough denied the preliminary injunction and ordered the district to remove all phrases from the student's permanent record that refer to "virus," "cyber hacking" and "cyber terrorism" and have them replaced with references of "copying files." But Vough kept Lupas' decision to allow the student back to school and ordered the district to hold a new hearing, to be scheduled sometime next week, to determine the student's punishment.
+"It's always been the position of the school district to give students due process," Gawlas said after the hearing. "They're offering a new hearing so the student could be there," pointing out that the student's parents and their attorneys rejected the offer last week.
+The parents didn't want to comment after the hearing other than to say they were "pretty happy with the outcome."
+jseibel@citizensvoice.com
+570-821-2110, @cvseibel
+___ (c)2014 The Citizens' Voice (Wilkes-Barre, Pa.) Visit The Citizens' Voice (Wilkes-Barre, Pa.) at citizensvoice.com Distributed by MCT Information Services
+
+Load-Date: February 11, 2014
+
+
+End of Document

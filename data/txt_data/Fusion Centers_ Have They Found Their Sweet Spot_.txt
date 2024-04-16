@@ -1,0 +1,37 @@
+Fusion Centers: Have They Found Their Sweet Spot?
+Government Technology
+October 23, 2014 Thursday
+
+
+Copyright 2014 
+Distributed by McClatchy-Tribune Business News
+Section: STATE AND REGIONAL NEWS
+Length: 875 words
+Byline: Brian Heaton, Government Technology
+Body
+
+
+Oct. 23--Ever since fusion centers were created in the aftermath of the 9/11 terrorist attacks to improve information-sharing between governments, they've often been criticized for their ineffectiveness. But if recent state investment in the centers is any indication, faith in the work they do may be on the rise.
+Rick "Ozzie" Nelson, a senior associate at the Center for Strategic and International Studies, told Government Technology that as public-safety grant funding from the federal government has slowed, states are dedicating more of their own money to finance fusion centers. He believes that is a solid indicator that the centers "have found their sweet spot" when it comes to intelligence-gathering and communications activities.
+"If a governor is looking for money to free up, you can close your fusion center and take that money and use it for some other public-safety endeavor," Nelson said. "But that's not what we're seeing in the data. What we're seeing is people are investing in the fusion centers."
+Statistics from the 2013 National Network of Fusion Centers Final Report support Nelson's claim. Direct federal expenditures on fusion centers decreased by 10 percent from 2012 to 2013. By comparison, states spent 3.6 percent more to finance fusion centers in 2013, while local government spending on them were up 2.1 percent.
+Fusion centers combine data from the Department of Homeland Security (DHS), other federal offices, state and local government, and private-sector sources on a variety of topics, including cybersecurity and terrorism activity. Analysts synthesize that information and send any intelligence derived from it back to the DHS and other law enforcement agencies.
+When the centers came online in 2004, the flow of counter-terrorism information they would receive from and pass on to the DHS was one of the key factors of their creation. Technology was at a level that made transfer of that data -- in theory -- relatively easy.
+But communication between local law enforcement, states and Uncle Sam was far from simple. The information gathering and sharing was condemned by privacy advocates who questioned its legality, and getting highly classified data from the DHS to local cops wasn't as seamless as was initially hoped.
+The issue came to a head In October 2012, when the U.S. Senate Permanent Subcommittee on Investigations released a report detailing a two-year investigation that found the centers were not effective in doing their job despite the influx of taxpayer money spent on their operations.
+But over the last two years, the tide has turned somewhat. The Information Sharing Environment (ISE), a federal government office, released a statistic from its annual performance review of information sharing among federal agencies that showed satisfaction with the recent performance of fusion centers.
+The stat is a bit misleading, however. A spokesperson for the ISE admitted that only seven federal agencies responded to the inquiry about fusion center improvement. And while those seven agencies were the ones that work directly with the fusion centers, self-evaluation likely isn't an accurate way to measure progress.
+Nelson wasn't surprised at the ISE's findings and said he believes the improvement is a result of fusion centers maturing and focusing on different avenues of communication.
+For example, while the U.S. government is heavily focused on counter-terrorism information, lower-risk areas may not find the data as useful as a big metropolis such as New York or Chicago. As a result, instead of focusing on the value of sending that information back and forth with the feds, some fusion centers concentrated on improving information access across local and state governments.
+"That was something I don't think people thought was going to happen or be a true benefit, because they were so focused on that vertical flow of information," Nelson said. "But horizontal information flow is really where fusion centers have blossomed."
+While the ISE has said it is working on several initiatives intended to improve the efficiency of sharing encounter data with law enforcement, a spokesperson for the office didn't elaborate about future plans.
+Nelson added that trying to come up with a way other than financial investment to measure ongoing fusion center improvement would be difficult. He reasoned that most of the time, a metric from information sharing tends to be negative. And that, he said, was because the dissemination process is usually in the background unless a problem arises.
+"The fact governors are still investing in fusion centers means they are seeing some intrinsic value in them in a time where they could readily eliminate them," Nelson said.
+Brian Heaton  --  Senior Writer
+Brian Heaton is a senior writer for Government Technology. He primarily covers technology legislation and IT policy issues. Brian started his journalism career in 1998, covering sports and fitness for two trade publications based in Long Island, N.Y. He's also a member of the Professional Bowlers Association, and competes in regional tournaments throughout Northern California and Nevada.
+___ (c)2014 Government Technology Visit Government Technology at www.govtech.com Distributed by MCT Information Services
+
+Load-Date: October 27, 2014
+
+
+End of Document

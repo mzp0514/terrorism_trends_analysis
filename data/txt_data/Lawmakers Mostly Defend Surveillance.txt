@@ -1,0 +1,41 @@
+Lawmakers Mostly Defend Surveillance
+The New York Times
+June 10, 2013 Monday
+Late Edition - Final
+
+
+Copyright 2013 The New York Times Company
+Section: Section A; Column 0; National Desk; Pg. 12; THE CAUCUS
+Length: 771 words
+Byline: By BRIAN KNOWLTON
+Body
+
+
+Senator Dianne Feinstein, the chairwoman of the Senate Intelligence Committee and a defender of the phone and Internet surveillance programs that have come into public view in recent days, said on Sunday that she would consider holding hearings about them.
+''I'm open to doing a hearing every month, if that's necessary,'' she said on the ABC program ''This Week.''
+But, she added, ''Here's the rub: the instances where this has produced good -- has disrupted plots, prevented terrorist attacks, is all classified, that's what's so hard about this.''
+Ms. Feinstein's remarks came two days after President Obama commented on news reports, based on leaked government documents, that revealed details about the surveillance programs run by the National Security Agency. The president said he welcomed a debate over the right balance between security and privacy.
+Other lawmakers who appeared on the Sunday talk shows were largely supportive of the surveillance programs, often outspokenly so.
+Senator John McCain, Republican of Arizona, said he was not bothered by the surveillance. He said on the CNN program ''State of the Union'' that the threat of terrorism was growing steadily amid turmoil in the Middle East and North Africa, but that further Congressional and executive review of the programs was ''entirely appropriate.''
+But Senator Mark Udall of Colorado, for years a vocal critic of the government's electronic surveillance programs, said he was not convinced that a program to collect huge amounts of information about Americans' phone calls had led to the foiling of any terrorism plots. He also called for a renewed debate over the Patriot Act, which authorizes much of the data collection.
+Mr. Udall, a Democrat and a member of the Senate Intelligence Committee, appeared to be distinguishing the results of that program -- which uses ''metadata'' associated with phone calls, including numbers called and the duration of conversations -- from those of the newly revealed Prism program, which analyzes data collected from foreigners who use Internet services like Facebook and Skype. Several officials have said Prism has been effective.
+''It's unclear to me that we've developed any intelligence through the metadata program that has led to the disruption of plots that we couldn't have developed through other data and other intelligence,'' Mr. Udall said on the CNN program ''State of the Union.''
+Representative Mike Rogers, a Michigan Republican who is the chairman of the House Intelligence Committee, spoke with barely disguised anger about Glenn Greenwald, whose articles in the newspaper The Guardian last week described the surveillance programs. He added: ''The National Security Agency does not listen to Americans' phone calls, and it is not reading Americans' e-mails. None of these programs allow that.''
+Mr. Greenwald ''says that he's got it all and now is an expert on the program,'' Mr. Rogers said on the ABC program ''This Week.'' ''He doesn't have a clue how this thing works. Neither did the person who released just enough information to literally be dangerous.''
+On Sunday, The Guardian identified the leaker as Edward Snowden, a 29-year-old technical assistant who has worked at the National Security Agency for the last four years as an employee for various defense contractors. He most recently worked for Booz Allen Hamilton, according to the newspaper, which said Mr. Snowden asked to be identified after being cited anonymously in earlier reports.
+Before Mr. Snowden was identified, Mr. Rogers said of the leaker: ''I absolutely think they should be prosecuted.'' Ms. Feinstein, Democrat of California, said she agreed.
+One lawmaker, Senator Rand Paul of Kentucky, called the surveillance programs unconstitutional and said he would organize a class-action lawsuit against the government through Internet and phone companies. ''If we get 10 million Americans saying we don't want our phone records looked at, then somebody will wake up and say things will change in Washington,'' he said on ''Fox News Sunday.''
+Ms. Feinstein cited two declassified cases in which electronic surveillance data had been used against terrorism suspects, in one case before a plot was carried out: that of David C. Headley, an American who scouted targets in Mumbai, India, in preparation for a deadly attack there, and that of Najibullah Zazi, an Afghan immigrant who pleaded guilty to plotting to set off backpacks full of explosives in the New York subway. The Mumbai attack killed more than 160 people; the subway attack was foiled.
+This is a more complete version of the story than the one that appeared in print.
+
+http://thecaucus.blogs.nytimes.com/2013/06/09/lawmaker-calls-for-renewed-debate-over-patriot-act/
+
+Graphic
+
+ 
+PHOTO: The leaders of Senate Intelligence Committee, Dianne Feinstein and Saxby Chambliss, talking to reporters on Thursday.  (PHOTOGRAPH BY ALEX WONG/GETTY IMAGES)           
+
+Load-Date: June 10, 2013
+
+
+End of Document

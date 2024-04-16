@@ -1,0 +1,27 @@
+ISP data retention not plausible in the United States
+University Wire
+October 20, 2006 Friday
+
+
+Copyright 2006 The Oracle via U-Wire
+Section: EDITORIAL
+Length: 431 words
+Byline: Staff Editorial, The Oracle; SOURCE: U. South Florida
+Dateline: TAMPA, Fla. 
+Body
+
+
+Ever since Sept. 11, there has been widespread debate about the limits of anti-terror laws and the investigations they regulate. Programs to listen in on phone calls and to retrieve banking information, as well as many other initiatives the Bush administration has championed, remain targets of criticism for many.
+America may agree on the fact that terrorism needs to be fought, but there is substantial disagreement over how to fight it.
+The next step taken in the fight against terrorism may be requiring Internet service providers to retain their customers' activity records for a period of time. Law enforcement agents, and even Attorney General Alberto Gonzalez, have complained that records of the activities of suspected terrorists - and pedophiles - are often deleted by ISPs before law enforcement can take action.
+Although government entities can request that an ISP hold records of Internet activity for 90 days, they have to do so prior to the ISP deleting that information. This isn't always possible.
+While it's unclear precisely what an American "data-retention" act would entail, Europe might offer an example. The European Union has already passed a law requiring all ISPs in the 25-nation conglomeration to keep data for anywhere from six months to two years. This information is available to the government and is ostensibly used to prevent terrorist attacks - of which Europe has experienced its fair share - as well as to stop sexual predators.
+The private and public sectors have raised the usual objections. They are concerned about respect for the privacy of individuals, and they question the need for such a law. It is unclear to what extent government investigations have actually been hindered due to the deletion of records. ISPs, being businesses, are naturally worried about the costs of such a requirement.
+The problem with the proposal - which has been shelved, at least for the time being - is not that it's a bad idea, at least not for Europe. Europe does not integrate its immigrants nearly as well as the United States, and its angry, economically excluded immigrant population that is prone to terrorism is the evidence. On the other hand, America integrates its immigrant populations quite successfully.
+Unless America wants to demand that the ISPs of other nations retain data of online use, a domestic data retention law won't do much good. Compromises about privacy concerns can be reached when it comes to anti-terrorism laws, given the law will actually prevent terrorism. A domestic data-retention program simply won't.
+(C) 2006 The Oracle via U-WIRE
+
+Load-Date: October 20, 2006
+
+
+End of Document

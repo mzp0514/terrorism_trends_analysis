@@ -1,0 +1,33 @@
+Negotiators dump Pentagon terrorism spying project; House-Senate negotiators want high-tech surveillance against Americans to end
+Telegraph Herald (Dubuque, IA)
+September 25, 2003 Thursday
+
+
+Copyright 2003 Woodward Communications, Inc.
+Section: Pg. c5
+Length: 813 words
+Byline: ASSOCIATED PRESS
+Dateline: WASHINGTON
+Body
+
+
+House and Senate negotiators have decided to close a Pentagon office that was developing a vast computerized terrorism surveillance system and bar spending that would allow those high-tech spying tools to be used against Americans on U.S. soil.
+But they left open the possibility that some or all of the high-powered software tools under development might be employed by different government offices to gather foreign intelligence from foreigners, U.S. citizens aboard or foreigners in this country.
+The controversial Terrorism Information Awareness program was conceived by retired Adm. John Poindexter and was run by the Information Awareness Office that he headed inside the Defense Advanced Research Projects Agency. It was developing software that could examine the computerized travel, credit, medical and other records of Americans and others around the world to search for telltale activities that might reveal preparations for a terrorist attack.
+Sen. Ron Wyden, D-Ore., who has led a campaign against the program, hailed the result Wednesday. "Americans on American soil are not going to be targets of TIA surveillance that would have violated their privacy and civil liberties. The government is not going to be able to pick Americans up by their ankles and shake them to see if anything funny falls out," Wyden said in an interview.
+"The original Poindexter program would have been the biggest surveillance program in the history of the United States," he added.
+"Now the lights have gone out on the program conceived by John Poindexter." He said the agreement would allow foreign intelligence gathering on terrorism "without cannibalizing the civil liberties of Americans."
+Poindexter's office told contractors he wanted the software to allow U.S. agents to rapidly scan and analyze multiple petabytes of information. Just one petabyte of computer data could fill the Library of Congress more than 50 times.
+Wyden said Senate negotiators working on the 2004 defense appropriations bill stood up to stiff resistance from their counterparts in the House, which had passed a weaker restriction. Wyden himself had crafted the weaker restriction early this year before additional details of the Pentagon effort became public. The House restriction, which Wyden got included in another law that expires Oct. 1., allowed the research to continue at the Pentagon but barred its implementation against Americans in the United States without specific congressional approval. Subsequently, the Senate passed a provision in next year's defense appropriation bill killing funding for the TIA program.
+"The conferees agree with the Senate position which eliminates funding for the Terrorism Information Awareness program within the Defense Advanced Research Projects Agency," the conference report said in a section Wyden released. "The conferees are concerned about the activities of the Information Awareness Office and direct that the office be terminated immediately."
+In addition to the data-scanning project, other TIA efforts that cannot be pursued by DARPA under the conferees' agreement include projects to identify people at a distance by using radar or video images of their gait or facial characteristics.
+The conference wrote that four, noncontroversial projects in TIA could continue at DARPA: two to develop software for wargaming future terrorist attacks and the response to them, a project to speed detection of bioterror attacks and one to develop software to automatically translate foreign documents and broadcasts.
+And it said, "The conference agreement does not restrict the National Foreign Intelligence Program from using processing, analysis and collaboration tools for counterterrorism foreign intelligence purposes."
+The full import of this sentence was not immediately clear, but it appeared to allow some or all of TIA's high-powered software tools to used by agencies involved in gathering foreign intelligence, information about foreign intentions, plans and capabilities from foreigners or U.S. citizens aboard or from foreigners in this country. The CIA, State Department, Defense Department and other federal agencies participate in the foreign intelligence program.
+Sen. Ted Stevens, R-Alaska, chairman of the Senate Appropriations Committee, described the agreement last Thursday as shifting the antiterror surveillance program out of DARPA but not eliminating it. Stevens did not release any text of the conference report then, and the portion released Wednesday did not make clear whether the conferees agreed to move the money for some or all of the TIA research from DARPA to one or more other agencies or merely left open the possibility of doing so later.
+Poindexter, who was forced to resign as former President Reagan's national security adviser over his role in the Iran-Contra scandal, quit DARPA last month under fire over the surveillance program.
+
+Load-Date: September 25, 2003
+
+
+End of Document

@@ -1,0 +1,48 @@
+Underwriters adjust to terrorism risks
+Business Insurance
+September 9, 2002, Monday
+
+
+Copyright 2002 Crain Communications Inc.
+Section: Pg. 12
+Length: 1147 words
+Byline: RODD ZOLKOS
+Body
+
+
+Contrary to the beliefs of some insurance buyers, more goes into underwriting stand-alone terrorism property coverage than insurers simply setting a high price, crossing their fingers and hoping for the best.
+Though it's a new area of underwriting for most insurers, the approach has much in common with underwriting other catastrophe risks.
+''I'm pretty impressed with the degree of thought and analysis that I see going into the underwriting,'' said Richard S. Betterley, president of Betterley Risk Consultants Inc. in Sterling, Mass.
+''To some extent, there's a price that the market will bear,'' said Mr. Betterley, who has studied the market for terrorism coverage. But beyond that, ''I'm seeing care in underwriting that I'm happy to see,'' he said. ''That doesn't mean the price isn't too high, but at least the care is being applied.''
+That care involves ''as much skill as there can be in the private sector, as opposed to the CIA, the (National Security Agency) and that,'' the risk management consultant said. ''It's not just throwing darts at a dart board.''
+''Many people think we're just reaching for price,'' conceded John F. Graham, senior property executive with American International Group Inc. in Boston, one of the markets that is providing the stand-alone terrorism coverage.
+But, in fact, his company has a rigorous approach to underwriting terrorism risks, and has staff dedicated to terrorism coverage. ''The product is limited to a select group of underwriters whose primary responsibility is to underwrite terrorism,'' Mr. Graham said.
+That staff is broken down into four areas: pure North American business, pure foreign business, U.S. multinational companies and energy-related exposures anywhere in the world.
+In considering a submission, the first thing AIG's underwriters ask for is a schedule of the values at the site. The underwriters are less interested in the construction of the building or how it might be protected against fire than whether the building is a potential target, Mr. Graham said.
+''The next question is how vulnerable you are,'' he said. ''We've actually developed a threat-assessment questionnaire.'' The online questionnaire was developed in conjunction with a class at the U.S. Military Academy at West Point.
+After examining the questionnaire responses, ''we'll actually send somebody from AIG out to the site'' to examine potential vulnerabilities, Mr. Graham said.
+The company also considers such issues as, ''Are you a mid-range high rise next to a high-rise building that might be a target?'' he said.
+''We also keep track, of course, of multiple occupancies at a site,'' Mr. Graham said. ''We might have 20 insureds at one site.'' And AIG limits its own exposure within a geographic area, committing no more than $1.5 billion in limits within a one-half mile radius.
+Mr. Betterley said that, in general, the insurers writing stand-alone terrorism coverage seem to be ''doing a pretty good job of recognizing that the little guy in the vicinity of a (target) property is at significant risk as well.''
+Because the stand-alone terrorism covers are site specific, policy language generally is crafted individually for each case.
+Terrorism policies are ''one-offs,'' said David Attisani, a partner with the Choate Hall & Stewart law firm in Boston.
+That specificity in the language of stand-alone terrorism policies is the flip side of the breadth in the language of standard terrorism exclusions now widely included in standard property policies.
+''Obviously, the art of underwriting, in part, is the art of imagining risk,'' said Mr. Attisani, who is chairman of his firm's insurance and reinsurance group. ''And here, we have underwriters trying to imagine what terrorists are thinking next.''
+''I think that's why these exclusions are so broadly written,'' he said. ''This is a peril that's very difficult to anticipate, it's very difficult to exclude in a very narrowly tailored way, and it's also very difficult to price.''
+As insurers come to grips with terrorism risk, modeling the exposure is becoming a key element in the process, much as it is with natural catastrophe risks.
+''It's absolutely critical to us because, obviously, I can tell you what I have and where it is and what a building looks like, but none of us can tell you what a 200-pound bomb can do on a certain floor at a site. That's what modeling can do for us,'' AIG's Mr. Graham said.
+''The modeling is no different than what we've done over past years with earthquakes and hurricanes,'' he said. ''It's just that this time, it's a risk of terrorist attacks.''
+Last week, Boston-based AIR Worldwide Corp. released its AIR Terrorism Loss Estimation Model, a probabilistic model designed to estimate the financial impact of insured property and workers compensation losses from potential future terrorist attacks in the United States.
+''The model itself is based on the fact that we've been doing modeling of natural catastrophes for 15 years,'' said Jack Seaquist, terrorism model product manager at AIR Worldwide. ''It keys around trying to understand the full range of things that could happen.''
+''We try to enumerate all the possible events that could happen, and we key those to landmarks, landmark properties,'' Mr. Seaquist said.
+In the next step, ''you have to look at the issue of frequency and severity of attacks,'' Mr. Seaquist said. ''Then, down to each of those landmarks, you have to look at what is the likelihood that that landmark would be the target of an attack and what would be the likely method of attack.''
+The AIR model relies on opinions provided by terrorism experts-people ''who have many years of field work, some of them with the government,'' said Mr. Seaquist, noting that the experts were previously involved in counter-terrorism with organizations such as the FBI, the CIA or the U.S. Department of Energy.
+''Ultimately, we can take the information that we get from them and allocate that down to the individual landmarks and give extra weight to the trophy landmarks,'' Mr. Seaquist said. Comparing that data to an insurance company's exposure information, the model can determine the company's property and workers compensation terror exposures.
+Modeling firm Risk Management Solutions Inc. will release its terrorism model this month. Like the AIR product, RMS' model relies on opinions provided by terrorism experts, according to Robert Muirwood, head of the global risk modeling unit at RMS in London.
+Mr. Muirwood said the RMS model ranks potential targets, examines their levels of defense, analyzes various ''attack modes'' and assesses the likelihood of certain types of attack. In addition, it considers the impact of various attacks.
+Ultimately, the tool will help insurers determine the appropriate price for a line of coverage in a particular location, Mr. Muirwood said, as well as helping them identify accumulations of exposures.
+
+Load-Date: September 13, 2002
+
+
+End of Document

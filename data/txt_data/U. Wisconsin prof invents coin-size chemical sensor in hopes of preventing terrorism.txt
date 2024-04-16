@@ -1,0 +1,23 @@
+U. Wisconsin prof invents coin-size chemical sensor in hopes of preventing terrorism
+University Wire
+February 1, 2002
+
+
+Copyright 2002 The Stanford Daily via U-Wire
+Length: 337 words
+Byline: By Udara Fernando, The Stanford Daily
+Dateline: Stanford, Calif.
+Body
+
+
+Nicholas Abbott, a chemical engineering professor at the University of Wisconsin-Madison, and his colleagues recently unveiled their contribution to the war against terrorism: a wearable, coin-size chemical sensor. The sensor, which consists of a thin gold film laced with microscopic grooves, changes color when it detects a toxin.
+Each groove contains chemical receptors bonded lightly to liquid crystals. This bond regulates the orientation of the crystals and determines their appearance. When the receptors encounter a "target" chemical -- say, a pesticide -- they break their bond with the crystals and grab hold of the target molecules. After being released, the crystals switch orientation and change color. When the dangerous compound is no longer present, the crystals reattach to the receptors and the sensor returns to normal.
+Stanford U.
+Hewlett-Packard announced last week a process that brings the company closer to nanocircuits -- circuits based on parts just a few atoms wide. HP said it was working on a complex nanochip and could be making nanocomputers smaller than a bacterium in the next decade or so. The newly announced process packs a number of different functions into a single nanochip by dividing the chip into different zones where independent calculations can take place.
+Stephen Hawking's latest book, "The Universe in a Nutshell" (Bantam Books), seeks to tell you all you need to know about the universe … in just 216 pages. In the book, Hawking tackles the "theory of everything," theorizing on how information might be pulled out of black holes and whether or not the future of humanity will be anything like "Star Trek." But the heart of the book explores something called M-theory, which theoretical physicists hope will someday explain all the physics in the universe. According to Hawking, everything we see and know might just be the shadow of a five-dimensional world that exists inside our universe. Now there's something to think about.
+(C) 2002 The Stanford Daily via U-WIRE
+
+Load-Date: February 1, 2002
+
+
+End of Document

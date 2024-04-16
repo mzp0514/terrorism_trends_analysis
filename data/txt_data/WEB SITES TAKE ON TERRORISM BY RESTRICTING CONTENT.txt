@@ -1,0 +1,57 @@
+WEB SITES TAKE ON TERRORISM BY RESTRICTING CONTENT
+St. Louis Post-Dispatch (Missouri)
+October 7, 2001 Sunday Three Star Edition
+
+
+Copyright 2001 St. Louis Post-Dispatch, Inc.
+Section: BUSINESS; Pg. F1; PROFILE; TERRORISM; WEB SITE PROTECTIONS
+Length: 814 words
+Byline: Anick Jesdanun The Associated Press
+Dateline: NEW YORK
+Body
+
+
+* Much of the data remain in the public realm, "but that is not a justification for publishing it in easily accessible ways; let them work for it."
+Before the terrorist attacks Sept. 11, you could have visited the Web site of the Federation of American Scientists for diagrams and photos of U.S. intelligence facilities.
+You could have gone to another Web site to learn about gatherings at Minot Air Force Base in North Dakota.
+And you could have gone online to order maps of military installations.
+No longer.
+Concerned that they are aiding terrorists, some government and private Web sites have decided to stop sharing so much potentially sensitive data.
+The decisions would not prevent terrorists from turning to libraries or other Web sites for information that could help attacks.
+"But that is not a justification for publishing it in easily accessible ways. Let them work for it," said Steven Aftergood, the senior research analyst for the scientists group.
+The private organization removed research containing locations, building layouts and aerial images of intelligence offices, including some not acknowledged by the U.S. government. Also, details on nuclear sites abroad were removed.
+Minot removed clues about where personnel could gather, including schedules of activities and locations of military housing units.
+Meanwhile, the National Imagery and Mapping Agency suspended online and offline sales of maps depicting military installations and its highest-resolution maps of other U.S. locations.
+The federal Office of Pipeline Safety has restricted its mapping software and pipeline data to industry and government officials.
+"People have a right to know what kinds of risks there are, but unfortunately, terrorists are people, too," said Jim Makris, the Environmental Protection Agency's emergency coordinator.
+The reports remain available in EPA reading rooms, and identification is required for viewing.
+Jeremiah Baumann of the U.S. Public Interest Research Group, a private watchdog organization, criticized the EPA's decision, saying the data "would not be very useful to terrorists."
+Still, his group took down a report based on the EPA data to avoid provoking a debate on public disclosure at a sensitive time.
+Information is being withdrawn for non-security reasons, too.
+Some online forums have deleted hate messages attacking Muslims. A news site, Irish Republican Activist Radio, suspended operations out of fear that it might be accused of supporting terrorism.
+The removed or restricted materials represent only a tiny piece of what's available on the Internet, but First Amendment advocates are worried that the incursions won't end soon.
+"It's a fine balance that must be struck here, but in wartime, the temptation is always to greater censorship rather than less," said Adam Powell, the vice president for technology and programs at the Freedom Forum.
+The extent to which terrorists used the Internet to plot the World Trade Center and Pentagon attacks remains unclear. But one hijacker who listed a flight school as his address on a pilot's license might have gotten it from a printed brochure or a Web site. Some of the hijackers used online travel sites like Travelocity to buy their airline tickets.
+U.S. Attorney General John Ashcroft told Congress that one person in custody downloaded information about crop-dusting planes, which terrorists could use for biological or chemical attacks.
+William C. Martel, a professor of national security affairs at the Naval War College in Newport, R.I., called online self-censorship futile.
+"We can easily come into the category of shutting down the Internet," he said. "Think of how many mundane pieces of information can be used for ill purposes."
+Saying the benefit outweighs the potential for misuse, operators of Trip.com retained its FlightTracker service, which gives information on the speed, the altitude and the location of flights.
+Boeing reviewed its Internet offerings the day of the attacks and left everything up. Boeing spokesman Bob Jorgensen said: "If it has the potential of aiding and abetting the enemy, it's not out there in the first place."
+===============
+Response to terror: Internet security
+Several federal agencies removed data from their Web sites after Sept. 11 to avoid inadvertently helping terrorists to carry out a chemical attack:
+* Transportation Department: Removed pipeline-mapping information as well as a study describing risk profiles of various chemicals.
+* Centers for Disease Control and Prevention: Removed a report that describes the nation's shortcomings in the face of a possible chemical attack.
+* Environmental Protection Agency: Removed information on risk-managemen t programs that contains general guidelines for emergency plans and chemicals used at 15,000 sites nationwide.
+* National Imagery and Mapping Agency: Suspended sales of maps depicting military installations.
+From wire services
+
+Graphic
+
+ 
+PHOTO; Color Photo by THE ASSOCIATED PRESS - Becky Parker checks the employee identification of Delta Air Lines first officer Paul Sullivan as he buys uniforms at Abbott Uniforms Corp. in East Point, Ga. The store suspended online sales of airline uniforms temporarily while reviewing security procedures after terrorists hijacked planes and crashed them into buildings last month.
+
+Load-Date: October 7, 2001
+
+
+End of Document

@@ -1,0 +1,75 @@
+Treasury Official: Swift Disclosure 'Very Damaging'
+American Banker
+July 12, 2006 Wednesday
+
+
+Copyright 2006 SourceMedia LLC d/b/a Arizent. All Rights Reserved
+Section: WASHINGTON; Pg. 4; Vol. 171; No. 132
+Length: 605 words
+Body
+
+
+Stuart Levey, Treasury under secretary for the office of terrorism and
+financial intelligence, testified Tuesday before a House Financial Services
+subcommittee about the government's program to access international wire
+transfer data in the Swift system. Following are excerpts from his testimony.
+As the 9/11 Commission staff pointed out ... "following the money to
+identify terrorist operatives and sympathizers provides a particularly
+powerful tool in the fight against terrorist groups. Use of this tool almost
+always remains invisible to the general public, but it is a critical part of
+the overall campaign against al-Qaida."
+The Terrorist Finance Tracking Program was just such an invisible tool.
+Its exposure represents a grave loss to our overall efforts to combat
+al-Qaida and other terrorist groups.
+The Society for Worldwide Interbank Financial Telecommunication (Swift)
+is the premier messaging service used by banks around the world to issue
+international transfers, which makes its data exceptionally valuable. The
+Swift data consists of records of completed financial transactions; it does
+not provide access to individual bank account information.
+In response to a subpoena, Swift makes available to us a subset of its
+records that it maintains in the United States in the normal course of its
+business. The legal basis for this subpoena is the International Emergency
+Economic Powers Act, which allows the government to compel the production of
+information pursuant to presidential declarations of national emergency.
+We issue such administrative subpoenas regularly, and our authority to do
+so is clear. In this case, our subpoena is issued pursuant to President Bush's
+declaration of an emergency with respect to terrorism after Sept. 11th in
+Executive Order 13224. That declaration has been renewed yearly in light of
+the continuing threat posed by al-Qaida and other deadly terrorist groups.
+The Swift subpoena is powerful but narrow. The data cannot be searched
+unless the analyst first articulates the specific link between the target of
+the search and a terrorism investigation. Pursuant to an agreement that we
+reached with the company, Swift representatives are able to monitor these 
+searches in real time and stop any one of them if they have any concerns
+about the link to terrorism. In addition, a record is kept of every search
+that is done. These records are reviewed both by Swift's representatives and
+an outside independent auditor.
+Some observers have argued that the disclosure of the program did little
+damage because terrorist facilitators are smart and already knew to avoid the
+banking system. They correctly point out that there has been an overall trend
+among terrorists towards cash couriers and other informal mechanisms of money
+transfer -- a trend that I have testified about. They also hold up as public
+warnings the repeated assertions by government officials that we are actively
+following the terrorists' money.
+What we had not spoken about publicly, however, is this particular
+source. And, unfortunately, this revelation is very damaging.
+This disclosure compromised one of our most valuable programs and will
+only make our efforts to track terrorist financing -- and to prevent
+terrorist attacks -- harder. Tracking terrorist money trails is difficult
+enough without having our sources and methods reported on the front page of 
+newspapers.
+I can assure you, however, that our efforts will not wane. With our
+interagency colleagues and our partners abroad, we will continue to draw on
+every resource at our disposal to uncover and disrupt these terrorist
+networks.
+http://www.americanbanker.com            http://www.sourcemedia.com
+
+Graphic
+
+ 
+photo, Levey
+
+Load-Date: November 14, 2006
+
+
+End of Document

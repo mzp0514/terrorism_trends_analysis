@@ -1,0 +1,37 @@
+Screening Plans Went Beyond Terrorism
+The New York Times
+September 19, 2004 Sunday
+Late Edition - Final
+
+
+Copyright 2004 The New York Times Company
+Section: Section 1; Column 1; National Desk; Pg. 35
+Length: 1017 words
+Byline: By MATTHEW L. WALD and JOHN SCHWARTZ
+Dateline: WASHINGTON, Sept. 18 
+Body
+
+
+A computer-based system intended for spotting possible terrorists before they could board airplanes was expanded during its development to serve broader police purposes, according to internal documents of the Transportation Security Administration.
+ The documents were released under the Freedom of Information Act to the Electronic Privacy Information Center, one of the groups that had raised concerns about plans to use commercial databases and data-mining technology to scan the records of all travelers, whether they were suspects or not. The center provided copies to The New York Times.
+ The Department of Homeland Security canceled that program this summer, without ever using it, after opponents argued that it intruded too much on people's privacy. A Transportation Security Administration spokesman acknowledged this week that the program's mission had become so broad that the department could not build the political consensus to see it through.
+ The privacy center said it was concerned that the same problem of ''mission creep'' would arise with the system, called Secure Flight, that is to succeed the program that was dropped, the Computer Assisted Passenger Pre-Screening System, known as Capps 2. Marc Rotenberg, executive director of the privacy group, said that successive drafts of documents about the screening system showed ''how the government was planning to expand the use of Capps data for a wide variety of purposes unrelated to passenger profiling, at the same time restricting the individuals' access to that information.''
+ ''It's the best documentation of a post-9/11 'mission creep' that I think we've seen,'' Mr. Rotenberg said.
+ A spokesman for the Transportation Security Administration, Mark O. Hatfield Jr., said that Secure Flight had intentionally been kept more focused. The Department of Homeland Security decided, he said, to ''get back to what the core purpose is, to keep terrorists off airplanes.''
+ The department wants to reduce the number of people selected for ''secondary screening,'' which can include a once-over with a metal-detecting wand, pat-downs and closer scrutiny of carry-on items. Mr. Hatfield said the current system selected about 15 percent of the passengers, and Secure Flight would select about 5 percent. The security agency also wants to test for trace amounts of explosives, which it cannot do efficiently with the larger number of people now selected, he said.
+ The system now in use was developed by Northwest Airlines in the 1990's as a response to the bombing by Libyan agents of Pan Am Flight 103 over Lockerbie, Scotland. The Libyans smuggled a bomb on board in a checked bag, and the system was initially intended to identify passengers whose baggage should be searched. The system makes use of factors such as whether a passenger paid cash or took a one-way ticket.
+ After the attacks of Sept. 11, 2001, Congress ordered the newly created Transportation Security Administration to develop a replacement system, which became Capps 2.
+ But what began as a program intended to focus narrowly on terrorism in air travel expanded greatly as it developed. The agency developed a series of ''Privacy Impact Assessments'' for Capps 2 as required by federal law. These assessments are the documents that the privacy center obtained. The first draft of the privacy assessment stated the purpose of the program in one concise paragraph, saying that Capps 2 information ''may be disclosed to federal, state, local and international law enforcement officials who have jurisdiction over the airframe and/or the individual who is a known or suspected foreign territorial or who is a threat to aviation safety, civil aviation or national security.''
+ By the third draft, in July 2003, there were 15 paragraphs, saying the system could be used in other cases of violent crime by ''appropriate federal, state, local, international, or foreign agencies or authorities.'' The third version of the privacy statement also included contractors, consultants, ''other federal agencies conducting litigation, as well as the General Services Administration and the National Archives.'' The expansion of the program's mission has been reflected in public statements by Homeland Security officials, as well. 
+ In May 2003, Adm. James Loy, then director of the Transportation Security Administration, said that the program would not be used as a trolling net for criminals. ''The ax murderer that gets on the airplane with a clean record in New Orleans and goes to Los Angeles and commits his or her crime, that is not the person we are trying to keep off that airplane at the moment,'' Admiral Loy said in Congressional testimony.
+ By July 2003, however, the chief privacy officer of the Department of Homeland Security, Nuala O'Connor Kelly, said the system could be used to detain a passenger who had ''an outstanding warrant for a crime of violence.'' But there were to be limits. ''You're not going to get pulled over because you ran a red light,'' she said, ''because I did one the other day.''
+ Ultimately, however, the Capps program grew too bloated to be developed politically, said one Homeland Security official, who asked not to be identified because he did not want to appear critical of his agency. ''It looked great in the hangar but it was too heavy to take off,'' he said.
+ The new system, rather than using commercial databases, is supposed to rely on government databases only, notably one from the Terrorist Screening Center, a product of the Federal Bureau of Investigation that combines about a dozen watch lists; and a list maintained by the Office of National Risk Assessment, part of the Transportation Security Administration. The Office of National Risk Assessment list has already been used to screen airport and airline employees, Mr. Hatfield said.
+ ''The criminal search piece has been dropped,'' Mr. Hatfield said. ''If there's a hue and cry from the public, that they liked the part about violent felons, we can add that later,'' he said. If such a capability were proposed later, he said, it would include a public debate.                
+
+http://www.nytimes.com
+
+Load-Date: September 19, 2004
+
+
+End of Document

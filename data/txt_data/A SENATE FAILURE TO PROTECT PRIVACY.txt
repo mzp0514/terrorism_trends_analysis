@@ -1,0 +1,23 @@
+A SENATE FAILURE TO PROTECT PRIVACY
+Tampa Bay Times
+November 23, 2014 Sunday
+
+
+Copyright  2014 Times Publishing Company All Rights Reserved
+
+
+Section: PERSPECTIVE; Pg. 2P; TIMES EDITORIALS
+Length: 518 words
+Body
+
+
+The U.S. Senate missed a prime opportunity to stand up for personal privacy rights last week when it blocked a reasonable reform aimed at establishing modest restrictions on the government's collection of Americans' phone records. The National Security Agency should not be routinely collecting telephone records of law-abiding residents under the guise of fighting terrorism, and there is no public evidence that the program has been particularly successful in its mission. Yet Senate Republicans used the terrorism scare card to derail changes supported by President Barack Obama, leaving still another contentious issue for the new Congress they will fully control in January.
+Since the 9/11 terrorist attacks, the NSA has been collecting and storing records from major American phone companies about domestic telephone traffic, including the originating and receiving phone numbers, the location of the callers and the length of the calls. It began with the claim of unilateral executive power by President George W. Bush and then came under the authority of the Foreign Intelligence Surveillance Court in 2006 without public notice. The program only became public in June 2013 after it was revealed in the leaks by Edward Snowden, the former intelligence contractor. That raised public outrage and legitimate constitutional questions that still have not been satisfactorily answered by the Obama administration or by Congress.
+Obama responded to public pressure in January by making incremental changes to the phone data program. He required approval from the FISA court before a new number can be used by NSA in checking the database, although the secret court has routinely approved government data collection efforts. He also reduced from three to two the "hops'' from one telephone number to the next in scooping up data. Those were positive steps, but they did not go far enough in protecting the privacy rights of Americans who are not accused of any crime.
+The Senate legislation would have left the metadata now routinely collected by the government with the phone companies, where it belongs. The bill would have given the government the authority to seek a new sort of court order from the FISA court to quickly obtain only those particular records from the telephone companies that were linked to a specific suspect. Just as important were provisions that called for the surveillance court to hear from civil liberties advocates instead of only from government lawyers seeking information, and for more information to be publicly released about how often the government is using its surveillance authority and how many Americans are being caught in that net.
+The president, technology companies and many civil liberties advocates supported the reasonable changes. Yet the legislation received only 58 votes of the 60 required in the Senate to advance as Republicans such as Sen. Marco Rubio blocked it. Rubio called the legislation "a reaction to misinformation and alarmism.'' It actually was a pragmatic approach to protecting the privacy of law-abiding Americans, and the issue is not going away.
+
+Load-Date: November 24, 2014
+
+
+End of Document

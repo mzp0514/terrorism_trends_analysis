@@ -1,0 +1,25 @@
+University of Queensland Researchers Develop Facial Recognition Tech
+American Banker
+September 4, 2013 Wednesday
+
+
+Copyright 2013 SourceMedia LLC d/b/a Arizent. All Rights Reserved
+Section: TECHNOLOGY; Vol. 178; No. 136
+Length: 212 words
+Byline: Sean Sposito
+Body
+
+
+In an effort to battle Chinese hackers, Australian researchers are working on facial recognition technology, according to reports.
+University of Queensland experts said they're making plans to have a working prototype of their brand of biometric authentication completed within the next year.
+The researchers presented at the recent Cyber, Identity and Corporate Crime Conference hosted by the Australian Queensland Police Service. The news first appeared in the Courier-Mail.
+Queensland researchers want to use the technology specifically for cyber security, a departure from the way the authentication technique is currently used -- mostly for airport security and counter-terrorism, Queensland Professor Brian Lovell told the Courier-Mail.
+"Most people perform these transactions now on a portable device and they all have a backwards-facing camera," he told the newspaper. "Our idea is to use the backward-facing camera to check who you are so the device recognizes the owner during the transactions. The aim over the next 10 years is to have every computing device recognize its owner."
+In the U.S., several security initiatives involving facial recognition are already under way. For example, ING Direct has been pilot testing facial recognition among employees since March.
+
+http://www.americanbanker.com
+
+Load-Date: September 3, 2013
+
+
+End of Document

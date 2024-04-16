@@ -1,0 +1,38 @@
+Gathering data may not violate privacy rights, but it could be illegal; Surveillance law requires warrant to get information
+USA TODAY
+May 12, 2006 Friday
+FINAL EDITION
+
+
+Copyright 2006 Gannett Company, Inc. All Rights Reserved
+Section: NEWS; Pg. 2A
+Length: 771 words
+Byline: Joan Biskupic
+Body
+
+
+WASHINGTON -- The U.S. government's secret collection of Americans' phone records may not breach the Fourth Amendment's privacy guarantee, legal analysts said Thursday, but it could violate federal surveillance and telecommunication laws.
+More broadly, USA TODAY's report about the National Security Agency's deal with three major phone companies fed a debate over whether the Bush administration is going too far -- and setting dangerous precedents -- in trying to protect the nation from terrorism.
+"This may well be another example where the Bush administration, in secret, decided to bypass the courts and contravene federal law," said Georgetown University law professor David Cole. He cited revelations last year that President Bush authorized the NSA to eavesdrop -- without warrants -- on international calls and e-mails of those with suspected ties to terrorism when one party to the communication is in this country.
+Justice Department spokeswoman Tasia Scolinos emphasized Thursday that the administration briefed members of Congress on the NSA's collection of phone records. She said the NSA's efforts, authorized by Bush, have been legal and aimed at rooting out terrorists.
+Viet Dinh, a former assistant attorney general who helped draft the USA Patriot Act after the attacks of Sept. 11, 2001, said such a goal could make the data collection legal: "The question is, to what use is the government putting this data? Is it for law enforcement and anti-terrorism uses that would outweigh privacy concerns? If they were just trolling for information, that would be a concern."
+The NSA apparently has not collected the actual content of the phone conversations, just the numbers dialed. That distinction is key in determining whether the program violates the Fourth Amendment, which protects people from unreasonable government searches and seizures.
+The U.S. Supreme Court has drawn a legal line between collecting phone numbers and routing information, and obtaining the content of phone calls. In a ruling in 1979, the court said in Smith v. Maryland that a phone company's installation, at police request, of a device to record numbers dialed at a home did not violate the Fourth Amendment.
+"We doubt that people in general entertain any actual expectation of privacy in the numbers they dial," Justice Harry Blackmun wrote. He noted the court had said "a person has no legitimate expectation of privacy in information he voluntarily turns over to third parties."
+The Fourth Amendment might not be at issue, but legal analysts said the NSA's collection of phone records could be legally vulnerable under federal intelligence-gathering and communication laws.
+The Foreign Intelligence Surveillance Act, adopted in 1978, requires the government to go before a special court and obtain a warrant for electronic surveillance related to international espionage and terrorism. The statute defines the covered communication to include any information about the identity of the parties. A question now is whether that might include the phone numbers someone calls.
+That law and another criminal statute that requires warrants when authorities seek devices that record numbers dialed on a telephone could prohibit the NSA deal with the telecommunication companies. Cole said such laws generally were aimed at individuals or specific crime networks, rather than massive collections of data.
+Qwest was the only major phone company to decline to turn over records to the NSA. Its lawyers asked NSA to take its proposal to the FISA court. The agency declined; USA TODAY reported Thursday that two sources with direct knowledge of the situation said it was because the NSA thought the court would not agree to the plan.
+A communication act dating to 1934 and more recent electronic privacy laws generally require phone companies to protect the confidentiality of customers' communication. "There really isn't any precedent for this kind of thing," said Lee Tien, a lawyer at the Electronic Frontier Foundation, which filed a class-action lawsuit against AT&T after the NSA's eavesdropping program was revealed in December. The suit accuses AT&T of helping the NSA spy on phone users.
+Michael Greenberger, director of the University of Maryland's Homeland Security Center, noted that it's unclear how the government is using the records it collects. He said that although the collection program may not involve eavesdropping, it could resonate with Americans because it involves records of tens of millions of people with no ties to terrorism. "In some sense, it is more offensive to the American psyche," he said.
+Contributing: Jim Drinkard
+
+Graphic
+
+ 
+PHOTO, B/W, 1993 photo by Marcy Nighswander, AP
+
+Load-Date: May 12, 2006
+
+
+End of Document

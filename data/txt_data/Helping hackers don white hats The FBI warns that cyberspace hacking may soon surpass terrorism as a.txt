@@ -1,0 +1,29 @@
+Helping hackers don white hats; The FBI warns that cyberspace hacking may soon surpass terrorism as a threat. But many hackers easily give up and become useful 'white hat' security experts. Are there better ways to win over more of them?
+The Christian Science Monitor
+March 8, 2012 Thursday
+
+
+Copyright 2012 Christian Science Publishing Society All Rights Reserved
+Length: 481 words
+Byline: the Monitor's Editorial Board
+Body
+
+
+In the near future, warned FBI Director Robert Mueller last week, threats against computer networks and other parts of cyberspace will be the No. 1 security danger in the United States - surpassing terrorism.
+His words echo those of Leon Panetta, the Defense secretary, who last year said "the next Pearl Harbor" could be a cyberattack on government security systems or the nation's electricity grid.
+Such alerts to the growing problem of criminal or state-sponsored hacking have pushed both private firms and the government to spend billions on computer defenses like Internet firewalls.
+RELATED: A cascade of Internet events
+But they've also led to a hiring of hackers who have been caught or repented. The idea is as simple as "it takes a thief to catch a thief," but it is especially true in the complex world of botnets and other dark arts of digital crime.
+Many companies and even the military say they need the best software workers to defend their systems, and often the solution is to employ a former "black hat" hacker who has decided to be a "white hat" (or ethical) hacker.
+"If they [hackers] have been slightly naughty boys, very often they enjoy stopping other naughty boys," said Lord West, Britain's first cybersecurity minister, a few years ago when he began to recruit former hackers to defend national electronic security.
+In his speech last week, Mr. Mueller advised US companies to focus not only on reducing their vulnerability to attacks with defensive technologies but also to develop ways "to catch threat actors."
+One example of that more aggressive approach is the news this week that a leading member of the "hactivist" group Lulz Security, which is an offshoot of Anonymous, pleaded guilty to dozens of hacking charges. Hector Xavier Monsegur was caught last year in New York and has since helped law enforcement officials find and arrest other hackers.
+The fact that so many hackers have turned to white-hat security work shows the need to better understand their motives so as to better catch or entice them to give up their hacking. Many of them are very smart young men or boys as young as 15 who are social misfits and who start out hacking for the thrill. Not all want money. Many say they oppose secrecy or believe in helping people download copyrighted movies and music free of charge.
+One famous former hacker, Michael Calce (a.k.a. Mafiaboy), told Canadian television: "I realize what I did was wrong, and I feel bad about it, and I think I can help people with it by sharing my experiences."
+Fear of being caught may be the most obvious reason for a hacker to quit. But with so many hackers in their teens, law enforcement and others should be able to find nonpunitive ways to reach them.
+A whole generation is now glued to digital devices, making the need even greater for a proactive way to prevent young people from becoming hackers or to spot them early on.
+
+Load-Date: March 8, 2012
+
+
+End of Document

@@ -1,0 +1,40 @@
+Privacy hit in Senate's war on terrorism
+St. Petersburg Times (Florida)
+September 23, 2001, Sunday
+
+
+Copyright 2001 Times Publishing Company
+Section: PERSPECTIVE; COLUMNS; Pg. 3D; COLUMN
+Length: 915 words
+Byline: ROBYN E. BLUMNER
+Body
+
+
+On the Thursday night following the Tuesday morning that changed everything, the U.S. Senate was working long into the night to pass an emergency spending bill to pay for the attack's aftermath. But that's not all it did. Senators also rushed through the hastily produced "Combating Terrorism Act of 2001" to expand the FBI's wiretap authority.
+During the little debate there was on the measure, Sen. Orrin Hatch, R-Utah, one of its prime sponsors, explained that additional powers were necessary "to provide our law enforcement authorities with the tools they need."
+WIRETAPS
+By voice vote, the measure was attached to the annual spending bill for the Commerce, Justice and State departments, which was then passed unanimously. The next day, according to the American Civil Liberties Union, several senate staff members called the organization asking, "What did we just vote on?"
+It's a question everyone concerned for the nation's civil liberties is afraid will be heard again and again over the next weeks and months.
+As we confront the horrors of terrorism, our national leaders promise to keep America strong and free. But it is so much easier to add strength than to retain freedom. Already we see the momentum moving in only one direction: removing constraints on law enforcement and bypassing due process.
+Attorney General John Ashcroft has presented a bill to Congress overflowing with proposals that will allow summary deportations, intrusions into the privacy of innocent people and other forms of potential abuse.
+If our leaders are to be true to their promise that freedom won't be compromised by terror, they need to prove it here. Every aspect of this bill should be given the kind of full airing and scrutiny it would have received before the events of Sept. 11.
+To understand just how complicated and fraught with unintended consequences some of these issues are, one merely has to look at the provisions of the Combatting Terrorism Act that allow for expanded surveillance of Internet activity without a warrant. The law would give federal agents - on the basis of a rubber-stamped court order - the ability to attach the FBI's special electronic wiretapping system, called Carnivore, to any Internet service provider to track what a suspect does in cyberspace.
+Carnivore has been controversial since its unveiling last year. It works by analyzing everything coming into an Internet service provider, which means the FBI is given access to all sorts of communications that have nothing to do with the targeted suspect. The FBI would have to be trusted to ignore all the Internet communications which it has no court authority to review. Many members of Congress, including House Majority Leader Dick Armey, R-Texas, who recently wrote Ashcroft over the system's questionable constitutionality, are not so sure the FBI can resist.
+But Carnivore points up even more subtle and disturbing privacy questions. To understand these, some background is required.
+Based on prior court rulings, it is far more difficult to obtain judicial permission for a telephone wiretap, which involves listening in on someone's private conversations, than for what is called a "pen register" or "trap and trace." A pen register records the phone numbers of outgoing calls made from a particular phone. A trap-and-trace device identifies the originating phone numbers of incoming calls made to a phone. Because these devices do not provide any information about the content of the calls - or even necessarily the identity of the callers - courts have said there is no privacy interest implicated in their use. In other words, no warrant is necessary.
+However, Congress has established a minimal process federal agents must follow before demanding that telephone companies turn over this initiation and destination information. First, a prosecutor must certify that the information to be gathered is "relevant to an ongoing criminal investigation." Then, upon receipt of the certification, a judge is obliged to grant the order - a rubber stamp.
+There has been an ongoing debate between the Justice Department and civil liberties organizations over whether using Carnivore to track someone's movements on the Internet and with whom they are e-mailing (but not the content of the e-mails) is more like a wiretap or a pen register.
+On Thursday night, Sept. 13, the Senate short-circuited that debate, giving the FBI the statutory authority to use Carnivore under the much-less-demanding rules governing pen registers and trap-and-trace devices.
+But obtaining an Internet address is not the same as a phone number. Internet addresses actually convey the substance of the exchange. As James Dempsey, senior staff counsel for the Center for Democracy and Technology, noted in an analysis of this issue, "If you call (202) 637-9800 on the phone and ask for a copy of our statement on cybercrime and Internet surveillance, a pen register shows only that you called the general CDT number. If you "visit' our Web site and read the statement, your computer transmits the (site) http://www.cdt.org/security/ 000229judiciary.shtml, which precisely identifies the content of the communication."
+And Dempsey shows just how chilling this can get by asking, "Can the government serve a pen register or trap-and-trace order on CNN and get the address of everybody who has downloaded or viewed a certain article?"
+These are the types of questions that deserve far more debate than a few minutes during a late-night session of Congress.
+
+Graphic
+
+ 
+PHOTO, Associated Press; U.S. Attorney General John Ashcroft tells reporters in Smithburg, Md., last week that the Bush administration will ask Congress for increased antiterrorism authority, including expanded powers to use wiretaps to seek out and prosecute suspected terrorists.
+
+Load-Date: September 24, 2001
+
+
+End of Document

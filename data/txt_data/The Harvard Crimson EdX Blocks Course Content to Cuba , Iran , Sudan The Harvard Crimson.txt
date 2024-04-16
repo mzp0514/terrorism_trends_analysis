@@ -1,0 +1,26 @@
+The Harvard Crimson EdX Blocks Course Content to Cuba, Iran, Sudan The Harvard Crimson
+The Harvard Crimson: Harvard University
+March 3, 2014 Monday
+
+
+University Wire
+Copyright 2014 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 297 words
+Byline: Michael V. Rothberg
+Body
+
+
+UPDATED: March 3, 2014, at 10:58 p.m.
+Due to federal regulations, edX plans to block students in Cuba, Iran, and Sudan from taking an upcoming online course on aerodynamics and modern aircraft design, according to a blog post written by edX president Anant Agarwal on Monday.
+"We are deeply sorry to have to block any student anywhere from taking an edX course," Agarwal wrote in the post. "This is completely antithetical to the vision and foundational values of edX and all [massive open online courses]. We will continue to work diligently with the U.S. government until every student, from any country in the world, can take any course they choose on edX."
+The course, entitled "Flight Vehicle Aerodynamics" and taught by MIT faculty, covers advanced physics and aircraft design. It is scheduled to begin classes on March 5.
+After months of edX petitioning the U.S. government to distribute courses to Cuba, Iran, and Sudan, the U.S. Office of Foreign Assets Control refused to grant edX a license to allow students in those countries to take the aerodynamics course.
+"EdX recently learned that this course was not covered by the licenses granted to us for offering courses to students in these countries," Agarwal said.
+The U.S. Department of State has designated Cuba, Iran, and Sudan as State Sponsors of Terrorism, a status accompanied by sanctions that include embargo laws to "penalize persons and countries engaging in certain trade with state sponsors," according to the State Department website. Syria has also had State Sponsor of Terrorism status since December of 1979.
+EdX will temporarily prevent students in the three embargoed countries from accessing the course by blocking their IP addresses, which identify users by location. « Previous Page12Next Page »Single Page View
+
+Load-Date: March 4, 2014
+
+
+End of Document

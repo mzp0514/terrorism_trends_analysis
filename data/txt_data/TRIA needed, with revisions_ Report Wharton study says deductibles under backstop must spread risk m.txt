@@ -1,0 +1,39 @@
+TRIA needed, with revisions: Report; Wharton study says deductibles under backstop must spread risk more equitably
+Business Insurance
+August 15, 2005
+
+
+Copyright 2005 Crain Communications All Rights Reserved
+Section: NEWS; Pg. 3
+Length: 724 words
+Byline: ROBERTO CENICEROS
+Body
+
+
+A government-funded terrorism backstop is still necessary, but the current program established by the Terrorism Risk Insurance Act should be revised to be make it more equitable for all insurers, according to a report released last week.
+In particular, the system for calculating individual insurers' deductibles under TRIA needs to be revised to ensure that the largest insurers of TRIA-related risks do not pay a disproportionate amount of future terrorism losses, the reports authors say.
+The 224-page report, ``TRIA and Beyond: Terrorism Risk Financing in the United States,'' is one of several recent reports to provide an analysis of terrorism insurance coverage. However, the reports' findings on the relationship between deductibles and policyholder surplus has not been examined in detail elsewhere, said Howard Kunreuther, one of the report's researchers and co-director for the Philadelphia-based Wharton Risk Management and Decision Processes Center.
+The report was issued by the Wharton School of the University of Pennsylvania.
+The Wharton researchers found that under TRIA's current structure, insurers with high deductible/surplus ratios-those insurers that have written most of the existing terrorism coverage to date-would bear the brunt of terrorism losses below $100 billion.
+Under TRIA, an insurer's deductible is determined as a percentage of its total direct commercial property/casualty earned premiums of the preceding year for TRIA-related lines. Those deductibles can be substantial. For example, in 2005 the TRIA deductibles for American International Group Inc. and for St. Paul Travelers Cos. Inc. would be $3.6 billion and $2.5 billion respectively, according to the report.
+In contrast, captives and other insurers with relatively low ratios based on their previous year's premiums, can ``play a game'' by taking on large concentrated risks during the current year and then pass on their losses to the government in event of relatively small terrorist losses, Mr. Kunreuther said. The federal government would likely pay a significant portion of any of their losses then recoup much or all of the money from policyholders or taxpayers, under TRIA arrangements.
+``The public-private partnership established by TRIA should be modified so it is more equitable and efficient than the current program,'' states the report, which focuses mostly on commercial insurance coverage.
+That is why the report favors increasing the lowest TRIA trigger from $5 million to $500 million. Doing so would ``reduce the likelihood that captives and other insurers with very low deductible/surplus ratios will pass on their losses after a terrorist attack to all commercial policyholders and/or U.S. taxpayers,'' the report states.
+To reach their conclusions, the Wharton researchers simulated the impact on deductible/surplus ratios from 5-ton truck bombs striking high-rise buildings in several large U.S. cities.
+Under TRIA, should a loss suffered by an insurer fall below its deductible, the insurer would not receive any government reimbursement.
+Conversely, when an insured loss stemming from a certified terrorism act falls above an insurer's deductible, the government reimburses 90% of that loss, then recoups the money from policyholders and taxpayers.
+The Wharton study was financed by insurers, but that did not influence its outcome, Mr. Kunreuther said. Additionally, some insureds and government agencies provided input.
+The report also reviews potential prospects for long-term solutions that it says are not mutually exclusive and that include allowing insurers and reinsurers to accumulate tax-deferred reserves, federal backing for mutual insurance pools, and facilitating terrorism catastrophe bonds.
+TRIA, enacted in late 2002 to create a federal backstop for insurers paying losses from future terrorist attacks, is slated to expire Dec. 31. Lawmakers are examining ways to continue a coverage backstop beyond that point, but the Bush administration has said it would oppose the extension of TRIA in its present form, holding that it is hindering the creation of a private terrorism insurance market.
+In part, the administration supports raising the coverage trigger for the backstop. Under TRIA, a qualifying terrorist attack causing as little as $5 million in insured damage could trigger coverage under certain circumstances.
+
+Graphic
+
+ 
+Art Caption: International terrorist attacks 1995-2004
+Art Credit: Wharton Risk Center, U.S. Department of State
+
+Load-Date: August 19, 2005
+
+
+End of Document

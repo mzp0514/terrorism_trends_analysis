@@ -1,0 +1,28 @@
+End the Phone Data Sweeps
+The New York Times
+January 24, 2014 Friday
+Late Edition - Final
+
+
+Copyright 2014 The New York Times Company
+Section: Section A; Column 0; Editorial Desk; Pg. 26; EDITORIAL
+Length: 545 words
+Byline: By THE EDITORIAL BOARD
+Body
+
+
+Once again, a thorough and independent analysis of the government's dragnet surveillance of Americans' phone records has found the bulk data collection to be illegal and probably unconstitutional. Just as troubling, the program was found to be virtually useless at stopping terrorism, raising the obvious question: Why does President Obama insist on continuing a costly, legally dubious program when his own appointees repeatedly find that it doesn't work?
+In a 238-page report issued Thursday afternoon, the Privacy and Civil Liberties Oversight Board, a five-member independent agency, called on the White House to end the phone-data collection program, for both constitutional and practical reasons. The board's report follows a Dec. 16 ruling by Federal District Judge Richard Leon that the program was ''almost certainly'' unconstitutional and that the government had not identified ''a single instance'' in which it ''actually stopped an imminent attack.''
+Two days later, a panel of legal and intelligence experts convened by Mr. Obama after the disclosures by Edward Snowden echoed those conclusions in its own comprehensive report, which said the data sweep ''was not essential to preventing attacks'' and called for its end.
+The growing agreement among those who have studied the program closely makes it imperative that the administration, along with the program's defenders in Congress, explain why such intrusive mass surveillance is necessary at all. If Mr. Obama knows something that contradicts what he has now been told by two panels, a federal judge and multiple members of Congress, he should tell the American people now. Otherwise, he is in essence asking for their blind faith, which is precisely what he warned against during his speech last week on the future of government surveillance.
+''Given the unique power of the state,'' Mr. Obama said, ''it is not enough for leaders to say: trust us, we won't abuse the data we collect. For history has too many examples when that trust has been breached.''
+The more likely reality is that the multiple analyses of recent weeks are correct, and that the phone-data sweeps have simply been ineffective. If they had assisted in the prevention of any terrorist attacks, it is safe to assume that we would know by now. Instead, despite repeated claims that the bulk-data collection programs had a hand in thwarting 54 terrorist plots, the privacy board members write, ''we have not identified a single instance involving a threat to the United States in which the telephone records program made a concrete difference in the outcome of a counterterrorism investigation.''
+That reiterates the findings of Judge Leon -- who noted that even behind closed doors, the government provided ''no proof'' of the program's efficacy -- as well as the conclusion of a report released this month by the New America Foundation that the metadata program ''had no discernible impact on preventing acts of terrorism and only the most marginal of impacts on preventing terrorist-related activity.''
+No one disputes that the threat of terrorism is real and unrelenting, or that our intelligence techniques must adapt to a rapidly changing world. It is equally clear that the dragnet collection of Americans' phone calls is not the answer.
+
+http://www.nytimes.com/2014/01/24/opinion/end-the-phone-data-sweeps.html
+
+Load-Date: January 24, 2014
+
+
+End of Document

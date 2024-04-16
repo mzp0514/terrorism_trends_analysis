@@ -1,0 +1,35 @@
+New focus on cyber-terrorism
+Christian Science Monitor (Boston, MA)
+August 16, 2005, Tuesday
+
+
+Copyright 2005 The Christian Science Publishing Society
+Section: USA; Pg. 01
+Length: 786 words
+Byline: By Nathaniel Hoopes Contributor to The Christian Science Monitor
+Highlight: At risk: computers that run power grids, refineries.
+Body
+
+
+Buried deep in America's new energy legislation is a requirement that power companies step up their safeguards against computer attack.
+Why does a law aimed at boosting energy production address the dangers of hackers, software "worms," and computer viruses? Because the automatic networks that run so-called "critical infrastructure" are emerging as a vital - and weak - link in America's defense against terrorism.
+Networks run everything from water-treatment plants and oil refineries to power grids and transport networks. They constantly read data and adjust, opening a valve here, closing a tank there, often keeping the facility operating 24/7. In the wrong hands, however, such systems could be compromised.
+"People downplay the importance of cyber-security, claiming that no one will ever die in a cyber-attack, but they're wrong," says Richard Clarke, a former terrorism and cyber-security czar in the Bush administration. "This is a serious threat."
+In March, for instance, hackers gained access to the electronic control systems of the nation's electric power grid, says Dave Powner a cyber-security specialist at the US Government Accountability Office (GAO). In 2003, a computer "worm" on the Internet may have helped delay power companies' response to the major Midwest and Northeast power outage, although the electric industry says it has found no evidence of a cyber-related effect. In all, the first half of 2005 saw 237 cyber-attacks worldwide - a 50 percent rise from the same period last year, according to IBM's global security intelligence team.
+From a national security viewpoint, the real danger is that a determined and talented cyber-terrorist could break into a utility or chemical plant's computer network and manipulate the sensor-control systems, experts say. That could set off an "accident" that could kill not just workers at the plant, but thousands of civilians in the surrounding area. Nearly 300 critical-infrastructure facilities lie in densely populated regions with 50,000 or more local residents, according to the Department of Homeland Security (DHS).
+"An attack on the scale of the Bhopal disaster in India is not impossible," says Mr. Clarke, citing the chemical leak that killed some 3,800 people in 1984.
+Despite such a nightmare scenario, federal officials are more immediately focused on the threat of a dual attack, says Mr. Powner of the GAO. "There is a lot of concern in government about what the FBI calls a swarming terrorist attack. You have a physical attack and a simultaneous cyber-attack on critical infrastructure - that really hurts your ability to respond."
+The cascading effect of such an attack could cost the nation billions of dollars. And getting the incredibly complex systems up and running again wouldn't be easy, security experts say.
+Many experts say that DHS is still relatively unprepared to protect America's critical infrastructure against a cyber-attack.
+"In government, when it came to senior level focus after Sept. 11, 99.9 percent was skewed towards physical protection, and cyber-security took a back seat," says Paul Kurtz, director of the Cyber Security Industry Alliance and a former Bush administration official. But he is optimistic that attitudes are changing.
+Facing mounting pressure, DHS is creating a national cyberspace response system. Supporters claim it will help the government work with the private sector to prevent, detect, and respond to cyber incidents. In November, DHS will launch its first major national exercise - code-named "Cyberstorm" - to test the government's ability to partner with the private sector in response to a major cyber incident.
+Last month, DHS Secretary Michael Chertoff created a new post, assistant secretary of cyber and telecommunications security, a position that Mr. Kurtz says will carry the necessary clout.
+But Clarke points out that the position hasn't been filled yet. "So far it's been all talk," he says.
+Power companies aren't waiting around for governments to protect them. "Ultimately industry has to be responsible for protecting its own assets," says Ellen Vancko of the North American Electric Reliability Council. The council is developing cyber-security standards, which its members will have to uphold.
+The industry has a lot to address, Clarke says. "Every time the government has tested the security of the electric power industry, we've been able to hack our way in - sometimes through an obscure route like the billing system," he says. "Computer-security officers at a number of chemical plants have indicated privately that they are very concerned about the openness of their networks and how easily they might be penetrated."
+(c) Copyright 2005. The Christian Science Monitor
+
+Load-Date: August 15, 2005
+
+
+End of Document

@@ -1,0 +1,33 @@
+AT&T says it will publish data requests
+Telegraph Herald (Dubuque, IA)
+December 21, 2013 Saturday
+
+
+Copyright 2013 Woodward Communications, Inc. All Rights Reserved
+Section: D; Pg. 7
+Length: 653 words
+Byline: MARCY GORDON The Associated Press
+Body
+
+
+WASHINGTON - AT&T Inc. said it will publish reports on the number of requests for customer information that it receives from law enforcement agencies, the latest move in the telecommunications industry toward fuller disclosure amid debate over government surveillance programs.
+The announcement Friday by the nation's largest telecom company came a day after rival Verizon Communications Inc. said it will make public the legal demands it has received. Dallas-based AT&T says it will publish a report twice a year online. The first one, covering requests received this year, will be out early next year.
+The controversy has deepened over data-gathering by the National Security Agency. The NSA's collection of hundreds of millions of Americans' phone records under secret court order was revealed in June in documents leaked by former NSA contractor Edward Snowden. The program collects the number called, the number from which the call is made and the duration and time of the call.
+Major shareholders of AT&T and Verizon demanded last month that the companies disclose their dealings with the NSA.
+To the extent allowed by law, AT&T said its "transparency" report will include the total number of requests it receives from law enforcement agencies in criminal cases, a breakdown of the number of subpoenas, court orders and warrants received, the number of customers affected and details about the legal demands it receives.
+"Any disclosures regarding classified information should come from the government, which is in the best position to determine what can be lawfully disclosed and would or would not harm national security," AT&T said in a statement from Wayne Watts, general counsel.
+"When it comes to governmental surveillance and requests for customer information, all companies are compelled to comply with the laws of the country in which they operate," Watts said. "We take our responsibility to protect our customers' information and privacy very seriously and pledge to continue to do so to the fullest extent possible."
+AT&T has said previously that it complies with government requests for records "only to the extent required by law."
+Several major Internet companies, including Google, Microsoft, Apple, Facebook and Yahoo, publish periodic reports disclosing the number of requests from federal agencies and local police departments for personal data, which cover such things as email communications.
+Until now, however, telecommunications companies haven't filed such reports.
+U.S. Cellular said it "is considering options to provide information to our customers about the requests we receive from law enforcement for customer information." A representative for Sprint Corp. declined comment.
+In a statement, T-Mobile said it is "carefully considering additional transparency about the law- enforcement and national security demands we receive."
+The reports by the Internet companies don't provide specifics about the number of orders that the companies receive through the secret court set up under the Foreign Intelligence Surveillance Act to fight terrorism.
+A presidential advisory panel this week recommended sweeping changes to the surveillance programs. Those include limiting the bulk collection of phone records by stripping the NSA of its ability to store that data in its own facilities. Instead, the data would be required to be held by the phone companies or a third party.
+A federal judge in Washington ruled Monday that the phone records collection is likely unconstitutional, calling the operation "Orwellian" in scale. The government is expected to appeal the decision by U.S. District Court Judge Richard Leon, who put his ruling on hold "in light of the significant national security interests at stake in this case and the novelty of the constitutional issues."
+The Obama administration has defended the program as a crucial tool against terrorism. The Supreme Court might have the last word.
+
+Load-Date: December 21, 2013
+
+
+End of Document

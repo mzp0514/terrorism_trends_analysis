@@ -1,0 +1,43 @@
+Doing a number on terrorism;
+A conference at Rutgers focused on how math could be applied to the fight against terrorists.
+ The Philadelphia Inquirer
+OCTOBER 10, 2004 Sunday CITY-D EDITION
+
+
+Copyright 2004 Philadelphia Newspapers, LLC  All Rights Reserved
+
+
+Section: NATIONAL; Pg. A09
+Length: 816 words
+Byline: Matt Crenson ASSOCIATED PRESS
+Dateline: PISCATAWAY, N.J.
+Body
+
+
+Terrorism takes brains.
+You don't need political clout, military might, or lots of money to plant bombs or take hostages; but without brains, terrorism is nothing more than random violence.
+Consider al-Qaeda's attacks on Sept. 11, 2001. They required a force of only 20 men armed with box cutters, yet were so brilliantly conceived, meticulously planned, and keenly attuned to global politics that they changed the world.
+"Terrorism is a thinking man's game," said Gordon Woo, a terrorism expert.
+Which is why a group of thinking men and women convened at Rutgers University last month to ponder how order theory, a branch of abstract mathematics that deals with hierarchical relationships, could be applied to the war on terrorism.
+It almost seems ridiculous for people who inhabit a world of concept lattices and partially ordered sets to think they can affect a war being fought on the streets of Baghdad and in the mountains of Pakistan. But it is also fought in cyberspace, and in the minds of people from Lahore to Los Angeles. Mathematicians are right at home in such abstract realms.
+"It's not just theoretical," said Fred Roberts, director of the Center for Discrete Mathematics and Theoretical Computer Science, the research institute where the conference was held.
+Inspired by a movie
+Mathematician Jonathan Farley of MIT said he was inspired to organize the meeting by the film A Beautiful Mind, about mathematician John Forbes Nash, whose work in game theory was applied to Cold War military strategy, international trade, and Federal Communications Commission auctioning of broadcast frequencies.
+"I'm a pure mathematician, so I'm completely useless for the most part," Farley said. "But it would be nice to take some of what we do and make it useful for some people - maybe even lifesaving."
+The new Homeland Security Institute has Congress' mandate to do just that, said Gary G. Nelson. A senior researcher at the quasi-governmental institute, he attended the conference to find research projects for the institute to support.
+Some sounded promising, he said, especially those that could help intelligence agencies boil down vast amounts of data. Other proposals were "a pretty long logical distance" from the real world. And not everything was easy to understand, he said, even for a systems engineer.
+Theoretically, Farley said, abstract math could help intelligence officers figure out the most efficient way to disable a terrorist network.
+Using order theory
+Say it's cheaper or more practical to go after a terrorist cell's "middle management" rather than its leadership. How many lieutenants would you have to remove to disrupt communication between top dogs and field operatives? Are there a few key individuals whose capture would completely cut off the chain of command? Order theory is about such questions.
+"This helps them decide where to spend the money," Farley said.
+Of course, many times the organizational structures of terrorist groups are unknown. Mathematical techniques could also be applied to that problem, by using computer programs that comb through giant databases looking for connections between individuals, locations or events. For example, a program might discover that all involved in a given attack attended the same London mosque. Or it might find large numbers of e-mail messages between members of one terrorist cell in Germany and another in the United States, suggesting that they may be working together.
+Such data mining techniques are nothing new. But the explosion in computing power over the last few years has spurred innovation in the field.
+Jafar Adibi, a computer scientist at the University of Southern California, is developing ways to find hidden links between known terrorists and as-yet-unknown confederates.
+The program takes a group of known terrorists, then analyzes things they have in common with others in the database - phone calls, places of worship, political affiliations, blood relation. It concludes that anyone with enough connections of the right kind with a known terrorist probably is one also.
+Adibi has tested his program using a database built from news accounts and other publicly available information. He labels 20 percent of a group's members "known" and challenges the program to find the rest. Right now, the system misses 20 percent of the remaining members, and three of the 10 people it does identify as "bad guys" aren't actually terrorists.
+Adibi said he hopes to improve those numbers a bit. But even so, programs like his could help focus antiterrorism efforts on the most likely suspects. Mass detentions have often snared too many innocent people, Woo said. Britain has arrested more than 600 on suspicion of terrorism since the Sept. 11 attacks but convicted only 15 of them. By some counts, the United States has detained more than 5,000 foreign nationals under the Patriot Act, alienating them and their families.
+
+Load-Date: September 1, 2005
+
+
+End of Document

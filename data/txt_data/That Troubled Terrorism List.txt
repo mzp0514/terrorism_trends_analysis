@@ -1,0 +1,25 @@
+That Troubled Terrorism List
+The New York Times
+August 24, 2008 Sunday
+Late Edition - Final
+
+
+Copyright 2008 The New York Times Company
+Section: Section WK; Column 0; Editorial Desk; Pg. 8; EDITORIAL
+Length: 334 words
+Body
+
+
+A half-billion-dollar emergency program to repair the nation's main and deeply flawed terrorist watch list is ''on the brink of collapse,'' according to a Congressional investigation. That means that warning signs of a terrorist attack could again be lost in the chaos.
+  The new program, known as Railhead, is intended to fix the problems with the current outmoded program. That database -- begun as an urgent priority after the Sept. 11 attacks -- has been bedeviled by an array of problems, including the inability to do basic searches to find suspects' names. 
+  Bush administration officials have been pronouncing Railhead a success. But the investigation by a  House Science and Technology subcommittee found it crippled by serious design flaws, management blunders and runaway contractors. Hundreds of private contractors from dozens of companies involved were recently laid off as government managers finally ordered a fresh overhaul in the face of ''insurmountable'' problems. 
+  Some of the flaws discovered are mind-bogglingly basic. The Railhead database, it seems, also has fundamental problems with its search function. It failed, for example, to handle multiple word searches connected by ''and'' and ''or,'' and it could not offer matches for slight misspellings of suspects' names. 
+  ''The program not only can't connect the dots,'' Representative Brad Miller, Democrat of North Carolina, declared. ''It can't find the dots.'' Intelligence officials have not yet commented, but Mr. Miller's call for an investigation by the director of national intelligence's inspector general deserves immediate action.
+  The Bush administration is far too focused on pushing through new ways to spy on Americans -- like the terrible F.B.I. guidelines that the Justice Department appears poised to approve. Railhead's shocking deficiencies demonstrate that the administration's first priority should be getting the nation's terror-fighting infrastructure in order -- and analyzing the data it already has. 
+
+http://www.nytimes.com
+
+Load-Date: August 24, 2008
+
+
+End of Document

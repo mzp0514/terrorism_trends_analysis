@@ -1,0 +1,36 @@
+LETTERS TO THE EDITOR; More to risk management than insurance events
+Business Insurance
+February 9, 2004, Monday
+
+
+Copyright 2004 Crain Communications Inc.
+Section: Pg. 8
+Length: 797 words
+Body
+
+
+To the editor: I was surprised by the list of ''top stories'' in risk management for 2003 in the Jan. 5, 2004, issue of Business Insurance.
+Nine of the 10 involved insurance, so I suspect that this should properly have been called the ''Top 10 Insurance'' stories of the year. Most of these events had little to do with risk management as it is practiced in most major organizations today.
+In an accompanying article, Chris Mandel correctly noted the unfolding mutual fund fiasco as a concern in 2003 (''Last Year Not Catastrophic for Risk Managers''). To that issue should be added: the falling dollar (against the euro and other major currencies, which precipitated a reported $1.5 billion loss for Volkswagen); the emergence of mad cow disease in both Canada and the United States; the SARS epidemic in China and Canada; the continuation of mismanagement by senior executives, which is spreading to Europe (Parmalat S.p.A. and Royal Ahold N.V., among others); and the upsurge in the U.S. national debt and our foreign trade imbalance.
+I suggest that all of these issues were far more important and newsworthy than the rather limited insurance events that you chronicled. It is a case of mislabeling. After all, your publication correctly states its basic area of interest: business insurance, not risk management.
+Felix Kloman
+Risk Management Reports
+Lyme, Conn.
+TRIA article misstates many aspects of program
+To the editor: The Jan. 19 ''Perspective'' article by Mark E. Miller, ''How TRIA is Implemented Key to its Scope,'' makes a number of unfortunate misstatements about the Terrorism Risk Insurance Act of 2002 and excludes any reference to the several implementing regulations promulgated by the Treasury Department.
+The author misconstrues how TRIA addresses the risk of loss resulting from nuclear, biological, chemical and radiological-related terrorism events. He suggests that TRIA mandates that insurers cover nuclear, biological, chemical and radiological-related-also known as NBCR-terrorism losses, even though the policy would exclude such a loss resulting from any other type of event.
+TRIA does not mandate coverage for NBCR events but requires insurers to ''make available'' coverage for ''insured losses'' (i.e., losses from certified acts of terrorism ''covered by primary property and casualty insurance'') ''that does not differ materially from the terms, amounts and other coverage limitations applicable to losses arising from events other than acts of terrorism.''
+This plain language provides that where a policy excludes a kind of loss resulting from a nonterrorism event, that same kind of loss may likewise be excluded if it results from a terrorism event. In practical terms, this means that the policy that must be made available in accordance with TRIA is a policy without a terrorism-specific exclusion. Accordingly, such a policy insures against the loss resulting from an act of terrorism in the very same manner that it insures against a loss resulting from any other event.
+TRIA is consistent with the notion that the same scope of coverage available before the Sept. 11, 2001, attacks-before terrorism exclusions were widely introduced-continues to be made available. Indeed, it was this scope of coverage that resulted in tens of billions of dollars in insurance claim payments to affected policyholders after that tragedy.
+Mr. Miller should have noted that TRIA regulations do not mandate coverage for all terrorism-related NBCR events. In fact, these regulations-31 CFR Part 50.23(b)-state that if ''a State permits certain exclusions for certain types of losses, such as nuclear, biological, or chemical events, then the insurer is not required to make such coverage available.'' In its analysis, Treasury considered Mr. Miller's argument and flatly rejected it as inconsistent with TRIA.
+Finally, and perhaps most troubling, is the author's advice to policyholders (i.e., to switch carriers, challenge the insurer after a loss occurs or complain to the Treasury Department if an insurer is not willing to endorse a policy to cover all acts of certified terrorism, regardless of other policy exclusions). This advice would not only ignore Treasury's regulations but would spread confusion among policyholders.
+The threat of terrorism presents enormous challenges for commercial property/casualty insurers. TRIA is working to help stabilize a volatile private marketplace for this type of risk; it is allowing insurers to make essential coverage against potentially catastrophic loss available to businesses of all sizes and types in a difficult state regulatory environment. Accurate information about the program's scope and duration are essential to its success.
+J. Stephen Zielezienski
+Vp and Assistant General Counsel
+American Insurance Assn.
+Washington
+
+Load-Date: February 11, 2004
+
+
+End of Document

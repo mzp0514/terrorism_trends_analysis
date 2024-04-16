@@ -1,0 +1,78 @@
+With only a letter, FBI can gather private data; National Security Letters' reach expanded after 9/11
+USA TODAY
+July 6, 2006 Thursday
+FINAL EDITION
+
+
+Copyright 2006 Gannett Company, Inc. All Rights Reserved
+Section: NEWS; Pg. 1A
+Length: 1974 words
+Byline: Richard Willing
+Body
+
+
+When the FBI office in New Haven, Conn., received an e-mail in February 2005 that looked like a terrorist threat, agents followed a familiar routine. They asked the service provider, a group of Connecticut public libraries, for the real name, street address and Internet logs of the sender.
+They had no search warrant, grand jury subpoena or court order. Instead, a local FBI official hand-delivered a National Security Letter -- one of more than 9,000 sent to finance, telephone and Internet companies last year -- that described the records needed. Under a federal law expanded by the anti-terrorism USA Patriot Act of 2001, the written request was all the authority the FBI needed. The Patriot Act also barred the librarians from disclosing the request to anyone.
+The librarians refused to hand over the information. Instead, they filed a federal lawsuit challenging the secret letters as an unconstitutional infringement on free speech.
+The e-mailed threat proved to be a hoax. Yet the lawsuit it sparked, only the second legal challenge to National Security Letters in their 20-year history, provides a rare public glimpse of the vast amount of banking, credit, telephone and Internet records that anti-terrorism or counterintelligence investigators can have simply by asking.
+National Security Letters are the key to the trove of personal data. When the law authorizing them was passed by Congress in 1986, the letters could be authorized only by a high-ranking FBI official in pursuit of an "agent of a foreign power."
+The Patriot Act, passed six weeks after the Sept. 11, 2001, terrorist attacks, expanded the letters' reach. Now they can be issued if a local FBI official merely certifies that the information sought is "relevant" to an international terrorism or foreign intelligence investigation.
+"People have no idea how much of what they probably consider their private information is readily available to government," says Susan Brenner, a University of Dayton law professor who advises the U.S. Secret Service on technology and privacy. The letters, she says, raise the question: "How do we balance law enforcement's needs with what's left of privacy in an age where technology permeates everything?"
+to retrieve:
+*Internet and telephone data, including names, addresses, log-on times, toll records, e-mail addresses and service providers.
+*Financial records, including bank accounts and money transfers, provided the FBI says they are needed to "protect against international terrorism or clandestine intelligence activities."
+*Credit information, such as an individual's banks, loan companies, mortgage holders or other financial institutions.
+*Consumer, financial and foreign travel records held by "any commercial entity," if the investigation's target is an executive branch employee with a security clearance.
+Only FBI agents can obtain phone, computer and financial records. Other federal agencies that gather intelligence on international terrorism can get consumer credit reports and credit agency data. They include the CIA, Defense Intelligence Agency and Transportation Security Administration.
+9,254 letters served in 2005
+The government swears by the National Security Letters. In papers filed last year in the Connecticut case, David Szady, the FBI's assistant director for counterintelligence, said the letters are vital to the bureau's post-9/11 mission: to disrupt terrorist plots and other national security threats before attacks occur.
+The letters, Szady said, are especially valuable in providing leads because they establish relationships between suspects who may be linked only by records. Letters help investigators move "from target to target, unearthing the different layers and conspirators of an international terrorist or foreign counterintelligence organization," he said.
+According to U.S. Justice Department figures, the FBI served 9,254 National Security Letters concerning 3,501 individuals in 2005.
+By comparison, the secret Foreign Intelligence Surveillance Court, which authorizes search warrants and electronic surveillance in terrorism and spying cases, approved 2,072 warrants and wiretaps and 155 applications for business records last year.
+Before the Patriot Act was revised in March, the FBI was not required to disclose how many letters it issues. The number of letters from previous years, and whether they led to successful terrorism prosecutions, remains classified.
+Details of success story
+Because the recipients of National Security Letters are hardly ever named, little is known about how the letters have been used.
+The details of one successful computer surveillance operation can be pieced together from public records:
+In the spring of 2004, federal investigators noted that Mohammad Junaid Babar had a home computer yet frequently visited the New York Public Library to use its Internet service. The library's records showed Babar, a Pakistani-born U.S. citizen and suspected al-Qaeda associate, was e-mailing "other terrorist associates around the world," Ken Wainstein, the U.S. attorney for the District of Columbia, said last year while lobbying Congress to reauthorize the Patriot Act.
+After his arrest in April 2004, Babar told the FBI that because the library's hard drives were erased after each use, he believed he could use the system without being monitored. Even so, investigators were able to learn Babar's name, address and e-mail destinations through records the library had stored.
+Babar has pleaded guilty to providing material support for terrorism and faces a sentence of up to 70 years in prison.
+"Libraries should not be carved out as safe havens for terrorists and spies," Wainstein told a congressional committee in April 2005.
+Present and former government lawyers say the letters are on firm legal ground. They've been validated by several votes of Congress and used "thousands of times," says Kevin O'Connor, the U.S. attorney in Connecticut.
+Woods, the former FBI lawyer, says that in most cases the letters allow access to information that the U.S. Supreme Court has ruled is not private. Requiring a National Security Letter, he says, was considered a "step up" in privacy protection from the way federal investigators previously sought records: simply visiting banks and phone companies and asking for the information, which was almost always provided.
+The American Civil Liberties Union and some privacy advocates do not agree. Ann Beeson, an ACLU lawyer who represents the Connecticut librarians, says the letters are a "dangerous" and underexamined threat to civil liberties.
+Giving the FBI authority to decide what's "relevant" to its own investigations, Beeson says, "is an open invitation to perform fishing expeditions" that trample the privacy rights of citizens. Because the Patriot Act allows checks of individuals who are not an investigation's target, Beeson says, the FBI is free to gather "sensitive information about innocent people."
+Lee Tien, an attorney with the San Francisco-based Electronic Frontier Foundation, a privacy advocacy group that opposed many elements of the Patriot Act, says the secrecy requirement contained in the law makes it impossible for the public to know how intrusive the letters are or how often they help stop terrorists.
+"The government has always had a door (to access) private records, but it has gotten a lot larger," Tien says. "Now the lock has been taken off the door. Patriot (Act) did that."
+Requiring recipients of letters to remain silent is a particular concern, says George Christian, director of the Library Connection, the consortium that received a letter in the New Haven case.
+"Being gagged has been an extremely frustrating experience," he said on the ACLU website in May, after a federal appeals court allowed the names of recipients of letters to be made public for the first time.
+"The entire Patriot Act was up for renewal last winter, and I very much wanted to focus public attention ... on my concerns. ... I was shocked by the restraints the gag order imposed on me."
+In papers filed in the Connecticut case, FBI espionage and terrorism specialist Szady wrote that letters must be kept secret to keep targets from learning that they are being watched.
+'God forbid it isn't a hoax'
+The New Haven case shows how the conflict can play out.
+FBI agents, U.S. Attorney O'Connor says, suspected the threatening e-mail was from a "crank" but believed they had an "obligation" to pursue it. "We weren't tying up librarians or reading through books," he says. "All we wanted was identifying information. God forbid it isn't a hoax."
+For librarian Christian, however, the records request, and the fact that he had to keep it secret from his colleagues for more than a year, left him "shocked," "incensed" and feeling "compromis(ed)."
+"The idea that the government can secretly investigate what the public is informing itself about is chilling," Christian says.
+The lawsuit, and a separate case begun in 2004, already have produced some changes in how the letters are administered.
+In September 2004, after a still-unidentified Internet provider sued, a federal district court judge in New York City found that the letters were unconstitutional because they provided no way for a recipient to challenge them in court. The judge also struck down the letter's non-disclosure provision as a violation of the First Amendment's protection of free speech.
+The judge in the Connecticut case went further, granting an injunction that allowed the librarians served with letters to disclose that fact, as well as their names.
+The government appealed and made concessions. In Connecticut last April, the FBI and Justice Department dropped their opposition to letting the librarians identify themselves and disclose they had been served with a letter.
+In March, while both appeals were pending, the Justice Department proposed changes to the Patriot Act to bring the letters in line with the lower court decisions. Now, recipients are permitted to challenge a letter in court and to petition to have their names made public, though a judge need not grant the requests. So far, the Connecticut and New York cases are the only known challenges.
+In May, a three-judge panel of the U.S. Court of Appeals in New York cited those changes in dismissing the Connecticut appeal and returning the New York case to the district court. One judge, Richard Cardamone, said retaining the provision that keeps letters secret forever is "antithetical to democratic concepts."
+Continuing battle in court
+The ACLU plans to continue its fight in the lower court. Beeson says the laws are still unconstitutional because they allow the FBI to launch "phony investigations" under the guise of national security if "they just promise what they want is relevant."
+Christian, the Connecticut librarian, says the FBI's "ineptitude," not the end of the supposed terrorist threat in New Haven, caused the government to allow his name to be made public. By failing to black out all identifying information in the legal papers, Christian said, the FBI unwittingly allowed his name to be deduced by some reporters before the appeals court acted.
+"The fact that I can speak now is a little like being permitted to call the fire department only after a building has burned to the ground," he says.
+O'Connor says he doubts the letters will be found unconstitutional. Still, he worries that the lawsuit and the "unfortunate way" in which the FBI has been accused of censorship could lead other companies and institutions to resist "perfectly legitimate" demands for sensitive information.
+"Ninety percent (of threatening e-mail) is going to be nothing," he says. "But the good men and women of the FBI are inundated every day with that kind of stuff, and they've got a responsibility.
+"If there's information on a potential terrorist that can help, wouldn't you want them to have it?"
+
+Graphic
+
+ 
+PHOTO, Color
+PHOTO, B/W, Robert Deutsch, USA TODAY
+
+Load-Date: July 6, 2006
+
+
+End of Document

@@ -1,0 +1,45 @@
+Citing terrorism, Egypt to step up surveillance of social media; Egyptian authorities have invited foreign software companies to help the government track online speech amid a sweeping crackdown on dissent. A twin bombing Monday killed two police officers.
+The Christian Science Monitor
+June 30, 2014 Monday
+
+
+Copyright 2014 Christian Science Publishing Society All Rights Reserved
+Section: World
+Length: 1107 words
+Byline: Louisa Loveluck Correspondent
+Body
+
+
+Egypt is tightening its control over social media by acquiring new software that would facilitate extensive monitoring of dissidents' communications, putting even stay-at-home opposition supporters at risk.
+Authorities say they need such tools to fight terrorism in Egypt. On Monday, two bombs exploded near the presidential palace in Cairo, killing two police officials. 
+However, Egypt's planned surveillance system comes amid the most repressive period for decades. Over the past year, security forces have carried out mass arrests and torture that harken back to the darkest days of former President Hosni Mubarak's rule, according to Human Rights Watch. That raises fears that social media that helped fuel the 2011 uprising against Mubarak and remain a potent platform for free speech will no longer play this role. 
+In early June, the government-linked El Watan newspaper published a leaked Interior Ministry tender document inviting software companies to contribute to the development of an open source intelligence system called the "Social Networks Security Hazard Monitoring system." 
+The system would monitor Facebook, Twitter, WhatsApp and Viber in real-time for usage that might "harm public security or incite terrorism." It would also screen content for "vocabulary which is contrary to law and public morality." Activists are concerned at the ambiguous nature of these offenses. According to Wikithawra, an independent monitoring group, at least 76 people have been detained so far this year for offenses related to "online publishing."
+In Egypt, online surveillance is nothing new - the Interior Ministry, the military, and the intelligence services have all been stepping up their monitoring capacities over the past decade. During Egypt's 2011 uprising, early demonstrations were organized via a Facebook page set up by Wael Ghoneim, a Google executive. After three days of mass protests, security services identified Mr. Ghoneim as the page administrator and arrested him. 
+With their new surveillance software, Egyptian authorities would likely have identified Ghoneim much earlier, as well as those who liked the page. Today, as Egypt cracks down hard on unsanctioned protests, the Interior Ministry's software tender shows it wants more eyes in the home, too.
+"It's actually people who don't go to protests but sit at home sharing and liking statuses who are most at risk from this sort of surveillance,"  says Eva Blum-Dumontet, Advocacy Officer at UK-based Privacy International.
+"They are not leaders and they may not have previously been on the authorities' radar, but this way they become exposed."
+Dangerous allegiances
+Young anti-coup activists say they are worried about the new provisions. "This was meant for people like us - the groups we support are now considered criminal," says Sara, a 20-year-old Morsi supporter from Giza. "Our allegiances are clear from our social media accounts."
+As she speaks, her phone keeps buzzing with updates from different pro-Morsi Facebook and Twitter accounts.
+"When we started liking these pages, we didn't know they could be dangerous," she says. "But it's difficult to know what to do - without access to these pages, we'd have an information blackout."
+Social media is a crucial avenue of dissent in Egypt because state media rarely veer from the government line. Last August, activists and journalists used social media to document the scale of a massacre at a pro-Morsi encampment in east Cairo. While television stations showed looped footage of the few armed demonstrators, Twitter carried hundreds of images of unarmed men, women, and children being killed or injured. 
+These days, even as small numbers of anti-coup protesters continue to take to the streets on Fridays, their protests receive little coverage. Gathering in public can be difficult: The anti-coup movement has been severely weakened by tens of thousands of arrests, and demonstrations without a permit have been criminalized.
+Social media has also been used by a number of groups linked to Egypt's shadowy militant insurgency. The 'Molotov Movement' posted photos of attacks and provided instructions for building weapons, before Facebook closed its page in mid-February. But fresh version of the page have cropped up again and again. The group has claimed responsibility for a number of low-level attacks.
+Casting a wider net
+But given the Egyptian government's prior record, local tech activists say the interior ministry is likely to cast the net far wider than these groups, as evidenced by the security services' ongoing crackdown against peaceful dissenters. 
+Interior Minister Mohamed Ibrahim has promised that the new software would not be used to limit freedom of expression. Rights groups are skeptical, pointing to Egypt's repressive track record on freedoms of expression and association. 
+"A system to conduct indiscriminate surveillance of social media on a mass scale risks becoming yet another instrument in the Egyptian government's toolbox of state repression," said Hassiba Hadj Sahraoui, Middle East and North Africa Deputy Director for Amnesty International, in a statement.
+Egypt uses both active and passive techniques to gain access to digital communications, according to Citizen Lab, a research center based at the University of Toronto. The organization's research indicates that the Egyptian authorities have used at least three commercial surveillance packages since 2011.
+Citizen Lab's attempts at remote detection indicate that Egypt has used powerful software from the London-based Gamma International, Italy-based Hacking Team, and US-based BlueCoat over the past three years.
+Remote infection
+The software can infect laptops remotely, with the capacity to access files and passwords, and to operate cameras and microphones without the user's knowledge.  
+"You want to look through your targets' eyes ... up to thousands of targets all managed from a single place," advises Hacking Team in one of its adverts. "[And that's] exactly what we do."
+At least seven companies have answered the interior ministry's latest call so far. The call for tenders specifies that the system must previously have been used by the US or a European state. Rights groups believe the majority of bidders are European companies. 
+Researchers say these companies sometimes often other services, including the option of creating fake IP addresses so that surveillance cannot be traced back to the government.
+"Egypt's security forces have a track record of abuse and enjoyed virtual total impunity. Putting such equipment in the hands of unaccountable security forces is a recipe for abuse," said Amnesty's Sahraoui.
+
+Load-Date: June 30, 2014
+
+
+End of Document

@@ -1,0 +1,27 @@
+A Weak Agenda on Spying Reform
+The New York Times
+August 10, 2013 Saturday
+Late Edition - Final
+
+
+Copyright 2013 The New York Times Company
+Section: Section A; Column 0; Editorial Desk; Pg. 18; EDITORIAL
+Length: 502 words
+Byline: By THE EDITORIAL BOARD
+Body
+
+
+President Obama, who seems to think the American people simply need some reassurance that their privacy rights are intact, proposed a series of measures on Friday that only tinker around the edges of the nation's abusive surveillance programs.
+He said he wants ''greater oversight, greater transparency, and constraints'' on the mass collection of every American's phone records by the National Security Agency. He didn't specify what those constraints and oversight measures would be, only that he would work with Congress to develop them. But, in the meantime, the collection of records will continue as it has for years, gathering far more information than is necessary to fight terrorism.
+He said he wants an adversary to challenge the government's positions at the secret Foreign Intelligence Surveillance Court, a long-needed reform that would allow the court's federal judges to hear more than one point of view in approving targets and security policy. But if those arguments remain closed to the public -- and the president did not suggest otherwise -- then it will be impossible to evaluate whether the change has had any effect. At a minimum, he could have urged the court to release unclassified summaries of its opinions when possible.
+Finally, he announced that the N.S.A. would hire a civil liberties and privacy officer and create a Web site about its mission, and that a task force would review the nation's surveillance technologies. These measures, however, are unlikely to have a real effect on intelligence gathering.
+Fundamentally, Mr. Obama does not seem to understand that the nation needs to hear more than soothing words about the government's spying enterprise. He suggested that if ordinary people trusted the government not to abuse their privacy, they wouldn't mind the vast collection of phone and e-mail data.
+Bizarrely, he compared the need for transparency to showing his wife that he had done the dishes, rather than just telling her he had done so. Out-of-control surveillance is a bit more serious than kitchen chores. It is the existence of these programs that is the problem, not whether they are modestly transparent. As long as the N.S.A. believes it has the right to collect records of every phone call -- and the administration released a white paper Friday that explained, unconvincingly, why it is perfectly legal -- then none of the promises to stay within the law will mean a thing.
+If all Mr. Obama is inclined to do is tweak these programs, then Congress will have to step in to curb these abuses, a path many lawmakers of both parties are already pursuing. There are bills pending that would stop the bulk collection of communications data, restricting it to those under suspicion of terrorism. Other measures would require the surveillance court to make public far more of its work. If the president is truly concerned about public anxiety, he can vocally support legislation to make meaningful changes, rather than urging people to trust him that the dishes are clean.
+
+http://www.nytimes.com/2013/08/10/opinion/a-weak-agenda-on-spying-reform.html
+
+Load-Date: August 10, 2013
+
+
+End of Document

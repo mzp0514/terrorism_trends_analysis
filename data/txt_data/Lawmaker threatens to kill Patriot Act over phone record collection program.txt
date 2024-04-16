@@ -1,0 +1,29 @@
+Lawmaker threatens to kill Patriot Act over phone record collection program
+The Hill
+July 18, 2013 Thursday
+
+
+Copyright  2013 Capitol Hill Publishing Corp. All Rights Reserved
+Section: Pg. 11
+Length: 345 words
+Byline: By Brendan Sasso
+Body
+
+
+The author of the Patriot Act warned on Wednesday that Congress would refuse to reauthorize the law if the National Security Agency continues its vast phone record collection program.
+"There are not the votes in the House of Representatives to renew Section 215, and then you're going to lose the business-record access provision of the Patriot Act entirely," Rep. Jim Sensenbrenner Jr. (R-Wis.) said during a Judiciary Committee hearing. "It's got to be changed, and you have to change how you operate Section 215, otherwise   you're not going to have it anymore."
+The Patriot Act is scheduled to expire at the end of 2015 unless Congress renews it.
+Section 215 of the Patriot Act authorizes the NSA to collect business records that are "relevant" to a terrorism investigation. Following leaks of classified information by former contractor Edward Snowden, the NSA acknowledged it has been using Section 215 to obtain records on virtually all phone calls within the United States.
+The records include the time and duration of calls, as well as the phone numbers involved, but not the contents of the conversations.
+At Wednesday's hearing, Deputy Attorney General James Cole said that although the government acquires records on the phone calls, it only accesses its database if it has a "reasonable, articulable suspicion that the phone number being searched is associated with certain terrorist organizations."
+But lawmakers laid into the government witnesses, questioning how every phone call could possibly be "relevant" to a terrorism investigation.
+Sensenbrenner said the relevance standard was added to the Patriot Act to prevent exactly the kind of dragnet surveillance the NSA is now engaged in.
+"Doesn't that make a mockery of the legal standard?" he asked.
+He also noted that the NSA, not a court, determines whether any particular search is legal.
+The government witnesses argued that the records are relevant because the government must compile the complete database before conducting targeted searches.
+"You can't just wander through all of these records," Cole said.
+
+Load-Date: August 12, 2013
+
+
+End of Document

@@ -1,0 +1,27 @@
+Latest PRISM news shouldn't worry consumers
+USA TODAY
+September 6, 2013 Friday
+FINAL EDITION
+
+
+Copyright 2013 Gannett Company, Inc. All Rights Reserved
+Section: MONEY; Pg. 1B
+Length: 409 words
+Byline: ron Acohido, @byronacohido, USA TODAY
+Body
+
+
+Should the latest disclosures of decrypting techniques used as part of the NSA's PRISM anti-terrorism surveillance program keep you awake tonight?
+Only if you do not believe President Obama and NSA Director Army Gen. Keith Alexander that any and all spying techniques are used strictly in very narrow circumstances to target suspected foreign terrorists, under a federal court review process.
+"The people who work on PRISM are working to protect us," says Tom Kellermann, Trend Micro's vice president of cybersecurity. "They don't care what movie you're going to or whether someone is cheating on his wife."
+Among the disclosures made by The New York Times' review of 50,000 pages of documents, delivered by whistle-blower Edward Snowden, are references to the NSA using certain techniques to crack Virtual Private Networks and Secure Sockets Layer services. VPNs and SSL are two basic technologies for encrypting Internet traffic moving from your browser to a Web server operated by a company network, financial firm or shopping site.
+The documents show government snoops have the ability to tap into any VPN or break any SSL service to view consumer traffic in clear text, says Chris Wysopal, chief technology officer at application security firm Veracode.
+"The big revelation is that the NSA is actually able to view more encrypted data than anyone thought," says Chris Petersen, chief tech officer at security analytics company LogRhythm. "What this will really do is put our adversaries on notice that they need to invest in stronger encryption. This really has no bearing on the average citizen."
+Last July, Alexander told an overflow audience of tech-savvy attendees of the Black Hat cybersecurity conference that the PRISM program has helped the FBI stop 54 terrorist attacks in the U.S. and other nations. And Alexander said Snowden's outing of documents showing techniques and strategies used by the NSA caused serious damage to the nation's anti-terrorism efforts. "Damage to our country is significant and irreversible," Alexander said.
+In fact, all of the techniques disclosed by Snowden to date are widely known in the cybersecurity community and extensively used by data thieves, cyberspies and hacktivists.
+Adds Kellermann, "Consumers should be more worried about the criminals of the world who have similar capabilities. The criminals are certainly not using these capabilities in a narrow way, and they're not going through any approval process." 
+
+Load-Date: September 6, 2013
+
+
+End of Document

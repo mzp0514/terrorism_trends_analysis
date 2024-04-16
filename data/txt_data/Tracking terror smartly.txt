@@ -1,0 +1,37 @@
+Tracking terror smartly
+Daily News (New York)
+June 7, 2013 Friday
+SPORTS FINAL REPLATE EDITION
+
+
+Copyright 2013 Daily News, L.P.
+
+
+Section: EDITORIAL; Pg. 30
+Length: 415 words
+Byline: NLVL
+Body
+
+
+The uproar over the revelation that the National Security Agency systematically collects Verizon phone call logs was, to choose an ironic term, unwarranted.
+After unearthing a secret court warrant, the Guardian newspaper reported that the administration of Barack Obama is pulling in from Verizon Business Network Services the date and duration of calls and the phone numbers involved for all calls in its system, foreign and domestic, on an "ongoing, daily basis."
+Thank goodness for this high-tech data mining - because it's a first-line defense against terrorism.
+A second revelation in the Washington Post of a massive, secret, NSA Internet surveillance program called PRISM deserves scrutiny without knees jerking in immediate horror.
+As for the phone record seizures, expressions of shock notwithstanding, the program described in the order has been lawfully underway under court supervision for seven years and was no secret at all. A May 2006 USA Today article began:
+"The National Security Agency has been secretly collecting the phone call records of tens of millions of Americans, using data provided by AT&T, Verizon and BellSouth."
+This is "spying" only in the most academic sense of the term. No agents listen to calls. The NSA runs the logs through its computers to find communications with suspected terrorists.
+As explained by Sen. Saxby Chambliss, ranking Republican on the Intelligence Committee:
+"All of these numbers are basically ferreted out by a computer, but if there's a number that matches a terrorist number that has been dialed by a U.S. number or dialed from a terrorist to a U.S. number, then that may be flagged. And they may or may not seek a court order to go further on that particular instance. But that's the only time that this information is ever used in any kind of substantive way."
+Democratic chairwoman Sen. Dianne Feinstein, added that "terrorists will come after us if they can, and the only thing we have to deter this is good intelligence. To understand that a plot is being hatched and to get there before they get to us. . . It's called protecting America."
+Finally, the information gathered has foiled at least one "significant case" of terrorism "within the last few years," according to House Intelligence Committee Chairman Mike Rodgers.
+We can't expect those howling about the United States becoming East Germany to trust that lives were saved. But we can expect Americans to be grateful that counterterrorism professionals are working to save more.
+
+Graphic
+
+ 
+NLVL
+
+Load-Date: June 7, 2013
+
+
+End of Document

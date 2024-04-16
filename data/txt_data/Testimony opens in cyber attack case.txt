@@ -1,0 +1,45 @@
+Testimony opens in cyber attack case
+The Citizens' Voice (Wilkes-Barre, Pennsylvania)
+February 7, 2014 Friday
+
+
+Copyright 2014 The Citizens' Voice
+Distributed by McClatchy-Tribune Business News
+Section: STATE AND REGIONAL NEWS
+Length: 725 words
+Byline: Jacob Seibel, The Citizens' Voice, Wilkes-Barre, Pa.
+Body
+
+
+Feb. 07--A hearing was held Thursday in the Luzerne County Courthouse to determine whether a Dallas High School sophomore should be suspended for allegedly launching a cyber attack that nearly crashed the school district's web server.
+Dallas administrators suspended the teenager for 10 days, and threatened expulsion, after the school's computer server was infected Jan. 23 with files that continually duplicated and finally reached 1.5 million records by the time it was stopped.
+The boy's attorney, Gary Michak, filed a preliminary injunction on Jan. 30 to block the suspension, claiming the teenager is being blamed on "unsubstantiated suspicions" -- although it was revealed Thursday for the first time that the boy admitted to school officials, the school's director of technology and his own father that he uploaded the files to the server on a dare from a friend he knows through a "piracy chat" Internet forum.
+Earlier, Luzerne County Judge David W. Lupas granted the preliminary injunction and allowed the boy to return to school as facts about the case were evaluated at the hearing Thursday before Judge Michael T. Vough.
+Michak's injunction filing indicates the student's parents were told he "is being investigated as a cyber-terrorist, and that the district was considering referrals to law enforcement, including federal law enforcement."
+During Thursday's hearing, however, the district's attorneys, Robert Gawlas and Donald Brobst, presented another set of alleged violations which had nothing to do with allegations of "cyber terrorism" or "cyber hacking."
+The boy did not attend the hearing.
+Gawlas had the teenager's father read sections from the Dallas student handbook, which outlines examples of prohibited conduct, including wasting computer resources and anything that impedes others' use of computers.
+Gawlas said the teenager violated the school's "acceptable use policy" and presented the "student-parent agreement" that both the teenager and his mother had signed on Sept. 14.
+"They're changing what the student is accused of," Michak said.
+"Isn't it the same thing?" Vough asked.
+The school's director of technology, Bill Gartrell, claimed the student infected the system with files that duplicated "over and over."
+"This would have crashed the servers if we hadn't stopped it," Gartrell said in an email to high school Principal Jeffrey Shaffer.
+Nowhere in the email, however, does it refer to the terms "virus," "cyber hacking" or "cyber terrorism."
+Shaffer, who is not a technology expert, had used those terms during conversations with the teenager's parents when he explained to them why their son was being suspended.
+"It's a gross exaggeration from what took place in the school," the boy's mother said after the hearing.
+The only other place where "cyber terrorism" was mentioned, Gawlas said, was in the paperwork for the injunction Michak filed in court.
+"In my professional opinion," Gartrell testified, "there was no virus in the files."
+Gartrell also said he wouldn't consider "copying files over and over" to be the same as "cyber hacking" or "cyber terrorism," describing it instead as "a malicious attack."
+In a letter to Shaffer, Gartrell recommended that the teenager not be expelled and requested the teenager's computer privileges be revoked for a year, adding that he would be willing to work with the student to get him "on the right track."
+Michak claimed the student's rights were violated because he and Michak were not allowed to attend an informal hearing district officials had with his parents Jan. 27 to discuss the allegations and punishment.
+Gawlas argued an attorney had no right to attend the informal hearing; Michak disagreed. School policy dictates that an informal hearing has to be held when a student is suspended in order to explain to the student and the student's parents the reasons for the suspension and to provide an opportunity to refute the claims.
+The student's father said he didn't bring his son to the hearing that day because the letter Shaffer sent to them said the student wasn't allowed on school property for "any reason."
+The hearing is scheduled to reconvene at 1:30 p.m. Friday.
+jseibel@citizensvoice.com
+570-821-2110, @cvseibel
+___ (c)2014 The Citizens' Voice (Wilkes-Barre, Pa.) Visit The Citizens' Voice (Wilkes-Barre, Pa.) at citizensvoice.com Distributed by MCT Information Services
+
+Load-Date: February 7, 2014
+
+
+End of Document

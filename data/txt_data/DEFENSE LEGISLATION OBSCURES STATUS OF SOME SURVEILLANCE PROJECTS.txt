@@ -1,0 +1,34 @@
+DEFENSE LEGISLATION OBSCURES STATUS OF SOME SURVEILLANCE PROJECTS
+St. Louis Post-Dispatch (Missouri)
+September 26, 2003 Friday Five Star Edition
+
+
+Copyright 2003 St. Louis Post-Dispatch, Inc.
+Section: NEWS; Pg. A6
+Length: 554 words
+Byline: Michael J. Sniffen The Associated Press
+Dateline: WASHINGTON
+Body
+
+
+When Congress killed the Pentagon's vast computerized terrorism surveillance project, it transferred some of the research and tools to other agencies. But it won't spell out exactly which ones.
+The 2004 defense appropriations bill that Congress sent to President George W. Bush on Thursday would close former Adm. John Poindexter's old office at the Defense Advanced Research Projects Agency and bar the agency from proceeding with anything but four small, uncontroversial parts of the admiral's Terrorism Information Awareness research program.
+The agency was allowed to continue research on terrorism war-gaming software, on speeding detection of bioterrorist attacks and on software to translate foreign documents and broadcasts automatically.
+But the House-Senate conference report on the bill and comments by Senate aides indicated that the conference members agreed to move some of the software research and tools to other government agencies for use in gathering foreign intelligence - information about the intentions, plans and capabilities of foreign governments or groups.
+U.S. agents are allowed to gather this data with few restrictions from foreigners or U.S. citizens abroad or from foreigners in this country. But U.S. laws restrict the tools that government agents can use to gather such data from U.S. citizens inside this country.
+Sen. Ron Wyden, D-Ore., said the changes mean that "Americans on American soil are not going to be targets of (Terrorism Information Awareness) surveillance that would have violated their privacy and civil liberties."
+But Lara Flint, staff attorney at the Center for Democracy and Technology, an advocate of online privacy, said Congress' action fell short of protecting the privacy of Americans.
+"This measure doesn't stop other agencies or the private sector from going forward with this type of research," Flint said. "We would like to see standards written for data-scanning, pattern-recognition technology."
+A senior Senate aide, requesting anonymity, said the transferred Terrorism Information Awareness money and programs included collaborative tools, which means software designed to help analysts connect the dots between isolated intelligence tidbits now scattered among agencies like the CIA, FBI and State Department.
+Investigations into the Sept. 11 attacks concluded that the hoarding of such data by separate agencies had diminished the opportunities to detect the attacks in advance. Before leaving the agency last month, Poindexter said testing of this software on foreign data by the Army's Intelligence and Security Command had produced analyses in one-tenth the time previously required.
+But was any of Poindexter's most criticized effort - the scanning of vast computer databases of travel, credit card, medical and other personal records of Americans and foreigners - shifted elsewhere? The answer to that was unclear.
+The Senate aide said secrecy prevented disclosing precisely which Terrorism Information Awareness programs or how much money was shifted and to which agencies. The CIA, the State and Defense departments, and a host of other agencies participate in the National Foreign Intelligence Program, which the conference report specifically authorized to use "processing, analysis and collaboration tools for counterterrorism foreign intelligence purposes."
+
+Notes
+
+NATION
+
+Load-Date: September 26, 2003
+
+
+End of Document

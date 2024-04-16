@@ -1,0 +1,42 @@
+CHAT ROOMS TO GET LOOK IN ANTI-TERRORISM EFFORT
+Pittsburgh Post-Gazette (Pennsylvania)
+October 12, 2004 Tuesday
+SOONER EDITION
+
+
+Copyright 2004 P.G. Publishing Co.
+Section: BUSINESS,
+Length: 680 words
+Byline: MICHAEL HILL THE ASSOCIATED PRESS
+Dateline: TROY, N.Y.
+Body
+
+
+Amid the torrent of jabber in Internet chat rooms -- flirting by QTpie and BoogieBoy, arguments about politics and horror flicks -- are terrorists plotting their next move?
+ The government certainly isn't discounting the possibility. It's taking the idea seriously enough to fund a yearlong study on chat room surveillance under an anti-terrorism program.
+ A Rensselaer Polytechnic Institute computer science professor hopes to develop mathematical models that can uncover structure within the scattershot traffic of online public forums.
+Chat rooms are the highly popular and freewheeling areas on the Internet where people with self-created nicknames discuss just about anything: teachers, Kafka, cute boys, politics, love, root canal. They also are places where malicious hackers have been known to trade software tools, stolen passwords and credit card numbers. The Pew Internet & American Life Project estimates that 28 million Americans have visited Internet chat rooms.
+ Trying to monitor the sea of traffic on all the chat channels would be like assigning a police officer to listen in on every conversation on the sidewalk -- virtually impossible.
+ Instead of rummaging through megabytes of messages, RPI professor Bulent Yener will use mathematical models in search of patterns in the chatter. Downloading data from selected chat rooms, Yener will track the times that messages were sent, creating a statistical profile of the traffic.
+ If, for instance, RatBoi and bowler1 consistently send messages within seconds of each other in a crowded chat room, you could infer that they were speaking to one another amid the "noise" of the chat room.
+ "For us, the challenge is to be able to determine, without reading the messages, who is talking to whom," Yener said.
+ In search of "hidden communities," Yener also wants to check messages for certain keywords that could reveal something about what's being discussed in groups.
+ The $157,673 grant comes from the National Science Foundation's Approaches to Combat Terrorism program. It was selected in coordination with the nation's intelligence agencies.
+ The NSF's Leland Jameson said the foundation judged the proposal strictly on its broader scientific merit, leaving it to the intelligence community to determine its national security value. Neither the CIA nor the FBI would comment on the grant, with a CIA spokeswoman citing the confidentiality of sources and methods.
+ Security officials know al-Qaida and other terrorist groups use the Internet for everything from propaganda to offering tips on kidnapping. But it's not clear if terrorists rely much on chat rooms for planning and coordination.
+ Michael Vatis, founding director of the National Infrastructure Protection Center and now a consultant, said he had heard of terrorists using chat rooms, which he said offer some security as long as code phrases are used. Other cybersecurity experts doubted chat rooms' usefulness to terrorists given the other current options, from Web mail to hiding messages on designated Web pages that can be seen by only those who know where to look.
+ "In a world in which you can embed your message in a pixel on a picture on a home page about tea cozies, I don't know whether you're any better if you think chat would be any particular magnet," said Jonathan Zittrain, an Internet scholar at Harvard Law School.
+ Since they are focusing on public chat rooms, authorities are not violating constitutional rights to privacy when they keep an eye on the traffic, experts said. Law enforcement agents have trolled chat rooms for years in search of pedophiles, sometimes adopting profiles making it look like they are young teens.
+ But the idea of the government reviewing massive amounts of public communications still raises some concerns.
+ Mark Rasch, a former head of the Justice Department's computer crimes unit, said such a system would bring the country one step closer to the Pentagon's much-maligned Terrorism Information Awareness program.
+ Research on that massive data-mining project was halted after an uproar over its impact on privacy.
+
+Graphic
+
+ 
+PHOTO: Jim McKnight/Associated Press: Rensselaer Polytechnic Institute computer science professor Bulent Yener poses in his office in Troy, N.Y., with a map created by Bell Labs of the major Internet service providers as they existed on Aug. 19, 1999. Yener wants to develop mathematical models that can uncover structure in the scattershot traffic of chat rooms.
+
+Load-Date: October 12, 2004
+
+
+End of Document

@@ -1,0 +1,29 @@
+Terrorism model now includes urban blast
+Business Insurance
+November 19, 2007
+
+
+Copyright 2007 Crain Communications All Rights Reserved
+Section: NEWS; Pg. 37
+Length: 280 words
+Byline: JEFF CASALE
+Body
+
+
+BOSTON-Risk modeler AIR Worldwide Corp. released its updated U.S. terrorism model last week, with this latest version providing an up-to-date property exposure database and detailing the effects of an urban bomb blast.
+Boston-based AIR, developer of risk modeling software and consulting services, spent more than two years researching the latest version of its terrorism model, originally released in 2002. This latest edition, said Jack Seaquist, senior manager with AIR, will allow insurers to get a full loss analysis that includes a range of likely attack locations, weapons combinations and estimates on those losses while assigning an estimated probability to each level of loss.
+``We looked at how bomb (blasts) affect the original composite of a city in a range of environments from a dense one like Manhattan, to an open environment like those with just single buildings,'' Mr. Seaquist said.
+Additionally, AIR updated its injury-loss distributions model to reflect the latest research from the medical community regarding trauma from terrorist blasts. The distributions take into account injuries that may result from damage to buildings, including people who would be injured by flying or falling debris.
+Injury-loss data in the updated model uses state average claim costs by injury type based on the latest three policy periods of historical claims as reported to the Boca Raton, Fla.-based National Council on Compensation Insurance Inc.
+Mr. Seaquist said this latest terrorism model also includes an enhanced industry property exposure database. The updated database features more accurate building locations and building-specific characteristics for commercial properties.
+
+Graphic
+
+ 
+Art Caption: Stock Index [11/12-11/16]: BI stock index; BI brokers index; BI insurer/reinsurers index; BI managed care organizations index * Largest gains; Largest losses
+Art Credit: Source: Financial Content Inc.
+
+Load-Date: November 21, 2007
+
+
+End of Document

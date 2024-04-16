@@ -1,0 +1,31 @@
+EXPERTS WARN OF ONGOING THREAT OF CYBER TERRORISM
+Richmond Times Dispatch (Virginia)
+September 12, 2001 Wednesday City Edition
+
+
+Copyright 2001 Richmond Newspapers, Inc.
+Section: BUSINESS; Pg. B-6
+Length: 385 words
+Byline: McGregor McCance, Times-Dispatch Staff Writer, Contact McGregor McCance at (804) 649-6348 or mmccance@timesdispatch.com,  
+Body
+
+
+Yesterday's shocking attacks provide visceral and visual evidence of the nation's vulnerabilities to conventional terrorist assaults.
+But experts say the ongoing threat of cyber terrorism presents as much risk to communications, financial markets, utilities and the government.
+"A well-directed, cyber-terrorist attack could, in a different way, have the same consequences," said Allan Berg, executive director of the Commonwealth Information Security Center, a newly formed information-security research center at James Madison University.
+"A cyber attack can do the same thing," he said. "We just don't feel it the same way."
+The recent Code Red worm threat, which initially targeted the systems supporting the White House Web site, was one example of the country's high-tech vulnerabilities, says Yacov Haimes, director of the University of Virginia's Center for Risk Management of Engineering Systems.
+But Haimes said much more is at stake.
+"Through cyberspace, individual and group terrorists can disrupt our lives simply by denying us access to our critical infrastructures - the systems that provide our food, drinking water, electrical power, telephones, air travel and medical care," he said.
+Berg and Haimes each called for more emphasis on combating terrorist acts that can cripple the Internet infrastructure or damage information systems.
+"There needs to be the recognition that this country is incredibly vulnerable," Berg said. "We're the most technologically advanced society in the world. I don't personally believe our countermeasures are of significant magnitude to thwart a major effort."
+A panel headed by Gov. Jim Gilmore last December also urged Congress to establish a national strategy to deal with all forms of domestic threats, including cyber attacks.
+"Cyber attacks inside the United States could have 'mass disruptive,' if not 'mass destructive' or 'mass casualty' consequences," the report said.
+It warned that cyber attacks that cripple key communications systems could be used to help carry out more conventional attacks.
+Berg said electronic attacks can be used to "give new instructions to equipment, divert things, shut things down."
+"Information would get lost. Information would get destroyed. We're an information-based society, and with it comes a vulnerability on how to protect it."
+
+Load-Date: September 15, 2001
+
+
+End of Document

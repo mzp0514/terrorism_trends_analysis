@@ -1,0 +1,33 @@
+Homeland Security dumps project; Program that analyzes anti-terrorism data is costly, can be unreliable
+Richmond Times Dispatch (Virginia)
+September 6, 2007 Thursday
+Final Edition
+
+
+Copyright 2007 Richmond Newspapers, Inc. All Rights Reserved
+Section: GENERAL; Pg. A-5
+Length: 458 words
+Dateline: WASHINGTON 
+Body
+
+
+The Homeland Security Department has given up on an anti-terrorism data-mining tool after investigators found it was tested with information about real people without the required privacy safeguards.
+ Known as ADVISE and begun in 2003, the Analysis, Dissemination, Visualization, Insight and Semantic Enhancement program was developed for use by many DHS components, including immigration, customs, border protection, biological defense and its intelligence office.
+ Testing of the program had been quietly suspended in March after questions arose over its compliance with privacy rules. Since then two internal Homeland Security reports found that, for one to two years, tests had used live data about real people without meeting privacy requirements. One report also found that department analysts found the system time-consuming to use.
+ In response to questions from The Associated Press, DHS spokesman Russ Knocke said yesterday that the project was being dropped entirely.
+ DHS' Science and Technology directorate "determined that new commercial products now offer similar functionality while costing significantly less to maintain than ADVISE."
+ Earlier, the department had said testing would resume once the appropriate privacy analyses and public notices were completed.
+ So far, ADVISE has cost $42 million and was one of the most ambitious of 12 data-mining projects in the agency.
+ A DHS research official said in 2004 that it was to be capable of ingesting a billion pieces per hour of structured information, such as databases of cargo shippers, and a million pieces per hour of unstructured text, such as government intelligence reports.
+ The system was supposed to identify links between particular pieces of information that could otherwise go unnoticed. And it would display the results in graphic form - charts showing relationships and links.
+ A report by Congress' Government Accountability Office cautioned last March that "the ADVISE tool could misidentify or erroneously associate an individual with undesirable activity such as fraud, crime or terrorism."
+ Then separate reports released in July and August concluded that between 2004 and 2007, three pilot tests of ADVISE used personally identifiable information without first completing required privacy impact analyses.
+ Among the data sets the privacy office found had been plugged into various ADVISE pilot projects were:
+ *The no-fly list of people barred from domestic air travel and the list of people who require special inspections before flying.
+ *More than 3.6 million shipping records from a commercial data provider with names of cargo shippers and consignees.
+ *Terrorist Screening Center lists of people who attempted to cross the U.S.-Canadian border at a port-of-entry.
+
+Load-Date: September 11, 2007
+
+
+End of Document

@@ -1,0 +1,30 @@
+How the FISA Process Works
+The New York Times
+February 7, 2006 Tuesday
+Late Edition - Final
+
+
+Copyright 2006 The New York Times Company
+Section: Section A; Column 2; National Desk; Pg. 18
+Length: 261 words
+Byline: By FARHANA HOSSAIN
+Body
+
+
+Attorney General Alberto R. Gonzales has argued that the process to obtain a warrant under the Foreign Intelligence Surveillance Act (FISA, passed in 1978) is cumbersome and does not provide the ''speed and the agility'' necessary to fight terrorist threats today. The Sept. 11 commission and subsequent Congressional reports have blamed the workings of the F.B.I. and the Justice Department for many of the ''bottlenecks.'' In June 2004, John Ashcroft, then the attorney general, testified in Congress that the agencies were working on streamlining the process.
+  Since 2001, Congress has also loosened the standards to obtain a warrant through a series of actions that include the USA Patriot Act. Cases can now be pursued when surveillance is a ''significant'' rather than a ''primary'' purpose of the investigation. A single warrant can now cover multiple communications involving a target, without specifying a particular telephone line, computer or facility. And the requirement to establish a connection between the target of surveillance and a foreign power has been eliminated, which makes spying on ''lone wolf'' suspects possible.
+Requests for FISA warrants have nearly doubled to 1,758 in 2004 from 932 in 2001, with all but four granted. But the court has asked that a greater share of the requests be altered before granting them. In 2004, 94 applications were modified, up from 2 in 2001. 
+  Below, the formal steps involved in obtaining a warrant. The time frame varies widely, from hours to months, depending on the complexity of the case.   FARHANA HOSSAIN
+
+
+http://www.nytimes.com
+
+Graphic
+
+ 
+Chart/Photo: ''Removing The Bottlenecks''The F.B.I. is making the following changes, according to a 2003 memo.FEDERAL INTELLIGENCE AGENCIESFIELD AGENTSFill out a warrant request form, which includes:* Identity of target* Facts establishing probable cause that the target is involved in terrorism or spying* Details of the facilities and communications to be monitored* Procedures to minimize the collection of information about people in the United StatesThe format for submitting a request was standardized.FIELD OFFICE SUPERVISORVerifies and approves the request.AGENTS AND LAWYERS AT THE HEADQUARTERSEnsure that the form contains all required information, and finish the request.The number of lawyers and other staff members was increased at headquarters to process the requests.DIRECTOR OF AGENCYCertifies that the information sought is necessary to protect the United States against actual or potential attacks, spying or international terrorism and cannot be obtained by normal investigative techniques.An electronic tracking system is being developed to connect field offices, headquarters and the Justice Department.JUSTICE DEPARTMENTLAWYERS AT THE OFFICE OF INTELLIGENCE POLICY AND REVIEW (O.I.P.R.)Draft a formal application based on the request.Lawyers from the O.I.P.R. were deployed to work directly with agents and agency lawyers.ATTORNEY GENERALReviews and approves the application.Attorney General Alberto R. GonzalesSurveillanceThe attorney general can authorize an emergency order if he determines that the ''factual basis'' to approve such surveillance exists under FISA In such cases, a court order has to be sought within 72 hours, changed from 24 hours in 2002. If the request is denied, the information obtained from the surveillance cannot be used.FOREIGN INTELLIGENCE SURVEILLANCE COURTONE OF THE 11 JUDGESDetermines whether there is probable cause to believe that the target is involved in terrorism or spying, that the information sought is necessary to protect the country against terrorism and that the minimization procedures are appropriate.COURT OF REVIEWA THREE-JUDGE PANEL (separate from the FISA court) can hear appeals to decide whether to uphold the FISA court's decision.(Sources by F.B.I., Justice Department, Federation of American Scientists)
+
+Load-Date: February 7, 2006
+
+
+End of Document

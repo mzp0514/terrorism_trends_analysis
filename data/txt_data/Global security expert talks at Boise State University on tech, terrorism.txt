@@ -1,0 +1,34 @@
+Global security expert talks at Boise State University on tech, terrorism
+The Idaho Business Review (Boise, ID)
+February 10, 2010
+
+
+Copyright 2010 Dolan Media Newswires All Rights Reserved
+Section: NEWS
+Length: 562 words
+Byline: Zach Hagadone
+Body
+
+
+With national attention refocused on terrorism and security technology, Boise State University hosted a lecture Feb. 4 from author and security tech specialist Bruce Schneier.
+As chief security technology officer of Silicon Valley-based BT Counterpane, Schneier manages security for corporations around the globe and has designed cryptographic algorithms and protocols which are used in numerous security products.
+Regarded by sources such as The Economist as a foremost "security guru," Schneier has written eight books, including Applied Cryptography, Secrets and Lies and Beyond Fear; testified on security before the U.S. Congress several times; and written on the topic in The Washington Post, The New York Times, The Guardian and Forbes, among other publications.
+His lecture, titled "Beyond Security Theater: Fighting Terrorism the Smart Way," was offered free of charge at the Boise State Events Center and made possible by the College of Arts and Sciences, the College of Business and Economics, and the College of Engineering.
+Schneier took time to answer a few questions from the Idaho Business Review via e-mail the week before his appearance at Boise State. The exchange below has been edited for length.
+Q: How do some of the lessons learned in fighting terrorism apply to business?
+A: It demonstrates our cognitive biases: how we focus on some threats and ignore others, how we don't understand the probability of different threats and how we simply get security wrong. A lot of the things we get right and wrong are the same, regardless of whether it's personal security, business security or national security.
+Q: How secure would say most businesses are today?
+A: They're generally pretty secure; otherwise you'd see a lot more stories in the newspaper of these businesses being destroyed. As bad as the threats are out there, it's important to remember that almost all of society works pretty well almost all of the time - and that's with some pretty appalling security.
+Q: Has the rise of social networking put more companies in harm's way?
+A: The death of ephemeral conversation, whether because of e-mail or IM or social networking sites, is dangerous. People mentally code these things as conversation, yet they have the same permanence of correspondence. There have been lots of instances of businesses getting bitten by this: They say things that would be perfectly fine in verbal conversation yet don't reflect well on them in correspondence.
+Q: What are some other trends you're seeing? How has cyber security changed over the past decade?
+A: Crime. Crime, crime, crime. Over the past 10 years, hacking has changed from a hobbyist pursuit to a criminal pursuit. Hacking has become criminal and it's moved up-market. It's more organized, better funded, more international. It's big business now.
+Q: From where do you think future threats will come? What's the next wave of risk?
+A: Crime is pretty much the end state. This is the risk that will stay with us forever. Future threats will be from new tactics, not new risks.
+Q: What are some economical steps businesses can take to ensure their data is better protected?
+A: I could say things like make good backups, buy an anti-virus program, don't click on attachments you don't understand, but those are minor things. Everyone wants the three-sentence solution. If I knew that, I would be starting my own business.
+
+Load-Date: February 17, 2010
+
+
+End of Document

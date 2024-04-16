@@ -1,0 +1,27 @@
+Continue the call- records program
+USA TODAY
+October 21, 2013 Monday
+FINAL EDITION
+
+
+Copyright 2013 Gannett Company, Inc. All Rights Reserved
+Section: NEWS; Pg. 8A
+Length: 437 words
+Byline: Dianne Feinstein
+Body
+
+
+The NSA call-records program is legal and subject to extensive congressional and judicial oversight. Above all, the program has been effective in helping to prevent terrorist plots against the U.S. and our allies. Congress should adopt reforms to improve transparency and privacy protections, but I believe the program should continue.
+The call-records program is not surveillance. It does not collect the content of any communication, nor do the records include names or locations. The NSA only collects the type of information found on a telephone bill: phone numbers of calls placed and received, the time of the calls and duration. The Supreme Court has held this "metadata" is not protected under the Fourth Amendment.
+This program helps "connect the dots" -- the main failure of our intelligence before 9/11. Former FBI director Robert Mueller and Director of National Intelligence James Clapper testified that if this program existed before 9/11, it likely would have identified the presence inside the U.S. of hijacker Khalid al-Mihdhar.
+The NSA uses these records to identify connections between known and suspected terrorists (as well as terror conspirators and supporters). The overwhelming majority of records are never reviewed before being destroyed, but it is necessary for the NSA to obtain "the haystack" of records in order to find the terrorist "needle."
+Only a strictly limited number of NSA analysts (among the thousands of professionals at the agency) may search the phone records database and only after articulating a specific reason that must be approved by a senior official. Those decisions are reviewed regularly by the Justice Department, Congress and the Foreign Intelligence Surveillance Act (FISA) Court, which imposes strict privacy protections.
+To be effective, the NSA must be able to conduct these queries quickly, without regard to which phone carrier a terrorist or conspirator uses. And the records must be available for a few years -- longer than phone companies need them for billing purposes.
+Since its inception, this program has played a role in stopping roughly a dozen terror plots and identifying terrorism supporters in the U.S. Given the threats we face from al-Qaeda and others, we need all legal tools at our disposal.
+The Senate Intelligence Committee will soon consider legislation to add public reporting requirements and more court review, and to codify existing procedures into law. I hope this will restore public confidence to a program that continues to protect the homeland from terrorism.
+Sen. Dianne Feinstein, D-Calif., is chairman of the Senate Intelligence Committee. 
+
+Load-Date: October 21, 2013
+
+
+End of Document

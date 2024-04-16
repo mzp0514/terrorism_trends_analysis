@@ -1,0 +1,46 @@
+From the Airline Handbook, a Design for Outliving Terrorism 
+ The New York Times
+March 27, 2003 Thursday
+ Late Edition - Final 
+
+
+Copyright 2003 The New York Times Company
+Section: Section F; Column 1; House & Home/Style Desk; Pg. 8
+Length: 1024 words
+Byline:  By PHIL PATTON 
+Body
+
+
+IT may be that Tom Ridge, the secretary of homeland security, approved it. But Jon Stewart made it a hit.
+     Be Ready, the department's terrorism preparedness Web site (www.ready.gov) was hot when it began on Feb. 19, recording 1.1 million visits its first day. It entered popular culture the next evening, when the site, with its glossary of terms ("dirty bomb") and its ideograms showing dead birds and fish, was parodied on "The Daily Show." 
+ Mr. Stewart, the host of the show, pointed out that information on the site ran along predictable lines. "There's more radiation at the center of a nuclear blast than there is farther away from it," he said. Others have made fun of the site's illustrations of figures exiting through doors marked exit, putting a barrier between themselves and radiation and crouching under tables as the ceiling falls down. One pictogram uses the red slash in a circle to indicate that people should not enter a burning building.
+Brad B. McCormick of Ruder Finn Interactive, the senior producer in charge of developing the Internet site, said the site had been widely parodied, but added, "We love that."
+Susan K. Neely, assistant secretary of homeland security for public affairs, who supervised the project, said such parodies were expected. "People cope in different ways, and this is one way they cope," she said. "When Imus reads the list of things you need on his radio show and adds a case of beer, that's fine. We expected that. The key is, the traffic on the site is strong." 
+Ruder Finn Interactive, a division of Ruder Finn Inc. of New York, the public relations agency, designed the Web site pro bono. Information came primarily from the Federal Emergency Management Agency, the Red Cross and military experts.
+The site is part of a $100 million effort to urge Americans to prepare for terrorist attacks, an effort that includes billboards (one is on the W Hotel Times Square) and television ads featuring Mr. Ridge and New York City firefighters. "This is for 280 million Americans," Mr. McCormick said of the site. "For some people this might even be their first experience with the Internet. We designed to the lowest common denominator." 
+Because the site had to work with the slowest modems, his group left out fancy effects, plug-ins and Flash or Shockwave animation. The style of the drawings was inspired by airline safety cards, which have a similar schematic and deadpan style. 
+"The airline cards are a good choice," Ms. Neely said. "They are universal symbols to reinforce the text." (The graphic art of airline safety cards around the world is explored in a paperback book coming next month from Princeton Architectural Press, "Design for Impact: 50 Years of Airline Safety Cards," by Eric Ericson and others.)
+Mr. McCormick defends the simplicity of airline safety cards. "Many people ignore the airline warnings," he said, "but there is always someone who is flying for the first or second time."
+The ready.gov site is structured so that an initial page of type headed by "Terrorism forces us to make a choice" leads to action areas like "Make a kit" or "Make a plan," and to informational areas on biological and chemical threat, radiation and explosions. The pictograms spring up as illustrations in those subcategories.
+The site, which took five months to develop, was tested with focus groups. "The citizens we talked to said they wanted it straightforward," Ms. Neely declared. "They didn't want flags waving. This is important stuff that should be presented directly." Focus groups in Baltimore and Phoenix found a depiction of nuclear explosions too graphic. "The mushroom clouds, things like that," Mr. McCormick said. "So we changed it."
+But Ric Grefe, executive director of the American Institute of Graphic Arts, says the resulting site is more confusing than frightening. "Some of the images are absolutely confounding," he said.
+Who would guess that a pile of dead fish and birds suggests a chemical attack? And there are other issues. Some figures are not drawn to scale. One man appears to be heading for a door that will strike him at chin level. Moreover, in an attempt to be clear, the prose can become banal. Readers are warned: "Do not go back into a burning building and carefully supervise small children."
+"It's a hapless attempt to tame the terrifying," Michael Bierut, a partner at Pentagram Design, said. "Some professional designers would have done more abstract, stylish images. But I can see where this would help normal people."
+The problem, he said with some sympathy, arises in the "disconnect" inherent between a step-by-step set of instructions and the reality of a sudden disaster like a nuclear blast.
+Older visitors to the site will find it awakens memories of government publications during the cold war and films of the "duck and cover" fallout shelter era. In that sense the design of the site may be intentionally ironic. "Most government sites are dull and dry, and we wanted to have as much fun as we could," Mr. McCormick said.
+And humor may help discharge fear. Secretary Ridge recently told the Veterans of Foreign Wars that "humor is a good way of talking about serious subjects."
+If the site recalls government propaganda of the past, Mr. McCormick said, that is appropriate, too. During World War II, the Ad Council, then known as the War Advertising Council, created Rosie the Riveter. Later it introduced Smokey Bear.
+Moreover, a straightforward all-print version of the instructions is available on the Web site, and it is hard to quarrel with its basic suggestions. Have enough food and water for three days. Make a kit that contains things like bleach, vital family documents and a whistle to blow in case you are buried by rubble. Potassium iodide pills to counter thyroid damage in a nuclear incident are suggested. Duct tape also appears on the list.
+Additions to the site, Mr. McCormick said, will include more specific information, like the location of the nearest hospital capable of dealing with chemical or biological toxins. And that sort of information seems far more useful than a reminder to bring extra batteries for the portable radio. 
+
+http://www.nytimes.com
+
+Graphic
+
+ 
+Photos: BODY LANGUAGE -- Brad B. McCormick (standing) with the Ruder Finn team that produced Ready.gov. Their drawings of possible chemical incidents and nuclear contamination, top, were inspired by airline safety cards, subject of a new book, inset. (Philip Greenberg for The New York Times) 
+
+Load-Date: March 27, 2003
+
+
+End of Document

@@ -1,0 +1,30 @@
+RATIONALE ON PHONE RECORDS RELEASED
+Pittsburgh Post-Gazette
+August 11, 2013 Sunday
+FIVE STAR EDITION
+
+
+Copyright 2013 P.G. Publishing Co.
+Section: NATIONAL; Pg. A-1
+Length: 558 words
+Byline: Ellen Nakashima and Robert Barnes, The Washington Post\
+Body
+
+
+WASHINGTON --
+The Obama administration on Friday asserted a bold power to collect the phone records of millions of Americans to search for a nugget of information that might thwart a terrorist attack.
+In a 22-page "white paper," the Justice Department for the first time detailed its legal rationale for a massive National Security Agency data collection program it claimed is both constitutional and subject to federal oversight.
+The report, which echoes assertions the administration has made to Congress, said the law and subsequent court decisions bestow broad power on the government to seek telephone records "relevant" to investigations of suspected terrorism.
+"Relevance," the paper stated, is "a broad standard that permits discovery of large volumes of data in circumstances where doing so is necessary to identify much smaller amounts of information within that data that directly bears on the matter being investigated."
+The release of the white paper appeared to do little to allay the concerns of critics in Congress and the civil liberties community who say the surveillance program violates Americans' right to privacy. Last month, the House narrowly defeated a proposal to terminate it. The closeness of the vote, 217 to 205, was surprising but gave fresh momentum to lawmakers who have been trying to rein in the collection effort.
+"The president must acknowledge what a clear majority of Americans know: Our government has violated the law by collecting the communications of millions of innocent U.S. citizens," said Rep. Rush Holt, D-N.J., who wants the collection to end and has also criticized another major NSA surveillance program that targets communications of foreigners.
+The administration's definitions defy "any previous interpretation of the law," said Anthony Romero, executive director of the American Civil Liberties Union. "The way the government is interpreting relevance, anything and everything they say is relevant becomes relevant."
+Critics say the program amounts to a "dragnet," collecting massive amounts of what the report called "telephony metadata" detailing records of phone calls. Included is information about the phone numbers called, when the calls were made and how long they lasted. The calls' content is not revealed.
+The information is important, the government said, to allow special NSA analysts to look for calls linked to recognized terrorist groups. But critics say U.S. officials have not demonstrated that the program is necessary to prevent terrorist attacks.
+The government said it believes Congress intended a broad concept of relevance when it passed Section 215 of the Patriot Act in 2001 and later amended it several times. That law authorizes the government to collect "any tangible things" when there are "reasonable grounds to believe that the tangible things sought are relevant to an authorized investigation" to obtain foreign intelligence information or to protect against international terrorism.
+Some lawmakers have said that when they passed the law, they did not think they were authorizing the bulk collection of virtually all Americans' phone records. But Justice's report said the law was reauthorized twice after Congress had been informed in classified briefings how the law had been interpreted by the Foreign Intelligence Surveillance Court, and how it was being implemented.
+
+Load-Date: August 13, 2013
+
+
+End of Document

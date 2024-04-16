@@ -1,0 +1,40 @@
+THREATS AND RESPONSES: DOMESTIC SECURITY; N.R.C. Excludes Terrorism As Licensing Consideration
+ The New York Times
+January 7, 2003 Tuesday
+ Late Edition - Final 
+
+
+Copyright 2003 The New York Times Company
+Section: Section A; Column 1; National Desk; Pg. 11
+Length: 912 words
+Byline:  By MATTHEW L. WALD 
+Dateline: WASHINGTON, Jan. 6  
+Body
+
+
+The Nuclear Regulatory Commission has ruled that the threat of terrorism cannot be considered when licensing reactors or other nuclear installations because the risk is too speculative.
+     The commission also said discussing the issue in licensing hearings would give too much information to terrorists and might "unduly alarm the public." 
+ The ruling, made late last month, covers a factory that Duke Energy and other companies are seeking to build in South Carolina to turn weapons plutonium into reactor fuel; two existing Duke reactor plants that would use the plutonium fuel; a temporary waste-storage project in Utah; and a project to expand fuel storage at the Millstone reactors in Waterford, Conn.
+The commission said that it defined risk as a product of the probability of an event multiplied by its consequences, but that in the Utah case, which involves building concrete and steel casks to store highly radioactive nuclear fuel, "we have no way to calculate the probability portion of the equation, except in such general terms as to be nearly meaningless."
+The ruling has outraged some nuclear-safety experts. Victor Gilinsky, one of the five members of the regulatory commission in the 1970's and 80's, complained that at a time when the commission forbids considering terrorism at the Duke plutonium plant, "Ashcroft is changing the Bill of Rights because it is imminent."
+Dr. Edwin Lyman, president of the Nuclear Control Institute, an antiproliferation group in Washington, said the decision was contradictory. The commission reasoned that it need not consider terrorism, because terrorism is "entirely independent of the facility," Dr. Lyman pointed out.
+But that, he added, "ignores the fact that the terrorist threat to a facility is surely dependent on where that facilities is sited, i.e. in a remote or densely populated area."
+"One of the main threats we face today in the U.S. is that many potentially hazardous facilities are located near heavily populated areas," Dr. Lyman wrote in an e-mail message. "This situation is tolerated because severe accidents are considered highly improbable. But surely in the future, it makes sense to consider the possibility of terrorist acts that could intentionally cause large releases when making decisions about the location and design features of hazardous facilities." 
+The commission ruling took note of the Sept. 11 attacks. It said the proper approach would be to improve security at nuclear sites, on airplanes and around the country generally, rather than to try to determine the environmental effects of "a third-party attack" on a site. 
+In the past, design features at nuclear plants proposed to ensure environmental safety had been available for public scrutiny. But the commission said security preparations and characteristics of plants that would bear on the success of a terrorist attack would remain secret. 
+The commission ruled that terrorism could not be considered under the National Environmental Policy Act, the law that requires the government to issue an Environmental Impact Statement when it takes a major action. 
+Diane Curran, a lawyer in Washington who has represented nuclear opponents in several cases where considering terrorism was forbidden, said that opponents could try to raise the same arguments under the Atomic Energy Act, but that under that law, the regulatory commission was free to ignore them. 
+Only in the environmental impact statement process is the government required to respond, Ms. Curran said, and thus the decision was a major setback for opponents.
+Peter A. Bradford, a member of the Nuclear Regulatory Commission from 1977 to 1982, compared the commission's attitude to its view on hydrogen explosions. Before the accident in 1979 at Three Mile Island in Middletown, Pa., Mr. Bradford said, such explosions were considered impossible. After the one at Three Mile Island, he said, the commission still considered them impossible, "because now that we had had one, we would be too vigilant for another to occur." 
+"The bottom line is that events that have occurred but that can't be dealt with must still be considered impossible, first because they haven't yet occurred, then because they have," he said.
+The commission has historically declined to speculate about terrorist threats against reactors. In the late 80's and early 90's, it fought off arguments that it needed stronger defenses against truck bombs, despite truck bomb attacks around the world. The commission argued that in the United States no bomb could be assembled without attracting the notice of the police. But in early 1993, terrorists exploded a truck bomb in an underground garage at the World Trade Center and a man with a history of mental problems drove his station wagon through an open gate at Three Mile Island and drove into the turbine building. The man, who was not armed, hid inside the plant for hours.
+Shortly after that, the commission revised its rules to cover bombs in small vehicles. But it has not instituted any sweeping rules related to the attacks of Sept. 11, 2001.
+"They are closing the barn door from yesterday," said David Lochbaum, a nuclear safety engineer at the Union of Concerned Scientists.
+The commission, Mr. Lochbaum said, should be more forward looking. But he added that nuclear engineers were "not good on qualitative analysis" and that the commission's problem was that it was confronting a problem with a lack of data points on major terrorist attacks.      
+
+http://www.nytimes.com
+
+Load-Date: January 7, 2003
+
+
+End of Document

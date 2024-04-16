@@ -1,0 +1,34 @@
+Tattoo Recognition Database Could Help Combat Crime and Terrorism
+Government Technology
+November 6, 2012 Tuesday
+
+
+Copyright 2012 
+Distributed by McClatchy-Tribune Business News
+Section: STATE AND REGIONAL NEWS
+Length: 846 words
+Byline: Sarah Rich, Government Technology
+Body
+
+
+Nov. 06--For many, getting a tattoo symbolizes a personal experience, a memory of a family member or a sentimental image. But some tattoos are monikers of criminal activity -- a mark that represents gang affiliation or a connection with other violent organizations.
+To identify the tattoos connected to criminal activity, Michigan State University (MSU) is conducting a research project on biometric tattoo recognition technology, where images of tattoos on individuals are matched with tattoo images in a database -- something the FBI has been interested in since July.
+The FBI-funded project has been in the research phase for more than five years, and in 2009, the tattoo matching technology was licensed to identification, detection and e-document solutions vendor Morpho, located in France. The company then gained the intellectual property rights of the technology to commercialize the system.
+But implementing the technology and the tattoo database in police departments across the nation may or may not be a reality in the immediate future. According to  Morpho's Vincent Bouatou, deputy director of research and technology, it is uncertain when the tattoo recognition technology will be utilized by the U.S. government and police agencies. But that doesn't mean law enforcement isn't taking it upon themselves to implement tattoo recognition.
+Tattoo Recognition History
+Anil Jain, a professor at MSU leading the research, said the university began looking into tattoo recognition technology for identifying criminal suspects because in many instances, authorities don't have fingerprints or facial images of a suspect after a crime's been committed. For example, if a robbery occurs at a convenience store, but the suspect is wearing a mask and gloves, the surveillance camera at the store may be able to record the image of a tattoo on the suspect if he or she has one exposed on the neck or on an arm. From there, authorities can deduce a list of potential suspects based on the tattoo image.
+"Is this tattoo connected to a gang? Who were the previous individuals who were arrested with the same tattoo and other such information?" Jain said. "And then right away you have some information about this person. You may not know his name -- the tattoo is not a unique identifier -- but it can narrow down the list of identities for this particular tattoo."
+Because tattoos are often affiliated with crime groups, the tattoo recognition technology could hypothetically help identify possible terrorists, said Bouatou. The technology can be utilized for ongoing investigations, for example, in cases of identifying individuals in a criminal gang that could lead to other individuals with the same tattoo, hence, in the same gang.
+Other criminal organizations, for instance hate groups, may also have tattoos to resemble their organization. Jain said whether the organization is interested in criminal activity, hate crimes or terrorism, once the tattoo has been identified, it can be matched to tattoos in the existing tattoo image database, which can immediately provide some information about the person whose tattoo is being queried.
+Bouatou said in cases where the image of the tattoo is not captured on a camera, individuals who witnessed someone with a tattoo commit a crime can describe the image of the tattoo to a forensic artist and from there, cross reference the sketch with the images in the tattoo database to see if there's a potential match.
+Key Words Not a Key Solution
+Jain said MSU's tattoo recognition research differs from similar research done in the past  because the technology the university developed does not require submitting key words into the database to describe a tattoo when querying a specific tattoo image. The university does not want to add a key word submission component to the technology because according to Jain, the assignment of a key word to a tattoo image is not unique since different individuals may use different key words when describing the same image.
+"Some tattoos like a cross or a skeleton may be easy to assign key words, but in many cases, the tattoo images are very complex so a single key word is not enough and some of the key words may not even be appropriate for that tattoo image," Jain said.
+Though such a system doesn't yet commercially exist, the Volusia County Branch Jail in Florida is working on a tattoo database of their own, according to The Daytona-Beach News Journal. Talks between Branch Jail and Daytona Beach police officials include creating a tattoo database that could be used and referred to by investigators who are looking for unidentified suspects in a crime.
+Capt. W.F. McClelland at the jail told the News Journal that jail officials are consulting with county attorneys to establish "policy and procedure" on what can and can't be done regarding inmate tattoos. "It's something we've been working on for a while," McClelland told the News Journal. "But it won't happen overnight."
+___ (c)2012 Government Technology Visit Government Technology at www.govtech.com Distributed by MCT Information Services
+
+Load-Date: November 8, 2012
+
+
+End of Document

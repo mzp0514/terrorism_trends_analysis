@@ -1,0 +1,29 @@
+CONGRESS LET PRIVACY PROTECTIONS BE KILLED;
+ DATA-MINING TOOLS WOULD FIGHT TERRORISM
+Pittsburgh Post-Gazette (Pennsylvania)
+March 15, 2004 Monday
+SOONER EDITION
+
+
+Copyright 2004 P.G. Publishing Co.
+Section: NATIONAL,
+Length: 409 words
+Byline: MICHAEL J. SNIFFEN THE ASSOCIATED PRESS
+Dateline: WASHINGTON
+Body
+
+
+When Congress curtailed Pentagon research that it feared would ensnare innocent Americans in the terrorism fight, it also allowed the Bush administration to eliminate two projects to protect citizens' privacy from futuristic tools.
+ As a result, the government is quietly pressing ahead with research into high-powered computer data-mining technology without the two most advanced privacy protections developed for those terror-fighting tools.
+ "It's very inconsistent, what they've done," said Teresa Lunt of the Palo Alto Research Center and head of one of the two government-funded privacy projects eliminated last fall.
+Even members of Congress such as Sen. Ron Wyden, D-Ore., who led the fight to restrict the Pentagon terrorism research over its privacy implications, remain uncertain about the nature of the research or the safeguards.
+ The project was the brainchild of retired Adm. John Poindexter, who was driven from the Reagan administration in 1986 over the Iran-Contra scandal. Some 15 years later, he was summoned back by the Bush administration to develop data-mining tools for the fight against terrorism.
+ Poindexter's new software tools, far more powerful than existing commercial products, would have allowed government agents to quickly scan the private commercial transactions and personal health records of millions of Americans and foreigners for telltale signs of terrorist activity.
+ Partly to appease critics, Poindexter also was developing two tools that would have concealed names on records during the scans. Only if agents discovered concrete evidence of terrorist activities would they have been permitted to learn the identities of the people whose records aroused suspicion.
+ One privacy project worked with Poindexter's Genisys program, which scanned government and commercial records for terrorist planning. The other was part of his Bio-ALIRT program, which scanned private health records for evidence of biological attacks.
+ Late last year, Congress closed Poindexter's office in the Defense Advanced Research Projects Agency, or DARPA, in response to the uproar over its impact on privacy. But Congress allowed some Poindexter projects, including some data-mining research, to be transferred to intelligence agencies. Congress also left intact similar data-mining research begun in the fall of 2002 by the Advanced Research and Development Activity, or ARDA, a little-known office that works on behalf of U.S. intelligence.
+
+Load-Date: March 16, 2004
+
+
+End of Document

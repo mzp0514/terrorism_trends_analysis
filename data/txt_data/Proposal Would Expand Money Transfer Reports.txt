@@ -1,0 +1,46 @@
+Proposal Would Expand Money Transfer Reports
+The New York Times
+September 28, 2010 Tuesday
+Late Edition - Final
+
+
+Copyright 2010 The New York Times Company
+Section: Section B; Column 0; Business/Financial Desk; Pg. 3
+Length: 993 words
+Byline: By SEWELL CHAN
+Body
+
+
+WASHINGTON -- The Treasury Department on Monday proposed a requirement for banks to make weekly reports of all electronic money transfers into and out of the United States.
+The expansion in data reporting is intended to help combat terrorist financing, money laundering and tax evasion, but doubts have been raised about the cost and effectiveness of the plan, as well as the potential impact on privacy.
+Financial institutions have long been required to report all cash transactions, whether domestic or overseas, exceeding $10,000 as well as transactions that they deem to be suspicious. The proposed regulations would expand the requirements so that banks would have to report all cross-border transfers of any size, whether or not cash is involved. (For money-transfer businesses, the threshold would be $1,000 as opposed to that at banks, which would report all amounts.)
+Up to 300 deposit-taking banks and 700 money-services businesses, like Western Union, would be affected. Under federal rules dating to 1995, financial institutions already must internally retain records on transfers of $3,000 or more and make them available to the authorities, usually under a subpoena or warrant. What is new about the proposal, first reported by The Washington Post, is the consolidation of such data in a government repository.
+''By establishing a centralized database, this regulatory plan will greatly assist law enforcement in detecting and ferreting out transnational organized crime, multinational drug cartels, terrorist financing and international tax evasion,'' said James H. Freis Jr., director of the Financial Crimes Enforcement Network, which is a bureau of the Treasury and is known as Fincen.
+In a statement, Mr. Freis said the network took into account ''the exceptional benefit to law enforcement and the modest cost to industry,'' and would consult with both groups ''as this rule moves forward.'' The rules are unlikely to take effect before 2012.
+The proposal follows a long study, mandated by the national intelligence overhaul of 2004. But while the Treasury's announcement was not entirely unexpected, several experts on privacy law and terrorism financing expressed criticism.
+Christopher Wolf, who leads the privacy and information management practice at the law firm Hogan Lovells, said it was troubling for the government to require the reporting of vast amounts of information on financial transfers without suspicion.
+''This reporting requirement runs counter to the normal presumption that the government should not have access to data on individuals who are not under criminal investigation,'' he said. ''It certainly raises serious privacy concerns.''
+Mr. Wolf added, ''One would hope there would be a showing by the government that collecting such data permits analysis that will lead to the reduction in transfers of funds to support terrorism and that such use of the data outweighs the invasions of privacy.''
+Robert G. Rowe III, vice president and senior counsel at the American Bankers Association, questioned the usefulness of the proposal.
+''We're not sure what need this will meet,'' he said. ''If you think about the volume of transactions going in and out of the country on a daily basis, they're going to be overwhelmed with data. Someone's going to have to sift through and analyze it and figure out what it means.''
+Mr. Rowe added, ''The benefits of this reporting are far outweighed by the costs, to both the banks and the federal government.''
+Officials at the financial crimes agency disagreed, saying that the need, value and feasibility of the data reporting were carefully considered in a 2007 study and a 2009 report that looked at the potential impact on the financial industry and the benefits to law enforcement.
+Stephen Hudak, an agency spokesman, also said the information would be carefully guarded. ''It will be subject to strict audits and controls, and only used to support valid, authorized inquiries,'' he said. ''Other countries, most notably Canada and Australia, are already collecting information on transactions that cross their borders and have had good success using it to fight financial crime.''
+Currently, investigators can get information about specific money transfers if they know, for example, the sender or receiver, or the time of the transaction. But detecting patterns and monitoring the subjects of terrorism financing investigations are more difficult.
+The bureau argued that while the current system did a good job of tracking the movement of currency in the American financial system, the shortage of tools for detecting crimes involving electronic payment systems ''creates a potential blind spot.''
+The proposal is an outgrowth of stepped-up attention to terrorism financing. The 9/11 Commission estimated that $400,000 to $500,000 was used to finance the 2001 attacks, of which $130,000 was sent from overseas.
+Several of those transactions were above the $3,000 threshold that sets off bank record-keeping. While no part of the 2004 intelligence overhaul would have prevented the attacks on its own, provisions like the enhanced reporting requirement could ''close the loopholes that would allow future attacks of a similar design,'' according to the notice from the financial crimes network.
+Under the proposal, most of the bank reports on cross-border wire transfers would come through the Society for Worldwide Interbank Financial Telecommunication, a cooperative based in Brussels that helps financial institutions automate and standardize transactions. But money-transfer businesses could face higher costs than banks in complying with the rules.
+Mr. Hudak estimated that it would cost about $33 million for the financial crimes network to put the rules into effect, as part of a broader $120 million effort to modernize the handling of data gathered under the Bank Secrecy Act, the 1970 law that set out requirements for financial institutions to help the government combat money laundering.
+
+http://www.nytimes.com
+
+Graphic
+
+ 
+PHOTO: James Freis of the Financial Crimes Enforcement Network. (PHOTOGRAPH BY DENNIS BRACK/BLOOMBERG NEWS)                                                
+
+Load-Date: September 28, 2010
+
+
+End of Document
