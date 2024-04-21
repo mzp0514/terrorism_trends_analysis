@@ -1,0 +1,74 @@
+The News Quiz
+The New York Times
+December 19, 2020 Saturday
+Late Edition - Final
+
+
+Copyright 2020 The New York Times Company
+Section: Section A; Column 0; Metropolitan Desk; Pg. 2
+Length: 391 words
+Body
+
+
+1. Where was the first coronavirus vaccination given in the United States?
+a. Los Angeles 
+  b. Miami
+  c. New York City
+  d. Washington
+  2. Russian hackers broke into multiple U.S. agencies in one of the most sophisticated and perhaps largest attacks in years. Which company's software was compromised, giving the hackers a foothold into government systems?
+  a. LogicMonitor
+  b. Nagios
+  c. SolarWinds
+  d. Wireshark
+  3. Which country passed sweeping measures that curtail gay rights and expand executive power?
+  a. Belarus
+  b. Hungary
+  c. Poland
+  d. Russia
+  4. President-elect Joe Biden nominated Pete Buttigieg for which cabinet position?
+  a. Secretary of Commerce
+  b. Secretary of Energy
+  c. Secretary of Transportation
+  d. Secretary of Veterans Affairs
+  5. Which country did the U.S. formally remove from a list of state sponsors of terrorism, ending nearly three decades of international isolation?
+  a. Iran
+  b. North Korea
+  c. Sudan
+  d. Syria
+  6. Who donated $4.2 billion to charity in the past four months?
+  a. Michael Bloomberg
+  b. MacKenzie Scott
+  c. Jim Walton
+  d. Alain Wertheimer
+  7. Which professional sports team will change its name after years of protests from fans and Native American groups?
+  a. Atlanta Braves
+  b. Chicago Blackhawks
+  c. Cleveland Indians
+  d. Kansas City Chiefs
+  8. Which tech company agreed to pay $22.5 million to settle a gender discrimination suit brought by its former chief operating officer?
+  a. Facebook
+  b. Pinterest
+  c. Snapchat
+  d. Twitter
+  9. Why was the city of Paris fined 90,000 euros?
+  a. Appointing too many women to top positions
+  b. Discriminating against religious institutions
+  c. Flouting environmental regulations
+  d. Violating coronavirus restrictions
+  10. John le Carré, whose intricately plotted Cold War thrillers elevated the spy novel to high art, died last Saturday. He was 89. Who was his most famous character?
+  a. Johnny Fedora
+  b. Sam Fisher
+  c. Quiller
+  d. George Smiley
+  11. Which film star was recorded shouting at a film crew over a breach of Covid-19 safety protocols?
+  a. Christian Bale
+  b. Tom Cruise
+  c. Adam Driver
+  d. Billy Bob ThorntonSolutions: 1. C; 2. C; 3. B; 4. C; 5. C; 6. B; 7. C; 8. B; 9. A; 10. D; 11. B. This quiz is by Will Dudding, Anna Schaverien and Jessica Anderson. The News Quiz is published online on Fridays. Find previous quizzes at nytimes.com/newsquiz.
+
+https://www.nytimes.com/2020/12/18/pageoneplus/19itt-newsquiz.html
+
+Load-Date: December 19, 2020
+
+
+End of Document

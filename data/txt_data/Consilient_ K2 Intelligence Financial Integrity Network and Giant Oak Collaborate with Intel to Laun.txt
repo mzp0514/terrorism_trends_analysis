@@ -1,0 +1,27 @@
+Consilient: K2 Intelligence Financial Integrity Network and Giant Oak Collaborate with Intel to Launch the New Approach to Fighting Financial Crime
+The Breeze: James Madison University
+October 29, 2020 Thursday
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 756 words
+Body
+
+
+ARLINGTON, Va., Oct. 29, 2020 /PRNewswire/ -- Juan Zarate, chairman and co-founder of the Financial Integrity Network and global co-managing partner and chief strategy officer at K2 Intelligence FIN, and Gary M. Shiffman Ph.D., founder and CEO of Giant Oak, today announced the launch of Consilient, a company dedicated to establishing the next generation AML/CFT system through the application of revolutionary technologies. Consilient's ambition is to solve the fundamental challenges of the lack of efficiency and effectiveness in preventing financial crime while protecting privacy and securing data. Consilient's design provides a solution to creating a more effective approach to discovering and managing financial crime risk and protecting the integrity of the financial system efficiently.
+"The current global AML/CFT system is an outdated model that requires a new 21st century design that allows financial institutions, authorities, and other regulated actors in the financial system the ability to discover and manage evolving and complicated illicit financing risks to the financial system more proactively, effectively, and efficiently," said Juan Zarate, who was the first-ever Assistant Secretary of the Treasury for terrorist financing and financial crimes, where he led the post-9/11 anti-money laundering and sanctions regime expansion in the United States and globally. "With Consilient, we are leapfrogging the current system with a revolutionary new design that meets the policy goals of preventing financial crime, leveraging more data and machine learning, sharing risks and resources, all the while protecting and preserving privacy. At last, we are now in a position to redesign the system - and help banks and institutions focus more intently and cost-effectively on systemic financial crime risks that matter most to the security and integrity of their enterprises and the financial system."
+Consilient introduces the DOZER(TM) technology which uses transfer-learning so that models can be trained across multiple sets of training data, allowing financial institutions to collaborate without putting private data at risk. This secure computing is made possible through Intel's Software Guard Extensions (Intel® SGX) technology, which uses a hardware-based trusted execution environment to help isolate and protect specific application code and data in memory.
+"The application of the Intel® Software Guard Extensions (Intel® SGX) technology in the financial space is incredibly exciting. Finance, as we've seen in many industries, is limited by secure information sharing, and initial trial results between Intel and Consilient hold tremendous promise for the future of collaborative finance," commented Anil Rao, Intel vice president & general manager, Data Platforms Security and Systems Architecture.
+"PNC looks forward to evaluating the practical application of federated learning technology and determining the extent to which it, in combination with the resources and experiences of other participating banks, will strengthen the industry's AML/CFT capabilities," said PNC's Chief Bank Secrecy Act/Anti-Money Laundering Officer Jon Elvin.
+"Identifying and disrupting the financial networks of criminal enterprises is a top priority for our member banks. This promising technology presents new opportunities to more effectively identify illicit financing at the source," commented Banking Policy Institute President and CEO Greg Baer.
+"Consilient completely reinvents today's AML and financial crimes landscape," said Gary M. Shiffman, who is also the creator of the artificial intelligence screening tool, GOST®, and author of The Economics of Violence: How Behavioral Science Can Transform our View of Crime, Insurgency, and Terrorism (Cambridge University Press, March 2020). "We've created a behavioral-based, machine learning-enabled utility that allows for accessing and interrogating datasets in different institutions, databases and even jurisdictions, all while preserving privacy."
+To learn more about Consilient, please visit consilient.com.
+About Consilient
+Founded in 2020 through a partnership between K2 Intelligence Financial Integrity Network and Giant Oak, Consilient brings together next-generation technology and best-in-class anti-money laundering and countering the financing of terrorism (AML/CFT) knowledge. Consilient is proud to be collaborating with Intel to bring this model to the market. This combination powers a more secure, dynamic and effective solution for financial institutions.
+
+Load-Date: October 29, 2020
+
+
+End of Document

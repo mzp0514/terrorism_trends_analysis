@@ -1,0 +1,38 @@
+Physicists try for tool to predict attacks; Scientists mine pro-Islamic State posts for clues.; TERRORISM
+Dayton Daily News (Ohio)
+June 23, 2016 Thursday
+
+
+Copyright 2016 Dayton Newspapers, Inc.
+Section: ; Pg. A7
+Length: 1000 words
+Byline: Pam Belluck
+Body
+
+
+Friends and family attend the wake for a shooting victim in Orlando, Fla. Researchers whose work was published in the journal Science devised an equation that they said may eventually help predict attacks.
+After Orlando, Fla.,; San Bernardino, Calif.; and Paris, there is new urgency to understand the signs that can precede acts of terrorism. And with the Islamic State's prolific use of social media, terrorism experts and government agencies continually search for clues in posts and Twitter messages that appear to promote the militants' cause.
+A physicist may not seem like an obvious person to study such activity. But for months, Neil Johnson, a physicist at the University of Miami, led a team that created a mathematical model to sift order from the chaotic pro-terrorism online universe.
+In a study published in the journal Science, Johnson and Miami colleagues described how they searched for pro-Islamic State posts each day from mid-2014 until August 2015, mining mentions of beheadings and blood baths in multiple languages on Vkontakte, a Russia-based social media service that is the largest European equivalent to Facebook. Ultimately, they devised an equation that tries to explain the activity of Islamic State sympathizers online and might, they say, eventually help predict attacks.
+Experts who study terrorism and online communication said the new research was informative, and that they appreciated that the authors would make their data available to other researchers. But they cautioned that the actions of terrorist groups are extremely difficult to anticipate and said more information is needed, especially to substantiate any predictive potential of the team's equation.
+"This is an interesting approach, this is a potentially valuable approach, and more research should be done on the approach," said J.M. Berger, a fellow in George Washington University's Program on Extremism and a co-author of "ISIS: The State of Terror." "But to jump ahead to the utility of it, I think, takes more work."
+Johnson, who also heads the Complexity Initiative, an interdisciplinary research program at the University of Miami, said the study's goal was to start "a proper quantitative science of online extremism to replace the black-box narrative that is currently used."
+Instead of focusing only on large social media groups or trying to track millions of individual users, the researchers suggest focusing on small, nimble groups because they reflect groundswells of new activity. While such tracking in itself might not prevent individual acts, like the massacre in Orlando, it can help identify when conditions are ripe for such acts, the study said.
+The tracking of terrorists on social media should take a cue from nature, Johnson said, where "the way transitions happen is like a flock of birds, a school of fish."
+"There's no one fish saying, 'Hey, I want everyone to be about 5 inches away from someone else, and we're going to have this shape,'" he said.
+The study focused on small groups of Islamic State supporters that formed online and found about 200 such groups, with more than 100,000 members combined. The groups' postings included pledges of allegiance to the extremists, fundraising appeals and survival tips, like how to protect oneself during drone attacks.
+The pull of small groups is strong. So-called lone wolf sympathizers do not remain alone long, the study said: They usually join a small group within weeks.
+Quashing these groups, the study found, can prevent their members from fusing with larger pro-Islamic State groups, which can distribute inciting videos or statements to broader audiences. But when small groups are blocked by Vkontakte, about a quarter of them reinvent themselves - changing their names, reincarnating or briefly going dark before re-emerging, the researchers found. The researchers also said there might be a spike in the formation of small online groups just before an attack takes place. This is based on the one major unexpected attack by the Islamic State that occurred during the months the researchers studied: the attack on Kobani, a Syrian town on the Turkish border, which came under siege in September 2014.
+Just before the Kobani incursion, the rate of creation of pro-Islamic State online groups accelerated, Johnson said. After all the data on small groups was plugged into the team's equation, the Kobani attack was the only one the formula would have predicted, showing that the equation matched real-world occurrences during the period studied, he said.
+Faiza Patel, a director of the Liberty and National Security Program at New York University's Brennan Center for Justice, said the study showed that "there are ways to look at narrow groups rather than the entire population of internet users."
+But because the Kobani attack was the only example cited, she said, "Frankly, at this point, I don't think they're predicting anything."
+"There may be five other independent reasons for the spike in this pro-ISIS propaganda," she noted, "and I don't know they have taken into account the other possible explanations."
+Berger said Kobani, aside from being the sole example cited, was a military-style operation, not a terrorist attack, so the formula, should it hold up, might apply only to large-scale sieges.
+"With military action, if their strategy is to use social media to intimidate, then it makes sense" that there would be a spike in online groups' forming just before, he said. "But with a terrorist attack, we're often talking about one, two, sometimes a dozen people who are operating out of conditions of secrecy."
+Attacks like the one in Orlando are still rare, Patel said, with "so many different variables that it's very, very difficult to come up with any predictive formula."
+Both Berger and Patel noted a question raised by the research: When is it best to try to suppress small groups so they do not mushroom, and when should they be left to percolate? Leaving them be might be a way to gather intelligence, Patel said.
+
+Load-Date: June 23, 2016
+
+
+End of Document

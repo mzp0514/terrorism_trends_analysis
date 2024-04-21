@@ -1,0 +1,30 @@
+U.S. students turn grief into tech startup after France attack
+St. Louis Post-Dispatch (Missouri)
+August 19, 2018 Sunday
+FIRST EDITION
+
+
+Copyright 2018 St. Louis Post-Dispatch, Inc. All Rights Reserved
+Section: NEWS; Pg. A23
+Length: 470 words
+Byline:  By OLGA R. RODRIGUEZ Associated Press  
+Body
+
+
+BERKELEY, Calif. - California college student Anjali Banerjee was watching fireworks during a 2016 celebration on a seafront promenade in the French city of Nice when a man plowed a huge truck through the crowd, killing 86 people and wounding 200.
+The University of California, Berkeley, incoming senior ran through mobs of people to escape the chaos and later joined classmates to search hospitals and plaster the city with flyers of fellow students reported missing in the July 2016 terrorist attack. She later learned three students were injured, and UC Berkeley junior Nicolas Leslie, 20, was among the dead.
+Banerjee and several classmates have since turned their grief into a startup called Archer that builds digital tools to help journalists, investigators and human rights workers tackle terrorism, sanctions evasion, corruption and other global violence.
+"In that moment, it was hard finding the correct information. It was hard even going to different police stations. It was chaos," said Banerjee, who is from London.
+The lack of official information following the terrorist attack by a Tunisian man led the students to self-organize and rely on locals to navigate the city as they looked for their missing friends. The Islamic State group claimed responsibility for the Bastille Day attack.
+Collaborating with each other and with the people of Nice made the students realize they could create a space in the digital world to help others do the same in the fight against terrorism, Banerjee said.
+The students built a free online platform that makes big data analysis and visualization easy to access and that helps track people and companies that have been sanctioned by the United States for crimes that include money laundering, corruption and terrorism.
+They're still working to turn their data analysis tool into a for-profit company, but the startup has achieved some success. Amnesty International is using one of its tools, Archer Meta, to verify photographs of the crackdown by security forces against minority Rohingya Muslims in Myanmar's Rakhine state.
+The tool identifies when and where the photographs were taken and can process 50 at once, unlike other readily available internet tools that upload one photo at a time and can pose a security risk, said Sam Dubberley, a researcher with Amnesty International.
+"We get photographs in bulk from activists groups in Myanmar, and we have to verify they are true. But uploading one at a time can be mind-numbing, tedious work," he said.
+Archer Metta also offers an added layer of security by allowing users to analyze a photo's metadata without relying on an internet connection, Dubberley said.
+"These tools are needed in human rights work, but they are prohibitively expensive to develop, and there is no money in it for tech companies to build them," he said.
+
+Load-Date: August 20, 2018
+
+
+End of Document

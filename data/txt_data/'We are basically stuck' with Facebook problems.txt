@@ -1,0 +1,28 @@
+'We are basically stuck' with Facebook problems
+St. Louis Post-Dispatch (Missouri)
+May 11, 2019 Saturday
+FINAL EDITION
+
+
+Copyright 2019 St. Louis Post-Dispatch, Inc. All Rights Reserved
+Section: NEWS; Pg. A9
+Length: 516 words
+Byline:  By BARBARA ORTUTAY Associated Press  
+Body
+
+
+SAN FRANCISCO - The question comes up over and over, with extremist material, hate speech, election meddling and privacy invasions. Why can't Facebook just fix it?
+It's complicated, with reasons that include Facebook's size, its business model and technical limitations, not to mention years of unchecked growth. Oh, and the element of human nature.
+The latest revelation: Facebook is inadvertently creating celebratory videos using extremist content and auto-generating business pages for the likes of ISIS and Al Qaida. The company says it is working on solutions and the problems are getting better. That is true, but critics say better is not good enough when mass shootings are being live-streamed and online mobs are spreading rumors that lead to deadly violence.
+"They have been frustratingly slow in dealing with everything from child sexual abuse to terrorism, white supremacy, bullying, nonconsensual porn" and things like allowing advertisers to target categories such as "Jew hater," simply because some users had listed the term as an "interest," said Hany Farid, a digital forensics expert at the University of California-Berkeley.
+As new problems crop up, Facebook's formula has been to apologize and promise to make changes, sometimes also noting that it did not anticipate how malicious actors could so readily misuse its platform. More recently, the company has also emphasized just how much it is improving, both technically in its use of artificial intelligence to detect problems and in terms of focusing more money and effort on fixing them.
+"After making heavy investments, we are detecting and removing terrorism content at a far higher success rate than even two years go," Facebook said Wednesday in response to the revelations about the auto-generated pages. "We don't claim to find everything, and we remain vigilant in our efforts against terrorist groups around the world."
+It has seen some success. In late 2016, CEO Mark Zuckerberg infamously dismissed as "pretty crazy" the idea that fake news on his service could have swayed the election. He later backtracked, and since then the company has reduced the amount of misinformation shared on its service, as measured by several independent studies.
+Zuckerberg has also, by and large, avoided similar gaffes by conceding mistakes and delivering apologies to the public and to lawmakers.
+But even as the company bats down one problem, others pop up. The reason for that might be baked into its DNA. And that's not just because its business model relies on as many people as possible using it as much as possible, leaving behind personal details that can then be targeted by advertisers.
+"Almost everything Facebook has designed has been designed for good people. People who are nice to each other, who have birthdays to celebrate, who have new puppies and generally like to treat others well," said Siva Vaidhyanathan, director of the Center for Media and Citizenship at the University of Virginia. "Basically Facebook is made for a better species than ours. If it were made for golden retrievers, everything would be great."
+
+Load-Date: May 12, 2019
+
+
+End of Document

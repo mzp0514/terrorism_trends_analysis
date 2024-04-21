@@ -1,0 +1,40 @@
+NSA surveillance violates privacy
+The Lariat: Baylor University
+January 24, 2018 Wednesday
+
+
+University Wire
+Copyright 2018 UWIRE via U-Wire All Rights Reserved
+Section: OPINION; Pg. 1
+Length: 911 words
+Byline: Baylor Lariat
+Body
+
+
+Photo credit: Rewon Shimray
+Twenty-first century society is filled with cellular secrecy -- dimmed lock screens and extensive passcodes. The private enclaves found within the virtual world are valued and held as sacred ...
+... that is, unless you interact with someone overseas or your message routes through a foreign country -- in that case, your data is fair-game for the National Security Agency .
+The Senate passed a bill 60-38 on Jan. 17 which extends legislation allowing the NSA to conduct warrantless surveillance of internet and phone use.
+We find that the act fails to both uphold American standards of privacy and prove significant contribution to anti-terrorism efforts.
+Section 702 of the Foreign Intelligence Surveillance Act was originally framed to target foreign interactions to support the fight against terrorism, but less publicized is that the same freedom is given to access domestic conversations that cross national borders.
+FISA allows warrantless database searches for routine queries relating to national security. These queries are standard practice and are conducted by agencies such as the FBI and CIA. The act additionally empowers NSA's surveillance programs PRISM and Upstream, which gather data from U.S.-based internet companies or data from any company that crosses the border in either direction.
+NSA warrantless wiretapping began in 2001 as a response to 9/11 under former President George W. Bush's administration. In 2008, FISA Section 702 was enacted to legalize the practice, a public message that Congress was on board. The act was set to expire at the end of 2017 unless Congress voted to continue it.
+The act was revised for recent voting to require warrants for criminal investigation searches on Americans. However, investigative officials can be exempt from this rule if the case poses a threat to national security, "life or serious bodily harm."
+As the New York Times pointed out, this amendment only works to "give greater privacy protections to criminal suspects than to people the F.B.I. has no solid basis for thinking had committed any wrongdoing."
+These policy changes appear to be yet another layer added to mask the vulnerability of Americans to these searches.
+Americans caught in the general searches are not individually examined for "probable cause to believe the target is a foreign power or an agent of a foreign power," according to an NSA 2014 report. Instead, results are filtered through "annual topical certifications" determined by the attorney general and the director of national intelligence. That means search results are being put through a mechanized filter rather than an individual human sifter.
+Under this protocol, individuals are subjected to further investigation if their electronic activity falls under a defined set of foreign contacts. The NSA redefined in its 2017 statement that activity will no longer be monitored for being "about" certification targets; only activity "directly 'to' or 'from' a foreign intelligence target" will be monitored.
+The Washington Post reported nearly 200 foreign countries, factions and political organizations were approved to be under surveillance in the 2010 certification. Even international groups that the U.S. is a part of, such as the United Nations, World Bank Group, and International Monetary Fund, are included among the certified foreign entities.
+With such an expansive target list, Americans are easily susceptible to warrantless tracking. There should be no exceptions to warrantless searches. By the provisions in the Fourth Amendment of the Constitution, the people are to be "secure in their persons, houses, papers, and effects" unless a warrant is issued.
+Following the attacks of 9/11, only a quarter of Americans were opposed to the Patriot Act, legislation passed 45 days later, which expanded the government's ability to monitor citizens' calls, emails, and other communications. While Americans have shown their willingness to sacrifice their privacy in order to combat terrorism in the U.S., the President's Surveillance Program , under FISA, fails to prove its worth.
+A report released in 2009 (co-authored by the Inspectors General of the Department of Justice, Department of Defense, Central Intelligence Agency, National Security Agency and Office of the Director of National Intelligence) found that "although PSP-derived information had value in some counterterrorism investigations, it generally played a limited role in the FBI's overall counterterrorism efforts."
+The report also said PSP "was most often viewed as one source among many available analytic and intelligence-gathering tools in these efforts."
+If there are alternative ways to achieve the same objective, there is no need to use the one that violates privacy.
+In the midst of the Trump administration's trials for hacking Democratic emails, we are reminded of the people's culpability to invasion of privacy by those in positions of power.
+As the New York Times reported, the lawsuit also claims "intentional infliction of emotional distress" along with intimidation of "lawful voters from participating in the democratic process, or to injure them for having done so." These two counts of harm are perceived as consequent repercussions to the release of the emails.
+The American people are entitled to the protection of a warrant requirement. We should be wary of those who dismiss that obstacle and analyze the consequences of allowing them to exercise that privilege.
+
+Load-Date: January 29, 2018
+
+
+End of Document

@@ -1,0 +1,26 @@
+Tech companies need to deal with white supremacy
+The Northern Light: University of Alaska Anchorage
+March 24, 2019 Sunday
+
+
+University Wire
+Copyright 2019 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 801 words
+Byline: Ben Edwards
+Body
+
+
+It is important to distinguish between categories of terrorism. Classification helps politicians, analysts and law enforcement better understand the causes and methods of terrorist activity. After all, Islamic terrorism and white supremacy express distinct beliefs and goals, and it is important for security services to keep track of that. However, both of the aforementioned categories use the same tool, even if their message is dissimilar. This tool is the internet. This means that the tech companies that dominate the internet possess a suppression technique that is applicable to terrorism of both kinds.
+Unfortunately, tech companies are failing to apply this technique to white supremacy with the same vigor that they exercised against Islamic terrorism. We see evidence for this in the measured suppression of ISIS propaganda. Facebook, Microsoft, Twitter and YouTube formed the Global Internet Forum to Counter Terrorism in June 2017. GIFCT pools each company's resources to share information, identify goals and leverage technology against terrorists' ability to promote their message. Ask.fm, Cloudinary, Instagram, Justpaste.it, LinkedIn, Oath and Snap have since joined the consortium.
+GIFCT has actually been quite successful, as much as could be expected in the limitless anarchy that is the internet. They recorded nearly 100,000 "hashes," or digital fingerprints of pro-terrorist content that automated algorithms can identify and delete, into a shared database by the end of 2018. This prevents terrorists and their sympathizers from simply migrating to a different social media platform when they are suppressed on the first. Thanks to GIFCT, all participating companies have access to these hashes. ISIS cannot be obliterated from online messaging, but it has at least been downgraded to the dark web.
+GIFCT has made progress against Islamic terrorism, but we are not seeing comparable progress against white supremacy. This needs to change. The stereotype of unemployed, fringe neo-Nazis holding ad hoc meetings in obscure biker bars is largely antiquated. Today's fascists can be fellow coworkers and students, and they spend a great deal of time behind their computers. White supremacy has an impressive presence on Reddit, 8chan, Twitter, YouTube and others. This presence largely goes unchallenged.
+Recent events have made this problem ever more urgent. In the 24 hours after the New Zealand terrorist attack, Facebook experienced more than 1.2 million shares of the video of the attack, which the shooter had live-streamed. There is also a manifesto that is circulating around, which is concerning because such things are literally intended to spread the terrorist's message.
+GIFCT doesn't need to exercise widespread censorship. The consortium has already pledged to respect free expression, and it involves independent human rights NGOs in its technique design to be sure of that. It should, however, subject white supremacy to the same scrutiny that it used to thwart ISIS. This means updating its database to include hashes unique to white supremacy, depriving white supremacists of advertisement revenue and teaching recommendation algorithms to ignore such material. This entails deleting material that runs afoul of their terms of service, which is distinct from government censorship because a private company retains the right to decide what it allows on its property. Of course, all of this needs to be done in close partnership with free speech experts, and an appeal process needs to be available, so as to mitigate errors and avoid overreach. - Advertisement -
+Some might question why Islamic terrorism and white supremacy warrant the primary attention of GIFCT. Indeed, there are many other forms of terrorism in the world, from Colombian communist rebels to the Hindu cow protection vigalantes that attack Indian farmers. But GIFCT's capacity is limited and its mission is best served when it zeroes in on the most dangerous forms of terrorism. At the time of writing, Islamic terrorism and white supremacy are the most dangerous forms. The criteria for that claim is the number of innocent people affected, the prevalence of the ideology and the political realities that tolerate or otherwise fail to address it. Additionally, terrorists and sympathizers in those two categories are heavily reliant on the internet for recruitment and self-validation.
+GIFCT must adapt by elevating white supremacy to the same level as Islamic terrorism. This might change in the future as one or the other declines in severity. This also implies that GIFCT's mission is somewhat eternal since there will always be new terrorists to adapt to. But it is reasonable to expect the tech companies to play a role in public safety for as long as they hold such massive sway over social media.
+
+Load-Date: March 27, 2019
+
+
+End of Document

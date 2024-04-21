@@ -1,0 +1,33 @@
+Facebook executive defends WhatsApp encryption; Limited data can help detect terrorists, she says.; RNCIAN LEDIA
+Dayton Daily News (Ohio)
+August 6, 2017 Sunday
+
+
+Copyright 2017 Dayton Newspapers, Inc.
+Section: ; Pg. D6
+Length: 689 words
+Byline: By Hamza Shaban
+Body
+
+
+Facebook COO Sheryl Sandberg said, "We want to make sure all of us do our part to stop terrorism and so our Facebook policies are very clear. There's absolutely no place for terrorism, hate, calls for violence of any kind."
+Sheryl Sandberg defended Facebook's use of encryption in its popular messaging service WhatsApp, telling a BBC radio show that what limited data remains accessible can be useful to law enforcement as its seeks to thwart terrorist activity.
+When communications are encrypted, only the sender and intended recipient can read the message. But information about an encrypted conversation, like who is contacting who, would still be available to governments during a terrorism investigation, even if the contents of the conversation would not.
+"The goal for governments is to get as much information as possible," she said during an interview Sunday on the show "Desert Island Discs." "And so when there are message services like WhatsApp that are encrypted, the message itself is encrypted but the metadata is not, meaning that you send me a message, we don't know what that message says, but we know you contacted me."
+While major technology companies including Apple, Google, and Facebook have touted the benefits to privacy and security that encryption offers, law enforcement officials in the United States and abroad say that encrypted messaging services give criminals and terrorists a safe haven in which to operate.
+For instance, in a March vehicle attack outside British Parliament that killed four pedestrians and a police officer, the perpetrator, Khalid Masood, was revealed by British media to have been communicating on WhatsApp just minutes beforehand. In response, British Home Secretary Amber Rudd described the use of encrypted communications as "completely unacceptable."
+"We need to make sure organizations like WhatsApp, and there are plenty of others like that, don't provide a secret place for terrorists to communicate with each other," Rudd said. It remains unclear, however, whether Masood's use of WhatsApp was relevant to his crime.
+Sandberg, Facebook's chief operating officer, recently met with Rudd and said on the radio show, "We are very aligned in our goals."
+"We want to make sure all of us do our part to stop terrorism and so our Facebook policies are very clear. There's absolutely no place for terrorism, hate, calls for violence of any kind," she said.
+Sandberg warned that if encryption was stripped away, users might flee the service, leaving law enforcement officials with even fewer leads. "If people move off those encrypted services to go to encrypted services in countries that won't share the metadata, the government actually has less information, not more," she said.
+Facebook did not immediately respond to a request for comment.
+One billion people use WhatsApp everyday, the company announced last week. Facebook purchased the global messaging app in 2014 for $19 billion.
+When WhatsApp announced last year that it would offer encryption, the company drew immediate criticism from U.S. law enforcement. FBI General Counsel James Baker said WhatsApp's move "presents us with a significant problem."
+"If the public does nothing, encryption like that will continue to roll out in a variety of different ways across the technological landscape," Baker said at the time. "You can say that's good and you can say that's bad. But the key thing is that it has costs. It has public safety costs. And folks have to understand that."
+Baker's remarks, like those of Rudd, highlight the challenges faced by law enforcement to adapt to the widespread adoption of encryption, largely available at no cost.
+Under pressure from governments to combat the spread of terror-related content online, Facebook, Twitter, Google and Microsoft have said they would begin sharing unique digital fingerprints of flagged images and video, to keep them from resurfacing on different platforms online. Facebookalsosaidlastmonth it would use artificial intelligence and human-powered efforts to identify and take downextremist'sposts,developing data-sharing systems acrossitssuiteofsocialmedia and messaging apps.
+
+Load-Date: August 6, 2017
+
+
+End of Document

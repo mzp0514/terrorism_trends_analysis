@@ -1,0 +1,43 @@
+Homeland Security Sees ‘No Specific, Credible Threat’ From Iran, but Warns of Cyberattacks
+The New York Times 
+January 3, 2020 Friday 14:49 EST
+
+
+Copyright 2020 The New York Times Company All Rights Reserved
+Section: US; politics
+Length: 1173 words
+Byline: Zolan Kanno-Youngs
+Highlight: The leaders of the Department of Homeland Security met to hash over threats from Iran amid concerns that the department has become more focused on immigration than terrorism.
+Body
+
+
+The leaders of the Department of Homeland Security met to hash over threats from Iran amid concerns that the department has become more focused on immigration than terrorism.
+Soon after Maj. Gen. Qassim Suleimani, Iran’s top military leader, was killed in a drone strike, the chief of cybersecurity at the Department of Homeland Security warned the public that it was “time to brush up” on Iran’s efforts to attack computer systems in the United States, even as the department’s acting secretary said that “no specific, credible threats” to the country had emerged since the general’s death.
+Chad F. Wolf, the department’s acting chief, convened senior officials on Thursday night and Friday morning to discuss how to respond to Iran’s threat of a “forceful revenge” against the United States for the death of the country’s second most powerful official.
+Computer systems quickly emerged as potential targets. Christopher C. Krebs, the department’s leader on cybersecurity, made clear on Twitter that the threat went beyond the federal government.
+“Pay close attention to your critical systems,” Mr. Krebs said. “Make sure you’re also watching third party accesses!”
+The warning was the most specific security action described by the Department of Homeland Security on Friday in light of General Suleimani’s death. 
+Some Democrats and former homeland security officials raised concerns that the lack of information from the Trump administration on plans to defend the country showed that a department created after the Sept. 11, 2001, attacks to protect the United States from terrorism had been transformed into one increasingly focused on immigration.
+“We have seen little of substance from the administration — including the Department of Homeland Security — on how it is planning for any contingencies,” said Representative Bennie Thompson, Democrat of Mississippi and the chairman of the Homeland Security Committee. “D.H.S.’s core mission is to keep us safe from potential attacks, but under this administration, it has been almost singularly focused on immigration and has been without a permanent leader since April.”
+Mr. Wolf said in a statement that he met with agency officials on Thursday night and Friday morning “to assess potential new threats and component actions to respond to the constantly evolving threat landscape.” Later on Friday, he tweeted that “there is no specific, credible threat against the homeland,” but that the department’s agencies would increase security “when necessary and prudent.”
+He said the agency was monitoring the situation in the Middle East with local and federal law enforcement agencies. Some police departments, including in New York City and Chicago, deployed additional officers to potential targets. 
+The Department of Homeland Security may also update the National Terrorism Advisory System to warn of a potential cyberattack from Iran, according to an official familiar with the discussions. The system’s bulletins, which are shared among law enforcement throughout the country, had not been updated with that information as of Friday night.
+Lt. Cmdr. Scott McBride, a spokesman for the Coast Guard, said that “no known specific threats” to the nation’s ports had emerged to “warrant an increase in our operating posture.” There was also no indication from the Transportation Security Administration that airports were responding to a rising threat. 
+Typically, after an attack or threat is made against the United States, the Department of Homeland Security will host a call with leaders of the 50 states to share information and advise on security protocols. Information on potential threats or leads for investigations are shared through dozens of fusion centers that are partly funded by the department. 
+Homeland security also typically communicates with faith-based or community organizations that may be specifically targeted by a threat. Customs and Border Protection, an agency within the Department of Homeland Security, is responsible for vetting who enters and exits the country, in addition to patrolling the border.
+The department also oversees the Cybersecurity and Infrastructure Security Agency, which will take the lead on communicating with the private sector to prevent a large-scale retaliation from Iran, current and former department officials said. 
+In his tweet, Mr. Krebs referred to a statement issued last summer from his agency warning of “a recent rise in malicious cyberactivity directed at United States industries and government agencies by Iranian regime actors and proxies.”
+In that statement from June, Mr. Krebs said Iran did not just aim to steal data and money. “What might start as an account compromise, where you think you might just lose data, can quickly become a situation where you’ve lost your whole network,” he said.
+But former Department of Homeland Security officials said there was concern that as Iran’s efforts have grown more sophisticated — to include cyberattacks and proxy organizations to carry out targeted acts of violence — the department was less prepared as it has moved away from its original mission in order to carry out Mr. Trump’s immigration agenda. 
+The White House this past year purged multiple career officials from the agency and replaced them with officials willing to aggressively restrict immigration — including some who share Mr. Trump’s taste for harsh words in describing such migrants. The concern over the state of the agency was expressed publicly in September, when former secretaries of the department convened for a Senate hearing hosted at the 9/11 Memorial Museum in New York. 
+“Any assessment of homeland security must include an assessment of today’s Department of Homeland Security,” Jeh C. Johnson, a former homeland security secretary in the Obama administration, said at the hearing. “I confess that I view today’s D.H.S. with despair and dismay. The department appears to be under constant siege and constant crisis.” 
+But Michael Chertoff, a former homeland security secretary in the George W. Bush administration, said in an interview that the department had the tools to defend against an Iranian attack through the Transportation Security Administration and the cybersecurity division. 
+“Certainly this isn’t a new threat,” Mr. Chertoff said. 
+John Cohen, a former acting under secretary of homeland security for intelligence, who led the agency’s efforts to counter Iran, said the White House and the Department of Homeland Security must develop a comprehensive plan after Iran’s threat, and then work with local governments to carry it out. He is dubious that will happen. 
+“There has been real concern that the focus on immigration enforcement and the border wall have degraded our capabilities to address not only the threat posed by domestic terrorists but sophisticated threats like this,” he said. “Time will only tell.”
+PHOTO: Christopher C. Krebs, the cybersecurity leader for Homeland Security, told the public to “pay close attention” to critical systems. (PHOTOGRAPH BY KEVIN HAGEN/GETTY IMAGES)
+
+Load-Date: January 7, 2020
+
+
+End of Document

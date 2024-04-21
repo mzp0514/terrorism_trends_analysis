@@ -1,0 +1,34 @@
+It's time to modernize the Bank Secrecy Act
+americanbanker.com
+June 13, 2018 Wednesday
+
+
+Copyright 2018 SourceMedia, Inc. All Rights Reserved
+
+
+Section: Vol. 1; No. 1
+Length: 986 words
+Byline: Blaine Luetkemeyer
+
+Steve Pearce
+Body
+
+
+Counterterrorism and national security are part of our everyday reality - whether going to the airport, attending a professional sporting event or entering a government building, we are all accustomed to the realities of today's world. However, most Americans are unaware of the global anti-money laundering and counterterrorist financing framework intended to stop illicit financing and starve terrorist groups of their funding.
+In the United States, the primary weapon to fight money laundering and illicit financing is the Currency and Foreign Transactions Reporting Act of 1970, better known as the Bank Secrecy Act. Back in 1970, we were both young men, Richard Nixon was president, and the Transportation Security Administration was nowhere to be found. Much has changed in the past 48 years, but the BSA framework has remained largely the same since its inception.
+Under current law, financial institutions provide information to law enforcement agencies by filing Currency Transaction Reports, known as CTRs, for every transaction over $10,000 and Suspicious Activity Reports, or SARs, for suspected incidents of money laundering or fraud. As our financial institutions and law enforcement agencies battle constantly evolving technologies in the payments and transactions space, we must modernize the tools used to fight these incredibly sophisticated bad actors, starting with our anti-money-laundering laws. How can we expect to capture and prosecute 21st century criminals with a law that was written a decade before the first laptop computer was invented?
+Last year alone, financial institutions filed 15.8 million CTRs and 1.5 million SARs. The burdens of collecting, producing and storing the sheer volume of data required by the BSA are weighing on financial institutions and law enforcement across the nation. Many anti-money-laundering experts are concerned that the government lacks the ability to find the proverbial "needle in the haystack." Not to mention, financial institutions are struggling to serve their customers and provide credit to their communities while also fulfilling their duties as the government's first line of defense against illicit finance.
+For example, a community banker in New Mexico braces for dramatically increased CTR filings based on weather reports. When a big storm hits, roofers will come into his bank with roof repair checks, often running around $10,000. On these days he is forced to dedicate a teller to work nearly the entire day just filling out CTRs. Losing an employee for the entire day hurts his ability to run the bank and serve his customers. It is no wonder the nonpartisan Government Accountability Office found that southwest border banks, which file 2.5 times as many SARs as other areas of the country, are forced to close customer accounts to deal with the compliance burden. Without reforms to the BSA, credit disappears in these local communities and drags on job growth.
+Yesterday, we introduced the Counter Terrorism and Illicit Finance Act, legislation to modernize the BSA regime. Our legislation will adjust SAR and CTR thresholds to reduce the compliance burden on small financial institutions and law enforcement while enhancing the effectiveness of the database. The GAO also found that the large volume of CTRs currently being collected actually makes analysis more difficult, expensive, and time-consuming. Additionally, current CTR thresholds were created in 1970. With inflation, that same $10,000 threshold would now be over $60,000 in today's dollars.
+The Counter Terrorism and Illicit Finance Act calls for the CTR threshold to be raised to $30,000. This change appropriately furthers our key national security objectives to combat money laundering and terrorist financing while easing the burden on banks and increasing the effectiveness of law enforcement analysis. Our legislation raises the minimum for which paperwork is required, while preserving the criteria financial institutions use to report suspicious activity.
+As chairmen of the financial institutions and consumer credit subcommittee and the terrorism and illicit finance subcommittee, we have heard from numerous stakeholders who urged us to streamline the process. Our legislation requires the secretary of the Treasury, charged with implementing the BSA, to conduct a formal review of reporting requirements. This review must propose changes to further reduce reporting burdens for financial institutions and to ensure that information provided to law enforcement is of a "high degree of usefulness."
+We also regularly hear that financial institutions do not receive feedback from the government on the millions of reports they file each year. Our legislation will change that. This bill will implement increased feedback to the private sector, issue priorities to alert financial institutions to pressing illicit financing threats and improve information sharing by allowing financial institutions to better communicate threats within their organizations.
+The Counter Terrorism and Illicit Finance Act also directs the Secretary of the Treasury to encourage the use of technological innovations to improve financial institutions' anti-money laundering programs. By creating this safe harbor for the use of technological innovations, financial institutions will finally be able to keep pace with the technological world we live in, without fear of compliance penalties. Our bill also addresses the newly implemented customer due diligence rule, which has been the source of many questions and a lack of clarity. This bill provides good faith actors the time to better understand and comply with these new regulations.
+Forty-eight years is a long time, but it is our hope that our colleagues on both sides of the aisle will support this critical legislation to modernize and streamline our anti-money laundering rules and keep bad actors from accessing our financial system.
+
+http://www.americanbanker.com/opinion/its-time-to-modernize-the-bank-secrecy-act
+
+Load-Date: June 13, 2018
+
+
+End of Document

@@ -1,0 +1,19 @@
+FAA: Drones need tracking network
+Chicago Daily Herald
+December 27, 2019 Friday
+WEB EditionNC1 EditionNC2 EditionMF12 EditionNC3 EditionNM1 EditionNC EditionNC14 EditionMC1 EditionMC3 EditionMD1 EditionML2 EditionNL1 EditionNC14C EditionNC4 EditionCLFM EditioneBlast Edition
+
+
+Copyright 2019 Paddock Publications, Inc.
+Section: BUSINESS WIRE_; Pg. 2
+Length: 237 words
+Byline: Bloomberg
+Body
+
+
+All but the smallest civilian drones would have to broadcast radio tracking data to ensure greater safety and prevent terrorism under a sweeping proposal unveiled by U.S. regulators Thursday. The long-awaited draft rules call for a massive new tracking network for everything from toys to larger commercial drones so that law enforcement can spot the devices flying anywhere, from congested urban areas to the most rural zones. The controversial measure by the Federal Aviation Administration, which is subject to public comment and could change before it becomes final, is a key foundation to advance drone-driven commerce, including deliveries of consumer goods by companies such as Alphabet Inc.'s Wing and Amazon.com Inc.'s Prime Air. The rules would come into full force three years after being finalized. "Remote ID technologies will enhance safety and security by allowing the FAA, law enforcement and federal security agencies to identify drones flying in their jurisdiction," Transportation Secretary Elaine Chao said in a news release. With only limited exceptions for groups such as model-airplane operators, all drones weighing more than 0.55 pounds would have to broadcast their position and operator's identity at all times under the FAA proposal. The FAA is suggesting that private companies approved by the agency would set up tracking systems for drones, replicating the existing air-traffic control system.
+
+Load-Date: December 27, 2019
+
+
+End of Document

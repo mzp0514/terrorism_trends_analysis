@@ -1,0 +1,65 @@
+IN WAKE OF LONDON TRAIN ATTACK, TRUMP DOUBLES DOWN ON CAMPAIGN PROMISE
+Tampa Bay Times
+September 21, 2017 Thursday
+Politifact.com Edition
+
+
+Copyright  2017 Times Publishing Company All Rights Reserved
+
+
+Section: Pg. 0; POLITIFACT
+Length: 1043 words
+Byline: ALLISON COLBURN
+Body
+
+
+Close parts of the Internet where ISIS is
+Speaking of ISIS, "We're losing a lot of people because of the Internet and we have to do something. We have to go see Bill Gates and a lot of different people that really understand what's happening. We have to talk to them, maybe in certain areas closing that Internet up in some way. Somebody will say, 'oh, freedom of speech, freedom of speech.' These are foolish people... we've got to maybe do something with the Internet because they (ISIS) are recruiting by the thousands, they are leaving our country and then when they come back, we take them back."
+* * *
+Sources:
+A campaign rally in South Carolina
+Subjects: Technology, Terrorism
+* * *
+TRUMP-O-METER: STALLED
+Shortly after news broke of the Sept. 15 Parsons Green bombing in London, President Donald Trump reiterated his campaign promise to close down portions of the internet to curb the spread of terrorism.
+"Loser terrorists must be dealt with in a much tougher manner," Trump said in a tweet. "The internet is their main recruitment tool which we must cut off & use better!"
+Prior to the election, he suggested U.S. antiterrorism officials would work with leaders in the technology industry to shut down parts of the internet that terrorist groups such as ISIS, or ISIL, use to recruit and share information.
+U.K. Prime Minister Theresa May shared similar views in June after a different terrorist attack occurred on the London Bridge. Google, Twitter, Facebook and Microsoft responded to criticisms by vowing to improve detection of extremist content.
+But cracking down on unwelcome or violent speech has proven to be difficult for those companies. A ProPublica investigation released in June found that Facebook's algorithm for identifying hate speech wound up removing some posts for nonsensical reasons and allowing other posts that should have been removed. Likewise, Twitter says it has shut down nearly 1 million suspected terrorist accounts since August 2015, but the company has struggled to find the "magic algorithm" to identifying terrorist content.
+However, crackdowns on terrorist-related content appear to merely shift the problem elsewhere. Recent research shows that suspected terrorists have moved their online presence from Twitter to Telegram, a messaging app that was created in 2013.
+The extent of the U.S. government's power to shut down online terrorist propaganda is unclear. When former Federal Communications Commission Chairman Tom Wheeler was questioned on the topic in November 2015, days after a mass shooting took place at a concert in Paris, Wheeler responded that the commission doesn't have the legal authority to shut down individual websites.
+Even if legislation were passed to ban or block terrorist propaganda online, First Amendment rights could stand in the way. In addition, United States law generally protects internet service providers from legal responsibility for what the companies' users say or do on the internet, a marked difference from European countries such as France, which holds internet service providers responsible for removing terrorist propaganda.
+Even though internet providers and websites have certain rights, there are still legal methods of taking down online content, according to Daphne Keller, director of intermediary liability at the Stanford Center for Internet and Society. U.S. Immigrations and Customs Enforcement has taken some of those legal avenues in the past to remove sites with child sex abuse material or with large-scale piracy.
+"These kinds of blocks have been condemned by human rights bodies because they are poorly targeted and often take down legal speech with the illegal," she said. "I have not heard of this being done for terrorism, though it might be."
+There might also be legal ground to compel third-party platforms, such as Twitter and YouTube, to remove content uploaded by known terrorists and terrorist organizations, but Keller said this has not yet been court-tested.
+Meanwhile, Secretary of State Rex Tillerson recently accepted $60 million from Congress to continue the United States' counter-Russian and terrorist propaganda efforts (after sitting on the funding as lawmakers pressured him to take it).
+For Trump's part, the president signed a joint statement among G7 leaders in May to put pressure on technology companies to eliminate online extremism.
+Trump has reiterated this promise as president with subsequent terror attacks, but the chances of shutting down the internet don't look great in the United States based on stumbling efforts so far by tech companies and the First Amendment's speech protections. We rate this promise Stalled.
+* * *
+Sources:
+Perspectives on Terrorism, "IS and the Jihadist Information Highway - Projecting Influence and Religious Identity via Telegram," Vol 10, No 6 (2016)
+Federal Bureau of Investigation, "ISIL Online: Countering Terrorist Radicalization and Recruitment on the Internet and Social Media," July 6, 2016
+Fortune, "Donald Trump Wants Bill Gates To 'Close That Internet Up,'' Dec. 8, 2017
+The Independent, "Facebook, Google and Twitter respond to calls to do more in wake of terror attacks," June 5, 2017
+CNBC, "Facebook, YouTube, Twitter and Microsoft join to fight against terrorist content," June 26, 2017
+ProPublica, "Facebook's Secret Censorship Rules Protect White Men From Hate Speech But Not Black Children," June 28, 2017
+The Washington Post, "One GOP lawmaker's plan to stop ISIS: Censor the Internet," Nov. 17, 2015
+International Business Times, "France steps up cyberwar on terrorism with new website blocking law," March 5, 2015
+Politico, "Tillerson moves toward accepting funding for fighting Russian propaganda," Aug. 31, 2017
+U.S. News and World Report, "G7 Leaders Pressure Tech Firms on Removing Terror Propaganda," May 26, 2017
+Twitter Inc., "An update on our efforts to combat violent extremism," Aug. 18, 2016
+Twitter Inc., Transparency report - January to June 2017, accessed Sept. 20, 2017
+Newseum Institute, "Combatting Terrorism in a Digital Age: First Amendment Implications," Nov. 16, 2016
+Legal Information Institute, 47 U.S. Code § 230
+Donald Trump, Tweet, Sept. 15, 2017
+Email interview with Daphne Keller, Director of intermediary liability at the Stanford Center for Internet and Society, Sept. 20, 2017
+
+Graphic
+
+ 
+PHOTO - AP: Police observe the crowds outside Wembley Park Station ahead of a soccer match, following a terrorist attack Friday on a train at Parsons Green Station, in London, on Sept. 16, 2017.
+
+Load-Date: September 22, 2017
+
+
+End of Document

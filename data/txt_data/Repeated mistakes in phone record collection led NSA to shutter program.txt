@@ -1,0 +1,43 @@
+Repeated mistakes in phone record collection led NSA to shutter program
+Charleston Gazette-Mail
+June 27, 2019, Thursday
+
+
+Copyright 2019 Charleston Newspapers
+Section: NEWS; Pg. P1A
+Length: 1073 words
+Byline: Ellen Nakashima The Washington Post
+Body
+
+
+WASHINGTON -- The National Security Agency purged millions of Americans' phone records after learning that some of the data was collected in error last fall as part of a controversial counterterrorism program, according to documents made public Wednesday.
+It was the second such instance last year of "over-collection" and helped lead to the agency's decision -- which it still has not publicly acknowledged -- to shutter the program earlier this year, according to people familiar with the matter who spoke on the condition of anonymity.
+The law authorizing this data collection, a scaled-down version of a program first disclosed in 2013 by former NSA contractor Edward Snowden, is due to expire in December.
+Doubts about the collection's utility go back years, according to current and former officials. And records obtained by the American Civil Liberties Union through a Freedom of Information Act lawsuit show that it has been marred by more compliance problems than the government has publicly acknowledged.
+"These documents only confirm that this surveillance program is beyond redemption and should be shut down for good," said Patrick Toomey, the ACLU's staff lawyer. "The NSA's collection of Americans' call records is too sweeping, the compliance problems too many, and evidence of the program's value all but nonexistent. There is no justification for leaving this surveillance power in the NSA's hands."
+An NSA spokesman would not comment on the program's fate.
+Between Oct. 3 and 12, according to redacted copies of NSA compliance reports obtained by the ACLU, an unidentified phone company provided the NSA with records that it should not have received -- records not related to terrorism suspects.
+The NSA assessed that "the impact was limited given the quick identification, purge processes and lack of reporting," according to one report. Still, the incident represented a final straw of sorts, leading the agency to suspend the program.
+A prior instance of erroneous collection did have a "significant" effect on civil liberties and privacy, according to one compliance report -- something the agency has not stated publicly. It was considered significant, a senior intelligence official said, because of the volume of records it obtained, not because any wiretap was initiated as a result of them.
+Nonetheless, some lawmakers say such issues are another reason the data collection authority should be ended.
+"Every new incident like this that becomes public is another reason this massive surveillance program needs to be permanently scrapped," said Sen. Ron Wyden, D-Ore., a member of the Senate Intelligence Committee. "But it is unacceptable that basic information about the program is still being withheld from the public. Congress cannot debate the reauthorization of these sweeping authorities without a bare minimum of transparency."
+Under Section 215 of the USA Patriot Act, the NSA is authorized to gather from U.S. phone companies records about calls to and from foreign terrorism suspects. The data show who called whom, when and for how long, but do not include content. The program was intended to identify terrorist networks through their call detail records.
+It began in secret shortly after the al-Qaida attack of Sept. 11, 2001, with several major phone companies providing a daily feed to the NSA of their domestic landline call records. Eventually, it was placed under supervision of the Foreign Intelligence Surveillance Court, which vets national security surveillance requests, but it remained highly classified. When Snowden divulged the program in 2013, its scale so shocked the public that Congress, two years later, reined it in with the USA Freedom Act.
+Even before Snowden's disclosure, the NSA had doubts about the program's usefulness, current and former officials said. It was expensive, and people were moving off landlines to cellphones and internet-based calls. By 2014, the agency was collecting only 30 percent of all American call records. And since then, terrorists have migrated to encrypted communication services.
+"It just was not providing us with any information that was going to be helpful" in detecting terrorist networks, one former intelligence official said.
+The database was not used often, a second former official said.
+"Analysts were gun-shy," the official said. "They didn't want to have all this U.S. person information. It was a compliance nightmare."
+The irony, two former senior officials said, is that the Snowden disclosure probably prolonged the program's life.
+"There was a great desire to circle the wagons," the second official said. "If Snowden hadn't revealed it, [the] NSA probably would have dumped it on their own."
+The 2015 USA Freedom Act ended the NSA's daily "bulk collection" of records. After that, if agents had a tip about a terrorism suspect, they needed to submit a request to the court and justify the need to obtain records related to the suspect's phone number.
+The change resulted in compliance problems. Carriers had begun to phase out billing by the minute. The record fields kept changing as services were added or dropped. And companies' systems varied, further complicating the NSA's effort to build a reliable database.
+"These are not records designed for surveillance," one industry executive said. "These are records designed for internal management of the system."
+The previous instance of over-collection was publicly reported last June, when the NSA announced that it had purged its database of hundreds of millions of records dating to 2015 because analysts discovered that some carriers had sent records unrelated to terrorism suspects.
+In a previously unreported compliance incident, the NSA relied on some of the data collected in error to obtain additional phone records pursuant to a court order, according to the ACLU documents. Those records were never used, the senior intelligence official said.
+Section 215 of the Patriot Act, which is part of the USA Freedom Act, authorizes more than just the call records program. The FBI, for instance, uses it to collect data from a range of businesses when such data is shown to be "relevant" to ongoing national security investigations.
+Congress could amend the statute to strip out the call record provision, but the White House has signaled it might seek a permanent "clean" reauthorization of the law that leaves the call record power intact. It has not sent a formal request to Congress, though.
+
+Load-Date: July 11, 2019
+
+
+End of Document

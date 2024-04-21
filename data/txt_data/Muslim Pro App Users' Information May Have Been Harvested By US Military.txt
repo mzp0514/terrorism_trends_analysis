@@ -1,0 +1,29 @@
+Muslim Pro App Users' Information May Have Been Harvested By US Military
+Stillman Advance: Stillman College
+November 18, 2020 Wednesday
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+Section: HI TECH; Pg. 1
+Length: 487 words
+Byline: Sandy Mccarthy
+Body
+
+
+According to an investigative report by Vice, the USA military is buying the granular movement data of people around the world.
+Vice's research also observed that both the Android and iOS versions of the Muslim Pro app sent granular location data to the X-Mode endpoint multiple times.
+The app, dubbed the "most popular Muslim app in the world", has been downloaded at least 95 million times in 200 countries, according to its website. This includes X-Mode-a location data firm that has sold information to clients, which include the U.S. Military.
+Muslim Pro is listed amongst a number of other apps that are said to have sold data to the USA military, including a Muslim dating app, a popular Craigslist app, an app for following storms, and a "level" app that can be used to help, for example, install shelves in a bedroom. This time around, several high-profile Android apps have been sending location data to data brokers, which in turn are selling them to defense contractors working for the United States military.
+Britain 'has choices to make' on new trade deal: European Union diplomats
+A failure to strike a deal will hurt both sides, with businesses facing tariffs and other barriers to trade starting on January 1. For the United Kingdom , the EU must rescind its hopes of keeping permanent wide access to British waters for European fishermen.
+The US has previously used location data harvested from smartphones in order to plan and carry out drone strikes. The app is used to remind downloaders of daily prayers, in addition to supplying Quran readings. The new report is the latest illustration of how government agencies can go to private data brokers to collect granular information on individuals' movements, including U.S. citizens.
+"We will continue to take all necessary measures to ensure that our users practise their faith with peace of mind, which remainsMuslim Pro's sole mission since its creation". The data reportedly bought included location information, the name of the Wi-Fi network a user was connected to, a timestamp, and information about the phone the apps are installed on.
+Founded in 2009,Muslim Pro is developed by technology startup Bitsmedia which is headquartered in Singapore. X-Mode's reply to the Motherboard that their business focus based on three areas - counter-terrorism, cybersecurity and predicting future COVID-19 hotspots. Despite this, he also added that the group still "strictly adhere to established procedures and policies for protecting the privacy, civil liberties, constitutional and legal rights of American citizens". Babel Street is a developer of Locate X products used by USSOCOM to operate anti-terrorist squads in overseas locations. Clients can perform as many search queries as they want after paying to access the data, according to a Babel Street marketing document.
+Read Motherboard's full report on the Pentagon's purchase of smartphone location data here.
+.
+
+Load-Date: November 19, 2020
+
+
+End of Document

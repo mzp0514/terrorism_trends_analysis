@@ -1,0 +1,36 @@
+Web extremism fought on several fronts; Technology, human monitoring, policy among defenses.
+Dayton Daily News (Ohio)
+June 5, 2017 Monday
+
+
+Copyright 2017 Dayton Newspapers, Inc.
+Section: ; Pg. A6
+Length: 630 words
+Byline: By Dee-Ann Durbin
+Body
+
+
+DETROIT - In the wake of Britain's third major attack in three months, Prime Minister Theresa May called on internet companies to do more to block extremist groups who use the web to recruit members and send coded messages.
+Here's a look at terrorism on the web, what's being done to stop it and what could come next.
+Q. What are technology companies doing to make sure extremist videos and other terrorist content doesn't spread across the internet?
+A. Internet companies use technology and teams of human reviewers to flag and remove posts from people who engage in terrorist activity or express support for terrorism. Google, for example, says it employs thousands of people to fight abuse on its platforms.
+Facebook, Microsoft, Twitter and YouTube late last year teamed up to create a shared industry database of unique digital fingerprints for images and videos that are produced by or support terrorist organizations. Those fingerprints help the companies more quickly identify and remove terrorist content on the web. After the terror attack on Westminster Bridge in London in March, Google and other tech companies also agreed to form a joint group to accelerate anti-terrorism efforts.
+Twitter says in the last six months of 2016, it suspended a total of 376,890 accounts for violations related to the promotion of terrorism. Three-quarters of those were found through Twitter's internal tools; just 2 percent were taken down because of government requests, the company says.
+Facebook says it alerts law enforcement if it sees a threat of an imminent attack or harm to someone. It also seeks out potential terrorist accounts by tracing the "friends" of an account that has been removed for terrorism.
+Q. What are technology companies refusing to do when it comes to terrorist content?
+A. After the 2015 mass shooting in San Bernardino, California, and again after the Westminster Bridge attack, the U.S. and U.K. governments sought access to encrypted - or password-protected - communication between the terrorists who carried out the attack.
+In both cases, the tech companies involved - Apple and WhatsApp - refused, although the governments eventually managed to go around the companies and get the information they wanted.
+Tech companies say encryption is vital and compromising it won't just stop terrorists. Encryption also protects bank accounts, credit card transactions and all kinds of other information that people want to keep private.
+But others - including former FBI Director James Comey and Democratic Sen. Dianne Feinstein of California - have argued that the inability to access encrypted data is a threat to security. Feinstein has introduced a bill to give the government so-called "back door" access to encrypted data.
+Q. Shouldn't tech companies be forced to share encrypted information if it could protect national security?
+A. Richard Forno, who directs the graduate cybersecurity program at the University of Maryland, Baltimore County, said weakening encryption won't make people safer.
+Terrorists will simply take their communications deeper underground by developing their own cyber channels or even reverting to paper notes sent by couriers, he said.
+"It's playing whack-a-mole," he said. "The bad guys are not constrained by the law. That's why they're bad guys."
+But Erik Gordon, a professor of law and business at the University of Michigan, says society has sometimes determined that, in times of war, the government can intrude in ways it might not normally.
+He imagines a system where law enforcement would have to ask a judge for a warrant to retrieve encrypted information.
+"If we get to the point where we say, 'Privacy is not as important as staying alive,' I think there will be some setup which will allow the government to breach privacy," he said.
+
+Load-Date: June 5, 2017
+
+
+End of Document

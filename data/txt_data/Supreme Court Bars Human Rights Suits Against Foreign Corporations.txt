@@ -1,0 +1,44 @@
+Supreme Court Bars Human Rights Suits Against Foreign Corporations
+The New York Times 
+April 24, 2018 Tuesday 17:18 EST
+
+
+Copyright 2018 The New York Times Company All Rights Reserved
+Section: BUSINESS
+Length: 913 words
+Byline: Adam Liptak
+Highlight: Justice Anthony M. Kennedy said such suits should require explicit congressional authorization, with Justice Sonia Sotomayor countering that the court had created a double standard for corporations.
+Body
+
+
+WASHINGTON — Foreign corporations may not be sued in American courts for complicity in human rights abuses abroad, the Supreme Court ruled on Tuesday. The vote was 5 to 4, with the court’s more conservative justices in the majority.
+Justice Anthony M. Kennedy, writing for a plurality of the justices, said such suits should not be allowed without explicit congressional authorization.
+In dissent, Justice Sonia Sotomayor said the Supreme Court had created a double standard for corporations.
+“It allows these entities to take advantage of the significant benefits of the corporate form and enjoy fundamental rights without having to shoulder attendant fundamental responsibilities,” she wrote, citing decisions allowing corporations to spend freely in candidate elections and            to deny contraception coverage to female workers for religious reasons.
+The case decided on Tuesday concerned Arab Bank, which is based in Jordan and has been accused of processing financial transactions through a branch in New York for groups linked to terrorism. The plaintiffs in the case sought to hold the bank liable for attacks in Israel and in the Palestinian territories by Hamas and other groups.
+The plaintiffs in the case said the bank had “served as the ‘paymaster’ for Hamas and other terrorist organizations, helping them identify and pay the families of suicide bombers and other terrorists.”
+The bank responded that it had helped the United States in “the fight against terrorism financing and money laundering” and was not accused by the plaintiffs of being “involved in the planning, financing or commission of the attacks that caused their injuries.”
+The case turned on the meaning of the Alien Tort Statute, a cryptic 1789 law that allows federal district courts to hear “any civil action by an alien for a tort only, committed in violation of the law of nations or a treaty of the United States.”
+The law was largely ignored until the 1980s, when federal courts started to apply it in international human rights cases. A 2004 Supreme Court decision, Sosa v. Álvarez-Machain, left the door open to some claims under the law, as long as they involved violations of international norms with “definite content and acceptance among civilized nations.”
+Justice Kennedy wrote that the evidence about whether suits against foreign corporations were among those norms was mixed. That meant, he wrote, that a clear answer from Congress was required before the suits could be allowed in light of the diplomatic friction they can create.
+“Courts are not well suited to make the required policy judgments that are implicated by corporate liability in cases like this one,” he wrote.
+Chief Justice John G. Roberts Jr. and Justice Clarence Thomas joined all of Justice Kennedy’s opinion, and Justices Samuel A. Alito Jr. and Neil M. Gorsuch much of it.
+In concurring opinions, Justices Alito and Gorsuch wrote that they would have gone further, expressing doubts about whether the court has interpreted the 1789 law correctly.
+In dissent, Justice Sotomayor said Justice Kennedy’s analysis was flawed.
+“Nothing about the corporate form in itself justifies categorically foreclosing corporate liability,” she wrote. “Each source of diplomatic friction that respondent Arab Bank and the plurality identify can be addressed with a tool more tailored to the source of the problem than a blanket ban on corporate liability.”
+Justices Ruth Bader Ginsburg, Stephen G. Breyer and Elena Kagan joined Justice Sotomayor’s dissent.
+The Supreme Court had agreed to decide the question of corporate liability for human rights violations once before, in 2011, in Kiobel v. Royal Dutch Petroleum. After hearing arguments on the question in 2012, though, the court asked the parties to brief and argue a broader issue: whether American courts may ever hear disputes under the law for human rights abuses abroad, whether the defendant was a corporation or not.
+In 2013, the court said that there was a general presumption against the extraterritorial application of American law, ruling against Nigerian plaintiffs who said foreign oil companies had aided in atrocities by Nigerian military and police forces against Ogoni villagers.
+But the Supreme Court did not answer the question it had initially agreed to consider, whether corporations are categorically excluded from the law.
+The case decided on Tuesday, Jesner v. Arab Bank, No. 16-499, largely answered the question. It affirmed a decision of the United States Court of Appeals for the Second Circuit, in New York, which ruled in favor of Arab Bank, saying that corporations may not be sued under the 1789 law.
+Justice Sotomayor wrote that the majority on Tuesday had taken a too rosy view of corporate conduct.
+“Corporations can be and often are a force for innovation and growth,” she wrote. “Many of their contributions to society should be celebrated. But the unique power that corporations wield can be used both for good and for bad. Just as corporations can increase the capacity for production, so, too, some can increase the capacity for suffering.”
+PHOTO: The Supreme Court case, decided by a 5-to-4 vote, concerned a bank based in Jordan that has been accused of processing financial transactions through a New York branch for groups linked to terrorism. (PHOTOGRAPH BY Eric Thayer for The New York Times FOR THE NEW YORK TIMES)
+Related Articles
+Justices Bar Nigerian Human Rights Case From U.S. Courts
+Justices Weigh Immunity for Corporations in Human Rights Cases Abroad
+
+Load-Date: April 26, 2018
+
+
+End of Document

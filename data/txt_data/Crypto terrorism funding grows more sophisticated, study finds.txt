@@ -1,0 +1,33 @@
+Crypto terrorism funding grows more sophisticated, study finds
+American Banker
+January 21, 2020 Tuesday
+
+
+Copyright 2020 SourceMedia, Inc. All Rights Reserved
+
+
+Section: Vol. 185; No. 13
+Length: 690 words
+Body
+
+
+Terrorism financing schemes using cryptocurrencies are growing in sophistication, according to researcher Chainalysis, which helps law enforcement track digital-coin transactions.
+In one instance, terrorists collected crypto donations worth tens of thousands of dollars in just one campaign last year, a much quicker way to raise funds than prior efforts, the New York-based firm said in a report Friday. It also made it much harder for researchers to track movement of funds than prior, more simple campaigns, Chainalysis said.
+In 2019, the Izz ad-Din al-Qassam Brigades (AQB), the military wing of Hamas and a designated terrorist organization, collected money through a website that generated a new Bitcoin address for every donor to send funds to, the first verified example of such technology deployed by a terrorist organization, Chainalysis said. A previous effort that started in 2016 used a single Bitcoin address for donations.
+The AQB campaign also published a video on its website, teaching people how to donate anonymously; in the past, terrorism contributors have had to figure that out on their own. For example, AQB advised people to donate while using public Wi-Fi, so their computer's IP address couldn't be traced by law enforcement. The end result was, this campaign raised as much money in nine months, and attracted more donors, than a 2016 campaign by another organization that ran for two years.
+"There's just more sophistication," Kim Grauer, senior economist at Chainalysis, said in a phone interview. "This is obviously a growing homeland security problem that agencies need to be monitoring."
+Crypto exchanges - sometimes based in the U.S. - have been involved in terrorism financing plots, Chainalysis found. Even though they check their users, they accounted for the largest chunk of the funds that AQB received last year, Chainalysis said.
+"Once we identify these campaigns, our exchange customers are starting to block payments or filing suspicious activity reports based on information we are providing," Jonathan Levin, co-founder of Chainalysis, said in a phone interview. "I think there's an increase in collaboration between the exchanges and the law enforcement community when it comes to this."
+Bitcoin was created by, and long supported by people who wished to develop an alternative to the traditional banking system. Its early advocates were mostly Libertarians, wishing to have as little government oversight of their affairs as possible.
+Use by terrorists has been a key concern for regulators and politicians alike as they seek to tighten their oversight of cryptocurrencies, the vast majority of which are not issued by or controlled by a government. Last summer, the Financial Action Task Force, whose guidance is followed by about 200 countries including the U.S., began requiring exchanges to collect more data about customers and their transactions to better filter out money laundering and terrorism financing. Facebook Inc.'s Libra effort has stalled partly due to concerns that the coin could be used by terrorists and criminals.
+Bitcoin and other coins have already been implicated in a number of Ponzi schemes and other criminal activities. Mainstream exchanges have been growing their share of money laundering, and Chainalysis traced $2.8 billion in Bitcoin that moved from criminal entities to exchanges, the company said in a Jan. 15 report. Just over 50% went to Malta-based Binance - the world's largest Bitcoin spot exchange - and Huobi in China, the report said.
+"As global capital flows into crypto, we are aware of the growing trend and movements of illicit funds, and we are working with like-minded partners such as Chainalysis to improve on existing systems and address these concerns," Binance Chief Compliance Officer Samuel Lim said in a statement.
+Huobi also emphasized that it's working to crack down on illegal activities.
+"As an exchange that works closely with regulators and government agencies in every country we operate in, we practice a zero-tolerance policy when it comes to illicit activities," Ciara Sun, vice president of global markets at Huobi Group said in a statement.
+
+http://www.americanbanker.com/articles/crypto-terrorism-funding-grows-more-sophisticated-study-finds
+
+Load-Date: January 23, 2020
+
+
+End of Document

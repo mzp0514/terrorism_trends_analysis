@@ -1,0 +1,38 @@
+The #FinCENFiles Shine a Spotlight on How Banks Are Ordered to Snoop on You
+The Foundation For Research On Equal Opportunity
+September 29, 2020 Tuesday
+
+
+Copyright 2020 Content Engine, LLC.
+All Rights Reserved
+Copyright 2020 
+All Rights Reserved
+Length: 1207 words
+Byline: Andrea O'Sullivan
+Body
+
+
+         By: Andrea O’SullivanSeptember 29, 2020
+Did you know that major communications companies monitor all conversations to report suspicious activities to the government? By law, companies that facilitate the transfer of information are required to file what is called a “Suspicious Activity Report” (SAR) anytime a conversation veers in a direction the government doesn’t like. It could be because the conversation includes words that suggest tax evasion or terrorism. The details are laid out in legislation like the PATRIOT Act. The government reviews these SARs to try to catch the bad guys.
+But an investigative report into these SARs suggests that this system isn’t even very good at flagging the kinds of communications as it is supposed to. A government whistleblower leaked hard evidence showing that the government rarely follows up on SARs indicating serious crimes, like trafficking, fraud, and terrorism. Meanwhile, the communications of millions of innocent people are subject to this surveillance program that doesn’t even work. The media has thankfully drawn attention to this expansive and ineffective surveillance, demanding accountability and reform.
+Sorry, I got all that mixed up. It’s actually banks that need to file SARs, and they monitor all of our transactions for things that the government thinks are suspicious. It is part of the PATRIOT Act, but the roots of this program were laid with the similarly constitutionally questionable Bank Secrecy Act of 1970.
+And actually, the media doesn’t see much of a problem with this financial surveillance program at all. The issue for most commentators is that the banks aren’t good enough government collaborators.
+It’s a bit strange that while Ed Snowden’s revelations of major communications surveillance programs were met with mass outrage and years of discussion, these “FinCEN files” exposing our inefficient financial surveillance programs barely received mention. And when the media did discuss the FinCEN files, it was mostly to criticize banks for allowing these transactions to go through.
+Let’s back up a bit. Few people have heard of FinCEN (the Financial Crimes Enforcement Network of the U.S. Treasury) or the Bank Secrecy Act (BSA), but this agency and law have given banks broad mandates to surveil our financial system and share that information with the government.
+The BSA was passed in 1970 in an effort to clamp down on crimes by cutting off financial channels. Banks were to be required to file different kinds of reports—including SARs—for transactions that seemed to indicate criminal activity. Government agents then review those SARs to determine whether and how a criminal investigation should proceed.
+Unsurprisingly, the BSA triggered immediate constitutional challenge in 1974’s California Bankers Assn. v. Shultz for clear First, Fourth, and Fifth Amendment issues. The Supreme Court ruled that the BSA did not violate the Constitution, a decision that has been subject to much critique from legal privacy scholarship in the following decades.
+Today, it is the Financial Crimes Enforcement Network (FinCEN) of the U.S. Department of Treasury that mostly executes on the bank surveillance mandates laid out in laws like the BSA and PATRIOT Act. As the presence of the latter law indicates, the goals of these “anti-money laundering/know your customer” (AML/KYC) regulations have expanded to include other aims such as terrorist and cartel financing—previously introduced legislation also sought to include trafficking in arts and antiquities.
+The so-called FinCEN Files are the product of a government insider leaking these SARs to journalists. Buzzfeed News, which broke the story, put the blame on banks for “feeding off the tragedy of people dying all over the world.” The story highlights several serious crimes that our financial surveillance system failed to stop: HSBC moved $15 million related to a Ponzi scheme, Standard Chartered got caught up in Taliban finance and evading banking sanctions targeted at Iran, and basically every major bank processed millions in transactions for the Kazakh fugitive Viktor Khrapunov.
+We are clearly dealing with some unsavory characters here. But this was also the case with the communications surveillance programs that received so much public scrutiny in the last decade. Did anyone get mad at AT&T; for allowing suspected terrorists to continue calling each other?
+The difference is that the US’s financial surveillance programs require some form of proactive bank participation that programs like PRISM did not. Banks need to file SARs on transactions to remain compliant. But after they report the transaction to the government, their obligations pretty much end. If the government fails to investigate, the banks can just keep on processing the transactions. This is why the media is framing the FinCEN Files as a way for banks to “profit off of illegal transactions.” Since they filed the SARs, the banks must have known that the transactions might have been illegal. Therefore, the fact that these banks kept on financing these customers means they are complicit.
+It should not have surprised anyone to learn that banks can be unscrupulous in how they do business. Before this story broke, different banks have been caught time and again moving money for some really terrible people. And the criticism that SARs are mostly done as a compliance and liability-waiving exercise is not a bad one. But really, do these journalists want to empower banks to act as a kind of extrajudicial private law enforcement agency?
+Either way, it has been disappointing to see just how little attention has been paid to the problems with the larger financial surveillance system. To Buzzfeed‘s credit, the story does spare some words for a privacy expert to point out that “the SAR program became more about mass surveillance than identifying discrete transactions to disrupt money launderers.”
+But when the authors turn to discuss solutions, they suggest “arrest[ing] executives whose banks break the law.” Of course, this assumes that there is the political will to actually stop this problem. And it does nothing to fix the sprawling and ineffective system of financial surveillance that ensnares millions of innocent people in its web. After all, two years ago, it was none other than Buzzfeed News which broke the story that FinCEN data was being used to spy on Americans.
+It is a sad fact of life that powerful groups can bend or break the law with impunity. Does anyone think that if a criminal enterprise with enough intelligence or other dark support needed financing, it wouldn’t find some way to get it? In the meantime, the surveillance programs ostensibly put in place to stop such financing don’t impede these power-backed deals but they do sacrifice the privacy of millions of innocent people along the way. That should be the real lesson of the FinCEN Files.
+ANDREA O’SULLIVAN is the Director of the Center for Technology and Innovation at the James Madison Institute in Tallahassee, Fla. Her work focuses on emerging technologies, cryptocurrency, surveillance, and the open internet.
+Read more here: https://reason.com/2020/09/29/the-fincenfiles-shine-a-spotlight-on-how-banks-are-ordered-to-snoop-on-you/
+
+Load-Date: September 30, 2020
+
+
+End of Document

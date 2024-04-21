@@ -1,0 +1,48 @@
+Accused of ‘Terrorism’ for Putting Legal Materials Online
+The New York Times 
+May 13, 2019 Monday 15:59 EST
+
+
+Copyright 2019 The New York Times Company All Rights Reserved
+Section: US; politics
+Length: 930 words
+Byline: Adam Liptak
+Highlight: After Carl Malamud posted Georgia’s annotated laws, the state sued for copyright infringement. Both sides have asked the Supreme Court to step in.
+Body
+
+
+WASHINGTON — Carl Malamud believes in open access to government records, and he has spent more than a decade putting them online. You might think states would welcome the help.
+But when Mr. Malamud’s group posted the Official Code of Georgia Annotated, the state sued for copyright infringement. Providing public access to the state’s laws and related legal materials, Georgia’s lawyers said, was part of a “strategy of terrorism.”
+A federal appeals court ruled against the state, which has            asked the Supreme Court to step in. On Friday, in an unusual move, Mr. Malamud’s group,            Public.Resource.Org,            also urged the court to hear the dispute, saying that the question of who owns the law is an urgent one, as about 20 other states have claimed that parts of similar annotated codes are copyrighted.
+The issue, the group said, is whether citizens can have access to “the raw materials of our democracy.”
+The case, Georgia v. Public.Resource.Org, No. 18-1150, concerns the 54 volumes of the Official Code of Georgia Annotated, which contain state statutes and related materials.
+The state, through a legal publisher, makes the statutes themselves available online, and it has said it does not object to Mr. Malamud doing the same thing. But people who want to see other materials in the books, the state says, must pay the publisher.
+This is part of a disturbing trend, according to a new law review article, “Who Owns the Law? Why We Must Restore Public Ownership of Legal Publishing,” by            Leslie Street, a law professor and librarian at Mercer University in Macon, Ga., and            David Hansen, a librarian at Duke. It will be published in            The Journal of Intellectual Property Law.
+States have struck deals with legal publishers, the article said, that have effectively privatized the law. “Publishers now use powerful legal tools to control who has access to the text of the law, how much they must pay and under what terms,” the article said.
+Mr. Malamud said those arrangements have complicated his efforts.
+“When I started Public Resource,” he said, “I thought our mission would be a focus on making the laws easier to use and read, but because of a buzz saw of opposition we have spent much of our time fighting back takedown notices and lawsuits.”
+There is no question that judicial opinions cannot be copyrighted. The last time the Supreme Court addressed the matter, in 1888, it ruled that “the whole work done by the judges constitutes the authentic exposition and interpretation of the law, which, binding every citizen, is free for publication to all.”
+Lower courts have said the same thing about statutes. But the status of other sorts of legal materials has not been definitively resolved. In the Georgia case, the question is whether annotations commissioned and approved by the state may be copyrighted.
+The annotations include descriptions of judicial decisions interpreting the statutes. Only a very bad lawyer would fail to consult them in determining the meaning of a statute.
+For instance, Georgia has a law on the books making sodomy a crime. An annotation tells the reader that            the law has been held unconstitutional “insofar as it criminalizes the performance of private, unforced, noncommercial acts of sexual intimacy between persons legally able to consent.”
+Professor Street said she tells her law students to be sure to consult the annotations in Georgia’s official code.
+“When you go to a statute, you see the language of the statute, but that doesn’t necessarily tell you the meaning,” she said. “You go to the annotations, which leads you to the court decisions, where the judges actually tell you what the words mean.”
+In ruling for Mr. Malamud, the appeals court made a similar point.
+“The annotations clearly have authoritative weight in explicating and establishing the meaning and effect of Georgia’s laws,” Judge Stanley Marcus wrote for a unanimous three-judge panel of the court, the United States Court of Appeals for the 11th Circuit, in Atlanta. “Georgia’s courts have cited to the annotations as authoritative sources on statutory meaning and legislative intent.”
+Still, the annotations are not themselves law, Judge Marcus wrote, making the case a hard one. But he concluded that the annotations were “sufficiently lawlike” that they could not be copyrighted.
+The annotations were prepared by lawyers working for LexisNexis as part of a financial arrangement with the state. Georgia holds the copyright to the annotations, but the company has the right to sell them while paying the state a royalty.
+The state says this is a sensible cost-saving measure, “minimizing burdens on taxpayers” by sparing them from paying for the preparation of annotations.
+Professor Street said there was no good reason for the state to outsource the task.
+“States are privatizing the functions of government,” she said. “But the incentives are different for a private company when it comes to publishing the law than it is for a state government.”
+I asked Mr. Malamud why he had urged the Supreme Court to hear his case even though he had won in the appeals court.
+“Repeating the laws of our country should not be considered a crime,” he said. “I would like the Supreme Court to tell us which laws we are allowed to speak.”
+PHOTO: Carl Malamud’s group was sued in a copyright case. (PHOTOGRAPH BY PETER DASILVA FOR THE NEW YORK TIMES)
+Related Articles
+Attacking a Pay Wall That Hides Public Court Filings
+An Effort to Upgrade a Court Archive System to Free and Easy
+A Quest to Get More Court Rulings Online, and Free
+
+Load-Date: December 14, 2019
+
+
+End of Document

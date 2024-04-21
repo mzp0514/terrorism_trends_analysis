@@ -1,0 +1,41 @@
+Senate, Bidding for Time, Tries to Temporarily Revive Spy Tools
+The New York Times 
+March 16, 2020 Monday 00:58 EST
+
+
+Copyright 2020 The New York Times Company All Rights Reserved
+Section: US; politics
+Length: 1047 words
+Byline: Nicholas Fandos and Charlie Savage
+Highlight: The extension set aside broader changes to surveillance laws because senators wanted to focus on addressing the coronavirus crisis.
+Body
+
+
+The extension set aside broader changes to surveillance laws because senators wanted to focus on addressing the coronavirus crisis.
+WASHINGTON — The Senate voted on Monday to temporarily reinstate a handful of newly expired F.B.I. tools for investigating terrorism and espionage in an attempt to grant lawmakers time to sort out broader differences over surveillance laws and move to addressing the coronavirus pandemic.
+Senators unanimously agreed to extend until early June the F.B.I. powers, put into place after the Sept. 11 attacks, without making other changes to the Foreign Intelligence Surveillance Act, or FISA.
+The House would also have to agree to an extension in order for it to have the force of law. The timing of such a vote was unclear on Monday evening.
+Senate leaders had tried last week to head off the expiration on Sunday of the tools by fast-tracking a bipartisan bill passed by the House. The bill renewed the F.B.I. authorities and went further, instituting other new privacy and transparency protections for Americans under FISA. But senators demanding a full debate over government spying and civil liberties objected, and lawmakers simply ran out of time.
+The issue now is primarily timing. While the House’s overhaul is still ultimately likely to pass the Senate with votes from both parties, a delay became necessary when other senators warned that a protracted surveillance debate this week could slow any response to the rapidly unfolding financial and health crises caused by the coronavirus outbreak.
+“FISA needs to be carefully reviewed,” Senator Josh Hawley, Republican of Missouri, said on Twitter on Sunday. “That takes time. That can wait. The emergency response to #coronavirus should be the first order of business in the Senate tomorrow.”
+In agreeing to extend the programs for more than two months, lawmakers pushing for a fuller review of the House’s bill won a commitment that Republican leaders would allow the Senate to vote on a limited number of proposals to put in place even more stringent privacy protections for Americans.
+“We’re doing the right thing,” said Senator Mike Lee, Republican of Utah, who had been agitating most vocally to delay passage of the House’s bipartisan measure.
+But in the delicate political balancing act of surveillance laws, the Senate’s action did not necessarily guarantee the short-term extension of the F.B.I. investigative authorities. The House is out this week, meaning that even if Democratic leaders signed off an extension, any member could object. Representative Louie Gohmert, Republican of Texas and a staunch opponent of the bill, is already in Washington threatening to block the approval of technical changes to a coronavirus relief bill; he could do so with the surveillance extension as well.
+House leaders were discussing the Senate’s measure, a senior Democratic aide said late Monday.
+President Trump’s unpredictability on surveillance issues could also upend negotiations. The president hinted last week that he might not sign the bill because it did not rein in spying aggressively enough. But Representative Kevin McCarthy of California, the House Republican leader, later said the president assured him that he would.
+The Senate’s action on Monday is an effort to put off until June the expiration of four F.B.I. powers dating to the aftermath of the Sept. 11 attacks, including one authority that most lawmakers agree should expire.
+Under that authority, the National Security Agency is allowed to operate a system that could swiftly access logs of Americans’ domestic phone calls on the servers of phone companies, enabling counterterrorism analysts to scrutinize social links in search of hidden associates of terrorism suspects.
+The Freedom Act system replaced a previously secret program in which the agency systematically vacuumed up logs of Americans’ phone records tracing back to the Sept. 11 attacks. It was exposed in the 2013 leaks by the former intelligence contractor Edward J. Snowden.
+But the Freedom Act system proved dysfunctional, expensive and inadequate. The National Security Agency repeatedly had to purge the records it collected from the system after discovering that phone companies had sent more data than the agency had the legal authority to sift through.
+The agency spent about $100 million on the system between 2015 and 2019, when it shut down the program, and obtained only two intelligence leads that the F.B.I. did not already know about, according to a recently declassified report by the Privacy and Civil Liberties Oversight Board.
+The most frequently used of the three powers that the F.B.I. is keeping for now is the ability to get a FISA court order to obtain business records deemed relevant to a terrorism or espionage investigation. The other two involve special FISA wiretaps: one that lets the F.B.I. swiftly follow a suspect who changes phones to evade monitoring, and one that lets the F.B.I. target a “lone wolf” terrorism suspect who lacks ties to a foreign group like Al Qaeda.
+The House passed its bill, the USA Freedom Reauthorization Act, last week by cobbling together an atypical coalition of Democrats and Republicans to extend three of the four expiring F.B.I. tools and make some changes to the FISA court and traditional FISA wiretaps.
+For example, the bill would expand when FISA judges — who normally hear only from the Justice Department when weighing surveillance applications — should appoint an outsider to critique the government’s arguments. Under the bill, outsiders should be appointed when an application “presents exceptional concerns” about First Amendment rights, which could apply to investigations touching on political campaigns or religious activity.
+It would also make clear that the government cannot use a FISA business records order to collect information — like cellphone location data, which in a criminal investigation requires a search warrant — that has a higher legal standard.
+And it would expand criminal penalties for misusing FISA, raising from five years to eight the prison sentence for engaging in electronic surveillance without following its procedures.
+PHOTO: A Senate bill to temporarily extend expiring F.B.I. surveillance authorities will move to the House. (PHOTOGRAPH BY ERIN SCHAFF/THE NEW YORK TIMES)
+
+Load-Date: March 17, 2020
+
+
+End of Document

@@ -1,0 +1,33 @@
+WhatsApp Hack Targeted Politicians, Journalists and More, Facebook Sues Alleged Culprits
+Stillman Advance: Stillman College
+October 30, 2019 Wednesday
+
+
+University Wire
+Copyright 2019 UWIRE via U-Wire All Rights Reserved
+Section: HI TECH; Pg. 1
+Length: 631 words
+Byline: Sandy Mccarthy
+Body
+
+
+The spyware maker, it is claimed, created a web of WhatsApp accounts to initiate calls that would spread the group's malware, using servers leased from various companies around the world including Choopa, Quadranet, and Amazon Web Services. But governments only rarely talk about their capabilities publicly, meaning that the digital intrusions like the ones that affected WhatsApp typically happen in the shadows. The sole objective of NSO is to provide technology to licensed government intelligence and law enforcement agencies to help them fight terrorism and serious crime.
+An NSO surveillance tool called Pegasus has been implicated in spying on Washington Post contributing writer Jamal Khashoggi before he was killed by people affiliated with Saudi Arabia's security services previous year. Defendants' malware was created to infect the Target Devices for the goal of conducting surveillance of specific WhatsApp users ("Target Users").
+In a passionate statement by a genuinely disturbed spokesperson, the US-based company has called for a permanent injunction barring NSO from accessing its computer systems, as well as those of Facebook, its parent firm. This bolstered the market for technologies, such as those produced by NSO, that rely on hacking targets rather than intercepting calls as they travel through phone and Internet connections.
+"A fundamental problem with these companies - and NSO isn't the only one - is that the private surveillance industry acts in practical darkness", Kaye stated Tuesday evening, after the lawsuit was filed. "It has helped to save thousands of lives over recent years", the company told PCMag in an email. "In our complaint, we explain how NSO carried out this attack, including acknowledgement from an NSO employee that our steps to remediate the attack were effective".
+"The sole objective of NSO is to provide technology to licensed government intelligence and law enforcement agencies to help them fight terrorism and serious crime".
+In a court filing, WhatsApp said NSO Group "developed their malware in order to access messages and other communications after they were decrypted on target devices".
+"We consider any other use of our products than to prevent serious crime and terrorism a misuse, which is contractually prohibited".
+Comedian and Friday star John Witherspoon dies at 77
+The statement says Witherspoon, who was born on January 27, 1942, is survived by his wife, Angela , and sons JD and Alexander. We are all in shock, please give us a minute for a moment in privacy and we will celebrate his life and his work together.
+"It targeted at least 100 human-rights defenders, journalists and other members of civil society across the world", the head of WhatsApp, Will Cathart, wrote in an op-ed published by The Washington Post. Pegasus has been used as spyware, gaining information from calls, texts and audio.
+At the time, WhatsApp said the flaw was used to target a "select number of users" but gave little further detail. Victims of hacking beforehand have sued NSO in Israeli courts, however a know-how firm has not earlier than pursued such authorized motion for utilizing its companies to assist conduct spying operations on customers. We take motion if we detect any misuse.
+WhatsApp promotes itself as a "secure" communications app because messages are end-to-end encrypted.
+"While their attack was highly sophisticated, their attempts to cover their tracks were not entirely successful", Cathcart added.
+Citizen Lab has also linked NSO to spyware found on the phone of a Saudi dissident in Canada, Omar Abdulaziz, who regularly spoke via WhatsApp with journalist-in-exile Jamal Khashoggi.
+"In addition, as our complaint notes, we have tied certain WhatsApp accounts used during the attacks back to NSO", Cathcart continued.
+
+Load-Date: October 30, 2019
+
+
+End of Document

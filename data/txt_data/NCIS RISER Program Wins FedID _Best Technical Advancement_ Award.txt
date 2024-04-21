@@ -1,0 +1,26 @@
+NCIS RISER Program Wins FedID "Best Technical Advancement" Award
+The Breeze: James Madison University
+September 17, 2020 Thursday
+
+
+University Wire
+Copyright 2020 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 527 words
+Body
+
+
+MCLEAN, Va., Sept. 17, 2020 /PRNewswire/ -- Novetta, a leader in advanced analytics, was recognized by the Naval Criminal Investigative Service Technical Services Field Office - Identity Activities Branch (TSFO-IA) for contributions to the RISER Program, which won "Best Technical Advancement" at this year's FedID awards.
+RISER is Government-off-the-Shelf software for rapid ingestion of biometric data from fingerprint cards, converting them into digital images to search against databases and watchlists of criminals and terrorists. TSFO-IA has advanced card scanning technology to efficiently make hundreds of thousands of previously archived biometric records available for automated biometric matching.
+"Over the last 18 months the processing power of RISER, developed by Novetta, has evolved through iterative development cycles of continuous innovation into a reliable, sustainable, operational capability," said NCIS Supervisory Special Agent Eric Trest. "Today, NCIS relies heavily upon RISER to accomplish our Identity Activities mission."
+The FedID Best Technical Advancement award recognizes capabilities that "will profoundly impact the federal government's future identity capabilities or practices." Using neural networks to train algorithms that recognize the layout and image placement of biometric and biographic fields on fingerprint cards, RISER has dramatically reduced the time and effort to process biometric records. In a representative mission, RISER increased card processing time by 3,390% per hour, taking only 7 people, 48 hours to scan 57,000 cards, and reduced delivery time from a year to a week.
+"Throughout development, applied advancements in machine learning domains improved RISER's operational efficiency," said Bill Dorr, Novetta Senior Director, Mission Platform Automation Group. "Our team is able to ideate, innovate, and engineer creative solutions when we have a partner, like the TSFO-IA team, who embraces new technologies."
+"RISER is a classic example of how Novetta partners with our customers to apply cutting edge technology to solve difficult mission challenges. I'm proud of what Bill and his team have accomplished," said Kevin Heald, Novetta Vice President, Information Exploitation.
+The RISER program contributes to national priorities by enabling operations with the Department of State, U.S. Customs and Border Protection, and the Department of Justice to assist partner nations with their fingerprint collections. Through RISER and collaboration with NCIS field offices, international law enforcement relationships are strengthened, criminal information is shared, and valuable services are provided in support of this nation and its allies.
+The TSFO-IA team included Novetta and multiple USG organizations, including OUSD A&S, CDM, and DFSC. The Combating Terrorism Technical Support Office was the programmatic team lead and financial sponsor of the most recent RISER development project.
+About NovettaNovetta delivers scalable advanced analytic and technical solutions to address challenges of national and global significance. Novetta is headquartered in McLean, VA with over 1,300 employees across the U.S.
+
+Load-Date: September 18, 2020
+
+
+End of Document

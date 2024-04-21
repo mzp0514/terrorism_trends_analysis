@@ -1,0 +1,35 @@
+How tech titans plan on fighting terrorism; Facebook, Microsoft, Twitter, and YouTube launched an effort this week to share information about terrorist-related content without threatening users' privacy. Here's how they'll do it.
+The Christian Science Monitor
+December 9, 2016 Friday
+
+
+Copyright 2016 Christian Science Publishing Society All Rights Reserved
+Section: World
+Length: 800 words
+Byline: Nathaniel Mott Correspondent
+Body
+
+
+This week a coalition of some of the biggest tech companies in the world said they were teaming up to fight terrorist propaganda on their networks.
+Facebook, YouTube, Microsoft, and Twitter announced plans to create a shared database of digital fingerprints - called "hashes" - to help them identify terrorist-related content, create unique identifiers for that material, and share the information among themselves.
+For instance, the new plan would let a social media platform such as Twitter, a favorite among Islamic State (IS) supporters and recruiters, share details about terrorist propaganda on its network with YouTube or Facebook, letting those networks quickly find and take down that content.
+While Silicon Valley has come under growing pressure from political leaders in Washington as well as Europe to do more to rid their platforms of IS propaganda, they've resisted calls to automatically share information with intelligence agencies.
+Despite a White House meeting in January with executives from Apple, Facebook, Microsoft, Twitter, and YouTube (which is owned by Google) aimed at developing strategies to stop the spread of radical Islam on social media, tech companies have turned toward internal efforts such as Google's so-called "Redirect Method," which aimed to dissuade would-be adherents by placing IS-linked search results next to ads that linked to videos denouncing the group. 
+The hashing process is something of a compromise, giving social media platforms a common process to spot extremist content but individual control over how to deal with the questionable material.
+It's also a way of spotting offending videos and other material without collecting details on individual users, protecting users such as journalists, academics, or others who may have commented on or shared extremist content but who have no connection with terrorists.
+"The bottom line is that the hashes themselves are a digital or mathematical fingerprint that can't be reversed back to the source data or image," says Arian Evans, vice president of business development of the RiskIQ threat management company.
+"Hashing has been a way of life in both security and the internet in general for a long time," he says. "Hashes are a quick way to see if I have the most current version of a file, or if a file I have is even a legitimate one. A hash is an algorithm that creates a checksum - a mathematical representation of your input. It could be a text string, a binary file, or an image."
+Hashing is a one-way process. None of the companies involved in this program could use a hash shared by another company to recreate the associated content. All they can do is see if a file that another company has added to the database can be found on their own platforms by searching for the corresponding hash.
+"The devil is in the details," Mr. Evans says. "It's all in how you implement it. But the goal of hashing is that you're not sharing any data."
+Companies use hashes for a variety of things. For example, when it comes to checking passwords, tech platforms will hash the password and verify an identifier associated with the password and user. 
+Hashing also gives each company the benefit of deciding how they want to approach the offending content. Microsoft could remove a video from one of its platforms, for example, but that doesn't mean YouTube will have to delete the same video from its service. The companies are working together, but they aren't sacrificing any control over how they manage their products.
+That kind of control is central to the plan. Tech companies have pushed back against governments' efforts to compel them to share more information about their users, taking steps to limit the amount of personally identifiable they reveal to law enforcement agencies. 
+That said, social media platforms have increased efforts to remove terrorist content form platforms of the past year. Earlier this year, Twitter announced it shut down more than 125,000 terrorism-related accounts since the middle of 2015. The majority of the accounts were related to the Islamic State.
+All the companies involved in the data-sharing pact have policies that restrict terrorism-related content. Facebook says in its community guidelines that it doesn't allow terrorist or criminal organizations on its network, and that it will also remove content supporting, praising, or condoning the actions of those groups. The company has a team of "content reviewers" who decide if a particular link to an article, video, or post runs afoul of those rules and should be removed from its platform.
+The other companies have similar guidelines and processes. 
+YouTube, Microsoft, and Twitter did not respond to request for comment. A Facebook spokesperson declined an interview and directed Passcode to its blog post on the program.
+
+Load-Date: March 9, 2017
+
+
+End of Document

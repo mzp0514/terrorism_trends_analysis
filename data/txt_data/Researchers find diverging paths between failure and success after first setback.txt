@@ -1,0 +1,35 @@
+Researchers find diverging paths between failure and success after first setback
+The Pulse: Finch University of Health Sciences
+October 30, 2019 Wednesday
+
+
+University Wire
+Copyright 2019 UWIRE via U-Wire All Rights Reserved
+Section: LATESTSTORIES; Pg. 1
+Length: 829 words
+Body
+
+
+Oprah Winfrey was fired from her first job in television. Steven Spielberg was rejected from film school multiple times, and Michael Jordan didn't make his high school's varsity basketball team.
+Stories like these fuel motivational mantras about learning from failure and coming out stronger on the other side. But little research has been done to support these anecdotes, and even less has examined the mechanisms as to how failure leads to success.
+In a study published Oct. 30 in Nature, data scientists from the University of Chicago and Northwestern University looked at the dynamics of failure in three different areas-science, entrepreneurship and terrorism-and found that the way one fails matters.
+The researchers found that paths diverge soon after an initial failure: Some individuals go on to achieve eventual success, while others continue to fail until they drop out. This divergence was evident as early as the second attempt. The factor that ultimately determined which path an individual took was the extent to which they learned from previous failures and how they applied that knowledge going forward, according to the study.
+"In a world of intense competition, failure is an essential ingredient for success," said co-author James A. Evans, a UChicago sociologist who conducts quantitative studies of how breakthrough ideas and technologies emerge. "Our results provide some of the first evidence that how you fail matters."
+"If you only look at the attributes of successful attempts, you're missing half the story," said corresponding author Dashun Wang, associate professor at Northwestern's Kellogg School of Management and director of the Center for the Science of Science and Innovation, whose team led the study. "This is where big data can help. Analyzing all cases in the data, both successes and failures, helps avoid bias."
+According to the researchers, this model could help individuals and organizations make better use of their past failed experience to achieve success. It also could aid managers and policymakers in making decisions about promotions, project leadership roles and more.
+Conventional explanations of success tend to center around luck or assumptions about the individual's work ethic, but the researchers found that it is not so simple. With each successive iteration, individuals and organizations may take past experiences into account in order to refine future attempts-a pattern that can help predict divergent outcomes.
+The researchers' key insight is that there exists a critical threshold for the number of past attempts that should be considered. If individuals incorporate more lessons beyond that threshold, the efficiency and quality of subsequent attempts improves, leading to eventual success. If individuals incorporate lessons from too few failed attempts, they will find themselves on the path to permanent failure.
+Lead author Yian Yin of Northwestern explained that small variations near the threshold make a huge difference.
+"It's similar to the transition between water and ice at 0 degrees Celsius," Yin said. "Increasing or decreasing the temperature by just a small amount near this threshold leads to fundamental changes."
+"The findings fit with conventional wisdom that failure can teach you lessons," said co-author Yang Wang of Northwestern. "You learn from your mistakes and correct them in the next attempt, constantly iterating rather than starting each attempt from scratch. This helps you fail faster and smarter, improving with each attempt."
+The researchers utilized data sets for three fields-scientific research, entrepreneurship and terrorism-and applied standard definitions of success for each field, such as entrepreneurs achieving an initial public offering or high-value merger and acquisition.
+They studied terrorism to show how these patterns persisted across "a freakishly wide range of cases-both those where we want to enable success and those where we want to thwart it," said Evans, who directs UChicago's Knowledge Lab, a unique research center that combines "science of science" approaches from sociology with available digital information.
+By tracing successive attempts by individuals, the researchers were able to assess the extent to which individuals incorporated previous learnings into their next iterations, and how many attempts it took for each individual to eventually achieve either success or permanent failure. They found the same pattern of results, with diverging paths to either success or failure, for each field, indicating the model may apply to other industries and topics as well.
+Citation: "Quantifying dynamics of failure across science, startups, and security," Yin et al., Nature, Oct. 30, 2019. DOI: 10.1038/s41586-019-1725-y
+Funding: National Science Foundation, Air Force Office of Scientific Research, Alfred P. Sloan Foundation, Northwestern University Data Science Initiative.
+-Adapted from a story that first appeared on the Northwestern University website.
+
+Load-Date: October 30, 2019
+
+
+End of Document

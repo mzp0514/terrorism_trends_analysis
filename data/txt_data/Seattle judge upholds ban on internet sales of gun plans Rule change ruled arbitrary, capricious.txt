@@ -1,0 +1,32 @@
+Seattle judge upholds ban on internet sales of gun plans Rule change ruled arbitrary, capricious
+Spokesman Review (Spokane, WA)
+November 13, 2019 Wednesday
+Main Edition
+
+
+Copyright 2019 Spokane Spokesman-Review
+Section: A; Pg. 008
+Length: 745 words
+Byline: Jim Camden The Spokesman-Review
+Body
+
+
+Computer programs to make plastic guns with a 3D printer have to stay off the internet, at least for now, because the Trump administration failed to follow proper procedures for changing the rules that currently keep them offline, a federal judge in Seattle ruled Tuesday.
+ U.S. District Judge Robert Lasnik agreed with Washington and 18 other states that the way the U.S. State Department tried to lift the ban on internet sales of the plans was arbitrary, not supported by evidence and a violation of the federal Administrative Procedures Act. That federal law governs the steps an agency must take when changing rules.
+ "The agency has simply abandoned, without acknowledgment or analysis, its previous position" that 3D-printed weapons posed unique threats to world peace, national security and foreign policy, the judge wrote. "Because it is arbitrary and capricious to ignore the contradiction in these circumstances, the agency action must be invalidated."
+ In 2013, the State Department said the Arms Export Control Act gave it the authority to restrict the posting of computer-assisted design files that can be used to make guns with a 3D printer. It ordered a Texas company, Defense Distributed, which had posted those files, to remove them.
+ Eventually, Defense Distributed filed a lawsuit in Texas, contending among other things the rule was prior restraint on gun-related speech. The State Department countered that allowing the files on the internet would result in "the production of plastic firearms that are fully operable and virtually undetectable by conventional security measures, that their use to commit terrorism, piracy, assassinations, or other serious crimes would cause serious and long-lasting harm."
+ A judge in Texas denied the company's request for an injunction, and the circuit court of appeals agreed. In April 2018, the federal government asked to dismiss the case, continuing to cite the need to ensure "articles useful for warfare or terrorism are not shipped from the United States." But later that month, the federal government and Defense Distributed reached a tentative settlement that would allow the company to publish the files. The government announced a temporary modification of the rules under export law would take place at the end of July.
+ "No findings of fact or other statements are provided in the settlement that address, much less invalidate, the federal government's prior analysis," Lasnik said.
+ While the Trump administration has the authority to propose the change, it didn't adequately notify Congress of its plans before announcing the change last year, he said. It didn't offer a reason for the change or respond to public comments raising concerns. It justified the change by saying it wasn't worried about firearms below .50 caliber or the kind that are readily available at stores.
+ That's not a reasoned explanation, he said.
+ With Washington Attorney General Bob Ferguson's office as the lead plaintiff, states sued to block the settlement before it took effect. After a hearing in his Seattle courtroom, Lasnik said his job wasn't to decide the larger issues behind the potential danger of 3D guns, adding, "I wish the legislative and executive branches would step up to this."
+ His job was to decide whether the federal agencies followed the rules to make the change. Tuesday, he ruled it hadn't, and struck down the temporary rule change based on the tentative settlement. He declined, however, to issue an order preventing the federal government from issuing another temporary modification without warning. There's no indication they are preparing to do that, he said.
+ Ferguson said it was "baffling" that the administration worked so hard to defend a rule that would allow access to untraceable, undetectable guns: "Even the president himself said in a tweet that this decision didn't make any sense - one of the rare instances when I agreed with him."
+ The Justice Department did not immediately respond to an inquiry about whether it would appeal Lasnik's ruling. Despite the ban on internet distribution of plans to make the plastic guns, Defense Distributed is allowed to mail the plans to buyers.
+ Since the temporary rule change was announced and the state's lawsuit was filed, the Legislature passed a law banning guns made by 3D printers. It's a felony to make, own, buy or sell such a weapon, with an extra felony that can be charged for selling such a gun to a person ineligible to possess a firearm.
+
+Load-Date: November 13, 2019
+
+
+End of Document

@@ -1,0 +1,31 @@
+Protect citizens from cyberattacks
+The Philadelphia Inquirer
+February 2, 2020 Sunday
+
+
+Copyright 2020 Philadelphia Newspapers, LLC All Rights Reserved
+Section: OPINION; Pg. C4
+Length: 725 words
+Byline: Jack Bergman and Andy Kim
+Body
+
+
+As recent polling numbers clearly demonstrate, voters are not happy with the partisan rancor that continues to consume Washington. Most Americans believe Congress is more concerned with political posturing in advance of November's election than passing legislation that serves the interests of average citizens.
+One of these key areas that affects each of us is the hard-to-fathom reality that the United States is losing between $400 billion to $600 billion per year in intellectual property theft. While last year Congress took significant steps that included tasking the secretary of defense with developing a comprehensive plan to better secure our vital defense technology, as well as additional funding for developing more rapid cyber capabilities, it is clear that much more must still be done.
+The legislative record of 2019 bears them out: Because of the intense partisanship that has gripped the nation's capital and the policy differences between a Democratic-majority House and a Republican-majority Senate, neither party can point to legislation passed that addresses the very real concerns of voters.
+Now Congress has an opportunity to take decisive action on an issue of increasing concern to every American - cybersecurity, and the proliferation of hacking activity against U.S. citizens and companies by foreign governments and their agents.
+We have seen a dramatic increase in these cyberattacks in the last decade, and Americans across the country have been forced to deal with the firsthand consequences. Russian-backed cyberattacks against everyone from American military spouses to the Democratic National Committee; North Korean hacks and blackmail against Sony Pictures; China's cyberattack on the Office of Personnel Management (which involved the theft of the personal data of over 22 million Americans); and hacks orchestrated by foreign governments against state and municipal governments. These have compromised the security of millions, and this threat must be addressed.
+But amazingly, there is currently no legal recourse in the U.S. for citizens or entities that have been the victims of a foreign-backed cyberattack. Under the Foreign Sovereign Immunities Act (FSIA), foreign governments have been ruled multiple times by U.S. courts to be immune from legal action on the part of American plaintiffs. FSIA was signed into law long before the existence of the internet, and it does not account for the advances in technology since and the threats they pose. Consequently, a legal loophole is inadvertently providing hostile powers with blanket immunity for their hacking activity.
+Together, we introduced the Homeland and Cyber Threat (HACT) Act, a bill to hold foreign governments and their agents responsible for these activities that cause grave harm to our citizens and businesses. Our bill would provide much-needed legal protection to victims of foreign-sponsored cyberattacks by creating an exception to the immunity provided under FSIA.
+Specifically, the HACT Act would remove the immunity of foreign states - including foreign officials, employees, or agents - with regard to monetary damages sought by a national of the United States for personal injury, harm to reputation, or damage to or loss of property resulting from cyberattacks.
+This should not be a tough call for members of Congress of either party. In the 114th Congress, the House and Senate passed the Justice Against Sponsors of Terrorism Act to allow victims of international terrorism to file civil claims against foreign states responsible for those acts. That bill became law in 2016 and officially created a "terrorism" exception to FSIA. A "cyberattack exception" would simply extend those same protections to hacking victims as well.
+We can't leave our citizens vulnerable any longer to the malicious activities of foreign governments. The HACT Act sends a message to the world that we will not be pushed around by those seeking to take advantage of our country. Let's come together and get this done.
+Rep. Jack Bergman (R., Mich.), a retired Marine Corps lieutenant general, is the highest-ranking military official ever elected to Congress. Rep.
+Andy Kim (D., N.J.) is a former U.S. diplomat who served at the State
+Department, in Afghanistan, and on the White House national security staff. Both are members of the House
+Armed Services Committee.
+
+Load-Date: February 2, 2020
+
+
+End of Document

@@ -1,0 +1,24 @@
+After 2016 hack, Illinois says election system secure
+St. Louis Post-Dispatch (Missouri)
+October 17, 2018 Wednesday
+FINAL EDITION
+
+
+Copyright 2018 St. Louis Post-Dispatch, Inc. All Rights Reserved
+Section: NEWS; Pg. A14
+Length: 237 words
+Byline:  By JOHN O'CONNOR Associated Press  
+Body
+
+
+SPRINGFIELD, Ill. - Illinois officials assured voters Tuesday that their Nov. 6 tallies "will be securely counted" following a data breach that's part of the Justice Department's investigation of Russian meddling in U.S. elections.
+Board of Elections Chairman William Cadigan and a group of state and local officials - including Illinois National Guard leaders - said in Chicago that beefed-up measures to monitor and spot cybersecurity risks will ensure a fair and free election.
+"We're as prepared as we ought to be right now, given the information we have," Cadigan said. "People should get out and vote because your vote is going to count, and at the end of the day, we believe it's going to be securely counted."
+The board hired three cybersecurity experts to watch elections and voter-data systems for irregularities, Cadigan said, including one housed at the Illinois State Police Statewide Terrorism and Intelligence Center. Local elections administrators have undergone rigorous training and the National Guard is on call for emergencies.
+Officials discovered in summer 2016 that a hacker had downloaded information on up 76,000 Illinois voters in what federal authorities allege was a concentrated attack by Russian intelligence agents, but whether they penetrated states other than Illinois has never been determined.
+State officials notified those affected and there's no indication that voting that fall was affected.
+
+Load-Date: October 20, 2018
+
+
+End of Document

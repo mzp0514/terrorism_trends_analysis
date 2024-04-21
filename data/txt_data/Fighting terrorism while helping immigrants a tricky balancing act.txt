@@ -1,0 +1,45 @@
+Fighting terrorism while helping immigrants a tricky balancing act
+americanbanker.com
+December 10, 2019 Tuesday
+
+
+Copyright 2019 SourceMedia LLC d/b/a Arizent. All Rights Reserved
+
+
+Section: Vol. 1; No. 1
+Length: 963 words
+Byline: Amit Sharma
+Body
+
+
+Regulations created after Sept. 11 that were intended to root out bad actors and protect the integrity of the financial system have had an unintended, albeit significant, consequence: the economic disenfranchisement of Americans and billions of people globally.
+Immigrants, refugees and others who send high volumes of remittances to families abroad are often denied formal financial services because they're "high compliance risks."
+The sheer volume of these flows () makes this exclusion a global epidemic. However well intended, efforts to strengthen the financial system's security has impeded sustainable economic growth by locking out individuals and small businesses in need of basic insured deposit accounts, or access to credit and capital.
+Pervasive financial exclusion has many negative consequences, and it signals a need to change the foundational culture of financial services. Beyond technical capacity and modernization, the industry and its oversight mechanisms are in dire need of a new ethos based on inclusion.
+A financial system with integrity and financial inclusion would be better at rooting out exploitative or nefarious financial behavior, and increase financial health globally. And it would allow institutions to provide sustainable social and economic value.
+Financial innovation can help make this a reality. Rapid advancements in fintech (particularly in the last five years) have accelerated the pace and efficiency of day-to-day transactions.
+Meanwhile, in mobile banking, payments in digital assets and blockchain-enabled networks are widening the ecosystem of business and economics globally.
+This explosion of private-sector innovation has brought startups, major intergovernmental and nongovernmental organizations, and even traditional corporations into new roles as financial facilitators.
+Borderless, frictionless and increasingly peer-to-peer, this new age of financial intermediation is powerful and growing. However, many new entrants are operating in a potentially insecure area outside the enforcement-centric regulations governing traditional banks.
+Regulators globally continue to stress that institutions engaged in what would otherwise be considered traditional financial activities - even if outside fiat-based transactions - are subject to the same anti-money-laundering, counterterrorism financing and Financial Crimes Compliance requirements as traditional banks.
+At the same time, fast-growing technology companies and corporate enterprises are looking for regulators to provide explicit guidance on their FCC obligations, lest they be misunderstood as rogues looking to avoid unnecessary oversight. Or worse, seen as proactively engaged in illicit and exploitative financial activities.
+Recently, a new was established to ensure fintech startups understand how their activities resemble, replicate and intersect with their more traditional counterparts. The CPTF also helps guarantee that these fintechs meet regulatory safeguards.
+As these technologies innovate and become increasingly mainstream, it must be carefully and thoughtfully integrated into an already robust and highly regulated financial system. I am privileged to helm this new CPTF and lead the discussion.
+This task force is founded on financial inclusion and aims to be the brain trust for best practices that uphold risk and compliance obligations for financial intermediaries of all types.
+Instead of being predicated on the denial and prevention of nontraditional actors, this approach aims to mold a system that invites and engages them, securely and transparently expanding access to critical financial services.
+In this new digital age of financial intermediation, its essential to integrate cybersecurity, data collection and protection measures, and thoughtful facilitation of financial inclusion at-scale.
+The CPTF members will address the latest questions in compliant-centric payments governance and drive an industry-led framework specifically for compliance in digital asset-related payments platforms. Members are also actively informing and communicating with U.S. and global regulators on this important work.
+These efforts are culminating in a global rulebook of the essential risk and regulatory compliance safeguards to guide secure payments.
+The rulebook incorporates relevant financial and data management, and protection guidance from groups like the Bank for International Settlements, the National Institute of Standards and Technology and the European Union's General Data Protection Regulation, to name a few.
+As financial and payments technologies continue to evolve and expand, the principles put forth to shape this new era will build upon a foundation of existing regulation and industry best practices. This will drive incentivized self-governance in line with a focused approach to intended regulatory safeguards.
+In addition, the rulebook offers a model for how companies can configure transactional platforms to establish common service and value to those issuing, storing, transferring and providing liquidity into and via these networks.
+The goal is to create consistency among digital payment systems and blockchain-enabled networks by providing guiding principles for this growing market. And "rules of the game" that can more easily engage underserved customers and be integrated with traditional financial market participants.
+The possibilities of fintech powered by distributed ledger and other technologies is exciting. However, it is also critical to understand and mitigate any unintended consequences from the beginning.
+It's the responsibility of innovators and regulators to work together and collaborate on this rapidly growing knowledge base to develop and ultimately, implement sound governance for the world's financial future.
+
+https://www.americanbanker.com/opinion/fighting-terrorism-while-helping-immigrants-a-tricky-balancing-act
+
+Load-Date: February 13, 2020
+
+
+End of Document

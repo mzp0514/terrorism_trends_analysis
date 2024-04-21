@@ -1,0 +1,49 @@
+Supreme Court Rules on Terrorism, Whistle-Blowers and Prisoners
+The New York Times 
+February 23, 2018 00:41 EST
+
+
+Copyright 2018 The New York Times Company All Rights Reserved
+Section: US
+Length: 1143 words
+Byline: Adam Liptak
+Highlight: The justices issued four decisions, including one rejecting a bid to seize Iranian artifacts in a terrorism suit and another limiting whistle-blower protections.
+Body
+
+
+WASHINGTON — The Supreme Court issued four decisions on Wednesday, including ones on international terrorism, whistle-blowers in securities cases and civil rights suits filed by prisoners.
+International Terrorism
+The court unanimously rejected an attempt by victims of three 1997 suicide bombings in Jerusalem to seize Iranian artifacts housed at the University of Chicago. The plaintiffs had won a $71.5 million judgment against Iran, which they said had been responsible for the bombings.
+They sought to seize the artifacts — some 30,000 clay tablets and fragments bearing ancient writings known as the Persepolis collection — to help satisfy the judgment.
+Justice Sonia Sotomayor, writing for the court, said the artifacts were shielded by the Foreign Sovereign Immunities Act, a federal law that generally bars seizing the assets of foreign states. The law has some exceptions, but Justice Sotomayor said they did not apply to the antiquities.
+The Trump administration had filed a brief supporting Iran. “The United States emphatically condemns the terrorist actions that gave rise to this case, and expresses its deep sympathy for the victims and their family members who have pursued legal action against Iran,” it said. “The United States is committed to vigorously pursuing those responsible for violence against U.S. nationals.”
+But the brief argued that the exceptions in the immunities law did not apply. “The property at issue here consists of ancient Persian artifacts, documenting a unique aspect of Iran’s cultural heritage, that were lent to a U.S. institution in the 1930s for academic study,” the administration’s brief said. “Execution against such unique cultural artifacts could cause affront and reciprocity problems.”
+Justice Elena Kagan was recused in the case, Rubin v. Islamic Republic of Iran, No. 16-534, but the court did not say why.
+Whistle-Blowers
+The court unanimously ruled that a federal law protecting whistle-blowers in securities cases must be read narrowly to bar many retaliation suits from people who say they were fired for reporting wrongdoing. The plain words of the law, part of the Dodd-Frank Act, required that conclusion, Justice Ruth Bader Ginsburg wrote.
+The law defined “whistle-blower” to mean “an individual who provides information relating to a violation of the securities laws” to the Securities and Exchange Commission. That language excluded people who merely reported wrongdoing to their employers, Justice Ginsburg wrote.
+The case, Digital Realty Trust v. Somers, No. 16-1276, started when Paul Somers, then an executive at a real estate investment trust, told his superiors — but not the S.E.C. — about what he said were securities law violations. Mr. Somers was fired, and he sued under the Dodd-Frank Act.
+A divided three-judge panel of the United States Court of Appeals for the Ninth Circuit, in San Francisco, allowed the case to proceed, saying that a literal application of the law “would make little practical sense and undercut congressional intent.”
+The Supreme Court reversed that decision. “Courts are not at liberty to dispense with the condition — tell the S.E.C. — Congress imposed,” Justice Ginsburg wrote.
+Two sets of justices filed concurring opinions, disagreeing over whether the majority should have taken account of a Senate report in addition to words of the statute. “I do not think it wise for judges to close their eyes to reliable legislative history,” wrote Justice Sotomayor, joined by Justice Stephen G. Breyer. Justice Clarence Thomas, joined by Justices Samuel A. Alito Jr. and Neil M. Gorsuch, disagreed, saying that only the text of the statute should be considered.
+Prisoners’ Lawsuits
+By a 5-to-4 vote that divided the justices along ideological lines, the court ruled that prisoners who win civil rights suits must pay 25 percent of the damages they recover toward awards of attorney’s fees.
+The case concerned Charles Murphy, an Illinois inmate badly beaten by prison guards, who crushed his eye socket. Mr. Murphy sued the guards, winning about $307,000 and $108,000 in attorney’s fees.
+The question in the case was how to interpret a federal law that says in such cases “a portion of the judgment (not to exceed 25 percent) shall be applied to satisfy the amount of attorney’s fees awarded against the defendant.”
+A trial judge ordered Mr. Murphy to pay 10 percent of his award to his lawyers, but an appeals court ruled that the law required the full 25 percent.
+Justice Gorsuch, writing for the majority, said the law left no room for judicial discretion. “When you purposefully seek or aim ‘to satisfy’ an obligation, especially a financial obligation, that usually means you intend to discharge the obligation in full,” he wrote. Chief Justice John G. Roberts Jr. and Justices Anthony M. Kennedy, Thomas and Alito joined the majority opinion.
+In dissent, Justice Sotomayor argued that the law’s language contemplated partial payments. She said, for instance, that a partial payment of a credit card debt would be generally understood to be “applied to satisfy” the debt. Justices Ginsburg, Breyer and Kagan joined the dissent in the case, Murphy v. Smith, No. 16-1067.
+Appeals After Guilty Pleas
+By a 6-to-3 vote, the court ruled that a North Carolina man who pleaded guilty to violating a federal law that bars firearms on the grounds of the United States Capitol may nonetheless challenge the constitutionality of the law on appeal.
+The defendant, Rodney Class, was charged with violating the law after guns and ammunition were found in his car in a parking lot on the Capitol grounds. On appeal, he sought to argue that the law violated the Second Amendment and the Constitution’s due process clause. The appeals court refused to consider the arguments, saying that Mr. Class had waived them by pleading guilty.
+Justice Breyer, writing for the majority, said, “Class’s valid guilty plea does not, by itself, bar direct appeal of his constitutional claims in these circumstances.” Chief Justice Roberts and Justices Ginsburg, Sotomayor, Kagan and Gorsuch joined the majority opinion.
+In dissent, Justice Alito wrote that the majority had provided no clear guidance about when appeals after guilty pleas are permitted. “There is no justification for the muddle left by today’s decision,” he wrote, adding: “I fear that today’s decision will bedevil the lower courts.” Justices Kennedy and Thomas joined Justice Alito’s dissent in the case, Class v. United States, No. 16-424.
+PHOTO: The Supreme Court issued four decisions on Wednesday, including one rejecting a bid to seize Iranian artifacts in a terrorism suit and another on whistle-blower protections in securities cases. (PHOTOGRAPH BY J. Scott Applewhite/Associated Press FOR THE NEW YORK TIMES)
+Related Articles
+Justices Seem Ready to Limit Whistle-Blower Protections
+Back at Full Strength, Supreme Court Faces a Momentous Term
+
+Load-Date: February 23, 2018
+
+
+End of Document

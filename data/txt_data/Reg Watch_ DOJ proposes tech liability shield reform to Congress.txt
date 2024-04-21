@@ -1,0 +1,30 @@
+Reg Watch: DOJ proposes tech liability shield reform to Congress
+The Hill
+September 24, 2020 Thursday
+
+
+Copyright  2020 Capitol Hill Publishing Corp. All Rights Reserved
+Section: Pg. 17
+Length: 385 words
+Byline: By The Hill staff
+Body
+
+
+The Department of Justice on Wednesday rolled out a proposal for Congress to revise the 1996 law that gives tech companies a legal liability shield for content posted by third parties.
+Section 230 of the Communications Decency Act ¯ which also gives platforms the ability to engage in good-faith content moderation ¯ has increasingly come under fire from Republicans, who claim it allows companies to censor conservative viewpoints, despite no supporting evidence for the assertion.
+The Justice Department's proposal would amend the law to remove legal immunity from platforms that facilitate or fail to report criminal activity. It also would remove protections from companies that do not follow their own content-moderation policies, a provision in several Republican-led bills dealing with Section 230.
+The changes put forth by the agency would open up platforms to civil lawsuits over content that promotes terrorism or online child sexual abuse material.
+"For too long Section 230 has provided a shield for online platforms to operate with impunity," Attorney General William Barr said in a statement Wednesday. "We therefore urge Congress to make these necessary reforms to Section 230 and begin to hold online platforms accountable both when they unlawfully censor speech and when they knowingly facilitate criminal activity online."
+The request for legislative action is the latest effort by the Trump administration to overhaul Section 230.
+President Trump in May signed an executive order targeting the 1996 law, which is considered foundational to the modern internet.
+The president's order, among other things, directed a Commerce Department subagency to file a petition with the Federal Communications Commission (FCC) asking it to clarify the scope of Section 230.
+That subagency, the National Telecommunications and Information Administration, filed the petition and recently closed the public comment period.
+The FCC can now decide whether to consider the petition.
+The executive order was signed just days after Twitter first appended a fact-checking label to one of Trump's tweets, which falsely claimed mail-in voting would lead to a rigged election in November.
+Trump on Wednesday met with a group of Republican state attorneys general at the White House to discuss revising Section 230.
+Chris Mills Rodrigo
+
+Load-Date: October 14, 2020
+
+
+End of Document

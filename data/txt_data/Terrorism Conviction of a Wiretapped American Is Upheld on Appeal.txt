@@ -1,0 +1,33 @@
+Terrorism Conviction of a Wiretapped American Is Upheld on Appeal
+The New York Times 
+December 5, 2016 Monday 00:00 EST
+
+
+Copyright 2016 The New York Times Company All Rights Reserved
+Section: US; politics
+Length: 688 words
+Byline: CHARLIE SAVAGE
+Highlight: A panel of three federal judges rejected the argument that the F.B.I. had entrapped Mohamed Mohamud and unconstitutionally intercepted his emails without a warrant.
+Body
+
+
+WASHINGTON - A federal appeals court on Monday upheld the 2013 conviction of a Somali-American man for trying to detonate a bomb at a Christmas tree lighting ceremony in Portland, Ore., rejecting his arguments that the F.B.I. had entrapped him and that the government had unconstitutionally intercepted his emails without a warrant.
+The ruling - by a three-judge panel of the Court of Appeals for the Ninth Circuit, in San Francisco - was particularly important because it upheld the government's use of emails gathered without a warrant under the FISA Amendments Act of 2008. The law permits the government, on domestic soil, to collect phone calls and emails of noncitizens abroad, even when they are communicating with an American.
+The case centered on Mohamed Mohamud, who was 19 when he tried to blow up what he thought was a bomb. In fact, there was no danger: The plot had been orchestrated by the Federal Bureau of Investigation as part of a sting operation. Mr. Mohamud was sentenced to 30 years in prison.
+He appealed, arguing that the conviction should be overturned in part because the government had used evidence derived from warrantless surveillance. But the panel upheld the verdict.
+"Many young people think and say alarming things that they later disavow, and we will never know if Mohamud - a young man with promise - would have carried out a mass attack absent the F.B.I.'s involvement," Judge John B. Owens wrote for the panel. But, he went on, some such people "take the next step, leading to horrific consequences."
+"While technology makes it easier to capture the thoughts of these individuals, it also makes it easier for them to commit terrible crimes," Judge Owens wrote. "Here, the evidence supported the jury's verdict, and the government's surveillance, investigation and prosecution of Mohamud were consistent with constitutional and statutory requirements."
+For years, the government prevented judicial evaluation of surveillance conducted under the FISA Amendments Act by concealing when evidence was derived from it, so defendants did not know that they had standing to challenge it. In early 2013, the Supreme Court rejected a challenge to the law brought by the American Civil Liberties Union, without addressing the merits, because the A.C.L.U.'s clients could not prove they had been wiretapped under the act and so lacked standing.
+But the Justice Department changed its practice in the summer of 2013 and began notifying a handful of defendants that they had faced evidence derived from warrantless surveillance. Mr. Mohamud was among the first to receive such a notice. The A.C.L.U. filed "friend of the court" arguments to assist him.
+They argued that the underlying surveillance violated the Fourth Amendment, which prohibits unreasonable searches. According to declassified information, the government learned, by targeting a foreigner for surveillance without a warrant, that Mr. Mohamud was in email contact with that target. It then used those emails to obtain an individualized warrant to wiretap Mr. Mohamud.
+The government gathered the emails via the so-called Prism program, which collects messages in the accounts of targeted foreigners from webmail providers.
+The Ninth Circuit opinion was written by Judge Owens, an appointee of President Obama. He was joined by Judges Harry Pregerson, an appointee of Jimmy Carter, and Carlos T. Bea, who was appointed by George W. Bush.
+The panel concluded that the government had not been required to obtain a warrant to target the foreigner abroad for surveillance, and that the fact that it incidentally picked up Mr. Mohamud's emails did not make the collection unconstitutional.
+Judge Owens also wrote that even if Mr. Mohamud's Fourth Amendment rights were implicated, the government's actions were reasonable because of its interest in preventing a terrorist attack, because Mr. Mohamud had a "diminished" expectation of privacy in messages he sent abroad, and because the government follows court-imposed rules to "minimize" privacy intrusions from its surveillance programs.
+Related Articles
+Warrantless Surveillance Continues to Cause Fallout
+
+Load-Date: December 12, 2016
+
+
+End of Document

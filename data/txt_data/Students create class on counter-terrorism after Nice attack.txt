@@ -1,0 +1,32 @@
+Students create class on counter-terrorism after Nice attack
+Daily Californian: University of California - Berkeley
+March 6, 2017 Monday
+
+
+University Wire
+Copyright 2017 UWIRE via U-Wire All Rights Reserved
+Section: NEWS; Pg. 1
+Length: 596 words
+Byline: Bobby Lee
+Body
+
+
+Twenty-two students presented detailed proposals for open-source, technological solutions to problems in transnational security Monday as part of a student-run course created in response to the July 2016 terrorist attacks in Bangladesh and Nice, which resulted in the deaths of two UC Berkeley students.
+The course, called the Data Science and Transnational Security Collider, is composed of five teams, each with its own unique proposal, although all of the proposals complement one another. The class, founded by Tyler Heintz, Alice Ma and former Daily Californian reporter Anjali Banerjee, uses technology to address problems of international terrorism and terrorist financing.
+"At UC Berkeley, there is a heavy presence of opportunities for engineers to join the private sector," Banerjee said. "We want to encourage engineers and people with backgrounds in technology (so) that they can also work for social enterprise - something they might not have considered before."
+According to Heintz, he and his fellow co-founders were driven to create the class after the Bangladesh and Nice terrorist attacks.
+"We lost a good friend," Heintz said. "(There was) a lot of motivation and frustration (in) not being able to do anything about the problem of international terrorism."
+The course, offered through the Sutardja Center for Entrepreneurship and Technology, receives resources and funding from various sponsors, including the Center for Advanced Defense Studies.
+The course includes both a midterm and final, where students are able to pitch their project ideas to classmates, faculty and collider sponsors. In May, the teams will travel to Washington, D.C., to propose their products to industry experts.
+The midterm pitches, which took place Monday afternoon in Memorial Stadium, included archiving and analyzing flight data and building a "Twitter Bot" that automates the search process for terrorist activity on Twitter. Another team pitched a platform for nongovernment organizations to better track Bitcoin-identified terrorist nodes, because Bitcoin is a virtual currency that can make transactions hard to track.
+One proposal, titled "Charity Cases," hopes to help aggregate data and network and map out connections between charities and nonprofit groups to better evaluate the risk of a charity funding a terrorist organization. In its pitch, the team explained that charities sometimes willingly or not play a role in the funding of terrorist operations, so building this tool could improve risk assessment.
+David Law, faculty adviser for the collider, and Banerjee noted that this program was unique because it is the only collider course that has been created by students.
+Banerjee and Heintz were part of the European Innovation Academy, a study-abroad program that sent multiple UC Berkeley students to Nice this past summer, while Ma participated in the same program the previous year. The facilitators said about half of the students enrolled in the course were present for the terrorist attack in Nice.
+According to collider lead adviser Yaya Fanusie, previously a counterterrorism analyst at the Central Intelligence Agency and currently a senior director of analysis at the Foundation for Defense of Democracies, the collider is an opportunity to bridge the gulf between the tech epicenter in the Bay Area and policymakers in Washington, D.C.
+"We want to bring light to (these) issues and broad problems," Ma said. "You can have an impact on (a) global scale no matter your background."
+Contact Bobby Lee at [email protected] and follow him on Twitter at @bobbylee_dc.
+
+Load-Date: January 17, 2018
+
+
+End of Document
