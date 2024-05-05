@@ -1,0 +1,227 @@
+Topic,Words,Frequency,Class
+-1,"said, terrorism, terrorist, state, mr",344,pittsburgh post-gazette
+0,"french, france, paris, strasbourg, police",10,pittsburgh post-gazette
+1,"british, britain, london, police, miranda",14,pittsburgh post-gazette
+2,"pakistan, pakistani, afghanistan, militant, musharraf",27,pittsburgh post-gazette
+3,"arafat, palestinian, israel, peace, israeli",19,pittsburgh post-gazette
+4,"gadhafi, libya, libyan, athlete, clinton",3,pittsburgh post-gazette
+5,"terrorism, definition, environment, war, terrorist",9,pittsburgh post-gazette
+6,"iran, hostage, iranian, khatami, tehran",6,pittsburgh post-gazette
+7,"turkey, ocalan, turkish, kurdish, istanbul",4,pittsburgh post-gazette
+8,"aristide, haiti, cedras, army, bertrand",2,pittsburgh post-gazette
+9,"spain, madrid, basque, spanish, eta",5,pittsburgh post-gazette
+10,"india, indian, pakistan, mumbai, hindu",8,pittsburgh post-gazette
+11,"bauer, movie, novel, film, moskow",14,pittsburgh post-gazette
+12,"ireland, ira, irish, northern, british",18,pittsburgh post-gazette
+13,"bill, provision, senate, clinton, house",24,pittsburgh post-gazette
+14,"russian, russia, chechen, moscow, putin",12,pittsburgh post-gazette
+15,"israeli, palestinian, israel, pomerantz, jewish",7,pittsburgh post-gazette
+16,"italy, italian, mafia, rome, milan",9,pittsburgh post-gazette
+17,"german, germany, berlin, police, christmas",3,pittsburgh post-gazette
+18,"patriot, nsa, surveillance, act, program",12,pittsburgh post-gazette
+19,"iraqi, iraq, baghdad, sunni, maliki",9,pittsburgh post-gazette
+20,"fbi, agent, mueller, bureau, information",7,pittsburgh post-gazette
+21,"muslim, islam, islamic, american, community",16,pittsburgh post-gazette
+22,"raqqa, ibrahim, syria, syrian, assad",2,pittsburgh post-gazette
+23,"fema, homeland, threat, security, local",7,pittsburgh post-gazette
+24,"south, african, africa, pac, johannesburg",2,pittsburgh post-gazette
+25,"saudi, arabia, qaida, kingdom, al",7,pittsburgh post-gazette
+26,"indonesia, indonesian, bali, jakarta, bashir",7,pittsburgh post-gazette
+27,"nuclear, weapon, material, uranium, atomic",13,pittsburgh post-gazette
+28,"china, chinese, mandela, tuesday, xinjiang",1,pittsburgh post-gazette
+29,"obama, austin, mccain, gen, president",8,pittsburgh post-gazette
+30,"begolly, medunjanin, vieques, pleaded, hickton",5,pittsburgh post-gazette
+31,"morsi, brotherhood, egypt, egyptian, mubarak",7,pittsburgh post-gazette
+33,"guantanamo, mohammed, defendant, military, trial",3,pittsburgh post-gazette
+34,"sudan, sudanese, khartoum, list, bashir",4,pittsburgh post-gazette
+35,"australian, sydney, australia, zealand, cardinal",3,pittsburgh post-gazette
+36,"guantanamo, detainee, prison, obama, captive",2,pittsburgh post-gazette
+37,"obama, interrogation, torture, detainee, guantanamo",6,pittsburgh post-gazette
+38,"word, shooting, boston, petraitis, fetchet",2,pittsburgh post-gazette
+39,"judge, facebook, intern, gun, menendez",1,pittsburgh post-gazette
+40,"passenger, flight, airport, plane, airline",12,pittsburgh post-gazette
+41,"fbi, violence, recruitment, supremacist, hateful",2,pittsburgh post-gazette
+42,"greece, greek, anarchist, athens, barak",4,pittsburgh post-gazette
+43,"lebanon, albright, ban, lebanese, beirut",1,pittsburgh post-gazette
+44,"nypd, mosque, police, surveillance, galati",3,pittsburgh post-gazette
+45,"algeria, algerian, france, islamic, french",6,pittsburgh post-gazette
+46,"korea, north, missile, nuclear, korean",4,pittsburgh post-gazette
+47,"afghan, karzai, afghanistan, taliban, kabul",5,pittsburgh post-gazette
+48,"clarke, stuxnet, report, error, powell",7,pittsburgh post-gazette
+49,"bill, senate, fisa, house, surveillance",7,pittsburgh post-gazette
+51,"hezbollah, lebanon, political, shiite, israel",2,pittsburgh post-gazette
+52,"posada, cuba, cuban, castro, venezuela",4,pittsburgh post-gazette
+53,"insurance, business, insurer, loss, tria",2,pittsburgh post-gazette
+54,"yemen, yemeni, qaida, al, saleh",6,pittsburgh post-gazette
+55,"gun, clinic, toomey, manchin, shooting",2,pittsburgh post-gazette
+57,"county, bulletin, rendell, contract, emergency",25,pittsburgh post-gazette
+58,"philippine, islamiyah, jemaah, sayyaf, duterte",4,pittsburgh post-gazette
+59,"qatada, ultra, britain, jordan, orthodox",1,pittsburgh post-gazette
+60,"bush, percent, giuliani, gallup, sen",4,pittsburgh post-gazette
+61,"berenson, fujimori, peru, peruvian, lima",3,pittsburgh post-gazette
+62,"qaida, afghanistan, al, laden, bin",5,pittsburgh post-gazette
+63,"alien, miranda, illegal, immigration, studeman",4,pittsburgh post-gazette
+65,"custody, military, civilian, nardotti, legislation",1,pittsburgh post-gazette
+66,"white, paso, side, shooting, el",4,pittsburgh post-gazette
+67,"somalia, hammami, shabab, kenya, somali",4,pittsburgh post-gazette
+68,"drug, partisan, opium, msnbc, narcotic",3,pittsburgh post-gazette
+69,"padilla, hassoun, jayyousi, jose, dirty",4,pittsburgh post-gazette
+70,"lessure, palestinian, israel, hazo, peace",2,pittsburgh post-gazette
+71,"iran, lautenberg, asset, flatow, damage",2,pittsburgh post-gazette
+72,"iran, report, international, group, state",6,pittsburgh post-gazette
+73,"mccabe, killeen, fbi, inch, mohammad",1,pittsburgh post-gazette
+76,"colombia, drug, venezuela, colombian, maduro",4,pittsburgh post-gazette
+77,"convertino, department, detroit, justice, prosecution",5,pittsburgh post-gazette
+78,"bush, iraq, perle, war, president",8,pittsburgh post-gazette
+79,"blitzer, zapor, bombing, oklahoma, atf",2,pittsburgh post-gazette
+80,"liu, finland, saturday, wounded, turku",1,pittsburgh post-gazette
+82,"israeli, lebanese, israel, lebanon, palestinian",2,pittsburgh post-gazette
+83,"nayef, prince, saudi, qatar, bahrain",1,pittsburgh post-gazette
+84,"kerry, clark, bush, democratic, sen",6,pittsburgh post-gazette
+85,"clinton, united, laden, bin, bombing",7,pittsburgh post-gazette
+86,"sri, lanka, avenger, tamil, wickremesinghe",2,pittsburgh post-gazette
+87,"rahman, abdel, sheik, nosair, indictment",3,pittsburgh post-gazette
+88,"abortion, clinic, doctor, parenthood, rico",5,pittsburgh post-gazette
+90,"tsouli, kohlmann, daour, computer, waseem",1,pittsburgh post-gazette
+91,"libya, craxi, monday, italian, korean",1,pittsburgh post-gazette
+92,"hamdan, qaida, mohammed, driver, bin",1,pittsburgh post-gazette
+93,"nato, european, eu, europe, iran",2,pittsburgh post-gazette
+94,"drone, strike, cia, qaida, al",4,pittsburgh post-gazette
+96,"bombing, seven, kansi, terrorist, state",2,pittsburgh post-gazette
+97,"annan, rice, reform, assembly, nation",4,pittsburgh post-gazette
+98,"tunisia, morocco, email, tunisian, consulate",2,pittsburgh post-gazette
+100,"ashcroft, kidd, alubeidy, justice, department",4,pittsburgh post-gazette
+102,"tsarnaev, boston, fbi, tamerlan, marathon",4,pittsburgh post-gazette
+104,"biological, allswede, hospital, emergency, chemical",5,pittsburgh post-gazette
+105,"athlete, olympics, olympic, game, usoc",5,pittsburgh post-gazette
+107,"teacher, child, school, travel, holocaust",4,pittsburgh post-gazette
+110,"japan, aum, koizumi, japanese, bill",2,pittsburgh post-gazette
+111,"zawahri, al, qaida, iran, masri",4,pittsburgh post-gazette
+113,"mali, africa, african, aid, continent",6,pittsburgh post-gazette
+117,"assad, clinton, peace, syria, israel",4,pittsburgh post-gazette
+118,"carlos, oussedik, french, sudan, bruguiere",2,pittsburgh post-gazette
+120,"cheney, biden, obama, mohammed, vice",1,pittsburgh post-gazette
+121,"force, defense, marine, air, military",4,pittsburgh post-gazette
+-1,"mr, said, terrorism, state, terrorist",1658,the new york times
+0,"french, france, paris, macron, attack",179,the new york times
+1,"london, british, britain, police, said",171,the new york times
+2,"pakistan, pakistani, afghanistan, islamabad, taliban",94,the new york times
+3,"arafat, palestinian, israel, israeli, peace",88,the new york times
+4,"libya, libyan, qaddafi, colonel, american",100,the new york times
+5,"terrorist, terrorism, suicide, laqueur, violence",87,the new york times
+6,"iran, hostage, iranian, reagan, american",88,the new york times
+7,"turkey, turkish, armenian, istanbul, coup",89,the new york times
+8,"nicaragua, salvador, salvadoran, chile, el",88,the new york times
+9,"basque, spain, spanish, madrid, eta",79,the new york times
+10,"india, indian, pakistan, kashmir, mumbai",74,the new york times
+11,"film, movie, play, novel, character",65,the new york times
+12,"ireland, irish, northern, british, ira",51,the new york times
+13,"bill, clinton, provision, legislation, oklahoma",40,the new york times
+14,"russia, russian, putin, moscow, kremlin",51,the new york times
+15,"israeli, palestinian, israel, jewish, bank",51,the new york times
+16,"italian, italy, brigade, red, rome",44,the new york times
+17,"germany, german, berlin, franco, far",50,the new york times
+18,"patriot, program, surveillance, act, nsa",41,the new york times
+19,"iraq, iraqi, baghdad, sunni, al",43,the new york times
+20,"bureau, fbi, mueller, investigation, intelligence",45,the new york times
+21,"muslim, fahad, islam, king, awlaki",35,the new york times
+22,"syrian, syria, assad, damascus, arab",46,the new york times
+23,"homeland, department, wolf, threat, alert",41,the new york times
+24,"south, africa, african, black, zimbabwe",46,the new york times
+25,"saudi, arabia, kingdom, riyadh, al",41,the new york times
+26,"indonesia, indonesian, jakarta, bashir, bali",40,the new york times
+27,"nuclear, weapon, plutonium, reactor, nest",32,the new york times
+28,"china, xinjiang, chinese, uighur, hong",44,the new york times
+29,"obama, president, war, speech, islamic",37,the new york times
+30,"pimentel, prosecutor, mr, case, medunjanin",40,the new york times
+31,"egypt, egyptian, sisi, cairo, sinai",35,the new york times
+32,"reagan, summit, soviet, economic, statement",41,the new york times
+33,"guantanamo, hamdan, tribunal, trial, military",37,the new york times
+34,"sudan, israel, sudanese, list, khartoum",35,the new york times
+35,"australia, zealand, australian, tarrant, sydney",34,the new york times
+36,"detainee, guantanamo, guant, namo, prisoner",35,the new york times
+37,"interrogation, torture, obama, technique, detainee",30,the new york times
+38,"shooting, mass, violence, vega, paddock",33,the new york times
+39,"judge, hage, lawyer, el, ali",33,the new york times
+40,"airport, flight, passenger, airline, plane",22,the new york times
+41,"white, domestic, supremacist, hate, charlottesville",32,the new york times
+42,"greece, greek, athens, papandreou, november",29,the new york times
+43,"marine, beirut, lebanon, commander, commission",32,the new york times
+44,"police, nypd, york, department, new",30,the new york times
+45,"algeria, algerian, nigeria, boko, haram",25,the new york times
+46,"korea, north, korean, kim, nuclear",27,the new york times
+47,"afghan, karzai, taliban, afghanistan, kabul",25,the new york times
+48,"clarke, intelligence, report, iraq, rumsfeld",23,the new york times
+49,"bill, senate, senator, house, fisa",22,the new york times
+50,"argentina, argentine, alfonsin, military, peronist",28,the new york times
+51,"israeli, hezbollah, israel, lebanon, terrorist",26,the new york times
+52,"cuba, cuban, list, havana, castro",23,the new york times
+53,"insurance, insurer, coverage, loss, industry",25,the new york times
+54,"yemen, yemeni, al, saleh, qaeda",21,the new york times
+55,"gun, domestic, law, list, shooting",25,the new york times
+56,"shultz, reagan, secretary, mr, speech",26,the new york times
+57,"frein, trooper, pennsylvania, abc, manhunt",1,the new york times
+58,"philippine, duterte, marcos, manila, filipino",21,the new york times
+59,"othman, britain, british, masri, choudary",24,the new york times
+60,"bush, percent, giuliani, poll, republican",20,the new york times
+61,"peru, fujimori, shining, peruvian, path",21,the new york times
+62,"afghanistan, sheehan, laden, bin, al",18,the new york times
+63,"miranda, law, suspect, fertig, right",18,the new york times
+64,"charity, marayati, ramadan, muslim, visa",22,the new york times
+65,"provision, military, bill, republican, authorization",21,the new york times
+66,"paso, trump, shooting, white, gun",18,the new york times
+67,"somalia, somali, shabab, kenya, mogadishu",18,the new york times
+68,"drug, trump, racist, conservative, gun",18,the new york times
+69,"padilla, hassoun, court, jose, dirty",17,the new york times
+70,"israel, palestinian, peace, editor, palestine",19,the new york times
+71,"iran, court, lawsuit, victim, judgment",18,the new york times
+72,"iran, report, group, iranian, terrorist",14,the new york times
+73,"city, york, new, blasio, bomb",19,the new york times
+74,"intelligence, order, agency, casey, clarridge",20,the new york times
+75,"trump, refugee, muslim, voter, percent",20,the new york times
+76,"colombia, maduro, drug, colombian, escobar",16,the new york times
+77,"convertino, detroit, case, prosecution, department",14,the new york times
+78,"iraq, bush, war, president, saddam",11,the new york times
+79,"bombing, oklahoma, glass, building, bomb",17,the new york times
+80,"sweden, akilov, stockholm, swedish, finland",18,the new york times
+81,"european, union, europe, data, swift",18,the new york times
+82,"israel, israeli, lebanon, palestinian, lebanese",15,the new york times
+83,"qatar, bahrain, sheikh, tillerson, emir",16,the new york times
+84,"kerry, bush, campaign, clark, john",11,the new york times
+85,"clinton, laden, bin, american, united",10,the new york times
+86,"sri, tamil, lanka, sinhalese, nandakumar",15,the new york times
+87,"rahman, abdel, sheik, nosair, indictment",14,the new york times
+88,"abortion, clinic, dear, webster, parenthood",12,the new york times
+89,"soviet, union, moscow, intelligence, webster",17,the new york times
+90,"zazi, badat, yousef, shabab, khan",16,the new york times
+91,"craxi, libya, italy, italian, libyan",15,the new york times
+92,"ruqai, bin, laden, ghaith, abu",14,the new york times
+93,"nato, alliance, trump, european, stoltenberg",13,the new york times
+94,"drone, strike, brennan, qaida, use",11,the new york times
+95,"travel, booking, tour, airline, trip",15,the new york times
+96,"rome, airport, american, vienna, plane",13,the new york times
+97,"nation, assembly, annan, betancur, cambodia",11,the new york times
+98,"tunisia, tunisian, tunis, morocco, niqab",12,the new york times
+99,"thatcher, treaty, reagan, news, british",14,the new york times
+100,"ashcroft, kidd, attorney, justice, department",10,the new york times
+101,"republican, democrat, ad, garbarino, race",14,the new york times
+102,"boston, tsarnaev, marathon, tamerlan, fbi",9,the new york times
+103,"brussels, belgium, belgian, abdeslam, forensic",13,the new york times
+104,"hospital, exercise, biological, chemical, emergency",8,the new york times
+105,"olympic, olympics, game, athlete, sherwood",8,the new york times
+106,"insurance, insurer, coverage, house, senate",13,the new york times
+107,"child, disaster, school, cummock, victim",9,the new york times
+108,"obama, brennan, house, white, bush",13,the new york times
+109,"bulgarian, agca, bulgaria, pope, antonov",12,the new york times
+110,"japan, japanese, abe, tokyo, statue",10,the new york times
+111,"al, masri, qaeda, iran, treasury",8,the new york times
+112,"facebook, content, video, youtube, google",12,the new york times
+113,"africa, mali, african, troop, senegal",6,the new york times
+114,"international, law, jurisdiction, court, state",11,the new york times
+115,"rusesabagina, rwanda, rwandan, kagame, kigali",11,the new york times
+116,"hassoun, kiareldeen, immigration, judge, hamide",11,the new york times
+117,"assad, peace, clinton, syria, christopher",7,the new york times
+118,"carlos, sudan, france, pasqua, gabeira",9,the new york times
+119,"lebanon, reagan, marine, syrian, neill",10,the new york times
+120,"cheney, obama, guantanamo, bush, vice",9,the new york times
+121,"marine, air, force, training, military",6,the new york times
